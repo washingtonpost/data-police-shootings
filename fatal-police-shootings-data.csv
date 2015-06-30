@@ -1,0 +1,462 @@
+id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness
+3,Tim Elliot,2015-01-02,shot,gun,53,M,A,Shelton,WA,True
+4,Lewis Lee Lembke,2015-01-02,shot,gun,47,M,W,Aloha,OR,False
+5,John Paul Quintero,2015-01-03,shot and Tasered,unarmed,23,M,H,Wichita,KS,False
+8,Matthew Hoffman,2015-01-04,shot,toy weapon,32,M,W,San Francisco,CA,True
+9,Michael Rodriguez,2015-01-04,shot,nail gun,39,M,H,Evans,CO,False
+11,Kenneth Joe Brown,2015-01-04,shot,gun,18,M,W,Guthrie,OK,False
+13,Kenneth Arnold Buck,2015-01-05,shot,gun,22,M,H,Chandler,AZ,False
+15,Brock Nichols,2015-01-06,shot,gun,35,M,W,Assaria,KS,False
+16,Autumn Steele,2015-01-06,shot,unarmed,34,F,W,Burlington,IA,False
+17,Leslie Sapp III,2015-01-06,shot,toy weapon,47,M,B,Knoxville,PA,False
+19,Patrick Wetter,2015-01-06,shot and Tasered,knife,25,M,W,Stockton,CA,False
+21,Ron Sneed,2015-01-07,shot,gun,31,M,B,Freeport,TX,False
+22,Hashim Hanif Ibn Abdul-Rasheed,2015-01-07,shot,knife,41,M,B,Columbus,OH,True
+25,Nicholas Ryan Brickman,2015-01-07,shot,gun,30,M,W,Des Moines,IA,False
+27,Omarr Julian Maximillian Jackson,2015-01-07,shot,gun,37,M,B,New Orleans,LA,False
+29,Loren Simpson,2015-01-08,shot,"car, vehicle",28,M,W,Huntley,MT,False
+32,James Dudley Barker,2015-01-08,shot,shovel,42,M,W,Salt Lake City,UT,False
+36,Artago Damon Howard,2015-01-08,shot,unarmed,36,M,B,Strong,AR,False
+37,Thomas Hamby,2015-01-08,shot,gun,49,M,W,Syracuse,UT,False
+38,Jimmy Foreman,2015-01-09,shot,gun,71,M,W,England,AR,False
+325,Andy Martinez,2015-01-09,shot,gun,33,M,H,El Paso,TX,False
+42,Tommy Smith,2015-01-11,shot,gun,39,M,W,Arcola,IL,False
+43,Brian  Barbosa,2015-01-11,shot,gun,23,M,H,South Gate,CA,False
+45,Salvador Figueroa,2015-01-11,shot and Tasered,gun,29,M,H,North Las Vegas,NV,False
+46,John Edward O'Keefe,2015-01-13,shot,gun,34,M,W,Albuquerque,NM,False
+48,Richard McClendon,2015-01-13,shot,knife,43,M,W,Jourdanton,TX,True
+49,Marcus Golden,2015-01-14,shot,"car, vehicle",24,M,B,St. Paul,MN,False
+50,Michael Goebel,2015-01-14,shot,"car, vehicle",29,M,W,Franklin County,MO,False
+51,Mario Jordan,2015-01-14,shot,gun,34,M,B,Chesapeake,VA,True
+52,Talbot Schroeder,2015-01-14,shot,knife,75,M,W,Old Bridge,NJ,False
+54,Robert Edwards,2015-01-14,shot,gun,68,M,W,Lake Jackson,TX,False
+55,Jeffrey R. Nielson,2015-01-14,shot,knife,34,M,W,Draper,UT,False
+56,Donte Sowell,2015-01-15,shot,gun,27,M,B,Indianapolis,IN,False
+57,Kavonda Earl Payton,2015-01-15,shot,gun,39,M,B,Aurora,CO,False
+60,Quincy Reed Reindl,2015-01-15,shot,gun,24,M,W,Bloomington,MN,True
+63,Jose Ceja,2015-01-15,shot,knife,36,M,H,Fairfield,CA,False
+64,Nathan Massey,2015-01-15,shot,gun,,M,W,Evangeline Parish,LA,False
+67,Scott Hall,2015-01-16,shot,gun,41,M,W,Mabank,TX,False
+68,Zaki Shinwary,2015-01-16,shot and Tasered,knife,48,M,O,Fremont,CA,False
+74,Terence Walker,2015-01-17,shot,gun,21,M,B,Muskogee,OK,False
+75,Pablo Meza,2015-01-17,shot,gun,24,M,H,Los Angeles,CA,False
+78,Daniel Brumley,2015-01-17,shot,knife,27,M,H,Fort Worth,TX,False
+80,Jonathan Guillory,2015-01-18,shot,gun,32,M,W,Maricopa,AZ,True
+83,Carter Castle,2015-01-18,shot and Tasered,gun,67,M,W,Gunlock,KY,True
+84,Paul Campbell,2015-01-19,shot,knife,49,M,W,Weymouth,MA,False
+85,Dewayne Carr,2015-01-20,shot,"car, vehicle",42,M,B,Scottsdale,AZ,False
+86,Todd Allen Hodge,2015-01-21,shot,gun,36,M,W,Hemet,CA,False
+88,Miguel Angel de Santos-Rodriguez,2015-01-21,shot,gun,36,M,H,Chapeno,TX,False
+90,Isaac Holmes,2015-01-21,shot,gun,19,M,B,St. Louis,MO,False
+98,Andrew Toto,2015-01-21,shot,gun,54,M,W,Derry,NH,True
+99,Tiano Meton,2015-01-22,shot,toy weapon,25,M,B,Sierra Blanca,TX,False
+100,Kristiana Coignard,2015-01-22,shot and Tasered,knife,17,F,W,Longview,TX,True
+336,Robert Francis Mesch,2015-01-23,shot,gun,61,M,W,Austin,TX,True
+101,Demaris Turner,2015-01-23,shot,"car, vehicle",29,M,B,Fort Lauderdale,FL,False
+102,Jose Antonio Espinoza Ruiz,2015-01-23,shot,knife,56,M,H,Levelland,TX,False
+341,Wendell King,2015-01-24,shot,gun,40,M,W,Fort Worth,TX,False
+105,Daryl Myler,2015-01-24,shot,gun,45,M,W,Rexburg,ID,False
+107,Darin Hutchins,2015-01-24,shot,knife,26,M,B,Baltimore,MD,True
+108,Orlando Jude Lopez,2015-01-25,shot,gun,26,M,H,Pueblo,CO,False
+110,William Campbell,2015-01-25,shot,gun,59,M,,Winslow,NJ,False
+20,Jessie Hernandez,2015-01-26,shot,"car, vehicle",17,F,H,Denver,CO,False
+324,Raymond Kmetz,2015-01-26,shot,gun,68,M,W,New Hope,MN,True
+352,Joshua Omar Garcia,2015-01-26,shot,unarmed,24,M,H,Tahoka,TX,False
+353,David Garcia,2015-01-26,shot,knife,34,M,H,Wasco,CA,True
+348,Nicolas Leland Tewa,2015-01-27,shot,"car, vehicle",26,M,N,Phoenix,AZ,False
+349,Chris Ingram,2015-01-27,shot,gun,29,M,W,Morenci,AZ,False
+350,Jermonte Fletcher,2015-01-27,shot,gun,33,M,B,Columbus,OH,False
+111,Tiffany Terry,2015-01-27,shot,knife,39,F,W,Omaha,NE,True
+345,Alan Lace Alverson,2015-01-28,shot,gun,45,M,W,Sunset,TX,False
+346,Matautu Nuu,2015-01-28,shot and Tasered,hammer,35,M,A,Stockton,CA,False
+347,Cody Karasek,2015-01-28,shot,gun,26,M,W,Rosenberg,TX,False
+342,Ralph Willis,2015-01-29,shot,unarmed,42,M,W,Stillwater,OK,False
+112,Alan James,2015-01-29,shot,gun,31,M,W,Wyoming,MI,True
+113,John Barry Marshall,2015-01-30,shot,gun,48,M,W,Billings,MT,False
+338,Victor Manuel Reyes,2015-01-31,shot,gun,31,M,H,Houston,TX,False
+339,Edward Donnell Bright,2015-01-31,shot and Tasered,knife,54,M,B,Randallstown,MD,True
+528,Jacob Haglund,2015-02-02,shot,gun,17,M,W,Bay City,MI,False
+114,David Kassick,2015-02-02,shot,unarmed,59,M,W,Hummelstown,PA,False
+115,Francis Murphy Rose III,2015-02-02,shot,gun,42,M,W,Apple Valley,CA,True
+117,Ledarius D. Williams,2015-02-03,shot,gun,23,M,B,St. Louis,MO,False
+118,Yuvette Henderson,2015-02-03,shot,gun,38,F,B,Emeryville,CA,False
+119,Dewayne Deshawn Ward,2015-02-03,shot,knife,29,M,B,Antioch,CA,True
+120,Anthony Purvis,2015-02-03,shot,gun,45,M,W,Douglas,GA,False
+123,Izzy Colon,2015-02-04,shot,gun,37,M,H,Orlando,FL,False
+124,Salvador Muna,2015-02-04,shot,gun,28,M,H,Tempe,AZ,False
+125,Joaquin Hernandez,2015-02-04,shot,unarmed,28,M,H,Tempe,AZ,False
+126,Jimmy Ray Robinson,2015-02-04,shot,gun,51,M,B,Bellmead,TX,False
+127,Markell Atkins,2015-02-04,shot,knife,36,M,B,Memphis,TN,False
+116,Jeremy Lett,2015-02-05,shot,unarmed,28,M,B,Tallahassee,FL,False
+128,Paul Alfred Eugene Johnson,2015-02-05,shot,gun,59,M,W,Chino,CA,False
+129,Herbert Hill,2015-02-06,shot,gun,25,M,B,Oklahoma City,OK,False
+532,John  Sawyer,2015-02-07,shot,toy weapon,26,M,W,Calimesa,CA,False
+554,James Allen,2015-02-07,shot,gun,74,M,B,Gastonia,NC,False
+131,John Martin Whittaker,2015-02-08,shot,gun,33,M,W,Anchorage,AK,False
+132,Sawyer Flache,2015-02-08,shot,gun,27,M,W,Austin,TX,False
+133,Vincent Cordaro,2015-02-08,shot,gun,57,M,W,New City,NY,False
+134,Joseph Paffen,2015-02-08,shot,gun,46,M,W,Orange County,FL,False
+135,Larry Hostetter,2015-02-08,shot,unarmed,41,M,W,Nocona,TX,False
+136,Kenneth Kreyssig,2015-02-09,shot,gun,61,M,W,Smyrna,ME,True
+137,Desmond Luster,2015-02-09,shot,gun,45,M,B,Dallas,TX,False
+138,Antonio Zambrano-Montes,2015-02-10,shot and Tasered,unarmed,35,M,H,Pasco,WA,True
+139,Anthony Bess,2015-02-10,shot,gun,49,M,B,Whitehaven,TN,False
+140,Brian Fritze,2015-02-10,shot,gun,45,M,W,New Castle,CO,False
+141,Phillip Watkins,2015-02-11,shot,knife,23,M,B,San Jose,CA,True
+142,Fletcher Ray Stewart,2015-02-11,shot,toy weapon,46,M,W,Dadeville,AL,True
+145,Jonathan Larry Harden,2015-02-13,shot,"car, vehicle",23,M,W,San Bernardino,CA,False
+146,Andres Lara-Rodriguez,2015-02-13,shot,gun,21,M,H,Kansas City,KS,False
+147,Richard Carlin,2015-02-13,shot,unarmed,35,M,H,Reading,PA,False
+148,Matthew D. Belk,2015-02-13,shot,gun,27,M,W,McLemoresville,TN,False
+154,Daniel Mejia,2015-02-13,shot,knife,37,M,H,San Manuel,AZ,True
+149,Jason C. Hendrix,2015-02-14,shot,gun,16,M,W,Essex,MD,True
+155,Roy Joy Day,2015-02-14,shot,gun,51,M,W,Laredo,TX,False
+150,Lavall Hall,2015-02-15,shot and Tasered,unarmed,25,M,B,Miami Gardens,FL,True
+151,Howard Brent Means Jr.,2015-02-15,shot,gun,34,M,W,Iuka,MS,False
+153,Bruce Steward,2015-02-15,shot,hatchet,34,M,W,Colton,OR,True
+156,Lawrence Caldwell,2015-02-16,shot,gun,56,M,,Marana,AZ,False
+157,Michael K. Casper,2015-02-16,shot,gun,26,M,W,Boise,ID,False
+158,Cody Evans,2015-02-16,shot,toy weapon,24,M,W,Provo,UT,True
+130,Betty Sexton,2015-02-17,shot,gun,43,F,W,Gaston County,NC,False
+159,Michael Ireland,2015-02-17,shot,unarmed,31,M,W,Springfield,MO,False
+160,Matthew Lundy,2015-02-17,shot,gun,32,M,W,Eaton Rapids Township,MI,False
+161,Douglas Sparks,2015-02-17,shot,toy weapon,30,M,W,Tewksbury,MA,False
+162,Pedro Juan Saldivar,2015-02-17,shot,"car, vehicle",50,M,H,Del Rio,TX,False
+163,Janisha Fonville,2015-02-18,shot,knife,20,F,B,Charlotte,NC,True
+584,Tk Tk,2015-02-20,shot,gun,,M,H,Houston,TX,False
+165,Ruben Villalpando,2015-02-20,shot,unarmed,31,M,H,Euless,TX,False
+166,Stanley Lamar Grant,2015-02-20,shot,gun,38,M,B,Homewood,AL,False
+255,Douglas Harris,2015-02-20,shot,gun,77,M,B,Birmingham,AL,True
+167,Jason Moncrief Carter,2015-02-21,shot,gun,41,M,W,Ruidoso,NM,False
+168,Kent Norman,2015-02-21,shot,knife,51,M,W,Indianapolis,IN,False
+170,Bradford Leonard,2015-02-22,shot,gun,50,M,W,Palm Bay,FL,False
+266,Jerome Nichols,2015-02-23,shot and Tasered,knife,42,M,W,Allentown,PA,False
+371,Daniel Elrod,2015-02-23,shot and Tasered,unarmed,39,M,W,Omaha,NE,False
+172,Robert Kohl,2015-02-23,shot,gun,47,M,W,Denham Springs,LA,True
+174,Michael Wayne Smashey,2015-02-23,shot,knife,37,M,W,Powder Springs,GA,False
+175,Anthony Giaquinta,2015-02-23,shot,gun,41,M,W,Clarkesville,GA,False
+176,A'Donte Washington,2015-02-23,shot,gun,16,M,B,Millbrook,AL,False
+177,Joseph Biegert,2015-02-24,shot and Tasered,knife,30,M,W,Green Bay,WI,True
+178,Glenn Lewis,2015-02-25,shot,"car, vehicle",27,M,B,Oklahoma City,OK,False
+179,Francis Spivey,2015-02-25,shot,gun,43,M,W,Las Vegas,NV,True
+180,Alexander Phillip Long,2015-02-26,shot and Tasered,"car, vehicle",31,M,W,Terre Haute,IN,False
+181,David Cuevas,2015-02-26,shot,gun,42,M,H,Lakeland,FL,False
+182,Amilcar Perez-Lopez,2015-02-26,shot,knife,21,M,H,San Francisco,CA,False
+183,Rodney Biggs,2015-02-26,shot,unarmed,49,M,W,Gulfport,MS,False
+184,Crystal Lee Miley Harry,2015-02-26,shot,gun,34,F,W,Sylvester,GA,False
+185,Ernesto Javiar Canepa Diaz,2015-02-27,shot,unarmed,27,M,H,Santa Ana,CA,False
+186,Chazsten Freeman,2015-02-28,shot,gun,24,M,W,Pelzer,SC,False
+187,Deven Guilford,2015-02-28,shot and Tasered,unarmed,17,M,W,Roxand Township,MI,False
+188,Thomas Allen,2015-02-28,shot,unarmed,34,M,B,St Louis,MO,False
+189,Jessica Uribe,2015-02-28,shot,knife,28,F,H,Tucson,AZ,False
+190,Cornelius J. Parker,2015-02-28,shot,gun,28,M,B,Columbia,MO,False
+191,Ian Sherrod,2015-02-28,shot,gun,40,M,B,Tarboro,NC,True
+192,Stephanie Hill,2015-02-28,shot,gun,37,F,W,La Paz County,AZ,False
+268,Donald Lewis Matkins,2015-03-01,shot,gun,49,M,W,Barton,MS,False
+194,Charly Leundeu Keunang,2015-03-01,shot and Tasered,unarmed,43,M,B,Los Angeles,CA,True
+195,Hung Trieu,2015-03-01,shot,gun,,M,A,Houston,TX,False
+196,Shaquille Barrow,2015-03-02,shot,gun,20,M,B,Joilet,IL,False
+197,Fednel Rhinvil,2015-03-03,shot,gun,25,M,B,Salisbury,MD,False
+198,Matthew Metz,2015-03-03,shot,knife,25,M,W,Tempe,AZ,False
+199,Derek Cruice,2015-03-04,shot,unarmed,26,M,W,Deltona,FL,False
+249,Carl Lao,2015-03-04,shot,gun,28,M,A,Stockton,CA,False
+200,Tyrone Ryerson Lawrence,2015-03-05,shot,knife,45,M,B,Milwaukee,WI,True
+201,Sergio Alexander Navas,2015-03-05,shot,unarmed,36,M,H,Burbank,CA,False
+202,Tyson Hubbard,2015-03-05,shot,gun,34,M,W,Lincoln,NE,False
+269,Naeschylus  Vinzant,2015-03-06,shot,unarmed,37,M,B,Aurora,CO,False
+270,Andrew Anthony Williams,2015-03-06,shot,"car, vehicle",48,M,B,Putnam Hall,FL,False
+203,Tony Robinson,2015-03-06,shot,unarmed,19,M,B,Madison,WI,False
+271,Adam Reinhart,2015-03-07,shot,gun,29,M,W,Phoenix,AZ,False
+272,Aurelio Duarte,2015-03-08,shot,gun,40,M,H,Oklahoma City,OK,False
+273,Michael McKillop,2015-03-08,shot,"car, vehicle",35,M,W,Claymont,DE,False
+204,Monique Jenee Deckard,2015-03-08,shot,knife,43,F,B,Anaheim,CA,True
+274,Lester Brown,2015-03-09,shot,gun,58,M,W,Brevard,NC,False
+275,James Brent Damon,2015-03-09,shot,gun,46,M,W,Dinosaur,CO,False
+276,Cedrick Lamont Bishop,2015-03-09,shot,gun,30,M,B,Cocoa,FL,False
+205,Anthony Hill,2015-03-09,shot,unarmed,27,M,B,Atlanta,GA,True
+278,Jamie Croom,2015-03-10,shot,gun,31,M,B,Baton Rouge,LA,False
+536,Christopher Mitchell,2015-03-10,shot,knife,23,M,,Port Wentworth,GA,False
+206,Theodore Johnson,2015-03-10,shot,gun,64,M,B,Cleveland,OH,False
+277,James Greenwell,2015-03-11,shot,gun,31,M,W,Memphis,TN,True
+279,Benito Osorio,2015-03-11,shot,gun,39,M,H,Santa Ana,CA,False
+281,Ryan Dean Burgess,2015-03-11,shot,toy weapon,31,M,W,Kingman,AZ,False
+307,Gilbert Fleury,2015-03-11,shot,gun,54,M,W,Bay Pinette,AL,False
+581,William Russell  Smith,2015-03-11,shot,gun,53,M,,Hoover,AL,True
+248,Terry Garnett Jr.,2015-03-11,shot,"car, vehicle",37,M,B,Elkton,MD,False
+282,Bobby Gross,2015-03-12,shot,unarmed,35,M,B,Washington,DC,True
+283,Fred  Liggett,2015-03-13,shot,gun,59,M,W,Kansas City,MO,False
+289,Andrew Driver,2015-03-13,shot,knife,36,M,W,Fontana,CA,False
+351,Antonio Perez,2015-03-13,shot,unarmed,32,M,H,Walnut Creek,CA,False
+207,James Richard Jimenez,2015-03-13,shot,gun,41,M,H,Napa,CA,False
+287,Richard Castilleja,2015-03-14,shot,gun,29,M,H,San Antonio,TX,True
+208,Clifton Reintzel,2015-03-14,shot,knife,53,M,W,Follansbee,WV,False
+209,Aaron Siler,2015-03-14,shot,gun,26,M,W,Kenosha,WI,False
+210,Troy Ray Boyd,2015-03-15,shot,machete,27,M,W,Ruth,MS,False
+212,Justin Tolkinen,2015-03-16,shot,gun,28,M,W,St. Paul,MN,True
+213,William Dean Poole,2015-03-16,shot,gun,52,M,W,Gastonia,NC,True
+290,Eugene Smith,2015-03-17,shot,gun,20,M,W,Onalaska,TX,True
+292,Roberto Leon,2015-03-17,shot,unarmed,22,M,H,Sacramento,CA,False
+216,Andrew Charles Shipley,2015-03-17,shot,gun,49,M,W,Medford,OR,True
+217,Declan Owen,2015-03-17,shot,gun,24,M,W,Dublin,NC,False
+221,Alice Brown,2015-03-17,shot,"car, vehicle",24,F,W,San Francisco,CA,False
+294,Jeff Alexander,2015-03-18,shot,knife,47,M,W,Bakersfield,CA,False
+225,Kaylene Stone,2015-03-18,shot,gun,49,F,W,Glendale,AZ,False
+226,Garland Lee Wingo,2015-03-18,shot,gun,64,M,W,Tallahassee,FL,False
+265,Kendre Alston,2015-03-19,shot,gun,16,M,B,Jacksonville,FL,False
+295,Jamison  Childress,2015-03-19,shot,unarmed,20,M,W,Sumas,WA,False
+306,Robert Burdge,2015-03-19,shot,gun,36,M,W,Bakersfield,CA,False
+228,Shane Watkins,2015-03-19,shot,box cutter,39,M,W,Lawrence County,AL,True
+229,Brandon Jones,2015-03-19,shot,unarmed,18,M,B,Cleveland,OH,False
+230,Brandon Rapp,2015-03-19,shot,gun,31,M,W,Middleton,ID,False
+531,Justin Fowler,2015-03-20,shot,gun,24,M,N,Flagstaff,AZ,False
+308,Richard White,2015-03-20,shot,machete,63,M,B,New Orleans,LA,True
+310,Tyrel Vick,2015-03-20,shot,gun,34,M,W,Coal County,OK,False
+309,James Ellis,2015-03-21,shot,gun,44,M,W,Clarendon,NY,False
+311,Gary Page,2015-03-21,shot,gun,60,M,W,Harmony,IN,True
+312,Jason Smith,2015-03-21,shot,gun,42,M,W,Columbus,OH,False
+235,Enoch Gaver,2015-03-21,shot,gun,21,M,W,Cottonwood,AZ,False
+231,Phillip Conley,2015-03-22,shot,knife,37,M,W,Vallejo,CA,True
+233,Christopher Ryan Healy,2015-03-22,shot and Tasered,knife,36,M,W,Portland,OR,False
+234,Denzel Brown,2015-03-22,shot and Tasered,unarmed,21,M,B,Islip,NY,False
+237,Devin Gates,2015-03-23,shot,gun,24,M,B,Santa Clara,CA,False
+313,Stephen Snyder,2015-03-24,shot,gun,,M,W,Fond du Lac,WI,False
+238,Walter J. Brown III,2015-03-24,shot,gun,29,M,B,Portsmouth,VA,True
+247,Scott Dunham,2015-03-24,shot,gun,57,M,W,San Jose,CA,True
+239,Nicholas Thomas,2015-03-25,shot,unarmed,23,M,B,Smyrna,GA,False
+240,Jeremy Lorenza Kelly,2015-03-25,shot,gun,27,M,B,Johnsonville,SC,False
+241,Victor Terrazas,2015-03-25,shot,gun,28,M,H,South Los Angeles,CA,False
+242,Joseph Tassinari,2015-03-25,shot and Tasered,gun,63,M,W,Glendale,AZ,True
+246,Deanne Choate,2015-03-26,shot,gun,53,F,W,Gardner,KS,False
+250,Adrian Solis,2015-03-26,shot,knife,35,M,H,Wilmington,CA,True
+256,Gary Kendrick,2015-03-27,shot,gun,56,M,W,Encinitas,CA,True
+257,Jamalis Hall,2015-03-27,shot,knife,39,M,B,Fort Pierce,FL,False
+258,Adrian Hernandez,2015-03-27,shot,gun,23,M,H,Bakersfield,CA,False
+316,Neil Seifert,2015-03-27,shot,gun,40,M,W,Webster,MA,False
+245,Megan Hockaday,2015-03-27,shot,knife,26,F,B,Oxnard,CA,False
+251,Harvey Oates,2015-03-27,shot,gun,42,M,W,Fort Ashby,WV,False
+254,Angelo West,2015-03-27,shot,gun,41,M,B,Boston,MA,False
+264,Robert Rooker,2015-03-29,shot,"car, vehicle",26,M,W,Jasper,OH,False
+252,Byron Herbert,2015-03-29,shot,gun,29,M,B,Elizabethtown,KY,False
+262,Brian Babb,2015-03-30,shot,gun,49,M,W,Eugene,OR,True
+244,John Marcell Allen,2015-03-30,shot,gun,54,M,,Boulder City,NV,False
+259,Jeremy Anderson,2015-03-31,shot,gun,36,M,W,Carollwood,FL,False
+261,Benjamin Quezada,2015-03-31,shot,toy weapon,21,M,H,Baytown,TX,False
+263,Mya Hall,2015-03-31,shot,"car, vehicle",27,F,B,Fort Meade,MD,False
+267,Robert Washington,2015-04-01,shot,gun,37,M,B,Hawthorne,CA,False
+533,Shawn Clyde,2015-04-01,shot,knife,36,M,,Hamilton,NJ,False
+286,Darrin Langford,2015-04-02,shot,gun,32,M,B,Rock Island,IL,False
+288,Donald Hicks,2015-04-02,shot and Tasered,gun,63,M,,Metropolis,IL,True
+291,Eric Harris,2015-04-02,shot,unarmed,44,M,B,Tulsa,OK,False
+303,Aaron Rutledge,2015-04-02,shot,gun,27,M,W,Pineville,LA,True
+299,Christopher Prevatt,2015-04-03,shot,knife,38,M,W,Winchester,VA,False
+296,Justus Howell,2015-04-04,shot,gun,17,M,B,Zion,IL,False
+297,Walter Scott,2015-04-04,shot and Tasered,unarmed,50,M,B,North Charleston,SC,False
+300,Paul Anderson,2015-04-04,shot,gun,31,M,B,Orange,CA,False
+302,Ethan Noll,2015-04-04,shot,gun,34,M,W,Edgewood,NM,True
+301,Ken Cockerel,2015-04-05,shot,knife,51,M,W,Phoenix,AZ,True
+304,Richard Hanna,2015-04-05,shot,gun,56,M,W,Tehachapi,CA,False
+298,Alexander Myers,2015-04-06,shot,gun,23,M,W,Indianapolis,IN,True
+318,Desmond Willis,2015-04-06,shot,gun,25,M,B,Harvey,LA,False
+322,Tyrell J. Larsen,2015-04-06,shot,gun,31,M,W,Bonneville,ID,False
+319,Erick Rose,2015-04-07,shot,gun,32,M,W,Pottawatomie County,OK,False
+329,Douglas Faith,2015-04-08,shot,gun,60,M,W,San Antonio,TX,False
+330,Dexter Pernell Bethea,2015-04-08,shot,"car, vehicle",42,M,B,Valdosta,GA,False
+331,Alberto Rodriguez,2015-04-08,shot,gun,39,M,H,Los Angeles,CA,False
+359,Joseph Jeremy Weber,2015-04-08,shot,knife,28,M,A,Sunnyvale,CA,True
+534,Mark Smith,2015-04-09,shot and Tasered,"car, vehicle",54,M,,Kellyville,OK,False
+332,Gordon Kimbrell,2015-04-09,shot,sword,22,M,W,Navarre,FL,False
+333,Don Smith,2015-04-09,shot,gun,29,M,B,Monon,IN,False
+340,Jess Leipold,2015-04-09,shot,gun,31,M,W,Straban Township,PA,True
+343,Phillip Burgess,2015-04-09,shot,gun,28,M,W,Boiling Springs,SC,False
+335,Angel Cresencio Corona,2015-04-10,shot,knife,21,M,H,Corning,CA,False
+377,Richard Reed,2015-04-10,shot,gun,38,M,W,Topeka,KS,False
+358,Donald Allen,2015-04-11,shot,gun,66,M,W,Sand Springs,OK,True
+355,Mack Long,2015-04-12,shot,gun,36,M,B,Indianapolis,IN,False
+357,Richard Dale Weaver,2015-04-12,shot,machete,83,M,W,Oklahoma City,OK,True
+362,Jason Lee Evans,2015-04-12,shot,gun,32,M,W,Salemburg,NC,True
+356,Isaac Jimenez,2015-04-13,shot,gun,27,M,H,Alton,IL,False
+363,Colby Robinson,2015-04-14,shot,undetermined,26,M,B,DeSoto,TX,False
+364,Christopher Grant Finley,2015-04-14,shot,machete,31,M,W,Jonesboro,AR,True
+365,Tevin Barkley,2015-04-15,shot,gun,22,M,B,Miami,FL,False
+366,Dante Noble,2015-04-15,shot,knife,41,M,B,Spartanburg,SC,False
+367,Frank Shephard,2015-04-15,shot,unarmed,41,M,B,Houston,TX,False
+368,Mark W. Adair,2015-04-15,shot,gun,51,M,W,Columbia,MO,False
+369,Stanley Watson,2015-04-15,shot,gun,72,M,W,Cañon City,CO,True
+374,Ernesto Flores,2015-04-15,shot,toy weapon,52,M,H,Montclair,CA,True
+373,Rodolfo Velazquez,2015-04-16,shot,knife,47,M,H,Shafter,CA,False
+380,Jeffrey Kemp,2015-04-17,shot,gun,18,M,B,Chicago,IL,False
+381,Elias Cavazos,2015-04-17,shot,gun,29,M,H,Hemet,CA,False
+382,Thaddeus McCarroll,2015-04-17,shot,knife,23,M,B,Jennings,MO,True
+376,Erik Tellez,2015-04-18,shot,gun,43,M,H,Phoenix,AZ,True
+379,Grover Sapp,2015-04-18,shot,gun,45,M,W,Panama City,FL,False
+378,Michael Foster,2015-04-19,shot,gun,40,M,,Wilmore,KY,False
+383,Dana Hlavinka,2015-04-19,shot,knife,44,M,W,Sidney,NE,False
+399,Santos Cortez Hernandez,2015-04-20,shot,gun,24,M,H,Mission,TX,False
+537,Daniel Wolfe,2015-04-21,shot,"car, vehicle",35,M,B,Trenton,NJ,False
+393,Daniel Covarrubias,2015-04-21,shot,unarmed,37,M,N,Lakewood,WA,True
+398,Kimber Key,2015-04-21,shot,knife,59,M,W,Irmo,SC,True
+495,Luis Martinez,2015-04-21,shot,knife,35,M,H,Los Angeles,CA,True
+391,William Chapman,2015-04-22,shot,unarmed,18,M,B,Portsmouth,VA,False
+394,Carlos Saavedra Ramirez,2015-04-22,shot,knife,51,M,H,Bisbee,AZ,False
+395,Jonathan Efraim,2015-04-22,shot,gun,30,M,W,Queens,NY,True
+396,Reginald McGregor,2015-04-22,shot,gun,31,M,B,Fort Worth,TX,False
+397,Lue Vang,2015-04-22,shot,gun,39,M,A,Eldorado Springs,CO,False
+392,Andrew Valadez,2015-04-23,shot,gun,26,M,W,Sylmar,CA,True
+400,Joseph Potts,2015-04-23,shot,gun,51,M,W,Rufe,OK,False
+409,Hector Morejon,2015-04-23,shot,unarmed,19,M,H,Long Beach,CA,False
+401,Karen Janks,2015-04-24,shot,"car, vehicle",46,F,W,Windsor,CA,False
+402,Mark Cecil Hawkins,2015-04-24,shot,gun,49,M,W,Eugene,OR,False
+403,Gary Timmie  Collins,2015-04-24,shot,gun,63,M,W,Miami,OK,False
+412,Todd Jamal Dye,2015-04-24,shot,gun,20,M,B,Trinidad,CO,False
+408,Brandon Lawrence,2015-04-25,shot,machete,25,M,W,Victoria,TX,True
+411,David Felix,2015-04-25,shot,unarmed,24,M,B,New York,NY,True
+414,Daniel Davis,2015-04-25,shot,knife,58,M,W,Clermont,FL,True
+404,Billy Joe Patrick,2015-04-26,shot,unarmed,29,M,W,Bunch,OK,False
+406,Albert Hanson,2015-04-26,shot,gun,76,M,W,Kings County,CA,False
+407,Dean Genova,2015-04-26,shot,gun,45,M,W,Fountain Valley,CA,False
+405,Terrance  Kellom,2015-04-27,shot,undetermined,20,M,B,Detroit,MI,False
+413,David Parker,2015-04-28,shot,gun,58,M,W,Mansfield,OH,False
+417,Jared Johnson,2015-04-28,shot,gun,21,M,B,New Orleans,LA,False
+420,Joshua Green,2015-04-28,shot,gun,27,M,W,Marion,IL,True
+415,Andrew Jackson,2015-04-29,shot,knife,26,M,W,Chickasha,OK,False
+416,Joshua Deysie,2015-04-29,shot,gun,33,M,H,Mesa,AZ,True
+419,tk tk,2015-04-29,shot,gun,27,M,H,Elk Grove,CA,False
+421,Alexia Christian,2015-04-29,shot,gun,25,F,B,Atlanta,GA,False
+422,Jeffrey Adkins,2015-04-29,shot,gun,53,M,B,Emporia,VA,True
+423,John Acree,2015-04-29,shot,gun,53,M,W,Nashville,TN,True
+418,Fridoon Zalbeg Rawshannehad,2015-04-30,shot,unarmed,42,M,O,San Diego,CA,True
+424,Erick Emmanuel Sanchez,2015-04-30,shot and Tasered,metal object,22,M,H,El Paso,TX,False
+425,Kenneth Mathena,2015-05-01,shot,gun,52,M,W,Smyrna,DE,False
+426,Kevin Vance Norton,2015-05-03,shot,gun,36,M,W,Roosevelt,UT,False
+427,Elton Simpson,2015-05-03,shot,gun,30,M,B,Garland,TX,False
+428,Nadir Soofi,2015-05-03,shot,gun,34,M,O,Garland,TX,False
+445,Billy Grimm,2015-05-03,shot,gun,44,M,H,Albuquerque,NM,False
+447,Michael Asher,2015-05-03,shot,gun,53,M,W,Chavies,KY,False
+431,Roark Cook,2015-05-04,shot,gun,36,M,W,Kennewick,WA,True
+429,Brendon Glenn,2015-05-05,shot,unarmed,29,M,B,Venice,CA,False
+430,Thong Kien Ma,2015-05-05,shot,knife,32,M,A,South El Monte,CA,False
+434,Robert A. Frost,2015-05-05,shot,gun,46,M,W,Pulaski,VA,True
+432,David William Johnson,2015-05-06,shot,gun,18,M,W,Wake Forest,NC,False
+433,Joseph Roy,2015-05-07,shot,knife,72,M,,Lawrenceville,GA,True
+435,Michael Murphy,2015-05-07,shot,knife,38,M,W,Beacon,NY,False
+436,Nephi Arriguin,2015-05-07,shot,"car, vehicle",21,M,B,Cerritos,CA,False
+439,Shaun Johnson,2015-05-08,shot,sword,35,M,W,Kearny,AZ,False
+443,David Schwalm,2015-05-08,shot,gun,58,M,W,Constantia,NY,True
+451,Dedrick Marshall,2015-05-08,shot,gun,48,M,B,Harvey,LA,False
+454,Sam Holmes,2015-05-08,shot,"car, vehicle",31,M,B,Fridley,MN,False
+453,Stephen  Cunningham,2015-05-10,shot,gun,47,M,W,Tacoma,WA,False
+455,Lionel Lorenzo Young,2015-05-10,shot,"car, vehicle",34,M,B,Landover,MD,False
+437,Kelvin Goldston,2015-05-11,shot,"car, vehicle",30,M,B,Fort Worth,TX,False
+444,Justin Way,2015-05-11,shot,machete,28,M,W,St. Augustine,FL,True
+441,D'Angelo Stallworth,2015-05-12,shot,gun,28,M,B,Jacksonville,FL,False
+449,Bruce Zalonka,2015-05-12,shot and Tasered,gun,46,M,O,Honolulu,HI,False
+450,Alec Ouzounian,2015-05-12,shot,undetermined,40,M,W,Rancho Santa Margarita,CA,True
+448,Cesar Enriquez,2015-05-13,shot,gun,27,M,H,Mesa,AZ,False
+456,Sean Michael Pelletier,2015-05-14,shot,gun,37,M,W,Portage,MI,True
+470,Cary Martin,2015-05-14,shot,gun,53,M,W,St. Augustine,FL,True
+460,Mark Farrer,2015-05-15,shot,gun,43,M,W,Rockford,IL,False
+462,Matt Coates,2015-05-15,shot,toy weapon,42,M,W,Sacramento,CA,True
+463,Ronnell Wade,2015-05-16,shot,gun,45,M,B,Harvey,IL,False
+458,Dennis  Fiel,2015-05-17,shot,gun,34,M,W,San Diego,CA,False
+459,Austin Goodner,2015-05-17,shot,gun,18,M,W,St. Petersburg,FL,True
+461,Timothy Jones,2015-05-17,shot,sword,27,M,W,Ruidoso,NM,False
+457,Alfredo  Rials-Torres,2015-05-19,shot,unarmed,54,M,H,Arlington,VA,False
+464,Jonathan Macintosh,2015-05-19,shot,gun,35,M,W,Cabot,AR,False
+465,David  Gaines,2015-05-19,shot,gun,17,M,W,Grand Junction,CO,False
+466,Anthony Gomez,2015-05-20,shot,gun,29,M,B,Lancaster,PA,False
+467,Jonathan  Colley,2015-05-20,shot and Tasered,knife,52,M,W,Green,OH,False
+468,Chrislon Talbott,2015-05-20,shot,gun,38,M,B,Owensboro,KY,False
+486,Nikki Jo Burtsfield,2015-05-20,shot and Tasered,knife,39,F,W,Gillette,WY,False
+489,Marcus Wheeler,2015-05-20,shot,gun,26,M,B,Omaha,NE,False
+469,David Alejandro Gandara,2015-05-21,shot,gun,22,M,H,El Paso,TX,True
+483,Javoris Washington,2015-05-21,shot,unknown weapon,29,M,B,Ft. Lauderdale,FL,False
+484,James Anthony Cooper,2015-05-21,shot,knife,43,M,W,North Charleston,SC,False
+485,Elvin Diaz,2015-05-21,shot,knife,24,M,H,Hackensack,NJ,True
+487,Jerome Caldwell,2015-05-21,shot,gun,32,M,B,Charleston,SC,False
+472,Michael  Lowery,2015-05-22,shot,toy weapon,40,M,W,Somerset,PA,False
+529,Caso Jackson,2015-05-23,shot,gun,25,M,B,Detroit,MI,False
+473,James Horn,2015-05-23,shot,gun,47,M,W,Sedalia,MO,False
+474,Eric Robinson,2015-05-23,shot,gun,40,M,,Eagar,AZ,False
+475,Cassandra Bolin,2015-05-25,shot,gun,31,F,W,Austin,TX,True
+476,Anthony Briggs,2015-05-25,shot,knife,36,M,B,Huntsville,AL,True
+530,Millard Tallant III,2015-05-26,shot,gun,62,M,,Snohomish,WA,True
+477,Dalton Branch,2015-05-26,shot,gun,51,M,B,Queens,NY,False
+479,Jessie  Williams,2015-05-26,shot,undetermined,24,M,W,Bossier City,LA,False
+480,Scott McAllister,2015-05-27,shot,knife,39,M,W,Ideal Beach,NJ,False
+481,Garrett  Sandeno,2015-05-27,shot,toy weapon,24,M,W,Edmond,OK,True
+482,Harry Davis,2015-05-27,shot,knife,57,M,W,Rockville,GA,True
+491,Feras Morad,2015-05-27,shot and Tasered,unarmed,20,M,O,Long Beach,CA,False
+492,Simon Hubble,2015-05-27,shot and Tasered,screwdriver,33,M,W,Alpine,CA,True
+488,Darrell Morgan,2015-05-28,shot,gun,60,M,W,Lancaster,SC,False
+490,James Strong,2015-05-28,shot,gun,32,M,B,Northglenn,CO,False
+493,Kenneth Dothard,2015-05-28,shot,gun,40,M,B,Carrollton,GA,False
+494,Kyle Baker,2015-05-28,shot and Tasered,lawn mower blade,18,M,W,Trenton,MI,False
+497,Kevin Allen,2015-05-29,shot,knife,36,M,B,Lyndhurst,NJ,False
+498,Nehemiah Fischer,2015-05-29,shot,gun,35,M,W,Okmulgee County,OK,False
+499,Robert Box,2015-05-29,shot,gun,55,M,W,Wilderville,OR,False
+500,Ebin Lamont Proctor,2015-05-30,shot,unarmed,19,M,W,Cottonwood,AZ,False
+501,Alexander Tirado Rivera,2015-05-30,shot,toy weapon,39,M,H,Nashville,TN,False
+503,James Anthony Morris,2015-05-31,shot,gun,40,M,,Medford,OR,True
+504,James Bushey,2015-05-31,shot,toy weapon,47,M,W,Palestine,TX,False
+505,Joseph Ladd,2015-06-01,shot,gun,23,M,W,Greece,NY,True
+507,Usaamah Rahim,2015-06-02,shot,knife,26,M,B,Roslindale,MA,False
+508,Kamal Dajani,2015-06-02,shot,knife,26,M,W,Azle,TX,True
+512,Lorenzo Garza,2015-06-03,shot,gun,46,M,H,Delano,CA,False
+513,Rudy Baca,2015-06-03,shot and Tasered,unarmed,36,M,H,Los Lunas,NM,False
+509,Miguel Martinez,2015-06-03,shot,gun,18,M,H,Ellis County,TX,True
+510,Edelmiro  Hernandez,2015-06-03,shot,knife,,M,H,Fuqua,TX,False
+511,Ronald Neal,2015-06-03,shot,gun,56,M,W,Byram,NJ,True
+520,Jesus Quezada Gomez,2015-06-05,shot,gun,50,M,H,Santa Maria,CA,False
+521,Christie Cathers,2015-06-05,shot,"car, vehicle",45,F,W,Morgantown,WV,False
+515,Demouria Hogg,2015-06-06,shot and Tasered,gun,30,M,B,Oakland,CA,False
+516,James Smillie,2015-06-06,shot,gun,53,M,W,North Port,FL,False
+518,Alejandro Campos Fernandez,2015-06-06,shot,gun,45,M,H,Watsonsville,CA,False
+519,Joe Nevels,2015-06-06,shot,box cutter,42,M,W,Midland,TX,True
+522,Damien Ramirez,2015-06-06,shot,gun,27,M,H,Strasburg,CO,False
+514,Matthew Wayne McDaniel,2015-06-07,shot,gun,36,M,W,Melbourne,FL,False
+517,Gene Marshall,2015-06-07,shot,gun,58,M,W,Woodland,WA,True
+523,James Johnson,2015-06-08,shot,gun,54,M,,Beech Grove,IN,True
+524,Rene Garcia,2015-06-08,shot,knife,30,M,H,Anaheim,CA,True
+526,Richard Warolf,2015-06-08,shot,gun,69,M,,Sun City,AZ,True
+525,Jeremy Linhart,2015-06-09,shot,undetermined,30,M,W,Findlay,OH,False
+535,TK TK,2015-06-09,shot,gun,45,M,,Tomball,TX,False
+538,QuanDavier Hicks,2015-06-09,shot,gun,22,M,B,Cincinnati,OH,False
+539,Ryan Bolinger,2015-06-09,shot,unarmed,28,M,W,Des Moines,IA,False
+540,Isiah Hampton,2015-06-10,shot,gun,19,M,B,Bronx,NY,False
+541,Charles Ziegler,2015-06-11,shot,gun,40,M,B,Pompano Beach,FL,False
+542,Raymond  Phillips,2015-06-11,shot,gun,86,M,,Columbia,TN,True
+543,Fritz Severe,2015-06-11,shot,undetermined,46,M,B,Miami,FL,False
+544,Mark Flores,2015-06-11,shot,gun,28,M,H,Bexar County,TX,True
+545,Raymond Peralta-Lantigua,2015-06-11,shot,knife,22,M,H,Hackensack,NJ,True
+553,Shelly Haendiges,2015-06-12,shot,toy weapon,17,F,W,Kokomo,IN,False
+546,Anthony Hodge,2015-06-13,shot,gun,46,M,W,Fort Wayne,IN,False
+548,Deng Manyoun,2015-06-13,shot,flagpole,35,M,B,Louisville,KY,False
+549,James Boulware,2015-06-13,shot,guns and explosives,35,M,W,Hutchins,TX,True
+547,Kenneth Garcia,2015-06-14,shot,"car, vehicle",28,M,H,Stockton,CA,False
+551,Zane Terryn,2015-06-14,shot,gun,15,M,W,Cocoa,FL,True
+550,Kris Jackson,2015-06-15,shot,unarmed,22,M,,South Lake Tahoe,CA,False
+559,Christopher DeLeon,2015-06-16,shot,gun,28,M,H,Visalia,CA,False
+563,Joe Charboneau,2015-06-16,shot,undetermined,31,M,N,Spirit Lake Indian Reservation,ND,False
+557,Wendy Chappell,2015-06-17,shot,gun,40,F,W,Clanton,AL,False
+561,Kenneth Lanphier,2015-06-17,shot,gun,48,M,W,Hobbs,NM,True
+564,Oleg Tcherniak,2015-06-18,shot,knife,58,M,W,Coney Island,NY,False
+558,Santos Laboy,2015-06-19,shot,knife,44,M,H,Boston,MA,True
+560,Trepierre Hummons,2015-06-19,shot,gun,21,M,B,Cincinnati,OH,True
+565,Louis Atencio,2015-06-19,shot,gun,50,M,H,Greeley,CO,False
+582,Alfontish Cockerham,2015-06-20,shot,gun,23,M,B,Chicago,IL,False
+555,Adrian Simental,2015-06-21,shot,unarmed,24,M,H,Azusa,CA,True
+556,TK TK,2015-06-21,shot,cordless drill,49,M,W,Houston,TX,True
+566,James Monroe Barrett,2015-06-22,shot,gun,60,M,W,Ronda,NC,False
+570,Eduardo Reyes,2015-06-22,shot,gun,35,M,H,Citrus Heights,CA,False
+573,Tyler Wicks,2015-06-22,shot,gun,29,M,W,Augusta,GA,False
+576,Tyrone Harris,2015-06-22,shot,gun,20,M,B,Pittsburgh,PA,False
+572,Joshua Dyer,2015-06-23,shot,unarmed,34,M,W,Indianapolis,IN,False
+574,Jonathan Wilson,2015-06-23,shot,knife,22,M,,Hutchinson,KS,False
+575,Randall Waddel,2015-06-23,shot,knife,49,M,W,Weatherford,TX,False
+569,Damien A. Harrell,2015-06-24,shot,gun,26,M,B,Portsmouth,VA,False
+567,Spencer McCain,2015-06-25,shot,unarmed,41,M,B,Owings Mills,MD,True
+568,Gilbert Jake Vanderburgh,2015-06-25,shot,gun,61,M,W,Fresno,CA,False
+579,Richard Matt,2015-06-26,shot,gun,49,M,W,Malone,NY,False
+583,Joe Angel Cisneros,2015-06-26,shot,gun,28,M,H,San Antonio,TX,False
+580,Joshua Crittenden,2015-06-27,shot,gun,35,M,W,Tahlequah,OK,False
+577,TK TK,2015-06-28,shot,gun,,M,,Portland,OR,False
