@@ -181,7 +181,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 279,Benito Osorio,2015-03-11,shot,gun,39,M,H,Santa Ana,CA,False
 281,Ryan Dean Burgess,2015-03-11,shot,toy weapon,31,M,W,Kingman,AZ,False
 307,Gilbert Fleury,2015-03-11,shot,gun,54,M,W,Bay Pinette,AL,False
-581,William Russell  Smith,2015-03-11,shot,gun,53,M,,Hoover,AL,True
+581,William Russell  Smith,2015-03-11,shot,gun,53,M,W,Hoover,AL,True
 248,Terry Garnett Jr.,2015-03-11,shot,"car, vehicle",37,M,B,Elkton,MD,False
 282,Bobby Gross,2015-03-12,shot,unarmed,35,M,B,Washington,DC,True
 283,Fred  Liggett,2015-03-13,shot,gun,59,M,W,Kansas City,MO,False
@@ -291,7 +291,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 379,Grover Sapp,2015-04-18,shot,gun,45,M,W,Panama City,FL,False
 378,Michael Foster,2015-04-19,shot,gun,40,M,,Wilmore,KY,False
 383,Dana Hlavinka,2015-04-19,shot,knife,44,M,W,Sidney,NE,False
-399,Santos Cortez Hernandez,2015-04-20,shot,gun,24,M,H,Mission,TX,False
+399,Santos Cortez Hernandez,2015-04-20,shot,gun,25,M,H,Mission,TX,False
 537,Daniel Wolfe,2015-04-21,shot,"car, vehicle",35,M,B,Trenton,NJ,False
 393,Daniel Covarrubias,2015-04-21,shot,unarmed,37,M,N,Lakewood,WA,True
 398,Kimber Key,2015-04-21,shot,knife,59,M,W,Irmo,SC,True
@@ -453,10 +453,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 572,Joshua Dyer,2015-06-23,shot,unarmed,34,M,W,Indianapolis,IN,False
 574,Jonathan Wilson,2015-06-23,shot,knife,22,M,,Hutchinson,KS,False
 575,Randall Waddel,2015-06-23,shot,knife,49,M,W,Weatherford,TX,False
-569,Damien A. Harrell,2015-06-24,shot,gun,26,M,B,Portsmouth,VA,False
+569,Damien A. Harrell,2015-06-24,shot,gun,26,M,B,York County,VA,False
 567,Spencer McCain,2015-06-25,shot,unarmed,41,M,B,Owings Mills,MD,True
 568,Gilbert Jake Vanderburgh,2015-06-25,shot,gun,61,M,W,Fresno,CA,False
 579,Richard Matt,2015-06-26,shot,gun,49,M,W,Malone,NY,False
 583,Joe Angel Cisneros,2015-06-26,shot,gun,28,M,H,San Antonio,TX,False
 580,Joshua Crittenden,2015-06-27,shot,gun,35,M,W,Tahlequah,OK,False
-577,TK TK,2015-06-28,shot,gun,,M,,Portland,OR,False
+577,Alan  Bellew,2015-06-28,shot,toy weapon,29,M,W,Portland,OR,False
+585,Richard LaPort,2015-06-29,shot,gun,51,M,,Edinburg,NY,True
