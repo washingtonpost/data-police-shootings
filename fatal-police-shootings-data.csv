@@ -123,7 +123,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 161,Douglas Sparks,2015-02-17,shot,toy weapon,30,M,W,Tewksbury,MA,False
 162,Pedro Juan Saldivar,2015-02-17,shot,"car, vehicle",50,M,H,Del Rio,TX,False
 163,Janisha Fonville,2015-02-18,shot,knife,20,F,B,Charlotte,NC,True
-584,Tk Tk,2015-02-20,shot,gun,,M,H,Houston,TX,False
+584,Alejandro Salazar,2015-02-20,shot,gun,,M,H,Houston,TX,False
 165,Ruben Villalpando,2015-02-20,shot,unarmed,31,M,H,Euless,TX,False
 166,Stanley Lamar Grant,2015-02-20,shot,gun,38,M,B,Homewood,AL,False
 255,Douglas Harris,2015-02-20,shot,gun,77,M,B,Birmingham,AL,True
@@ -320,7 +320,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 420,Joshua Green,2015-04-28,shot,gun,27,M,W,Marion,IL,True
 415,Andrew Jackson,2015-04-29,shot,knife,26,M,W,Chickasha,OK,False
 416,Joshua Deysie,2015-04-29,shot,gun,33,M,H,Mesa,AZ,True
-419,tk tk,2015-04-29,shot,gun,27,M,H,Elk Grove,CA,False
+419, Luis  Chavez-Diaz,2015-04-29,shot,gun,27,M,H,Elk Grove,CA,False
 421,Alexia Christian,2015-04-29,shot,gun,25,F,B,Atlanta,GA,False
 422,Jeffrey Adkins,2015-04-29,shot,gun,53,M,B,Emporia,VA,True
 423,John Acree,2015-04-29,shot,gun,53,M,W,Nashville,TN,True
@@ -354,7 +354,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 448,Cesar Enriquez,2015-05-13,shot,gun,27,M,H,Mesa,AZ,False
 456,Sean Michael Pelletier,2015-05-14,shot,gun,37,M,W,Portage,MI,True
 470,Cary Martin,2015-05-14,shot,gun,53,M,W,St. Augustine,FL,True
-460,Mark Farrer,2015-05-15,shot,gun,43,M,W,Rockford,IL,False
+460,Mark Farrar,2015-05-15,shot,gun,41,M,W,Rockford,IL,True
 462,Matt Coates,2015-05-15,shot,toy weapon,42,M,W,Sacramento,CA,True
 463,Ronnell Wade,2015-05-16,shot,gun,45,M,B,Harvey,IL,False
 458,Dennis  Fiel,2015-05-17,shot,gun,34,M,W,San Diego,CA,False
@@ -445,7 +445,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 565,Louis Atencio,2015-06-19,shot,gun,50,M,H,Greeley,CO,False
 582,Alfontish Cockerham,2015-06-20,shot,gun,23,M,B,Chicago,IL,False
 555,Adrian Simental,2015-06-21,shot,unarmed,24,M,H,Azusa,CA,True
-556,TK TK,2015-06-21,shot,cordless drill,49,M,W,Houston,TX,True
+556,Charles  Marshall,2015-06-21,shot,cordless drill,49,M,W,Houston,TX,True
 566,James Monroe Barrett,2015-06-22,shot,gun,60,M,W,Ronda,NC,False
 570,Eduardo Reyes,2015-06-22,shot,gun,35,M,H,Citrus Heights,CA,False
 573,Tyler Wicks,2015-06-22,shot,gun,29,M,W,Augusta,GA,False
@@ -461,3 +461,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 580,Joshua Crittenden,2015-06-27,shot,gun,35,M,W,Tahlequah,OK,False
 577,Alan  Bellew,2015-06-28,shot,toy weapon,29,M,W,Portland,OR,False
 585,Richard LaPort,2015-06-29,shot,gun,51,M,,Edinburg,NY,True
+586,Clay Alan  Lickteig,2015-06-30,shot,gun,52,M,W,Franklin,NC,False
