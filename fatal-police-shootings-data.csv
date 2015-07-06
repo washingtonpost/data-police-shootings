@@ -462,6 +462,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 577,Alan  Bellew,2015-06-28,shot,toy weapon,29,M,W,Portland,OR,False
 585,Richard LaPort,2015-06-29,shot,gun,51,M,,Edinburg,NY,True
 586,Clay Alan  Lickteig,2015-06-30,shot,gun,52,M,W,Franklin,NC,False
-587,Kevin Lamont Judson,2015-07-01,shot,,24,M,B,McMinnville,OR,False
+587,Kevin Lamont Judson,2015-07-01,shot,unarmed,24,M,B,McMinnville,OR,False
 589,Kaleb Landon,2015-07-01,shot,undetermined,32,M,,Josephine County,OR,False
 588,Douglas Buckley,2015-07-02,shot,toy weapon,45,M,W,Brockton,MA,False
