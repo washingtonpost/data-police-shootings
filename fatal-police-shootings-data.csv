@@ -180,7 +180,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 277,James Greenwell,2015-03-11,shot,gun,31,M,W,Memphis,TN,True
 279,Benito Osorio,2015-03-11,shot,gun,39,M,H,Santa Ana,CA,False
 281,Ryan Dean Burgess,2015-03-11,shot,toy weapon,31,M,W,Kingman,AZ,False
-307,Gilbert Fleury,2015-03-11,shot,gun,54,M,W,Bay Pinette,AL,False
+307,Gilbert Fleury,2015-03-11,shot,gun,54,M,W,Bay Minette,AL,False
 581,William Russell  Smith,2015-03-11,shot,gun,53,M,W,Hoover,AL,True
 248,Terry Garnett Jr.,2015-03-11,shot,"car, vehicle",37,M,B,Elkton,MD,False
 282,Bobby Gross,2015-03-12,shot,unarmed,35,M,B,Washington,DC,True
@@ -475,8 +475,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 591,Robert Elando Malone,2015-07-04,shot,gun,42,M,B,Oklahoma City,OK,False
 595,Michael Shannon Gaby,2015-07-04,shot,gun,37,M,,Morristown,TN,False
 596,Kawanza Beaty,2015-07-04,shot,gun,23,M,B,Newport News,VA,False
-592,TK TK,2015-07-05,shot,unarmed,,M,W,Pleasanton,CA,False
+600,Bryan David Bauer,2015-07-04,shot,gun,36,M,,Henderson,NV,False
+592,John Deming,2015-07-05,shot,unarmed,19,M,W,Pleasanton,CA,False
 593,Michael Holt,2015-07-05,shot,gun,35,M,W,Austin,TX,False
-594,TK TK,2015-07-05,shot and Tasered,undetermined,,M,,Austin,TX,True
-605,TK TK,2015-07-05,shot,unarmed,,M,,Hawaiian Gardens,CA,False
-590,TK TK,2015-07-06,shot,gun,,M,,Oklahoma City,OK,False
+594,Richard Munroe,2015-07-05,shot and Tasered,toy weapon,25,M,,Austin,TX,True
+605,Johnny Ray Anderson,2015-07-05,shot,unarmed,43,M,W,Hawaiian Gardens,CA,False
+590,Tyler Rogers,2015-07-06,shot,gun,20,M,W,Oklahoma City,OK,False
+606,TK TK,2015-07-06,shot,,42,M,,Bath,NH,False
+607,TK TK,2015-07-06,shot and Tasered,knife,42,M,,Atwater,CA,False
+610,TK TK,2015-07-06,shot and Tasered,"car, vehicle",29,M,,Lakewood,CA,True
+608,TK TK,2015-07-07,shot,gun,,M,,Houston,TX,False
+609,TK TK,2015-07-07,shot,metal pole,,M,W,Mesa,AZ,False
