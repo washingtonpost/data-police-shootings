@@ -198,12 +198,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 292,Roberto Leon,2015-03-17,shot,unarmed,22,M,H,Sacramento,CA,False
 216,Andrew Charles Shipley,2015-03-17,shot,gun,49,M,W,Medford,OR,True
 217,Declan Owen,2015-03-17,shot,gun,24,M,W,Dublin,NC,False
-221,Alice Brown,2015-03-17,shot,"car, vehicle",24,F,W,San Francisco,CA,False
+221,Alice Brown,2015-03-17,shot,"car, vehicle",24,F,W,San Francisco,CA,True
 294,Jeff Alexander,2015-03-18,shot,knife,47,M,W,Bakersfield,CA,False
 225,Kaylene Stone,2015-03-18,shot,gun,49,F,W,Glendale,AZ,False
 226,Garland Lee Wingo,2015-03-18,shot,gun,64,M,W,Tallahassee,FL,False
 265,Kendre Alston,2015-03-19,shot,gun,16,M,B,Jacksonville,FL,False
-295,Jamison  Childress,2015-03-19,shot,unarmed,20,M,W,Sumas,WA,False
+295,Jamison  Childress,2015-03-19,shot,unarmed,20,M,W,Sumas,WA,True
 306,Robert Burdge,2015-03-19,shot,gun,36,M,W,Bakersfield,CA,False
 228,Shane Watkins,2015-03-19,shot,box cutter,39,M,W,Lawrence County,AL,True
 229,Brandon Jones,2015-03-19,shot,unarmed,18,M,B,Cleveland,OH,False
@@ -216,7 +216,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 312,Jason Smith,2015-03-21,shot,gun,42,M,W,Columbus,OH,False
 235,Enoch Gaver,2015-03-21,shot,gun,21,M,W,Cottonwood,AZ,False
 231,Phillip Conley,2015-03-22,shot,knife,37,M,W,Vallejo,CA,True
-233,Christopher Ryan Healy,2015-03-22,shot and Tasered,knife,36,M,W,Portland,OR,False
+233,Christopher Ryan Healy,2015-03-22,shot and Tasered,knife,36,M,W,Portland,OR,True
 234,Denzel Brown,2015-03-22,shot and Tasered,unarmed,21,M,B,Islip,NY,False
 237,Devin Gates,2015-03-23,shot,gun,24,M,B,Santa Clara,CA,False
 313,Stephen Snyder,2015-03-24,shot,gun,,M,W,Fond du Lac,WI,False
@@ -481,8 +481,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 594,Richard Munroe,2015-07-05,shot and Tasered,toy weapon,25,M,,Austin,TX,True
 605,Johnny Ray Anderson,2015-07-05,shot,unarmed,43,M,W,Hawaiian Gardens,CA,False
 590,Tyler Rogers,2015-07-06,shot,gun,20,M,W,Oklahoma City,OK,False
-606,TK TK,2015-07-06,shot,,42,M,,Bath,NH,False
-607,TK TK,2015-07-06,shot and Tasered,knife,42,M,,Atwater,CA,False
+606,Hagan Esty-Lennon,2015-07-06,shot,knife,42,M,,Bath,NH,False
+607,David Oliva Sarabia,2015-07-06,shot and Tasered,knife,42,M,,Atwater,CA,False
 610,TK TK,2015-07-06,shot and Tasered,"car, vehicle",29,M,,Lakewood,CA,True
 608,TK TK,2015-07-07,shot,gun,,M,,Houston,TX,False
 609,TK TK,2015-07-07,shot,metal pole,,M,W,Mesa,AZ,False
