@@ -470,7 +470,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 604,Brian Johnson,2015-07-02,shot,crossbow,59,M,,Meadow Bridge,WV,True
 597,Cesar A. Limon Juarez,2015-07-03,shot and Tasered,knife,27,M,,West Covina,CA,False
 598,TK TK,2015-07-03,shot,gun,,M,H,Lancaster,CA,False
-599,Oscar Camacho,2015-07-03,shot,gun,33,M,,Camden,NJ,False
+599,Oscar Camacho,2015-07-03,shot,gun,33,M,H,Camden,NJ,False
 602,Joseph Julian,2015-07-03,shot,undetermined,40,M,W,Miami Beach,FL,False
 591,Robert Elando Malone,2015-07-04,shot,gun,42,M,B,Oklahoma City,OK,False
 595,Michael Shannon Gaby,2015-07-04,shot,gun,37,M,,Morristown,TN,False
@@ -478,13 +478,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 600,Bryan David Bauer,2015-07-04,shot,gun,36,M,,Henderson,NV,False
 592,John Deming,2015-07-05,shot,unarmed,19,M,W,Pleasanton,CA,False
 593,Michael Holt,2015-07-05,shot,gun,35,M,W,Austin,TX,False
-594,Richard Munroe,2015-07-05,shot and Tasered,toy weapon,25,M,,Austin,TX,True
+594,Richard Munroe,2015-07-05,shot and Tasered,toy weapon,25,M,W,Austin,TX,True
 605,Johnny Ray Anderson,2015-07-05,shot,unarmed,43,M,W,Hawaiian Gardens,CA,False
 590,Tyler Rogers,2015-07-06,shot,gun,20,M,W,Oklahoma City,OK,False
 606,Hagan Esty-Lennon,2015-07-06,shot,knife,42,M,,Bath,NH,False
 607,David Oliva Sarabia,2015-07-06,shot and Tasered,knife,42,M,,Atwater,CA,False
 610,John Leonard Berry,2015-07-06,shot and Tasered,"car, vehicle",31,M,,Lakewood,CA,True
-619,Jason Hendley,2015-07-06,shot,knife,29,M,,Los Angeles,CA,False
+619,Jason Hendley,2015-07-06,shot,knife,29,M,B,Los Angeles,CA,False
 608,Marcellus Jamarcus Burley,2015-07-07,shot,gun,18,M,B,Houston,TX,False
 609,Adam Dujanovic,2015-07-07,shot,metal pole,33,M,W,Mesa,AZ,False
 611,Joe Cody,2015-07-07,shot,gun,59,M,W,Dallas,TX,False
@@ -495,17 +495,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 618,Joshua Blough,2015-07-07,shot,knife,28,M,W,Elizabethtown,KY,False
 620,Michael Terence Westrich,2015-07-08,shot,gun,59,M,W,Beaverton,OR,False
 621,Dallas Shatley,2015-07-08,shot,"car, vehicle",62,M,W,Ashe County,NC,False
-622,Rocco Joseph Palmisano,2015-07-09,shot,gun,50,M,,Parowan,UT,False
+622,Rocco Joseph Palmisano,2015-07-09,shot,gun,50,M,W,Parowan,UT,False
 623,Robert Hammonds,2015-07-09,shot,gun,68,M,W,Phoenix,AZ,False
 624,Martice Milliner,2015-07-09,shot,gun,27,M,,Chicago,IL,False
 625,Cyrus Hurtado,2015-07-09,shot,gun,17,M,,Boulder Creek,CA,False
 627,TK TK,2015-07-09,shot and Tasered,unarmed,,M,,Los Angeles,CA,False
 634,Javon Hawkins,2015-07-09,shot,sword,21,M,,Kansas City,MO,False
-626,James Michael Todora,2015-07-10,shot,gun,54,M,,Las Vegas,NV,True
-630,Freddie Blue,2015-07-10,shot,gun,20,M,,Covington,GA,False
+626,James Michael Todora,2015-07-10,shot,gun,54,M,W,Las Vegas,NV,True
+630,Freddie Blue,2015-07-10,shot,gun,20,M,B,Covington,GA,False
 637,Billy Maine,2015-07-11,shot,gun,31,M,,Olivehurst,CA,False
-628,Paul Castaway,2015-07-12,shot,knife,35,M,,Denver,CO,True
-631,Salvado Ellswood,2015-07-12,shot and Tasered,unarmed,36,M,,Plantation,FL,False
+628,Paul Castaway,2015-07-12,shot,knife,35,M,O,Denver,CO,True
+631,Salvado Ellswood,2015-07-12,shot and Tasered,unarmed,36,M,B,Plantation,FL,False
 632,David Lepine,2015-07-12,shot,gun,60,M,W,Austin,TX,False
 633,Matthew Watson,2015-07-12,shot,gun,24,M,,River Forest,IL,False
 636,Christopher Benton,2015-07-12,shot,undetermined,27,M,W,Casper,WY,False
@@ -516,7 +516,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 645,Jason Davis,2015-07-13,shot and Tasered,box cutter,41,M,,Los Angeles,CA,False
 639,Chacarion Avant,2015-07-14,shot,gun,20,M,B,Mascotte,FL,False
 641,Charles Crandall,2015-07-14,shot,gun,76,M,,Southington,OH,False
-643,Eugene Kailing,2015-07-15,shot and Tasered,metal pipe,43,M,,Marion,MI,False
+643,Eugene Kailing,2015-07-15,shot and Tasered,metal pipe,43,M,W,Marion,MI,False
 642,TK TK,2015-07-16,shot,metal hand tool,,M,,Moreno Valley,CA,True
 646,TK TK,2015-07-16,shot,sword,,M,,Wauwatosa,WI,True
 647,Edward Foster,2015-07-16,shot,gun,35,M,B,Homestead,FL,False
