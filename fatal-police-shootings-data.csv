@@ -504,7 +504,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 626,James Michael Todora,2015-07-10,shot,gun,54,M,W,Las Vegas,NV,True
 630,Freddie Blue,2015-07-10,shot,gun,20,M,B,Covington,GA,False
 637,Billy Maine,2015-07-11,shot,gun,31,M,,Olivehurst,CA,False
-628,Paul Castaway,2015-07-12,shot,knife,35,M,O,Denver,CO,True
+628,Paul Castaway,2015-07-12,shot,knife,35,M,N,Denver,CO,True
 631,Salvado Ellswood,2015-07-12,shot and Tasered,unarmed,36,M,B,Plantation,FL,False
 632,David Lepine,2015-07-12,shot,gun,60,M,W,Austin,TX,False
 633,Matthew Watson,2015-07-12,shot,gun,24,M,,River Forest,IL,False
@@ -521,10 +521,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 646,Alberto  Gonzalez,2015-07-16,shot,sword,29,M,H,Wauwatosa,WI,True
 647,Edward Foster III,2015-07-16,shot,gun,35,M,B,Homestead,FL,False
 648,Patrick Stephen Pippin,2015-07-16,shot,gun,30,M,W,Kansas City,KS,False
-649,Mohammad Youssef Abdulazeez,2015-07-16,shot,gun,24,M,O,Chattanooga,TN,False
+649,Mohammad Youssef Abdulazeez,2015-07-16,shot,gun,24,M,O,Chattanooga,TN,True
 656,Saige Hack,2015-07-16,shot,gun,,M,,Cheyenne,WY,False
+664,Pierre Gabriel Koellner,2015-07-16,shot,gun,29,M,W,Opp,AL,False
 644,Samuel Smith,2015-07-17,shot,"car, vehicle",27,M,W,Seattle,WA,False
-651,Albert Joseph Davis,2015-07-17,shot and Tasered,unarmed,23,M,,Orlando,FL,False
+651,Albert Joseph Davis,2015-07-17,shot and Tasered,unarmed,23,M,B,Orlando,FL,False
 655,Jackie Brand,2015-07-17,shot,gun,50,M,,Needles,CA,True
 657,Darrius Stewart,2015-07-17,shot,unarmed,19,M,B,Memphis,TN,False
 659,Jackie Brand,2015-07-17,shot,gun,50,M,,Highland,CA,True
@@ -533,4 +534,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 652,Kevin Thomas Snyder,2015-07-18,shot,gun,46,M,W,Phoenix,AZ,False
 654,Charles Edward Dewey,2015-07-18,shot,gun,65,M,,Colby,KS,False
 653,Samuel Dubose,2015-07-19,shot,"car, vehicle",43,M,B,Mt. Auburn,OH,False
-658,TK TK,2015-07-20,shot,gun,35,M,,Winnie,TX,False
+658,Joshua LeBoeuf,2015-07-20,shot,gun,35,M,W,Winnie,TX,False
+661,TK TK,2015-07-21,shot,unarmed,,M,,White,GA,False
+662,Joseph Fuller,2015-07-21,shot,gun,24,M,W,Oakland Park,FL,False
+663,Jerrod Tyre,2015-07-21,shot,gun,35,M,W,Jesup,GA,False
