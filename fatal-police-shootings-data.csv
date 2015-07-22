@@ -217,7 +217,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 235,Enoch Gaver,2015-03-21,shot,gun,21,M,W,Cottonwood,AZ,False
 231,Phillip Conley,2015-03-22,shot,knife,37,M,W,Vallejo,CA,True
 233,Christopher Ryan Healy,2015-03-22,shot and Tasered,knife,36,M,W,Portland,OR,True
-234,Denzel Brown,2015-03-22,shot and Tasered,unarmed,21,M,B,Islip,NY,False
+234,Denzel Brown,2015-03-22,shot and Tasered,undetermined,21,M,B,Islip,NY,False
 237,Devin Gates,2015-03-23,shot,gun,24,M,B,Santa Clara,CA,False
 313,Stephen Snyder,2015-03-24,shot,gun,,M,W,Fond du Lac,WI,False
 238,Walter J. Brown III,2015-03-24,shot,gun,29,M,B,Portsmouth,VA,True
@@ -485,7 +485,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 607,David Oliva Sarabia,2015-07-06,shot and Tasered,knife,42,M,,Atwater,CA,False
 610,John Leonard Berry,2015-07-06,shot and Tasered,"car, vehicle",31,M,,Lakewood,CA,True
 619,Jason Hendley,2015-07-06,shot,knife,29,M,B,Los Angeles,CA,False
-665,Hagen Etsy-Lennon,2015-07-06,shot,knife,41,M,,Haverhill,VT,True
+665,Hagen Etsy-Lennon,2015-07-06,shot,knife,41,M,,Haverhill,NH,True
 608,Marcellus Jamarcus Burley,2015-07-07,shot,gun,18,M,B,Houston,TX,False
 609,Adam Dujanovic,2015-07-07,shot,metal pole,33,M,W,Mesa,AZ,False
 611,Joe Cody,2015-07-07,shot,gun,59,M,W,Dallas,TX,False
