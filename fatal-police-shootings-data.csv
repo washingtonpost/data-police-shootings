@@ -96,7 +96,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 132,Sawyer Flache,2015-02-08,shot,gun,27,M,W,Austin,TX,False
 133,Vincent Cordaro,2015-02-08,shot,gun,57,M,W,New City,NY,False
 134,Joseph Paffen,2015-02-08,shot,gun,46,M,W,Orange County,FL,False
-135,Larry Hostetter,2015-02-08,shot,undetermined,41,M,W,Nocona,TX,False
+135,Larry Hostetter,2015-02-08,shot,gun,41,M,W,Nocona,TX,False
 136,Kenneth Kreyssig,2015-02-09,shot,gun,61,M,W,Smyrna,ME,True
 137,Desmond Luster,2015-02-09,shot,gun,45,M,B,Dallas,TX,False
 138,Antonio Zambrano-Montes,2015-02-10,shot and Tasered,unarmed,35,M,H,Pasco,WA,True
@@ -418,7 +418,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 523,James Johnson,2015-06-08,shot,gun,54,M,,Beech Grove,IN,True
 524,Rene Garcia,2015-06-08,shot,knife,30,M,H,Anaheim,CA,True
 526,Richard Warolf,2015-06-08,shot,gun,69,M,W,Sun City,AZ,True
-525,Jeremy Linhart,2015-06-09,shot,undetermined,30,M,W,Findlay,OH,False
+525,Jeremy Linhart,2015-06-09,shot,unarmed,30,M,W,Findlay,OH,False
 535,TK TK,2015-06-09,shot,gun,45,M,,Tomball,TX,False
 538,QuanDavier Hicks,2015-06-09,shot,gun,22,M,B,Cincinnati,OH,False
 539,Ryan Bolinger,2015-06-09,shot,unarmed,28,M,W,Des Moines,IA,False
