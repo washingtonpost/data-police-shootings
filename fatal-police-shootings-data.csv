@@ -537,7 +537,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 661,Darren Billy Wilson,2015-07-21,shot,unarmed,47,M,,White,GA,False
 662,Joseph Fuller,2015-07-21,shot,gun,24,M,W,Oakland Park,FL,False
 663,Jerrod Tyre,2015-07-21,shot,gun,35,M,W,Jesup,GA,False
-666,TK TK,2015-07-22,shot,gun,,M,H,Monroe,WI,False
+666,TK TK,2015-07-22,shot,gun,40,M,H,Monroe,WI,False
 667,Andre Dontrell Williams,2015-07-22,shot and Tasered,knife,26,M,B,Oklahoma City,OK,False
 669,Devon Guisherd,2015-07-22,shot,gun,27,M,B,Philadelphia,PA,False
 668,Dontae L. Martin,2015-07-23,shot,gun,34,M,B,Dayton,OH,False
+670,TK TK,2015-07-23,shot,unarmed,,M,,Plymouth,MN,False
+671,Brian Stortzum,2015-07-23,shot,gun,32,M,W,Myrtle Beach,SC,False
