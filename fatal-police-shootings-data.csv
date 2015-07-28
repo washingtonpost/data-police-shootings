@@ -326,7 +326,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 423,John Acree,2015-04-29,shot,gun,53,M,W,Nashville,TN,True
 418,Fridoon Zalbeg Rawshannehad,2015-04-30,shot,unarmed,42,M,O,San Diego,CA,True
 424,Erick Emmanuel Sanchez,2015-04-30,shot and Tasered,metal object,22,M,H,El Paso,TX,False
-425,Kenneth Mathena,2015-05-01,shot,gun,52,M,W,Smyrna,DE,False
+425,Kenneth Mathena,2015-05-02,shot,gun,52,M,W,Smyrna,DE,False
 426,Kevin Vance Norton,2015-05-03,shot,gun,36,M,W,Roosevelt,UT,True
 427,Elton Simpson,2015-05-03,shot,gun,30,M,B,Garland,TX,False
 428,Nadir Soofi,2015-05-03,shot,gun,34,M,O,Garland,TX,False
@@ -532,7 +532,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 650,David  Wheat Jr.,2015-07-18,shot,knife,22,M,W,Fort Collins,CO,True
 652,Kevin Thomas Snyder,2015-07-18,shot,gun,46,M,W,Phoenix,AZ,False
 654,Charles Edward Dewey,2015-07-18,shot,gun,65,M,W,Colby,KS,False
-653,Samuel Dubose,2015-07-19,shot,vehicle,43,M,B,Mt. Auburn,OH,False
+653,Samuel Dubose,2015-07-19,shot,undetermined,43,M,B,Mt. Auburn,OH,False
 658,Joshua LeBoeuf,2015-07-20,shot,gun,35,M,W,Winnie,TX,False
 661,Darren Billy Wilson,2015-07-21,shot,unarmed,47,M,,White,GA,False
 662,Joseph Fuller,2015-07-21,shot,gun,24,M,W,Oakland Park,FL,False
@@ -546,7 +546,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 672,Robbie Lee Edison,2015-07-23,shot,undetermined,47,M,W,Douglas,WY,False
 673,Tamala Satre,2015-07-23,shot,gun,44,F,,Meadow Vista,CA,True
 674,TK TK,2015-07-24,shot,gun,,M,,Studio City,CA,False
-675,TK TK,2015-07-24,shot and Tasered,knife,,M,,Pinnacle,NC,False
+675,Lee Aaron Gerston,2015-07-24,shot and Tasered,knife,30,M,,Pinnacle,NC,False
 676,TK TK,2015-07-25,shot,undetermined,60,M,W,New Orleans,LA,False
 677,Roger Braswell,2015-07-25,shot,gun,50,M,W,Decatur,GA,True
 678,Bryan Keith  Day,2015-07-25,shot,toy weapon,36,M,,Las Vegas,NV,False
