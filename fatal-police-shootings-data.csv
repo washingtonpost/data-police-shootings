@@ -450,7 +450,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 570,Eduardo Reyes,2015-06-22,shot,gun,35,M,H,Citrus Heights,CA,False
 573,Tyler Wicks,2015-06-22,shot,gun,29,M,W,Augusta,GA,False
 576,Tyrone Harris,2015-06-22,shot,gun,20,M,B,Pittsburgh,PA,False
-572,Joshua Dyer,2015-06-23,shot,unarmed,34,M,W,Indianapolis,IN,False
+572,Joshua Dyer,2015-06-23,shot,vehicle,34,M,W,Indianapolis,IN,False
 574,Jonathan Wilson,2015-06-23,shot,knife,22,M,,Hutchinson,KS,False
 575,Randall Waddel,2015-06-23,shot,knife,49,M,W,Weatherford,TX,False
 569,Damien A. Harrell,2015-06-24,shot,gun,26,M,B,York County,VA,False
@@ -466,7 +466,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 589,Kaleb Landon,2015-07-01,shot,gun,32,M,W,Josephine County,OR,False
 588,Douglas Buckley,2015-07-02,shot,toy weapon,45,M,W,Brockton,MA,False
 601,Ton Nguyen,2015-07-02,shot,knife,60,M,A,San Diego,CA,False
-603,Victor Emanuel Larosa,2015-07-02,shot,vehicle,23,M,B,Jacksonville,FL,False
+603,Victor Emanuel Larosa,2015-07-02,shot,unarmed,23,M,B,Jacksonville,FL,False
 604,Brian Johnson,2015-07-02,shot,crossbow,59,M,,Meadow Bridge,WV,True
 597,Cesar A. Limon Juarez,2015-07-03,shot and Tasered,knife,27,M,,West Covina,CA,False
 598,TK TK,2015-07-03,shot,gun,,M,H,Lancaster,CA,False
@@ -494,7 +494,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 617,Nicholas Booth,2015-07-07,shot,gun,35,M,W,Sugar Creek,MO,False
 618,Joshua Blough,2015-07-07,shot,knife,28,M,W,Elizabethtown,KY,False
 620,Michael Terence Westrich,2015-07-08,shot,gun,59,M,W,Beaverton,OR,False
-621,Dallas Shatley,2015-07-08,shot,vehicle,62,M,W,Ashe County,NC,False
+621,Dallas Shatley,2015-07-08,shot,undetermined,62,M,W,Ashe County,NC,False
 622,Rocco Joseph Palmisano,2015-07-09,shot,gun,50,M,W,Parowan,UT,False
 623,Robert Hammonds,2015-07-09,shot,gun,68,M,W,Phoenix,AZ,False
 624,Martice Milliner,2015-07-09,shot,gun,27,M,,Chicago,IL,False
@@ -532,7 +532,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 650,David  Wheat Jr.,2015-07-18,shot,knife,22,M,W,Fort Collins,CO,True
 652,Kevin Thomas Snyder,2015-07-18,shot,gun,46,M,W,Phoenix,AZ,False
 654,Charles Edward Dewey,2015-07-18,shot,gun,65,M,W,Colby,KS,False
-653,Samuel Dubose,2015-07-19,shot,undetermined,43,M,B,Mt. Auburn,OH,False
+653,Samuel Dubose,2015-07-19,shot,unarmed,43,M,B,Mt. Auburn,OH,False
 658,Joshua LeBoeuf,2015-07-20,shot,gun,35,M,W,Winnie,TX,False
 661,Darren Billy Wilson,2015-07-21,shot,unarmed,47,M,,White,GA,False
 662,Joseph Fuller,2015-07-21,shot,gun,24,M,W,Oakland Park,FL,False
@@ -545,15 +545,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 671,Brian Stortzum,2015-07-23,shot,gun,32,M,W,Myrtle Beach,SC,False
 672,Robbie Lee Edison,2015-07-23,shot,undetermined,47,M,W,Douglas,WY,False
 673,Tamala Satre,2015-07-23,shot,gun,44,F,,Meadow Vista,CA,True
-674,TK TK,2015-07-24,shot,gun,,M,,Studio City,CA,False
+674,Seth  Raines,2015-07-24,shot,gun,44,M,W,Studio City,CA,False
 675,Lee Aaron Gerston,2015-07-24,shot and Tasered,knife,30,M,,Pinnacle,NC,False
-676,TK TK,2015-07-25,shot,undetermined,60,M,W,New Orleans,LA,False
+676,Christoper Olmstead,2015-07-25,shot,undetermined,60,M,W,New Orleans,LA,True
 677,Roger Braswell,2015-07-25,shot,gun,50,M,W,Decatur,GA,True
 678,Bryan Keith  Day,2015-07-25,shot,toy weapon,36,M,,Las Vegas,NV,False
 685,Earl Jackson,2015-07-25,shot,gun,59,M,B,Micanopy,FL,False
 679,Khari Westly,2015-07-26,shot,gun,33,M,B,Shreveport,LA,False
 680,Zachary Hammond,2015-07-26,shot,vehicle,19,M,W,Seneca,SC,False
 681,Timothy Milliken,2015-07-27,shot,knife,56,M,,Irmo,SC,False
-682,TK TK,2015-07-27,shot,gun,,M,,Houma,LA,False
-683,Samuel Forgy,2015-07-27,shot and Tasered,knife,23,M,W,Boulder,CO,False
+682,Jean Paul Falgout,2015-07-27,shot,gun,45,M,W,Houma,LA,False
+683,Samuel Forgy,2015-07-27,shot and Tasered,knife,22,M,W,Boulder,CO,False
 684,Timothy Johnson,2015-07-28,shot,knife,41,M,,Manila,AR,False
+686,TK TK,2015-07-29,shot,undetermined,,M,,Las Cruces,NM,False
