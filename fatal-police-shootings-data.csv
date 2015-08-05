@@ -82,12 +82,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 118,Yuvette Henderson,2015-02-03,shot,gun,38,F,B,Emeryville,CA,False
 119,Dewayne Deshawn Ward,2015-02-03,shot,knife,29,M,B,Antioch,CA,True
 120,Anthony Purvis,2015-02-03,shot,gun,45,M,W,Douglas,GA,False
+116,Jeremy Lett,2015-02-04,shot,unarmed,28,M,B,Tallahassee,FL,False
 123,Izzy Colon,2015-02-04,shot,gun,37,M,H,Orlando,FL,False
 124,Salvador Muna,2015-02-04,shot,gun,28,M,H,Tempe,AZ,False
 125,Joaquin Hernandez,2015-02-04,shot,unarmed,28,M,H,Tempe,AZ,False
-126,Jimmy Ray Robinson,2015-02-04,shot,gun,51,M,B,Lorena,TX,False
+126,Jimmy Ray Robinson Jr.,2015-02-04,shot,gun,51,M,B,Lorena,TX,False
 127,Markell Atkins,2015-02-04,shot,knife,36,M,B,Memphis,TN,False
-116,Jeremy Lett,2015-02-05,shot,unarmed,28,M,B,Tallahassee,FL,False
 128,Paul Alfred Eugene Johnson,2015-02-05,shot,gun,59,M,W,Chino,CA,False
 129,Herbert Hill,2015-02-06,shot,gun,25,M,B,Oklahoma City,OK,False
 532,John  Sawyer,2015-02-07,shot,toy weapon,26,M,W,Calimesa,CA,False
@@ -497,10 +497,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 621,Dallas Shatley,2015-07-08,shot,undetermined,62,M,W,Ashe County,NC,False
 622,Rocco Joseph Palmisano,2015-07-09,shot,gun,50,M,W,Parowan,UT,False
 623,Robert Hammonds,2015-07-09,shot,gun,68,M,W,Phoenix,AZ,False
-624,Martice Milliner,2015-07-09,shot,gun,27,M,,Chicago,IL,False
+624,Martice Milliner,2015-07-09,shot,gun,27,M,B,Chicago,IL,False
 625,Cyrus Hurtado,2015-07-09,shot,gun,17,M,W,Boulder Creek,CA,False
 627,TK TK,2015-07-09,shot and Tasered,Taser,38,M,,Los Angeles,CA,False
-634,Javon Hawkins,2015-07-09,shot,sword,21,M,,Kansas City,MO,False
+634,Javon Hawkins,2015-07-09,shot,sword,21,M,B,Kansas City,MO,False
 626,James Michael Todora,2015-07-10,shot,gun,54,M,W,Las Vegas,NV,True
 630,Freddie Blue,2015-07-10,shot,gun,20,M,B,Covington,GA,False
 637,Billy Maine,2015-07-11,shot,gun,31,M,,Olivehurst,CA,False
@@ -553,22 +553,24 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 685,Earl Jackson,2015-07-25,shot,gun,59,M,B,Micanopy,FL,False
 679,Khari Westly,2015-07-26,shot,gun,33,M,B,Shreveport,LA,False
 680,Zachary Hammond,2015-07-26,shot,vehicle,19,M,W,Seneca,SC,False
-681,Timothy Milliken,2015-07-27,shot,knife,56,M,,Irmo,SC,False
+681,Timothy Milliken,2015-07-27,shot,knife,56,M,W,Irmo,SC,False
 682,Jean Paul Falgout,2015-07-27,shot,gun,45,M,W,Houma,LA,False
 683,Samuel Forgy,2015-07-27,shot and Tasered,knife,22,M,W,Boulder,CO,False
 684,Timothy Johnson,2015-07-28,shot,knife,41,M,,Manila,AR,False
-686,Michael Malone,2015-07-29,shot,undetermined,34,M,,Las Cruces,NM,False
+686,Michael Malone,2015-07-29,shot,undetermined,34,M,H,Las Cruces,NM,False
 687,Roger Darrin Barker,2015-07-29,shot,gun,53,M,W,Logan,UT,True
 688,Mark Perkins,2015-07-30,shot,gun,48,M,W,Gardnerville Ranchos,NV,False
 689,Ryan Daniel Vrenon,2015-07-30,shot,gun,25,M,W,Dunsmuir,CA,False
 690,Philip Vallejo,2015-07-30,shot,gun,30,M,H,Fort Worth,TX,False
 691,TK TK,2015-07-30,shot and Tasered,metal stick,47,M,H,Whittier,CA,False
 692,Rafael Molina,2015-07-31,shot,gun,33,M,H,Albuquerque,NM,False
-693,Jeremy  Hatch,2015-07-31,shot,gun,34,M,,Roswell,NM,False
+693,Jeremy  Hatch,2015-07-31,shot,gun,34,M,W,Roswell,NM,False
 694,David  Cook,2015-08-01,shot,gun,52,M,,Nitro,WV,False
 696,Tk TK,2015-08-01,shot,gun,,M,,Tucson,AZ,False
 695,Virgil  Reynolds,2015-08-02,shot,vehicle,63,M,W,Houston,TX,False
 697,Tk Tk,2015-08-03,shot,gun,49,M,,Oakland,CA,False
-698,TK TK,2015-08-03,shot,gun,,M,,Campbelltown,PA,False
-699,Franklin Short,2015-08-03,shot,gun,71,M,,Powhatan County,VA,False
+698,Joshua Malave,2015-08-03,shot,gun,18,M,,Campbelltown,PA,False
+699,Franklin Short,2015-08-03,shot,gun,71,M,W,Powhatan County,VA,False
 700,Ruble Shawn,2015-08-03,shot,gun,35,M,W,Muncie,IN,True
+701,TK TK,2015-08-04,shot,undetermined,55,M,,San Diego County,CA,True
+702,TK TK,2015-08-04,shot,gun,,M,,Rantoul,IL,True
