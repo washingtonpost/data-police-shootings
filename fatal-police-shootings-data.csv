@@ -68,7 +68,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 350,Jermonte Fletcher,2015-01-27,shot,gun,33,M,B,Columbus,OH,False
 111,Tiffany Terry,2015-01-27,shot,knife,39,F,W,Omaha,NE,True
 345,Alan Lace Alverson,2015-01-28,shot,gun,45,M,W,Sunset,TX,False
-346,Matautu Nuu,2015-01-28,shot and Tasered,hammer,35,M,A,Stockton,CA,False
+346,Matautu Nuu,2015-01-28,shot and Tasered,hammer,35,M,A,Stockton,CA,True
 347,Cody Karasek,2015-01-28,shot,gun,26,M,W,Rosenberg,TX,False
 342,Ralph Willis,2015-01-29,shot,unarmed,42,M,W,Stillwater,OK,False
 112,Alan James,2015-01-29,shot,gun,31,M,W,Wyoming,MI,True
@@ -94,7 +94,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 554,James Allen,2015-02-07,shot,gun,74,M,B,Gastonia,NC,False
 131,John Martin Whittaker,2015-02-08,shot,gun,33,M,W,Anchorage,AK,False
 132,Sawyer Flache,2015-02-08,shot,gun,27,M,W,Austin,TX,False
-133,Vincent Cordaro,2015-02-08,shot,gun,57,M,W,New City,NY,False
+133,Vincent Cordaro,2015-02-08,shot,gun,57,M,W,New City,NY,True
 134,Joseph Paffen,2015-02-08,shot,gun,46,M,W,Orange County,FL,False
 135,Larry Hostetter,2015-02-08,shot,gun,41,M,W,Nocona,TX,False
 136,Kenneth Kreyssig,2015-02-09,shot,gun,61,M,W,Smyrna,ME,True
@@ -357,7 +357,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 460,Mark Farrar,2015-05-15,shot,gun,41,M,W,Rockford,IL,True
 462,Matt Coates,2015-05-15,shot,toy weapon,42,M,W,Sacramento,CA,True
 463,Ronnell Wade,2015-05-16,shot,gun,45,M,B,Harvey,IL,False
-458,Dennis  Fiel,2015-05-17,shot,gun,34,M,W,San Diego,CA,False
+458,Dennis  Fiel,2015-05-17,shot,gun,34,M,W,San Diego,CA,True
 459,Austin Goodner,2015-05-17,shot,gun,18,M,W,St. Petersburg,FL,True
 461,Timothy Jones,2015-05-17,shot,sword,27,M,W,Ruidoso,NM,False
 457,Alfredo  Rials-Torres,2015-05-19,shot,unarmed,54,M,H,Arlington,VA,False
@@ -428,7 +428,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 543,Fritz Severe,2015-06-11,shot,undetermined,46,M,B,Miami,FL,False
 544,Mark Flores,2015-06-11,shot,gun,28,M,H,Bexar County,TX,True
 545,Raymond Peralta-Lantigua,2015-06-11,shot,knife,22,M,H,Hackensack,NJ,True
-553,Shelly Haendiges,2015-06-12,shot,toy weapon,17,F,W,Kokomo,IN,False
+553,Shelly Haendiges,2015-06-12,shot,toy weapon,17,F,W,Kokomo,IN,True
 546,Anthony Hodge,2015-06-13,shot,gun,46,M,W,Fort Wayne,IN,False
 548,Deng Manyoun,2015-06-13,shot,flagpole,35,M,B,Louisville,KY,False
 549,James Boulware,2015-06-13,shot,guns and explosives,35,M,W,Hutchins,TX,True
@@ -452,7 +452,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 576,Tyrone Harris,2015-06-22,shot,gun,20,M,B,Pittsburgh,PA,False
 572,Joshua Dyer,2015-06-23,shot,unarmed,34,M,W,Indianapolis,IN,False
 574,Jonathan Wilson,2015-06-23,shot,knife,22,M,,Hutchinson,KS,False
-575,Randall Waddel,2015-06-23,shot,knife,49,M,W,Weatherford,TX,False
+575,Randall Waddel,2015-06-23,shot,knife,49,M,W,Weatherford,TX,True
 726,Taylor Culbertson,2015-06-23,shot,gun,32,M,W,Omaha,NE,False
 569,Damien A. Harrell,2015-06-24,shot,gun,26,M,B,York County,VA,False
 567,Spencer McCain,2015-06-25,shot,unarmed,41,M,B,Owings Mills,MD,True
