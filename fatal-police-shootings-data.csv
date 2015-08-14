@@ -582,8 +582,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 707,Vincente Montano,2015-08-05,shot,hatchet,29,M,W,Antioch,TN,True
 708,Jason Galaviz,2015-08-05,shot,gun,40,M,W,Tacoma,WA,False
 710,Gustavo Ponce-Galon,2015-08-06,shot,knife,42,M,H,Elsmere,KY,False
+737,Charles Bertram,2015-08-06,shot,gun,22,M,,El Paso,TX,False
 711,Christian Taylor,2015-08-07,shot,unarmed,19,M,B,Arlington,TX,False
-712,Abel Correa,2015-08-07,shot,sharp object,24,M,H,Las Vegas,NV,False
+712,Abel Correa,2015-08-07,shot,sharp object,24,M,H,Las Vegas,NV,True
 713,Aaron  Marchese,2015-08-07,shot,toy weapon,30,M,W,Fresno,CA,True
 718,Mark Keckhafer,2015-08-07,shot,vehicle,53,M,W,Superior,MT,False
 720,Tsombe Clark,2015-08-07,shot,gun,25,M,B,Greenville,NC,False
@@ -591,7 +592,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 716,Roderick Burr,2015-08-08,shot,gun,33,M,,Brookshire,TX,False
 719,Shamir Terrel Palmer,2015-08-08,shot,gun,24,M,B,Summerville,SC,False
 722,Jeffrey Clyde Wilkes,2015-08-08,shot,gun,,M,,Gastonia,NC,False
-723,Kevin McDaniel,2015-08-08,shot,gun,46,M,,Spokane,WA,False
+723,Kevin McDaniel,2015-08-08,shot,gun,46,M,W,Spokane,WA,False
 715,Andre Green,2015-08-09,shot,vehicle,15,M,B,Indianapolis,IN,False
 717,Eric Tompkins,2015-08-09,shot,gun,41,M,W,Ardmore,OK,True
 724,Robert Patrick Quinn,2015-08-09,shot,toy weapon,77,M,,Pittston,PA,False
@@ -603,3 +604,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 731,TK TK,2015-08-12,shot,gun,24,M,,Oakland,CA,False
 732,TK TK,2015-08-12,shot and Tasered,knife,,F,,Los Angeles,CA,False
 733,TK TK,2015-08-12,shot,gun,,M,,Hemet,CA,False
+735,Reginald Marshall,2015-08-12,shot,gun,27,M,B,Toledo,OH,False
+736,William Smith,2015-08-12,shot,gun,49,M,,Hobbs,NM,False
