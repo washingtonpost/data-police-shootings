@@ -601,8 +601,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 728,Casey Alarcon,2015-08-11,shot,gun,34,M,W,Sandpoint,ID,False
 730,Randall Lance Hughes,2015-08-11,shot and Tasered,knife,48,M,W,Waco,TX,False
 729,Richard Dean Shull Jr.,2015-08-12,shot,gun,24,M,W,Odessa,TX,False
-731,TK TK,2015-08-12,shot,gun,24,M,,Oakland,CA,False
-732,TK TK,2015-08-12,shot and Tasered,knife,,F,,Los Angeles,CA,False
-733,TK TK,2015-08-12,shot,gun,,M,,Hemet,CA,False
+731,Nathaniel Wilks,2015-08-12,shot,gun,27,M,B,Oakland,CA,False
+732,Redel Jones,2015-08-12,shot and Tasered,knife,30,F,B,Los Angeles,CA,False
+733,Anthony Lorenzo Vallejo,2015-08-12,shot,gun,27,M,H,Hemet,CA,False
 735,Reginald Marshall,2015-08-12,shot,gun,27,M,B,Toledo,OH,False
 736,William Smith,2015-08-12,shot,gun,49,M,,Hobbs,NM,False
+738,Garland Tyree,2015-08-14,shot,gun,38,M,B,Staten Island,NY,False
+739,Hector Rene Sorriano Gonzalez,2015-08-14,shot,gun,28,M,H,Boerne,TX,False
+740,Asshams Pharoah Manley,2015-08-14,shot,undetermined,30,M,B,District Heights,MD,False
+741,John Unsworth,2015-08-15,shot and Tasered,undetermined,43,M,,Hanover,IN,False
+742,TK TK,2015-08-15,shot,gun,,M,,Sunnyvale,CA,False
+743,Benjamin Peter  Ashley,2015-08-15,shot,,34,M,,Inyokern,CA,False
+744,Jonathon  Pope,2015-08-15,shot,gun,30,M,,Carson City,NV,False
+745,TK TK,2015-08-16,shot,undetermined,,M,,San Jose,CA,False
+746,TK TK,2015-08-16,shot,gun,,M,,Kerrville,TX,False
