@@ -499,7 +499,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 622,Rocco Joseph Palmisano,2015-07-09,shot,gun,50,M,W,Parowan,UT,False
 623,Robert Hammonds,2015-07-09,shot,gun,68,M,W,Phoenix,AZ,False
 624,Martice Milliner,2015-07-09,shot,gun,27,M,B,Chicago,IL,False
-625,Cyrus Hurtado,2015-07-09,shot,gun,17,M,W,Boulder Creek,CA,False
+625,Cyrus Hurtado,2015-07-09,shot,gun,17,M,W,Boulder Creek,CA,True
 627,TK TK,2015-07-09,shot and Tasered,Taser,38,M,,Los Angeles,CA,False
 634,Javon Hawkins,2015-07-09,shot,sword,21,M,B,Kansas City,MO,False
 626,James Michael Todora,2015-07-10,shot,gun,54,M,W,Las Vegas,NV,True
@@ -548,7 +548,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 673,Tamala Satre,2015-07-23,shot,gun,44,F,W,Meadow Vista,CA,True
 674,Seth  Raines,2015-07-24,shot,gun,44,M,W,Studio City,CA,False
 675,Lee Aaron Gerston,2015-07-24,shot and Tasered,knife,30,M,,Pinnacle,NC,False
-676,Christoper Olmstead,2015-07-25,shot,undetermined,60,M,W,New Orleans,LA,True
+676,Christopher Olmstead,2015-07-25,shot,undetermined,60,M,W,New Orleans,LA,True
 677,Roger Braswell,2015-07-25,shot,gun,50,M,W,Decatur,GA,True
 678,Bryan Keith  Day,2015-07-25,shot,toy weapon,36,M,B,Las Vegas,NV,False
 685,Earl Jackson,2015-07-25,shot,gun,59,M,B,Micanopy,FL,False
@@ -623,3 +623,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 752,Deviere Ernel Ransom,2015-08-19,shot,gun,24,M,B,Bloomfield Township,MI,False
 753,TK TK,2015-08-19,shot,gun,,M,,Hunters,WA,False
 754,Wade Allen Baker,2015-08-19,shot,gun,44,M,,Canton,NC,False
+755,TK TK,2015-08-20,shot and Tasered,unarmed,50,M,W,Tuscaloosa,AL,False
+756,TK TK,2015-08-20,shot,gun,17,M,,Ontario,CA,True
