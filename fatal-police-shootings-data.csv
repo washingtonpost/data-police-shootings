@@ -628,7 +628,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 756,Raul Herrera,2015-08-20,shot,gun,17,M,H,Ontario,CA,True
 758,Timmy Walling,2015-08-21,shot,gun,57,M,,Grapeview,WA,True
 760,Charles S. Hall,2015-08-21,shot,vehicle,30,M,,North East,MD,False
-761,Alan Joseph Runston,2015-08-21,shot,knife,38,M,W,Wake Forest,NC,False
+761,Alan Joseph Rushton,2015-08-21,shot,knife,38,M,W,Wake Forest,NC,False
 762,Adam Schneider,2015-08-22,shot,gun,31,M,,Cohasset,MN,False
 763,Thaddeus Faison,2015-08-22,shot and Tasered,gun,39,M,B,Troy,NY,False
 764,Jason Lee Alderman,2015-08-22,shot,undetermined,29,M,,Bakersfield,CA,False
@@ -636,4 +636,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 766,Kenneth Henry Morgan,2015-08-22,shot,knife,64,M,W,King George,VA,False
 768,Richard Francis Compo,2015-08-23,shot,gun,36,M,W,Jacksonville,FL,True
 769,Christopher Ray Tompkins,2015-08-23,shot,gun,36,M,W,Arab,AL,False
-767,TK TK,2015-08-23,shot,gun,,M,W,Las Vegas,NV,False
+767,William Lee Snider,2015-08-23,shot,gun,57,M,W,Las Vegas,NV,False
