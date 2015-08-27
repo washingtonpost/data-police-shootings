@@ -631,7 +631,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 761,Alan Joseph Rushton,2015-08-21,shot,knife,38,M,W,Wake Forest,NC,False
 762,Adam Schneider,2015-08-22,shot,gun,31,M,,Cohasset,MN,False
 763,Thaddeus Faison,2015-08-22,shot and Tasered,gun,39,M,B,Troy,NY,False
-764,Jason Lee Alderman,2015-08-22,shot,undetermined,29,M,,Bakersfield,CA,False
+764,Jason Lee Alderman,2015-08-22,shot,carjack,29,M,W,Bakersfield,CA,False
 765,Nicholas Garner,2015-08-22,shot,vehicle,26,M,W,Wichita,KS,False
 766,Kenneth Henry Morgan,2015-08-22,shot,knife,64,M,W,King George,VA,False
 768,Richard Francis Compo,2015-08-23,shot,gun,36,M,W,Jacksonville,FL,True
@@ -645,5 +645,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 775,TK TK,2015-08-25,shot,gun,45,M,,Phoenix,AZ,False
 779,Marvin Arroliga,2015-08-25,shot,gun,22,M,H,Miami,FL,False
 776,Steven Dodd,2015-08-26,shot,toy weapon,22,M,W,Hendersonville,TN,True
-777,Brent Pickard,2015-08-26,shot,gun,46,M,W,Dalton,TN,False
+777,Brent Pickard,2015-08-26,shot,gun,46,M,W,Chattanooga,TN,False
 780,Kyle Lambrose,2015-08-26,shot,gun,27,M,W,West Jordan,UT,True
