@@ -647,3 +647,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 776,Steven Dodd,2015-08-26,shot,toy weapon,22,M,W,Hendersonville,TN,True
 777,Brent Pickard,2015-08-26,shot,gun,46,M,W,Chattanooga,TN,False
 780,Kyle Lambrose,2015-08-26,shot,gun,27,M,W,West Jordan,UT,True
+781,TK TK,2015-08-27,shot and Tasered,box cutter,,M,,Dallas,TX,False
+782,TK TK,2015-08-27,shot,chain,,M,,Oakland,CA,False
+783,TK TK,2015-08-27,shot,box cutter,54,M,W,San Diego,CA,False
+784,TK TK,2015-08-27,shot,contractor's level,30,M,,Los Angeles,CA,False
