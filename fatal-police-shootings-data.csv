@@ -651,3 +651,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 782,TK TK,2015-08-27,shot,chain,,M,,Oakland,CA,False
 783,TK TK,2015-08-27,shot,box cutter,54,M,W,San Diego,CA,False
 784,TK TK,2015-08-27,shot,contractor's level,30,M,,Los Angeles,CA,False
+785,TK TK,2015-08-28,shot,undetermined,,M,,Dallas,TX,False
+786,William Evans,2015-08-28,shot,gun,28,M,W,Spanish Fork,UT,True
+788,Felix Kumi,2015-08-28,shot,unarmed,61,M,B,Mount Vernon,NY,False
+787,James Marcus Brown,2015-08-29,shot,gun,25,M,,North Las Vegas,NV,False
+789,Tk Tk,2015-08-29,shot,knife,,M,H,San Antonio,TX,False
+790,Shawn Ripley,2015-08-30,shot,gun,20,M,,Cushing,OK,False
+791,David M.  Leon,2015-08-30,shot,gun,40,M,H,Tucson,AZ,False
