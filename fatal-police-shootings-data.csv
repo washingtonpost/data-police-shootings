@@ -642,19 +642,22 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 770,Marvin Maestas,2015-08-25,shot,gun,30,M,,Santa Fe,NM,False
 773,Curtis Smith,2015-08-25,shot,knife,34,M,B,West Chester,PA,False
 774,Todd Tomlinson,2015-08-25,shot,gun,53,M,W,Thonotosassa,FL,False
-775,TK TK,2015-08-25,shot,gun,45,M,,Phoenix,AZ,False
+775,Shane Rudolph,2015-08-25,shot,gun,45,M,W,Phoenix,AZ,False
 779,Marvin Arroliga,2015-08-25,shot,gun,22,M,H,Miami,FL,False
 776,Steven Dodd,2015-08-26,shot,toy weapon,22,M,W,Hendersonville,TN,True
 777,Brent Pickard,2015-08-26,shot,gun,46,M,W,Chattanooga,TN,False
 780,Kyle Lambrose,2015-08-26,shot,gun,27,M,W,West Jordan,UT,True
 781,Bertrand Davis,2015-08-27,shot and Tasered,box cutter,42,M,,Dallas,TX,False
-782,TK TK,2015-08-27,shot,chain,,M,,Oakland,CA,False
-783,TK TK,2015-08-27,shot,box cutter,54,M,W,San Diego,CA,False
+782,Yonas  Alehegne,2015-08-27,shot,chain,30,M,,Oakland,CA,False
+783,Robert Hober,2015-08-27,shot,box cutter,54,M,W,San Diego,CA,False
 784,TK TK,2015-08-27,shot,contractor's level,30,M,,Los Angeles,CA,False
-785,TK TK,2015-08-28,shot,undetermined,,M,,Dallas,TX,False
+785,Gilbert Flores,2015-08-28,shot,undetermined,41,M,H,Dallas,TX,False
 786,William Evans,2015-08-28,shot,gun,28,M,W,Spanish Fork,UT,True
 788,Felix Kumi,2015-08-28,shot,unarmed,61,M,B,Mount Vernon,NY,False
+793,Devin Brian Dial,2015-08-28,shot,gun,23,M,W,Longview,TX,False
 787,James Marcus Brown,2015-08-29,shot,gun,25,M,,North Las Vegas,NV,False
-789,Tk Tk,2015-08-29,shot,knife,,M,H,San Antonio,TX,False
-790,Shawn Ripley,2015-08-30,shot,gun,20,M,,Cushing,OK,False
+789,Roger Albrecht,2015-08-29,shot,knife,,M,,San Antonio,TX,False
+790,Shawn Hall,2015-08-30,shot,gun,20,M,,Cushing,OK,False
 791,David M.  Leon,2015-08-30,shot,gun,40,M,H,Tucson,AZ,False
+792,TK TK,2015-08-31,shot,knife,,M,,Loveland,CO,False
+794,TK TK,2015-09-01,shot,guns and explosives,,M,,Bluefield,WV,False
