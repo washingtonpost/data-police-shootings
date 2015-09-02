@@ -180,6 +180,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 277,James Greenwell,2015-03-11,shot,gun,31,M,W,Memphis,TN,True
 279,Benito Osorio,2015-03-11,shot,gun,39,M,H,Santa Ana,CA,False
 281,Ryan Dean Burgess,2015-03-11,shot,toy weapon,31,M,W,Kingman,AZ,False
+796,Aaron Valdez,2015-03-11,shot,vehicle,25,M,H,Los Angeles,CA,False
 307,Gilbert Fleury,2015-03-11,shot,gun,54,M,W,Bay Minette,AL,False
 581,William Russell  Smith,2015-03-11,shot,gun,53,M,W,Hoover,AL,True
 248,Terry Garnett Jr.,2015-03-11,shot,vehicle,37,M,B,Elkton,MD,False
@@ -657,7 +658,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 793,Devin Brian Dial,2015-08-28,shot,gun,23,M,W,Longview,TX,False
 787,James Marcus Brown,2015-08-29,shot,gun,25,M,,North Las Vegas,NV,False
 789,Roger Albrecht,2015-08-29,shot,knife,,M,,San Antonio,TX,False
+795,Rafael Cruz Jr,2015-08-29,shot,unarmed,29,M,H,Chicago,IL,False
 790,Shawn Hall,2015-08-30,shot,gun,20,M,,Cushing,OK,False
 791,David M.  Leon,2015-08-30,shot,gun,40,M,H,Tucson,AZ,False
-792,TK TK,2015-08-31,shot,knife,,M,,Loveland,CO,False
-794,TK TK,2015-09-01,shot,guns and explosives,,M,,Bluefield,WV,False
+792,William Ripley,2015-08-31,shot,knife,45,M,W,Loveland,CO,False
+794,Cedric Maurice Williams,2015-09-01,shot,guns and explosives,33,M,,Bluefield,WV,False
+797,Charles Robert Shaw,2015-09-01,shot,gun,76,M,W,Twinsburg,OH,False
+798,Evan Michael Todd,2015-09-01,shot,undetermined,47,M,,Artesia,NM,False
