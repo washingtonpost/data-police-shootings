@@ -673,11 +673,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 805,Trevon Briggs,2015-09-05,shot,gun,21,M,B,Durham,NC,True
 806,TK Tk,2015-09-05,shot,metal pipe,,M,,Ontario,CA,False
 807,Angelo Delano Perry,2015-09-05,shot,gun,35,M,B,Virginia Beach,VA,False
-808,India  Kager,2015-09-05,shot,unarmed,28,F,,Virginia Beach,VA,False
+808,India  Kager,2015-09-05,shot,unarmed,28,F,B,Virginia Beach,VA,False
 809,Carlos  Yero,2015-09-06,shot,gun,59,M,H,Little Havana,FL,False
 810,Mohamed Ibrahim,2015-09-06,shot,gun,28,M,B,Shreveport,LA,True
-811,William Verrett,2015-09-06,shot,gun,45,M,,Hobbs,NM,False
+811,William Verrett,2015-09-06,shot,gun,45,M,W,Hobbs,NM,False
 813,Casimero Carlos Casillas,2015-09-07,shot,metal pipe,45,M,H,Fresno,CA,False
 812,TK TK,2015-09-09,shot,gun,,M,,Ashwaubenon,WI,False
 815,Tyrone Holman,2015-09-09,shot,guns and explosives,37,M,B,Kansas City,MO,True
 816,TK TK,2015-09-09,shot,gun,,M,,Fairbanks,AK,False
+817,TK TK,2015-09-10,shot,knife,,M,A,Potsdam,NY,False
+818,TK TK,2015-09-10,shot,knife,,M,,Fontana,CA,False
+819,Brandon Foy,2015-09-10,shot,gun,29,,,Indianapolis,IN,False
+820, Austin Wilburly  Reid,2015-09-10,shot,gun,32,M,W,Lodi,CA,False
