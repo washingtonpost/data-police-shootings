@@ -688,9 +688,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 823,Eddie Tapia,2015-09-10,shot,gun,41,M,H,Downey,CA,False
 826,Gregory A. Runkle,2015-09-10,shot,gun,31,M,,Groveport,OH,False
 824,TK TK,2015-09-11,shot,gun,,M,,Chester,PA,False
+831,Phillip Pfleghardt,2015-09-11,shot,gun,44,M,W,Broomfield,CO,False
 822,Derick Davis,2015-09-12,shot,undetermined,23,M,W,Sylacauga,AL,False
 821,Martin Francis Hammen,2015-09-13,shot,gun,39,M,,Wellman,IA,True
 825,Clifford Butler,2015-09-13,shot,gun,67,M,B,McAlester,OK,False
 827,Jeffrey Eugene Brooks,2015-09-13,shot,gun,29,M,W,Clute,TX,False
 828,Joseph Thompson Johnson-Shanks,2015-09-14,shot,gun,25,M,B,Princeton,KY,False
-829,TK TK,2015-09-14,shot,unarmed,28,M,,Barstow,CA,True
+829,TK TK,2015-09-14,shot,undetermined,28,M,,Barstow,CA,True
+830,Tyrone Bass,2015-09-15,shot,unknown weapon,21,M,B,Chalmette,LA,False
+832,Florencio  Chaidez,2015-09-15,shot,gun,32,M,,Panorama City,CA,False
+833,Jorge  Suarez- Ruiz,2015-09-15,shot,undetermined,51,M,H,Miami,FL,True
