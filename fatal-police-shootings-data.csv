@@ -671,7 +671,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 803,Sully Ranier,2015-09-04,shot,gun,36,M,W,Springtown,TX,False
 804,Harrison Lambert,2015-09-04,shot,knife,23,M,W,Merrimack,NH,True
 805,Trevon Briggs,2015-09-05,shot,gun,21,M,B,Durham,NC,True
-806,Luis Wenceslao,2015-09-05,shot,metal pipe,32,M,,Ontario,CA,False
+806,Luis Wenceslao,2015-09-05,shot,metal pipe,32,M,H,Ontario,CA,False
 807,Angelo Delano Perry,2015-09-05,shot,gun,35,M,B,Virginia Beach,VA,False
 808,India  Kager,2015-09-05,shot,unarmed,28,F,B,Virginia Beach,VA,False
 809,Carlos  Yero,2015-09-06,shot,gun,59,M,H,Little Havana,FL,False
@@ -701,13 +701,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 833,Jorge  Suarez-Ruiz,2015-09-15,shot,undetermined,51,M,H,Miami,FL,True
 834,Carlos Wilhelm,2015-09-15,shot,gun,39,M,,Los Angeles,CA,False
 837,Bobby R. Anderson,2015-09-15,shot,gun,27,M,B,Alexandria,LA,False
-835,Rory Lynn Gunderman,2015-09-16,shot,gun,31,M,,Lead,SD,False
+835,Rory Lynn Gunderman,2015-09-16,shot,gun,31,M,W,Lead,SD,False
 838,Mark Gary,2015-09-17,shot,gun,50,M,,Beaverton,MI,False
 839,Lawrence Price,2015-09-17,shot,gun,,M,,Brodhead,KY,False
-844,Gregory Herrell,2015-09-18,shot,undetermined,47,M,,Dickson,TN,False
+844,Gregory Herrell,2015-09-18,shot,undetermined,47,M,W,Dickson,TN,False
 842,Lucien Rolland,2015-09-19,shot,gun,46,M,W,Slidell,LA,False
 846,Scott Beech,2015-09-19,shot,gun,57,M,W,Washington County,AL,False
 841,David Sean Owens,2015-09-20,shot,gun,28,M,,Grovetown,GA,True
 845,Matthew Thomas Pierce,2015-09-20,shot,gun,23,M,,Harrisonburg,VA,False
 847,Jerrald Wright,2015-09-20,shot,gun,56,M,W,Shelbyville,IN,False
-840,TK TK,2015-09-21,shot,gun,,M,,Dallas,TX,False
+840,Gerardo Ramirez,2015-09-21,shot,gun,24,M,H,Dallas,TX,False
+848,TK TK,2015-09-21,shot,gun,,M,,Sand City,CA,False
+849,Tk Tk,2015-09-21,shot,gun,,M,,Sand City,CA,False
+850,Tk Tk,2015-09-21,shot and Tasered,undetermined,,M,,Paris,TX,False
+851,Timothy  Wagner,2015-09-21,shot,gun,26,M,,Barberville,FL,False
+852,Dominic Fuller,2015-09-21,shot,stapler,34,M,H,Auburndale,FL,False
+853,TK TK,2015-09-22,shot,gun,,M,,Oakland,CA,False
