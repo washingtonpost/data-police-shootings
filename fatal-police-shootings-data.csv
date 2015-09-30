@@ -626,7 +626,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 754,Wade Allen Baker,2015-08-19,shot,gun,44,M,W,Canton,NC,True
 755,Jeffory Ray Tevis,2015-08-20,shot and Tasered,unarmed,50,M,W,Tuscaloosa,AL,True
 756,Raul Herrera,2015-08-20,shot,gun,17,M,H,Ontario,CA,True
-758,Timmy Walling,2015-08-21,shot,gun,57,M,,Grapeview,WA,True
+758,Timmy Walling,2015-08-21,shot,gun,57,M,W,Grapeview,WA,True
 760,Charles S. Hall,2015-08-21,shot,vehicle,30,M,W,North East,MD,False
 761,Alan Joseph Rushton,2015-08-21,shot,knife,38,M,W,Wake Forest,NC,False
 762,Adam Schneider,2015-08-22,shot,gun,31,M,W,Cohasset,MN,False
@@ -648,7 +648,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 777,Brent Pickard,2015-08-26,shot,gun,46,M,W,Chattanooga,TN,False
 780,Kyle Lambrose,2015-08-26,shot,gun,27,M,W,West Jordan,UT,True
 781,Bertrand Davis,2015-08-27,shot and Tasered,box cutter,42,M,B,Dallas,TX,False
-782,Yonas  Alehegne,2015-08-27,shot,chain,30,M,,Oakland,CA,False
+782,Yonas  Alehegne,2015-08-27,shot,chain,30,M,B,Oakland,CA,False
 783,Robert Hober,2015-08-27,shot,box cutter,54,M,W,San Diego,CA,False
 784,TK TK,2015-08-27,shot,contractor's level,30,M,,Los Angeles,CA,False
 785,Gilbert Flores,2015-08-28,shot,undetermined,41,M,H,Dallas,TX,False
@@ -730,10 +730,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 865,Philip Quinn,2015-09-24,shot,screwdriver,30,M,O,St. Paul,MN,True
 866,William Lemmon,2015-09-25,shot,unarmed,21,M,W,Akron,OH,False
 867,James Anderson,2015-09-25,shot and Tasered,box cutter,33,M,B,Chicago,IL,False
-868,TK TK,2015-09-25,shot,gun,45,M,,Wilhoit,AZ,False
+868,Jeffrey Blood,2015-09-25,shot,gun,45,M,W,Wilhoit,AZ,False
 869,Anthony McKinney,2015-09-26,shot,knife,46,M,B,Baton Rouge,LA,False
 870,TK TK,2015-09-26,shot,gun,,M,,Lovington,NM,False
 871,Norma Angelica Guzman,2015-09-27,shot,knife,37,F,H,Los Angeles,CA,True
 874,Christopher Shell,2015-09-27,shot,gun,43,M,,Rossville,GA,False
-872,Junior Prosper,2015-09-28,shot and Tasered,unarmed,31,M,,Miami,FL,False
+875,Victor Oswaldo Coronado-Martinez,2015-09-27,shot,gun,40,M,H,Ponder,TX,False
+872,Junior Prosper,2015-09-28,shot and Tasered,unarmed,31,M,B,Miami,FL,False
 873,TK TK,2015-09-28,shot,gun,59,M,,San Ysidro,CA,False
