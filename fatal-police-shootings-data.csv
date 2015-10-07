@@ -20,7 +20,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 37,Thomas Hamby,2015-01-08,shot,gun,49,M,W,Syracuse,UT,False
 38,Jimmy Foreman,2015-01-09,shot,gun,71,M,W,England,AR,False
 325,Andy Martinez,2015-01-09,shot,gun,33,M,H,El Paso,TX,False
-42,Tommy Smith,2015-01-11,shot,gun,39,M,W,Arcola,IL,False
+42,Tommy Smith,2015-01-11,shot,gun,39,M,W,Arcola,IL,True
 43,Brian  Barbosa,2015-01-11,shot,gun,23,M,H,South Gate,CA,False
 45,Salvador Figueroa,2015-01-11,shot and Tasered,gun,29,M,H,North Las Vegas,NV,False
 46,John Edward O'Keefe,2015-01-13,shot,gun,34,M,W,Albuquerque,NM,False
@@ -598,7 +598,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 723,Kevin McDaniel,2015-08-08,shot,gun,46,M,W,Spokane,WA,False
 715,Andre Green,2015-08-09,shot,vehicle,15,M,B,Indianapolis,IN,False
 717,Eric Tompkins,2015-08-09,shot,gun,41,M,W,Ardmore,OK,True
-724,Robert Patrick Quinn,2015-08-09,shot,toy weapon,77,M,,Pittston,PA,False
+724,Robert Patrick Quinn,2015-08-09,shot,toy weapon,77,M,,Pittston,PA,True
 727,Edrian Rivera,2015-08-09,shot,meat cleaver,22,M,H,San Jose,CA,False
 725,Richard Tyler Young,2015-08-10,shot,vehicle,24,M,W,Gilbert,AZ,False
 728,Casey Alarcon,2015-08-11,shot,gun,34,M,W,Sandpoint,ID,False
@@ -710,7 +710,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 839,Lawrence Price,2015-09-17,shot,gun,,M,,Brodhead,KY,False
 844,Gregory Herrell,2015-09-18,shot,undetermined,47,M,W,Dickson,TN,False
 842,Lucien Rolland,2015-09-19,shot,gun,46,M,W,Slidell,LA,False
-846,Scott Beech,2015-09-19,shot,gun,57,M,W,Washington County,AL,False
+846,Scott Beech,2015-09-19,shot,gun,57,M,W,Washington County,AL,True
 841,David Sean Owens,2015-09-20,shot,gun,28,M,,Grovetown,GA,True
 845,Michael Thomas Pierce,2015-09-20,shot,gun,23,M,W,Harrisonburg,VA,False
 847,Jerrald Wright,2015-09-20,shot,gun,56,M,W,Shelbyville,IN,False
@@ -750,8 +750,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 889,TK TK,2015-10-02,shot and Tasered,knife,,M,,Rialto,CA,False
 890,Phyllis Ilene Jepsen,2015-10-02,shot,knife,55,F,,Aloha,OR,True
 892,Matthew Dobbins,2015-10-02,shot,undetermined,29,M,W,Amarillo,TX,False
-886,TK TK,2015-10-04,shot,undetermined,,M,,Van Nuys,CA,False
+886,TK TK,2015-10-04,shot,beer bottle,,M,,Van Nuys,CA,False
 887,Eric Edgil,2015-10-04,shot,gun,27,M,W,Muscle Shoals,AL,True
 891,Jeffery McCallum,2015-10-04,shot,gun,31,M,B,Chicago,IL,False
 893,James  Dunaway,2015-10-05,shot,undetermined,51,M,,Hurst,TX,False
 894,Rodney Jencsik,2015-10-05,shot,gun,50,M,W,Woodbridge,NJ,False
+895,Omar Ali,2015-10-05,shot,unarmed,27,M,O,Akron,OH,False
+896,TK TK,2015-10-06,shot,gun,,M,,Monterey,CA,False
