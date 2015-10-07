@@ -38,7 +38,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 64,Nathan Massey,2015-01-15,shot,gun,33,M,W,Evangeline Parish,LA,False
 67,Scott Hall,2015-01-16,shot,gun,41,M,W,Mabank,TX,False
 68,Zaki Shinwary,2015-01-16,shot and Tasered,knife,48,M,O,Fremont,CA,False
-74,Terence Walker,2015-01-17,shot,gun,21,M,B,Muskogee,OK,False
 75,Pablo Meza,2015-01-17,shot,gun,24,M,H,Los Angeles,CA,False
 78,Daniel Brumley,2015-01-17,shot,knife,27,M,H,Fort Worth,TX,False
 80,Jonathan Guillory,2015-01-18,shot,gun,32,M,W,Maricopa,AZ,True
