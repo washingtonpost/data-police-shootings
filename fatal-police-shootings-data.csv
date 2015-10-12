@@ -497,7 +497,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 617,Nicholas Booth,2015-07-07,shot,gun,35,M,W,Sugar Creek,MO,False
 618,Joshua Blough,2015-07-07,shot,knife,28,M,W,Elizabethtown,KY,False
 620,Michael Terence Westrich,2015-07-08,shot,gun,59,M,W,Beaverton,OR,False
-621,Dallas Shatley,2015-07-08,shot,undetermined,62,M,W,Ashe County,NC,False
+621,Dallas Shatley,2015-07-08,shot,vehicle,62,M,W,Ashe County,NC,False
 622,Rocco Joseph Palmisano,2015-07-09,shot,gun,50,M,W,Parowan,UT,False
 623,Robert Hammonds,2015-07-09,shot,gun,68,M,W,Phoenix,AZ,False
 624,Martice Milliner,2015-07-09,shot,gun,27,M,B,Chicago,IL,False
