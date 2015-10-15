@@ -353,7 +353,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 441,D'Angelo Stallworth,2015-05-12,shot,gun,28,M,B,Jacksonville,FL,False
 449,Bruce Zalonka,2015-05-12,shot and Tasered,gun,46,M,O,Honolulu,HI,False
 450,Alec Ouzounian,2015-05-12,shot,undetermined,40,M,W,Rancho Santa Margarita,CA,True
-448,Cesar Enriquez,2015-05-13,shot,gun,27,M,H,Mesa,AZ,False
 456,Sean Michael Pelletier,2015-05-14,shot,gun,37,M,W,Portage,MI,True
 470,Cary Martin,2015-05-14,shot,gun,53,M,W,St. Augustine,FL,True
 460,Mark Farrar,2015-05-15,shot,gun,41,M,W,Rockford,IL,True
@@ -758,14 +757,21 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 897,Amado Lago,2015-10-07,shot,machete,46,M,H,West Palm Beach,FL,False
 898,Gary Carmona Boitano,2015-10-09,shot,knife,19,M,B,Columbia,MD,False
 910,Margaret Wagner,2015-10-09,shot,gun,62,,,Aguanga,CA,False
-902,TK TK,2015-10-10,shot,vehicle,49,M,,Beverly,MA,True
+902,Christopher Whitmarsh,2015-10-10,shot,vehicle,49,M,,Beverly,MA,True
 903,Richard Love,2015-10-10,shot,gun,31,M,W,Old Saybrook,CT,False
-904,TK TK,2015-10-10,shot,vehicle,,M,W,Pinion Hills,CA,False
+904,William Combs,2015-10-10,shot,vehicle,38,M,W,Pinion Hills,CA,True
 905,Travis Quay,2015-10-10,shot,crossbow,40,M,W,Cato Township,MI,False
 906,Anthony Aguilar,2015-10-10,shot and Tasered,undetermined,35,M,H,Lisle,IL,False
 899,Joe Pasquez Ortiz,2015-10-11,shot,undetermined,34,M,H,San Bernardino,CA,False
 900,Kevin Lau,2015-10-11,shot,gun,44,M,A,Lakes Charles,LA,False
-901,TK TK,2015-10-11,shot,gun,,M,,Taylors,SC,False
+901,Bernard Brandon Powers,2015-10-11,shot,gun,23,M,B,Taylors,SC,False
 907,Robert Humberto Medellin,2015-10-11,shot,machete,43,M,H,West Odessa,TX,False
 908,TK TK,2015-10-12,shot,gun,,M,B,Lawton,OK,False
 909,Rudolph Smith,2015-10-12,shot,gun,31,M,,Brookhaven,MS,False
+912,Brent  Brannon,2015-10-14,shot,gun,27,M,,Emerson,GA,False
+913,Michelle Marie Burg,2015-10-14,shot,gun,46,F,W,Naples,FL,True
+914,TK Tk,2015-10-14,shot,vehicle,,M,,Indio,CA,False
+915,Michael Donald Clark,2015-10-14,shot,gun,59,M,,Seaside,CA,False
+918,Tk Tk,2015-10-14,shot,gun,,M,,Monroeville,AL,False
+916,TK TK,2015-10-15,shot,undetermined,,M,,Miami,FL,False
+917,TK TK,2015-10-15,shot,gun,,M,,Columbus,OH,False
