@@ -362,7 +362,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 459,Austin Goodner,2015-05-17,shot,gun,18,M,W,St. Petersburg,FL,True
 461,Timothy Jones,2015-05-17,shot,sword,27,M,W,Ruidoso,NM,False
 457,Alfredo  Rials-Torres,2015-05-19,shot,unarmed,54,M,H,Arlington,VA,False
-464,Jonathan Macintosh,2015-05-19,shot,gun,35,M,W,Cabot,AR,False
+464,Jonathan McIntosh,2015-05-19,shot,gun,35,M,W,Cabot,AR,False
 465,David  Gaines,2015-05-19,shot,gun,17,M,W,Grand Junction,CO,False
 466,Anthony Gomez,2015-05-20,shot,gun,29,M,B,Lancaster,PA,False
 467,Jonathan  Colley,2015-05-20,shot and Tasered,knife,52,M,W,Green,OH,False
@@ -770,8 +770,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 909,Rudolph Smith,2015-10-12,shot,gun,31,M,,Brookhaven,MS,False
 912,Brent  Brannon,2015-10-14,shot,gun,27,M,,Cartersville,GA,False
 913,Michelle Marie Burg,2015-10-14,shot,gun,46,F,W,Naples,FL,True
-914,TK Tk,2015-10-14,shot,vehicle,,M,,Indio,CA,False
+914,Samuel Villarreal,2015-10-14,shot,vehicle,18,M,H,Indio,CA,False
 915,Michael Donald Clark,2015-10-14,shot,gun,59,M,,Seaside,CA,False
 918,Tk Tk,2015-10-14,shot,gun,,M,,Monroeville,AL,False
-916,TK TK,2015-10-15,shot,undetermined,,M,,Miami,FL,False
-917,TK TK,2015-10-15,shot,gun,,M,,Columbus,OH,False
+916,Jorge Santiago Tapia,2015-10-15,shot,undetermined,15,M,H,Miami,FL,False
+917,Kaleb Alexander,2015-10-15,shot,gun,25,M,B,Columbus,OH,False
+919,Tk Tk,2015-10-15,shot,gun,,F,,Las Vegas,NV,False
+920,Michael J.  Brennan,2015-10-15,shot,undetermined,31,M,,Parma,OH,False
+921,TK TK,2015-10-15,shot,gun,,M,,Kirkland,WA,False
+922,TK TK,2015-10-15,shot,gun,,M,,San Francisco,CA,False
+923,Tk TK,2015-10-15,shot,gun,,M,,Houston,TX,False
+924,TK TK,2015-10-16,shot,undetermined,,M,H,Valinda,CA,False
