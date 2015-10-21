@@ -101,7 +101,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 137,Desmond Luster,2015-02-09,shot,gun,45,M,B,Dallas,TX,False
 138,Antonio Zambrano-Montes,2015-02-10,shot and Tasered,unarmed,35,M,H,Pasco,WA,True
 139,Anthony Bess,2015-02-10,shot,gun,49,M,B,Whitehaven,TN,False
-140,Brian Fritze,2015-02-10,shot,gun,45,M,W,New Castle,CO,False
+140,Brian Fritze,2015-02-10,shot,gun,45,M,W,New Castle,CO,True
 141,Phillip Watkins,2015-02-11,shot,knife,23,M,B,San Jose,CA,True
 142,Fletcher Ray Stewart,2015-02-11,shot,toy weapon,46,M,W,Dadeville,AL,True
 145,Jonathan Larry Harden,2015-02-13,shot,vehicle,23,M,W,San Bernardino,CA,False
@@ -778,7 +778,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 919,Linda Lee Lush,2015-10-15,shot,gun,50,F,W,Las Vegas,NV,False
 920,Michael J.  Brennan,2015-10-15,shot,undetermined,31,M,,Parma,OH,False
 921,TK TK,2015-10-15,shot,gun,,M,,Kirkland,WA,False
-922,Herbet Benitz,2015-10-15,shot,gun,27,M,H,San Francisco,CA,False
+922,Herbert Benitz,2015-10-15,shot,gun,27,M,H,San Francisco,CA,False
 923,Tk TK,2015-10-15,shot,gun,,M,,Houston,TX,False
 924,Johnny Angel Rangel,2015-10-16,shot,undetermined,27,M,H,Valinda,CA,False
 926,Jason Foreman,2015-10-16,shot,gun,45,M,,Barrow County,GA,False
@@ -788,3 +788,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 931,Corey Jones,2015-10-18,shot,undetermined,31,M,B,Palm Beach Gardens,FL,False
 932,Krikor Ekizian,2015-10-18,shot,knife,28,M,W,Fresno,CA,False
 934,TK TK,2015-10-19,shot,vehicle,,M,,Los Angeles,CA,False
+935,Roger D.  Hall,2015-10-20,shot,toy weapon,30,M,W,Louisville,KY,False
+936,Tk Tk,2015-10-20,shot,gun,39,M,,San Diego,CA,False
+937,TK Tk,2015-10-20,shot,gun,,M,,Truth or Consequences,NM,False
+938,Darien Greenwood,2015-10-20,shot,knife,30,,,Mandeville,LA,False
+939,Jonathan Tyler Gossman,2015-10-20,shot,gun,21,M,,Cedar Rapids,IA,False
