@@ -574,7 +574,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 697,Antonio Clements,2015-08-03,shot,gun,49,M,B,Oakland,CA,False
 698,Joshua Malave,2015-08-03,shot,gun,18,M,W,Campbelltown,PA,False
 699,Franklin Short,2015-08-03,shot,gun,71,M,W,Powhatan County,VA,False
-700,Ruble Shawn,2015-08-03,shot,gun,35,M,W,Muncie,IN,True
+700,Shawn Ruble,2015-08-03,shot,gun,35,M,W,Muncie,IN,True
 701,Daniel Robert Avila,2015-08-04,shot,undetermined,55,M,H,San Diego County,CA,True
 702,Darius D. Graves,2015-08-04,shot,gun,31,M,B,Rantoul,IL,True
 703,Tyler Alexander Dattilo,2015-08-05,shot,knife,18,M,W,Louisville,KY,False
@@ -789,9 +789,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 932,Krikor Ekizian,2015-10-18,shot,knife,28,M,W,Fresno,CA,False
 934,TK TK,2015-10-19,shot,vehicle,,M,,Los Angeles,CA,False
 935,Roger D.  Hall,2015-10-20,shot,toy weapon,30,M,W,Louisville,KY,False
-936,Tk Tk,2015-10-20,shot,gun,39,M,,San Diego,CA,False
+936,Lamontez Jones,2015-10-20,shot,toy weapon,39,M,,San Diego,CA,False
 937,TK Tk,2015-10-20,shot,gun,,M,,Truth or Consequences,NM,False
 938,Darien Greenwood,2015-10-20,shot,knife,30,M,,Mandeville,LA,False
 939,Jonathan Tyler Gossman,2015-10-20,shot,gun,21,M,,Cedar Rapids,IA,False
-940,TK TK,2015-10-21,shot,knife,,M,,Calexico,CA,False
+940,Miguel Angel Marin Galena,2015-10-21,shot,knife,35,M,H,Calexico,CA,False
 941,Ryan Christopher Rodriguez,2015-10-21,shot,unarmed,21,M,H,West Goshen,CA,True
+944,TK TK,2015-10-21,shot,gun,47,M,,Kentwood,MI,True
+943,Lawrence  Green,2015-10-22,shot,knife,38,M,W,Shreveport,LA,False
+945,TK TK,2015-10-22,shot,gun,36,M,B,Carmichael,CA,False
+946,TK TK,2015-10-22,shot,gun,,M,,Pine Top,KY,False
