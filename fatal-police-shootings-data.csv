@@ -799,3 +799,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 943,Lawrence  Green,2015-10-22,shot,knife,38,M,B,Shreveport,LA,False
 945,Adriene Jamarr Ludd,2015-10-22,shot,gun,36,M,B,Carmichael,CA,False
 946,TK TK,2015-10-22,shot,gun,,M,,Pine Top,KY,False
+947,TK TK,2015-10-24,shot,gun,,M,,Highgrove,CA,False
+948,Rolly Thomas,2015-10-24,shot,gun,,M,,Cape Coral,FL,False
+950,Dominic Hutchinson,2015-10-24,shot,undetermined,30,M,,Cathedral City,CA,False
+951,TK TK,2015-10-24,shot,gun,,M,,Zanesville,OH,True
+952,Darron Myron Fude,2015-10-24,shot,gun,47,M,,Paddock Lake,WI,False
+953,TK TK,2015-10-24,shot,undetermined,,M,,Kenai Peninsula,AK,False
+949,John Harley Turner,2015-10-25,shot,gun,36,M,W,Talking Rock,GA,False
+954,TK TK,2015-10-26,shot,vehicle,,M,,Frederick,MD,False
+955,TK TK,2015-10-26,shot,gun,,M,,Washington,DC,False
