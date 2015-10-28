@@ -717,7 +717,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 850,Steven McKenny,2015-09-21,shot and Tasered,unarmed,21,M,W,Paris,TX,False
 851,Timothy  Wagner,2015-09-21,shot,gun,26,M,W,Barberville,FL,False
 852,Dominic Fuller,2015-09-21,shot,stapler,34,M,H,Auburndale,FL,False
-853,TK TK,2015-09-22,shot,gun,,M,,Oakland,CA,False
+853,Dante Osborne,2015-09-22,shot,gun,32,M,B,Oakland,CA,False
 854,Joel Dixon Smith,2015-09-22,shot,gun,33,M,W,Niceville,FL,False
 855,Tim Kyle Torngren,2015-09-22,shot,gun,55,M,,Happy Valley,CA,True
 856,Donaven Kyle Anderson,2015-09-22,shot,gun,26,M,,North Las Vegas,NV,False
@@ -734,12 +734,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 867,James Anderson,2015-09-25,shot and Tasered,box cutter,33,M,B,Chicago,IL,False
 868,Jeffrey Blood,2015-09-25,shot,gun,45,M,W,Wilhoit,AZ,False
 869,Anthony McKinney,2015-09-26,shot,knife,46,M,B,Baton Rouge,LA,False
-870,TK TK,2015-09-26,shot,gun,,M,,Lovington,NM,False
+870,Alejandro Lerma,2015-09-26,shot,gun,23,M,H,Lovington,NM,False
 871,Norma Angelica Guzman,2015-09-27,shot,knife,37,F,H,Los Angeles,CA,True
 874,Christopher Shell,2015-09-27,shot,gun,43,M,,Rossville,GA,False
 875,Victor Oswaldo Coronado-Martinez,2015-09-27,shot,gun,40,M,H,Ponder,TX,False
 872,Junior Prosper,2015-09-28,shot and Tasered,unarmed,31,M,B,Miami,FL,False
-873,TK TK,2015-09-28,shot,gun,59,M,,San Ysidro,CA,False
+873,Alberto Hernandez,2015-09-28,shot,toy weapon,59,M,H,San Ysidro,CA,False
 877,Patrick Stephen Lundstrom,2015-09-29,shot,blunt object,46,M,N,Rapid City,SD,False
 880,Robert  Christen,2015-09-29,shot,unarmed,37,M,W,Mora,MN,False
 876,Brandon Lamar Johnson,2015-09-30,shot,gun,28,M,B,Beckley,WV,False
@@ -767,13 +767,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 900,Kevin Lau,2015-10-11,shot,gun,44,M,A,Lakes Charles,LA,False
 901,Bernard Brandon Powers,2015-10-11,shot,gun,23,M,B,Taylors,SC,False
 907,Robert Humberto Medellin,2015-10-11,shot,machete,43,M,H,West Odessa,TX,False
-908,TK TK,2015-10-12,shot,gun,,M,B,Lawton,OK,False
+908,Jason Day,2015-10-12,shot,gun,,M,B,Lawton,OK,False
 909,Rudolph Smith,2015-10-12,shot,gun,31,M,W,Brookhaven,MS,False
 912,Brent  Brannon,2015-10-14,shot,gun,27,M,W,Cartersville,GA,False
 913,Michelle Marie Burg,2015-10-14,shot,gun,46,F,W,Naples,FL,True
 914,Samuel Villarreal,2015-10-14,shot,vehicle,18,M,H,Indio,CA,False
 915,Michael Donald Clark,2015-10-14,shot,gun,59,M,,Seaside,CA,False
-918,Tk Tk,2015-10-14,shot,gun,,M,,Monroeville,AL,False
+918,Leslie Portis,2015-10-14,shot,gun,,M,B,Monroeville,AL,False
 916,Jorge Santiago Tapia,2015-10-15,shot,gun,15,M,H,Miami,FL,False
 917,Kaleb Alexander,2015-10-15,shot,gun,25,M,B,Columbus,OH,False
 919,Linda Lee Lush,2015-10-15,shot,gun,50,F,W,Las Vegas,NV,False
