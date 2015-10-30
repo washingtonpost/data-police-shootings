@@ -437,7 +437,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 551,Zane Terryn,2015-06-14,shot,gun,15,M,W,Cocoa,FL,True
 550,Kris Jackson,2015-06-15,shot,unarmed,22,M,B,South Lake Tahoe,CA,False
 559,Christopher DeLeon,2015-06-16,shot,gun,28,M,H,Visalia,CA,False
-563,Joe Charboneau,2015-06-16,shot,undetermined,31,M,N,Wood Lake,ND,False
+563,Joe Charboneau,2015-06-16,shot,gun,31,M,N,Wood Lake,ND,False
 557,Wendy Chappell,2015-06-17,shot,gun,40,F,W,Clanton,AL,False
 561,Kenneth Lanphier,2015-06-17,shot,gun,48,M,W,Hobbs,NM,True
 564,Oleg Tcherniak,2015-06-18,shot,knife,58,M,W,Coney Island,NY,False
@@ -776,7 +776,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 918,Leslie Portis,2015-10-14,shot,gun,,M,B,Monroeville,AL,False
 916,Jorge Santiago Tapia,2015-10-15,shot,gun,15,M,H,Miami,FL,False
 917,Kaleb Alexander,2015-10-15,shot,gun,25,M,B,Columbus,OH,False
-919,Linda Lee Lush,2015-10-15,shot,gun,50,F,W,Las Vegas,NV,False
+919,Linda Lee Lush,2015-10-15,shot,gun,50,F,W,Las Vegas,NV,True
 920,Michael J.  Brennan,2015-10-15,shot,undetermined,31,M,W,Parma,OH,False
 921,TK TK,2015-10-15,shot,gun,,M,,Kirkland,WA,False
 922,Herbert Benitz,2015-10-15,shot,gun,27,M,H,San Francisco,CA,False
@@ -787,7 +787,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 929,Tk TK,2015-10-17,shot,gun,,M,,Modesto,CA,False
 930,Dequan Williams,2015-10-17,shot and Tasered,knife,28,M,B,York,PA,True
 931,Corey Jones,2015-10-18,shot,undetermined,31,M,B,Palm Beach Gardens,FL,False
-932,Krikor Ekizian,2015-10-18,shot,knife,28,M,W,Fresno,CA,False
+932,Krikor Ekizian,2015-10-18,shot,knife,28,M,W,Fresno,CA,True
 934,TK TK,2015-10-19,shot,vehicle,,M,,Los Angeles,CA,False
 935,Roger D.  Hall,2015-10-20,shot,toy weapon,30,M,W,Louisville,KY,False
 936,Lamontez Jones,2015-10-20,shot,toy weapon,39,M,B,San Diego,CA,False
@@ -817,6 +817,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 962,Jasper Levi Adams,2015-10-28,shot,gun,35,M,W,Salem,OR,False
 963,Andrew Dehart,2015-10-28,shot,gun,36,M,W,Seaside,OR,False
 964,Deaunte Lamar Bell,2015-10-29,shot,gun,,M,B,Columbus,OH,False
-965,Allen Swader,2015-10-29,shot,gun,18,M,,Hohenwald,TN,False
-966,Floyd Cook,2015-10-30,shot,gun,62,M,W,Burkesville,KY,False
+965,Allen Quintez Swader,2015-10-29,shot,gun,18,M,,Hohenwald,TN,False
+966,Floyd Ray Cook,2015-10-30,shot,gun,62,M,W,Burkesville,KY,False
 967,Mario Martinez,2015-10-30,shot,gun,29,M,H,Mesquite,TX,False
