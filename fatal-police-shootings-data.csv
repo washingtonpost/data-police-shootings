@@ -34,7 +34,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 56,Donte Sowell,2015-01-15,shot,gun,27,M,B,Indianapolis,IN,False
 57,Kavonda Earl Payton,2015-01-15,shot,gun,39,M,B,Aurora,CO,False
 60,Quincy Reed Reindl,2015-01-15,shot,gun,24,M,W,Bloomington,MN,True
-63,Jose Ceja,2015-01-15,shot,knife,36,M,H,Fairfield,CA,False
+63,Jose Ceja,2015-01-15,shot,knife,36,M,H,Fairfield,CA,True
 64,Nathan Massey,2015-01-15,shot,gun,33,M,W,Evangeline Parish,LA,False
 67,Scott Hall,2015-01-16,shot,gun,41,M,W,Mabank,TX,False
 68,Zaki Shinwary,2015-01-16,shot and Tasered,knife,48,M,O,Fremont,CA,False
@@ -823,6 +823,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 968,TK TK,2015-10-30,shot,undetermined,,M,,Houston,TX,False
 971,TK TK,2015-10-30,shot and Tasered,knife,,M,,Norwood,OK,False
 969,Noah Harpham,2015-10-31,shot,gun,33,M,W,Colorado Springs,CO,False
-970,TK TK,2015-10-31,shot,unarmed,,M,,Opelika,AL,False
-972,TK TK,2015-11-01,shot,undetermined,,M,,Hutchinson,MN,False
+970,Bennie Lee Tignor,2015-10-31,shot,unarmed,56,M,B,Opelika,AL,False
+972,Luverne Roy Christensen,2015-11-01,shot,undetermined,49,M,W,Hutchinson,MN,False
 973,TK TK,2015-11-01,shot,gun,,M,,Eureka,CA,False
+974,Jack  Yantis,2015-11-01,shot,gun,62,M,W,Council,ID,False
+975,TK TK,2015-11-02,shot,gun,,,,Washington,DC,False
