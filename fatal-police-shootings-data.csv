@@ -180,7 +180,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 206,Theodore Johnson,2015-03-10,shot,gun,64,M,B,Cleveland,OH,False
 277,James Greenwell,2015-03-11,shot,gun,31,M,W,Memphis,TN,True
 279,Benito Osorio,2015-03-11,shot,gun,39,M,H,Santa Ana,CA,False
-281,Ryan Dean Burgess,2015-03-11,shot,toy weapon,31,M,W,Kingman,AZ,False
+281,Ryan Dean Burgess,2015-03-11,shot,toy weapon,31,M,W,Kingman,AZ,True
 796,Aaron Valdez,2015-03-11,shot,vehicle,25,M,H,Los Angeles,CA,False
 307,Gilbert Fleury,2015-03-11,shot,gun,54,M,W,Bay Minette,AL,False
 581,William Russell  Smith,2015-03-11,shot,gun,53,M,W,Hoover,AL,True
@@ -813,7 +813,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 960,Tyrie Cuyler,2015-10-27,shot,gun,25,M,B,Savannah,GA,False
 958,Anthony Ashford,2015-10-28,shot,undetermined,29,M,B,Point Loma,CA,False
 959,Ricky Keith Keeton,2015-10-28,shot,gun,57,M,,Smithville,MS,False
-961,Jerry Michael Graham Jr.,2015-10-28,shot,gun,34,M,B,Arlington,FL,False
+961,Jerry Michael Graham Jr.,2015-10-28,shot,gun,34,M,B,Jacksonville,FL,False
 962,Jasper Levi Adams,2015-10-28,shot,gun,35,M,W,Salem,OR,False
 963,Andrew Dehart,2015-10-28,shot,gun,36,M,W,Seaside,OR,False
 964,Deaunte Lamar Bell,2015-10-29,shot,gun,,M,B,Columbus,OH,False
@@ -827,4 +827,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 972,Luverne Roy Christensen,2015-11-01,shot,undetermined,49,M,W,Hutchinson,MN,False
 973,TK TK,2015-11-01,shot,gun,,M,,Eureka,CA,False
 974,Jack  Yantis,2015-11-01,shot,gun,62,M,W,Council,ID,False
-975,TK TK,2015-11-02,shot,gun,,M,,Washington,DC,False
+975,James Covington,2015-11-02,shot,gun,62,M,,Washington,DC,False
+977,TK TK,2015-11-04,shot,gun,,M,,Springfield,MO,False
+978,TK TK,2015-11-04,shot,gun,,M,,Houston,TX,False
