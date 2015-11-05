@@ -825,8 +825,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 969,Noah Harpham,2015-10-31,shot,gun,33,M,W,Colorado Springs,CO,False
 970,Bennie Lee Tignor,2015-10-31,shot,unarmed,56,M,B,Opelika,AL,False
 972,Luverne Roy Christensen,2015-11-01,shot,undetermined,49,M,W,Hutchinson,MN,False
-973,TK TK,2015-11-01,shot,gun,,M,,Eureka,CA,False
+973,Killian O'Quinn,2015-11-01,shot,gun,20,M,W,Eureka,CA,False
 974,Jack  Yantis,2015-11-01,shot,gun,62,M,W,Council,ID,False
 975,James Covington,2015-11-02,shot,gun,62,M,,Washington,DC,False
+980,Jeremy  Mardis,2015-11-03,shot,unarmed,6,M,W,Marksville,LA,False
 977,TK TK,2015-11-04,shot,gun,,M,,Springfield,MO,False
-978,TK TK,2015-11-04,shot,gun,,M,,Houston,TX,False
+978,John Allen,2015-11-04,shot,gun,57,M,,Houston,TX,False
+979,Faisal Mohammad,2015-11-04,shot,knife,18,M,,Merced,CA,False
+981,TK TK,2015-11-04,shot,undetermined,47,M,,Pacific Beach,CA,False
