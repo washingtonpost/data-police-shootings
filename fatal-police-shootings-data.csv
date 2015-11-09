@@ -833,7 +833,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 978,John Allen,2015-11-04,shot,gun,57,M,,Houston,TX,False
 979,Faisal Mohammad,2015-11-04,shot,knife,18,M,,Merced,CA,False
 981,Timothy Gene Smith,2015-11-04,shot,undetermined,47,M,W,Pacific Beach,CA,False
-983,TK TK,2015-11-05,shot,gun,,M,,Morgantown,WV,False
-984,TK TK,2015-11-05,shot,gun,,M,,Hominy,OK,True
+983,David  Romonaski,2015-11-05,shot,gun,48,M,,Morgantown,WV,False
+984,James Bigley,2015-11-05,shot,gun,20,M,,Hominy,OK,True
 985,Jacob Hohman,2015-11-05,shot,hammer,30,M,W,Lakeshire,MO,False
-986,TK TK,2015-11-06,shot,gun,,M,,Portland,OR,True
+987,Laura Lemieux,2015-11-05,shot,gun,36,F,,Goose Creek,SC,True
+986,Michael  Johnson,2015-11-06,shot,gun,51,M,,Portland,OR,True
+988,James Francis Smyth,2015-11-06,shot,vehicle,55,M,W,Las Vegas,NV,False
