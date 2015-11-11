@@ -839,6 +839,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 987,Laura Lemieux,2015-11-05,shot,gun,36,F,,Goose Creek,SC,True
 986,Michael  Johnson,2015-11-06,shot,gun,51,M,,Portland,OR,True
 988,James Francis Smyth,2015-11-06,shot,vehicle,55,M,W,Las Vegas,NV,False
+992,Kim Lee Long,2015-11-06,shot,,48,M,W,Wadesboro,NC,False
 989,Delvin Simmons,2015-11-09,shot,vehicle,20,M,B,Spartanburg,SC,False
 990,Miguel Cano,2015-11-09,shot and Tasered,undetermined,34,M,H,Lake Balboa,CA,False
 991,Cesar Cuellar,2015-11-09,shot,gun,25,M,H,North Laredo,TX,True
+993,Dale Maverick Hudson,2015-11-09,shot,gun,26,M,W,Braxton County,WV,False
+994,Leonel Acevedo,2015-11-09,shot,gun,45,M,H,San Jose,CA,False
+995,TK TK,2015-11-10,shot,gun,,M,,Chico,CA,False
+996,TK Tk,2015-11-10,shot,,,M,,Brighton,CO,False
