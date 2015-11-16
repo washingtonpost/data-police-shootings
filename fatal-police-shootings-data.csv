@@ -799,12 +799,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 944,Timothy Arnold,2015-10-21,shot,gun,47,M,W,Kentwood,MI,True
 943,Lawrence  Green,2015-10-22,shot,knife,38,M,B,Shreveport,LA,False
 945,Adriene Jamarr Ludd,2015-10-22,shot,gun,36,M,B,Carmichael,CA,False
-946,Stephen H. Brock,2015-10-22,shot,gun,53,M,,Pine Top,KY,False
+946,Stephen H. Brock,2015-10-22,shot,undetermined,53,M,,Pine Top,KY,False
 947,TK TK,2015-10-24,shot,gun,,M,,Highgrove,CA,False
 948,Rolly Thomas,2015-10-24,shot,gun,,M,B,Cape Coral,FL,False
 950,Dominic Hutchinson,2015-10-24,shot,undetermined,30,M,B,Cathedral City,CA,False
 951,Arthur West,2015-10-24,shot,gun,28,M,W,Zanesville,OH,True
-952,Darren Myron Fude,2015-10-24,shot,gun,47,M,,Paddock Lake,WI,False
+952,Darren Myron Fude,2015-10-24,shot,gun,47,M,W,Paddock Lake,WI,False
 953,Jon Ployhar,2015-10-24,shot,undetermined,49,M,,Kenai Peninsula,AK,False
 949,John Harley Turner,2015-10-25,shot,gun,36,M,W,Talking Rock,GA,False
 954,Kevin Brunson,2015-10-26,shot,vehicle,45,M,B,Frederick,MD,False
@@ -812,7 +812,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 956,Kobvey Igbuhay,2015-10-26,shot,unarmed,18,M,O,Tampa,FL,False
 960,Tyrie Cuyler,2015-10-27,shot,gun,25,M,B,Savannah,GA,False
 958,Anthony Ashford,2015-10-28,shot,undetermined,29,M,B,Point Loma,CA,False
-959,Ricky Keith Keeton,2015-10-28,shot,gun,57,M,,Smithville,MS,False
+959,Ricky Keith Keeton,2015-10-28,shot,gun,57,M,W,Smithville,MS,False
 961,Jerry Michael Graham Jr.,2015-10-28,shot,gun,34,M,B,Jacksonville,FL,False
 962,Jasper Levi Adams,2015-10-28,shot,gun,35,M,W,Salem,OR,False
 963,Andrew Dehart,2015-10-28,shot,gun,36,M,W,Seaside,OR,False
@@ -827,28 +827,35 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 972,Luverne Roy Christensen,2015-11-01,shot,undetermined,49,M,W,Hutchinson,MN,False
 973,Killian O'Quinn,2015-11-01,shot,gun,20,M,W,Eureka,CA,False
 974,Jack  Yantis,2015-11-01,shot,gun,62,M,W,Council,ID,False
-975,James Covington,2015-11-02,shot,gun,62,M,,Washington,DC,False
+975,James Covington,2015-11-02,shot,gun,62,M,B,Washington,DC,False
 980,Jeremy  Mardis,2015-11-03,shot,unarmed,6,M,W,Marksville,LA,False
 977,Joseph Tyndall,2015-11-04,shot,gun,30,M,W,Springfield,MO,False
-978,John Allen,2015-11-04,shot,gun,57,M,,Houston,TX,False
-979,Faisal Mohammad,2015-11-04,shot,knife,18,M,,Merced,CA,False
+978,John Allen,2015-11-04,shot,gun,57,M,B,Houston,TX,False
+979,Faisal Mohammad,2015-11-04,shot,knife,18,M,O,Merced,CA,False
 981,Timothy Gene Smith,2015-11-04,shot,undetermined,47,M,W,Pacific Beach,CA,False
 983,David  Romonaski,2015-11-05,shot,gun,48,M,,Morgantown,WV,False
 984,James Bigley,2015-11-05,shot,gun,20,M,,Hominy,OK,True
 985,Jacob Hohman,2015-11-05,shot,hammer,30,M,W,Lakeshire,MO,False
 987,Laura Lemieux,2015-11-05,shot,gun,36,F,,Goose Creek,SC,True
-986,Michael  Johnson,2015-11-06,shot,gun,51,M,,Portland,OR,True
+986,Michael  Johnson,2015-11-06,shot,gun,51,M,W,Portland,OR,True
 988,James Francis Smyth,2015-11-06,shot,vehicle,55,M,W,Las Vegas,NV,False
 992,Kim Lee Long,2015-11-06,shot,,48,M,W,Wadesboro,NC,False
 989,Delvin Simmons,2015-11-09,shot,vehicle,20,M,B,Spartanburg,SC,False
-990,Miguel Cano,2015-11-09,shot and Tasered,undetermined,34,M,H,Lake Balboa,CA,False
 991,Cesar Cuellar,2015-11-09,shot,gun,25,M,H,North Laredo,TX,True
 993,Dale Maverick Hudson,2015-11-09,shot,gun,26,M,W,Braxton County,WV,False
 994,Leonel Acevedo,2015-11-09,shot,gun,45,M,H,San Jose,CA,False
-1001,TK TK,2015-11-09,shot and Tasered,undetermined,35,M,H,Los Angeles,CA,False
-995,TK TK,2015-11-10,shot,gun,,M,,Chico,CA,False
-996,TK Tk,2015-11-10,shot,,,M,,Brighton,CO,False
+1001,Miguel Cano,2015-11-09,shot and Tasered,bean-bag gun,35,M,H,Los Angeles,CA,False
+995,Eddie Gabriel Sanchez,2015-11-10,shot,gun,34,M,H,Chico,CA,False
+996,Jason Leanard Mesaros,2015-11-10,shot,vehicle,36,M,H,Brighton,CO,False
 997,Joseph Jaramillo,2015-11-11,shot,vehicle,31,M,H,Albuquerque,NM,False
-998,TK TK,2015-11-11,shot,gun,,M,,San Francisco,CA,False
+998,Javier Lopez Garcia,2015-11-11,shot,gun,25,M,H,San Francisco,CA,False
 999,Brian Gavin,2015-11-11,shot,gun,57,M,,Aiken,SC,False
-1000,Ryan Quinn  Martin,2015-11-11,shot,gun,32,M,,Baltimore,MD,False
+1000,Ryan Quinn  Martin,2015-11-11,shot,gun,32,M,B,Baltimore,MD,False
+1002,Moises Nero,2015-11-12,shot,knife,42,M,B,Sunnyvale,CA,False
+1005,Michael Joseph Bartkiewicz,2015-11-13,shot,unknown weapon,52,M,,Gibson County,TN,False
+1007,TK TK,2015-11-13,shot,undetermined,,M,,Jurupa Valley,CA,False
+1008,Matthew Coleman,2015-11-13,shot,gun,,M,,Eden,GA,False
+1006,TK TK,2015-11-14,shot,hammer,,M,,Jurupa Valley,CA,False
+1003,TK TK,2015-11-15,shot,toy weapon,,M,,Oakland,CA,False
+1004,John Livingston,2015-11-15,shot and Tasered,Taser,32,M,W,Spring Lake,NC,False
+1009,TK TK,2015-11-15,shot,unknown weapon,,M,,Germantown,PA,False
