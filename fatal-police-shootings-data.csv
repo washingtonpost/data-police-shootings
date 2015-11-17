@@ -836,7 +836,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 983,David  Romonaski,2015-11-05,shot,gun,48,M,,Morgantown,WV,False
 984,James Bigley,2015-11-05,shot,gun,20,M,,Hominy,OK,True
 985,Jacob Hohman,2015-11-05,shot,hammer,30,M,W,Lakeshire,MO,False
-987,Laura Lemieux,2015-11-05,shot,gun,36,F,,Goose Creek,SC,True
+987,Laura Lemieux,2015-11-05,shot,gun,36,F,W,Goose Creek,SC,True
 986,Michael  Johnson,2015-11-06,shot,gun,51,M,W,Portland,OR,True
 988,James Francis Smyth,2015-11-06,shot,vehicle,55,M,W,Las Vegas,NV,False
 992,Kim Lee Long,2015-11-06,shot,,48,M,W,Wadesboro,NC,False
@@ -847,15 +847,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1001,Miguel Cano,2015-11-09,shot and Tasered,bean-bag gun,35,M,H,Los Angeles,CA,False
 995,Eddie Gabriel Sanchez,2015-11-10,shot,gun,34,M,H,Chico,CA,False
 996,Jason Leanard Mesaros,2015-11-10,shot,vehicle,36,M,H,Brighton,CO,False
+1013,Andrew Blake,2015-11-10,shot,gun,22,M,,Dillon,MT,False
 997,Joseph Jaramillo,2015-11-11,shot,vehicle,31,M,H,Albuquerque,NM,False
 998,Javier Lopez Garcia,2015-11-11,shot,gun,25,M,H,San Francisco,CA,False
-999,Brian Gavin,2015-11-11,shot,gun,57,M,,Aiken,SC,False
+999,Brian Gavin,2015-11-11,shot,gun,57,M,W,Aiken,SC,False
 1000,Ryan Quinn  Martin,2015-11-11,shot,gun,32,M,B,Baltimore,MD,False
 1002,Moises Nero,2015-11-12,shot,knife,42,M,B,Sunnyvale,CA,False
 1005,Michael Joseph Bartkiewicz,2015-11-13,shot,unknown weapon,52,M,,Gibson County,TN,False
 1007,TK TK,2015-11-13,shot,undetermined,,M,,Jurupa Valley,CA,False
 1008,Matthew Coleman,2015-11-13,shot,gun,,M,,Eden,GA,False
-1006,TK TK,2015-11-14,shot,hammer,,M,,Jurupa Valley,CA,False
+1006,Ramon Salazar,2015-11-14,shot,hammer,31,M,H,Jurupa Valley,CA,False
 1003,TK TK,2015-11-15,shot,toy weapon,,M,,Oakland,CA,False
 1004,John David Livingston,2015-11-15,shot and Tasered,Taser,32,M,W,Spring Lake,NC,False
 1009,TK TK,2015-11-15,shot,unknown weapon,,M,,Germantown,PA,False
+1012,Jamar Clark,2015-11-16,shot,unarmed,24,M,B,Minneapolis,MO,False
+1010,TK TK,2015-11-17,shot,undetermined,,,,Miami,FL,False
+1011,Demetrius Bryant,2015-11-17,shot,gun,21,M,,Cayce,SC,False
