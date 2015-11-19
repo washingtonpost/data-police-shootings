@@ -861,5 +861,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1004,John David Livingston,2015-11-15,shot and Tasered,Taser,32,M,W,Spring Lake,NC,False
 1009,TK TK,2015-11-15,shot,unknown weapon,,M,,Germantown,PA,False
 1012,Jamar Clark,2015-11-16,shot,unarmed,24,M,B,Minneapolis,MN,False
+1014,Brent Noblitt,2015-11-16,shot,vehicle,25,M,,Whitfield County,GA,False
 1010,TK TK,2015-11-17,shot,undetermined,,,,Miami,FL,False
 1011,Demetrius Bryant,2015-11-17,shot,gun,21,M,B,Cayce,SC,False
+1015,TK TK,2015-11-17,shot,vehicle,,M,,Weatherford,TX,False
+1016,TK TK,2015-11-17,shot,unarmed,,M,,Arlington,GA,False
+1017,TK TK,2015-11-18,shot,unknown weapon,,M,,Opa-Locka,FL,False
