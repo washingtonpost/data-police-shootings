@@ -876,9 +876,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1023,Nathaniel Harris Pickett,2015-11-20,shot,unarmed,29,M,,Barstow,CA,True
 1026,Chris  Nichols,2015-11-21,shot,unarmed,24,M,W,Colbert,OK,False
 1025,TK TK,2015-11-22,shot,knife,47,M,W,Fontana,CA,False
-1027,TK TK,2015-11-22,shot,gun,,M,,Reno,NV,False
-1028,TK TK,2015-11-23,shot and Tasered,knife,,M,,Corpus Christi,TX,False
-1029,TK TK,2015-11-23,shot,gun,28,M,,Denver,CO,False
+1027,Matthew Grows,2015-11-22,shot,gun,45,M,,Reno,NV,False
+1029,TK TK,2015-11-22,shot,gun,28,M,,Denver,CO,False
+1028,Henry Reyna,2015-11-23,shot and Tasered,knife,49,M,H,Corpus Christi,TX,False
 1030,Barry Kirk,2015-11-23,shot,gun,50,M,W,Columbus,OH,False
-1031,TK TK,2015-11-24,shot,unknown weapon,,M,,Columbia Heights,MN,False
+1031,Michael Kirvelay,2015-11-24,shot,unknown weapon,45,M,W,Columbia Heights,MN,False
 1032,TK TK,2015-11-24,shot and Tasered,gun,,M,,Las Vegas,NV,False
+1033,TK TK,2015-11-24,shot,gun,,M,,Camden,NJ,False
