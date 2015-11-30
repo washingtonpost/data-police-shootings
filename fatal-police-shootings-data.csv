@@ -870,7 +870,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1017,Cornelius Brown,2015-11-18,shot,unknown weapon,25,M,B,Opa-Locka,FL,False
 1019,Marcus Meridy,2015-11-18,shot,gun,44,M,B,Berrien County,MI,False
 1020,Randy Allen Smith,2015-11-19,shot,gun,34,M,B,Manatee,FL,False
-1021,Steve Dormil,2015-11-19,shot,knife,27,M,,Fort Pierce,FL,False
+1021,Steve Dormil,2015-11-19,shot,knife,27,M,B,Fort Pierce,FL,False
 1022,Derrick Napper,2015-11-19,shot,knife,34,M,B,Washington,DC,False
 1024,William  Tarrant,2015-11-20,shot,gun,39,M,W,Paulding County,GA,True
 1023,Nathaniel Harris Pickett,2015-11-20,shot,unarmed,29,M,,Barstow,CA,True
@@ -881,6 +881,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1028,Henry Reyna,2015-11-23,shot and Tasered,knife,49,M,H,Corpus Christi,TX,False
 1030,Barry Kirk,2015-11-23,shot,gun,50,M,W,Columbus,OH,False
 1031,Michael Kirvelay,2015-11-24,shot,unknown weapon,45,M,W,Columbia Heights,MN,False
-1032,TK TK,2015-11-24,shot and Tasered,gun,,M,,Las Vegas,NV,False
+1032,Thomas Joseph Mceniry,2015-11-24,shot and Tasered,gun,32,M,W,Las Vegas,NV,False
 1033,Freddy Baez,2015-11-24,shot,gun,24,M,,Camden,NJ,False
 1034,Magnum Edgar Phillips,2015-11-25,shot,knife,23,M,W,Springfield,MO,False
+1035,Douglas R. Slade,2015-11-27,shot,gun,52,M,,Eager,AZ,False
+1039,Rick Gullickson,2015-11-27,shot,gun,58,M,W,Branson,MO,False
+1040,Kevin Close,2015-11-28,shot,baseball bat and fireplace poker,50,M,W,Seagoville,TX,False
+1036,Justin McHenry,2015-11-29,shot,gun,22,M,W,Celina,OH,False
+1037,TK TK,2015-11-29,shot,gun,,M,W,Maysville,MO,False
+1038,Ralph Aguilar,2015-11-29,shot,gun,69,M,,Sun City,AZ,True
+1041,TK TK,2015-11-29,shot,gun,,M,,Bakersfield,CA,False
