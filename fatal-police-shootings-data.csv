@@ -881,15 +881,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1028,Henry Reyna,2015-11-23,shot and Tasered,knife,49,M,H,Corpus Christi,TX,False
 1030,Barry Kirk,2015-11-23,shot,gun,50,M,W,Columbus,OH,False
 1031,Michael Kirvelay,2015-11-24,shot,unknown weapon,45,M,W,Columbia Heights,MN,False
-1032,Thomas Joseph Mceniry,2015-11-24,shot and Tasered,gun,32,M,W,Las Vegas,NV,False
+1032,Thomas Joseph Mceniry,2015-11-24,shot and Tasered,gun,32,M,W,Las Vegas,NV,True
 1033,Freddy Baez,2015-11-24,shot,gun,24,M,B,Camden,NJ,False
 1034,Magnum Edgar Phillips,2015-11-25,shot,knife,23,M,W,Springfield,MO,False
 1035,Douglas R. Slade,2015-11-25,shot,gun,52,M,,Eagar,AZ,False
-1039,Rick Gullickson,2015-11-27,shot,gun,58,M,W,Branson,MO,False
+1039,Rick Gullickson,2015-11-27,shot,gun,58,M,W,Lampe,MO,False
 1040,Kevin Close,2015-11-28,shot,baseball bat and fireplace poker,50,M,W,Seagoville,TX,False
 1036,Justin D. McHenry,2015-11-29,shot,gun,22,M,W,Celina,OH,False
 1037,Lionel  Kerns,2015-11-29,shot,gun,53,M,W,Maysville,MO,False
 1038,Ralph Aguilar,2015-11-29,shot,gun,69,M,,Sun City,AZ,True
-1041,TK TK,2015-11-29,shot,gun,,M,,Bakersfield,CA,False
-1042,TK TK,2015-11-29,shot,gun,29,M,,Lincoln,NE,False
+1041,Huge Fernando Celio,2015-11-29,shot,gun,23,M,H,Bakersfield,CA,False
+1042,Zachary Grigsby,2015-11-29,shot,gun,29,M,W,Lincoln,NE,False
 1043,TK TK,2015-11-30,shot,vehicle,,M,,Aurora,CO,False
+1044,Darius Smith,2015-11-30,shot,gun,18,M,,Atlanta,GA,False
