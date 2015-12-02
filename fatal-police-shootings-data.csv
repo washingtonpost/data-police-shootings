@@ -865,7 +865,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1010,Yohans Leon,2015-11-17,shot,undetermined,28,M,B,Miami,FL,True
 1011,Demetrius Bryant,2015-11-17,shot,gun,21,M,B,Cayce,SC,False
 1015,Jeray Chatham,2015-11-17,shot,vehicle,30,M,B,Weatherford,TX,False
-1016,Derry Touchstone,2015-11-17,shot,unarmed,58,M,,Arlington,GA,False
+1016,Derry Touchstone,2015-11-17,shot,unarmed,58,M,W,Arlington,GA,False
 1018,Francis Hartnett,2015-11-17,shot,gun,47,M,W,Little Egg Harbor,NJ,True
 1017,Cornelius Brown,2015-11-18,shot,unknown weapon,25,M,B,Opa-Locka,FL,False
 1019,Marcus Meridy,2015-11-18,shot,gun,44,M,B,Berrien County,MI,False
@@ -873,7 +873,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1021,Steve Dormil,2015-11-19,shot,knife,27,M,B,Fort Pierce,FL,False
 1022,Derrick Napper,2015-11-19,shot,knife,34,M,B,Washington,DC,False
 1024,William  Tarrant,2015-11-20,shot,gun,39,M,W,Paulding County,GA,True
-1023,Nathaniel Harris Pickett,2015-11-20,shot,unarmed,29,M,,Barstow,CA,True
+1023,Nathaniel Harris Pickett,2015-11-20,shot,unarmed,29,M,B,Barstow,CA,True
 1026,Chris  Nichols,2015-11-21,shot,unarmed,24,M,W,Colbert,OK,False
 1025,James Daniel Hall,2015-11-22,shot,knife,47,M,W,Fontana,CA,False
 1027,Matthew Grows,2015-11-22,shot,gun,45,M,W,Reno,NV,False
@@ -893,4 +893,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1041,Huge Fernando Celio,2015-11-29,shot,gun,23,M,H,Bakersfield,CA,False
 1042,Zachary Grigsby,2015-11-29,shot,gun,29,M,W,Lincoln,NE,False
 1043,TK TK,2015-11-30,shot,vehicle,,M,,Aurora,CO,False
-1044,Darius Smith,2015-11-30,shot,gun,18,M,,Atlanta,GA,False
+1044,Darius Smith,2015-11-30,shot,gun,18,M,B,Atlanta,GA,False
+1045,TK TK,2015-12-01,shot,undetermined,,M,,Bangor,ME,False
