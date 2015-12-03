@@ -895,3 +895,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1043,TK TK,2015-11-30,shot,vehicle,,M,,Aurora,CO,False
 1044,Darius Smith,2015-11-30,shot,gun,18,M,B,Atlanta,GA,False
 1045,Joshua  Jozefowicz ,2015-12-01,shot,undetermined,23,M,,Bangor,ME,False
+1047,TK TK,2015-12-01,shot,gun,18,M,,Norwalk,CA,False
+1049,Phillip Munoz,2015-12-02,shot,undetermined,35,M,,Denver,CO,False
+1050,Tasheen Malik,2015-12-02,shot,gun,27,F,O,San Bernardino,CA,False
+1051,Syed Farook,2015-12-02,shot,gun,28,M,O,San Bernardino,CA,False
+1052,Mario Woods,2015-12-02,shot,undetermined,26,M,B,San Francisco,CA,False
+1053,TK TK,2015-12-02,shot,gun,,,,San Antonio,TX,False
