@@ -420,7 +420,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 524,Rene Garcia,2015-06-08,shot,knife,30,M,H,Anaheim,CA,True,other
 526,Richard Warolf,2015-06-08,shot,gun,69,M,W,Sun City,AZ,True,attack
 525,Jeremy Linhart,2015-06-09,shot,unarmed,30,M,W,Findlay,OH,False,attack
-535,Greg  Hartley,2015-06-09,shot,gun,45,M,,Tomball,TX,False,attack
+535,Greg  Hartley,2015-06-09,shot,gun,45,M,W,Tomball,TX,False,attack
 538,QuanDavier Hicks,2015-06-09,shot,gun,22,M,B,Cincinnati,OH,False,attack
 539,Ryan Bolinger,2015-06-09,shot,unarmed,28,M,W,Des Moines,IA,False,other
 540,Isiah Hampton,2015-06-10,shot,gun,19,M,B,Bronx,NY,False,attack
@@ -475,9 +475,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 599,Oscar Camacho,2015-07-03,shot,gun,33,M,H,Camden,NJ,True,attack
 602,Joseph Julian,2015-07-03,shot,gun,40,M,W,Miami Beach,FL,False,attack
 591,Robert Elando Malone,2015-07-04,shot,gun,42,M,B,Oklahoma City,OK,False,attack
-595,Michael Shannon Gaby,2015-07-04,shot,gun,37,M,,Morristown,TN,False,attack
+595,Michael Shannon Gaby,2015-07-04,shot,gun,37,M,W,Morristown,TN,False,attack
 596,Kawanza Beaty,2015-07-04,shot,gun,23,M,B,Newport News,VA,False,attack
-600,Bryan David Bauer,2015-07-04,shot,gun,36,M,,Henderson,NV,False,attack
+600,Bryan David Bauer,2015-07-04,shot,gun,36,M,W,Henderson,NV,False,attack
 592,John Deming,2015-07-05,shot,unarmed,19,M,W,Pleasanton,CA,False,attack
 593,Michael Holt,2015-07-05,shot,gun,35,M,W,Austin,TX,False,attack
 594,Richard Munroe,2015-07-05,shot and Tasered,toy weapon,25,M,W,Austin,TX,True,attack
@@ -490,7 +490,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 608,Marcellus Jamarcus Burley,2015-07-07,shot,gun,18,M,B,Houston,TX,False,attack
 609,Adam Dujanovic,2015-07-07,shot,metal pole,33,M,W,Mesa,AZ,False,other
 611,Joe Cody,2015-07-07,shot,gun,59,M,W,Dallas,TX,False,attack
-614,Daniel Hernandez,2015-07-07,shot,gun,47,M,,Bakersfield,CA,False,attack
+614,Daniel Hernandez,2015-07-07,shot,gun,47,M,H,Bakersfield,CA,False,attack
 615,Jose Graciano Lopez,2015-07-07,shot,gun,39,M,H,Edinburg,TX,True,attack
 616,Tremaine Dantzler,2015-07-07,shot,knife,37,M,B,Atlantic City,NJ,False,attack
 617,Nicholas Booth,2015-07-07,shot,gun,35,M,W,Sugar Creek,MO,False,attack
@@ -509,9 +509,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 628,Paul Castaway,2015-07-12,shot,knife,35,M,N,Denver,CO,True,other
 631,Salvado Ellswood,2015-07-12,shot and Tasered,unarmed,36,M,B,Plantation,FL,False,attack
 632,David Lepine,2015-07-12,shot,gun,60,M,W,Austin,TX,False,attack
-633,Matthew Watson,2015-07-12,shot,gun,24,M,,River Forest,IL,False,attack
+633,Matthew Watson,2015-07-12,shot,gun,24,M,W,River Forest,IL,False,attack
 636,Christopher Benton,2015-07-12,shot,gun,27,M,W,Casper,WY,False,attack
-640,TK TK,2015-07-12,shot,gun,,M,,Grayson,GA,False,attack
 629,Frederick Farmer,2015-07-13,shot,gun,20,M,B,Stone Mountain,GA,False,attack
 635,Matthew Ryan Graham,2015-07-13,shot,gun,24,M,W,Dunsmuir,CA,False,attack
 638,Rafael Suazo,2015-07-13,shot,vehicle,23,M,H,Lynn,MA,False,attack
@@ -800,7 +799,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 943,Lawrence  Green,2015-10-22,shot,knife,38,M,B,Shreveport,LA,False,attack
 945,Adriene Jamarr Ludd,2015-10-22,shot,gun,36,M,B,Carmichael,CA,False,attack
 946,Stephen H. Brock,2015-10-22,shot,undetermined,53,M,W,Pine Top,KY,False,other
-947,Juan Ulloa,2015-10-24,shot,gun,34,M,,Highgrove,CA,False,attack
+947,Juan Ulloa,2015-10-24,shot,gun,34,M,H,Highgrove,CA,False,attack
 948,Rolly Thomas,2015-10-24,shot,gun,,M,B,Cape Coral,FL,False,attack
 950,Dominic Hutchinson,2015-10-24,shot,undetermined,30,M,B,Cathedral City,CA,False,undetermined
 951,Arthur West,2015-10-24,shot,gun,28,M,W,Zanesville,OH,True,attack
@@ -833,7 +832,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 978,John Allen,2015-11-04,shot,gun,57,M,B,Houston,TX,False,attack
 979,Faisal Mohammad,2015-11-04,shot,knife,18,M,O,Merced,CA,False,attack
 981,Timothy Gene Smith,2015-11-04,shot,undetermined,47,M,W,Pacific Beach,CA,False,other
-983,David  Romonaski,2015-11-05,shot,gun,48,M,,Morgantown,WV,False,attack
+983,David  Romanoski,2015-11-05,shot,gun,48,M,W,Morgantown,WV,False,attack
 984,James Bigley,2015-11-05,shot,gun,20,M,W,Hominy,OK,True,attack
 985,Jacob Hohman,2015-11-05,shot,hammer,30,M,W,Lakeshire,MO,False,attack
 987,Laura Lemieux,2015-11-05,shot,gun,36,F,W,Goose Creek,SC,True,attack
@@ -854,7 +853,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1000,Ryan Quinn  Martin,2015-11-11,shot,gun,32,M,B,Baltimore,MD,False,attack
 1002,Moises Nero,2015-11-12,shot,knife,42,M,B,Sunnyvale,CA,False,other
 1005,Michael Joseph Bartkiewicz,2015-11-13,shot,unknown weapon,52,M,,Gibson County,TN,False,attack
-1007,TK TK,2015-11-13,shot,undetermined,,M,,Jurupa Valley,CA,False,undetermined
+1007,Ernesto Gamino,2015-11-13,shot,undetermined,25,M,H,Jurupa Valley,CA,False,undetermined
 1008,Matthew Coleman,2015-11-13,shot,gun,,M,W,Eden,GA,False,attack
 1006,Ramon Salazar,2015-11-14,shot,hammer,31,M,H,Jurupa Valley,CA,False,other
 1003,Richard Perkins,2015-11-15,shot,toy weapon,39,M,B,Oakland,CA,False,attack
@@ -892,7 +891,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1038,Ralph Aguilar,2015-11-29,shot,gun,69,M,,Sun City,AZ,True,attack
 1041,Huge Fernando Celio,2015-11-29,shot,gun,23,M,H,Bakersfield,CA,False,attack
 1042,Zachary Grigsby,2015-11-29,shot,gun,29,M,W,Lincoln,NE,False,attack
-1043,TK TK,2015-11-30,shot,vehicle,,M,,Aurora,CO,False,attack
+1043,Tuan Hoang,2015-11-30,shot,vehicle,25,M,A,Aurora,CO,False,attack
 1044,Darius Smith,2015-11-30,shot,gun,18,M,B,Atlanta,GA,False,attack
 1045,Joshua  Jozefowicz ,2015-12-01,shot,undetermined,23,M,W,Bangor,ME,False,undetermined
 1047,John Anthony Gonzalez,2015-12-01,shot,gun,18,M,H,Norwalk,CA,False,attack
@@ -901,14 +900,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1051,Syed Farook,2015-12-02,shot,gun,28,M,O,San Bernardino,CA,False,attack
 1052,Mario Woods,2015-12-02,shot,undetermined,26,M,B,San Francisco,CA,False,undetermined
 1053,Allen Pacheco,2015-12-02,shot,gun,32,M,H,San Antonio,TX,False,other
-1054,Florenico Lucero,2015-12-02,shot,gun,,M,,Deming,NM,False,attack
-1055,Neil Stretesky,2015-12-03,shot,gun,66,M,W,Big Springs,NE,False,attack
+1054,Florencio Lucero,2015-12-02,shot,gun,36,M,,Deming,NM,False,attack
+1055,Neil Scott Stretesky,2015-12-03,shot,gun,66,M,W,Big Springs,NE,False,attack
 1056,Ivan Krstic,2015-12-04,shot and Tasered,metal stick,47,M,W,Mesa,AZ,False,other
-1057,Raymone Davis,2015-12-04,shot,gun,21,M,B,Mt. Washington,PA,False,attack
+1057,Raymone M. Davis,2015-12-04,shot,gun,21,M,B,Mount Washington,PA,False,attack
 1058,Colten Price Marcellus,2015-12-05,shot,gun,24,M,,Irving,TX,False,attack
 1059,David  Winesett,2015-12-05,shot and Tasered,straight edge razor,51,M,W,Miami,FL,False,other
-1060,Michael Funk,2015-12-05,shot,gun,60,M,,Neenah,WI,False,other
+1060,Michael L. Funk,2015-12-05,shot,gun,60,M,,Neenah,WI,False,other
 1061,Sheilah Huck,2015-12-05,shot,gun,61,F,,St. Louis,MO,False,attack
 1062,TK TK,2015-12-05,shot,gun,38,M,,Indio,CA,False,undetermined
 1063,TK TK,2015-12-06,shot,gun,,M,,Seattle,WA,False,attack
-1064,Carlumandario Zaramo,2015-12-06,shot,gun,46,M,B,Richmond Heights,OH,True,attack
+1064,Carlumandarlo Zaramo,2015-12-06,shot,gun,46,M,B,Richmond Heights,OH,True,attack
