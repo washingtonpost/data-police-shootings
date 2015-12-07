@@ -651,7 +651,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 781,Bertrand Davis,2015-08-27,shot and Tasered,box cutter,42,M,B,Dallas,TX,False,attack
 782,Yonas  Alehegne,2015-08-27,shot,chain,30,M,B,Oakland,CA,False,attack
 783,Robert Hober,2015-08-27,shot,box cutter,54,M,W,San Diego,CA,False,other
-784,Manuel Soriano,2015-08-27,shot,contractor's level,29,M,,Los Angeles,CA,False,attack
+784,Manuel Soriano,2015-08-27,shot,contractor's level,29,M,H,Los Angeles,CA,False,attack
 785,Gilbert Flores,2015-08-28,shot,undetermined,41,M,H,Dallas,TX,True,undetermined
 786,William Evans,2015-08-28,shot,gun,28,M,W,Spanish Fork,UT,True,attack
 788,Felix Kumi,2015-08-28,shot,unarmed,61,M,B,Mount Vernon,NY,False,other
@@ -747,7 +747,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 889,TK TK,2015-10-02,shot and Tasered,knife,,M,,Rialto,CA,False,attack
 890,Phyllis Ilene Jepsen,2015-10-02,shot,knife,55,F,W,Aloha,OR,True,other
 892,Matthew Dobbins,2015-10-02,shot,unarmed,29,M,W,Amarillo,TX,False,undetermined
-886,TK TK,2015-10-04,shot,beer bottle,,M,,Van Nuys,CA,False,undetermined
+886,James Joseph Byrd,2015-10-04,shot,beer bottle,45,M,,Van Nuys,CA,False,undetermined
 887,Eric Edgil,2015-10-04,shot,gun,27,M,W,Muscle Shoals,AL,True,attack
 891,Jeffery McCallum,2015-10-04,shot,gun,31,M,B,Chicago,IL,False,attack
 893,James  Dunaway,2015-10-05,shot,gun,51,M,W,Hurst,TX,False,attack
@@ -778,20 +778,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 917,Kaleb Alexander,2015-10-15,shot,gun,25,M,B,Columbus,OH,False,attack
 919,Linda Lee Lush,2015-10-15,shot,gun,50,F,W,Las Vegas,NV,True,attack
 920,Michael J.  Brennan,2015-10-15,shot,undetermined,31,M,W,Parma,OH,False,attack
-921,TK TK,2015-10-15,shot,gun,,M,,Kirkland,WA,False,attack
+921,Robert Burgess,2015-10-15,shot,gun,35,M,W,Kirkland,WA,False,attack
 922,Herbert Benitz,2015-10-15,shot,gun,27,M,H,San Francisco,CA,False,attack
-923,Tk TK,2015-10-15,shot,gun,,M,,Houston,TX,False,attack
+923,Martin  Ryans Jr.,2015-10-15,shot,gun,20,M,B,Houston,TX,False,attack
 924,Johnny Angel Rangel,2015-10-16,shot,undetermined,27,M,H,Valinda,CA,False,undetermined
 926,Jason Foreman,2015-10-16,shot,gun,45,M,,Barrow County,GA,False,attack
 927,Ricky Javenta Ball,2015-10-16,shot,undetermined,33,M,B,Columbus,MS,False,undetermined
-929,Tk TK,2015-10-17,shot,gun,,M,,Modesto,CA,False,attack
+929,Gini Paredes,2015-10-17,shot,toy weapon,22,M,H,Modesto,CA,False,attack
 930,Dequan Williams,2015-10-17,shot and Tasered,knife,28,M,B,York,PA,True,other
 931,Corey Jones,2015-10-18,shot,undetermined,31,M,B,Palm Beach Gardens,FL,False,undetermined
 932,Krikor Ekizian,2015-10-18,shot,knife,28,M,W,Fresno,CA,True,attack
 934,TK TK,2015-10-19,shot,vehicle,,M,,Los Angeles,CA,False,attack
 935,Roger D.  Hall,2015-10-20,shot,toy weapon,30,M,W,Louisville,KY,False,attack
 936,Lamontez Jones,2015-10-20,shot,toy weapon,39,M,B,San Diego,CA,False,attack
-937,TK Tk,2015-10-20,shot,gun,,M,,Truth or Consequences,NM,False,attack
+937,Joel Lopes,2015-10-20,shot,gun,40,M,H,Truth or Consequences,NM,False,attack
 938,Darien Greenwood,2015-10-20,shot,knife,30,M,W,Mandeville,LA,False,attack
 939,Jonathan Tyler Gossman,2015-10-20,shot,gun,21,M,W,Cedar Rapids,IA,False,attack
 940,Miguel Angel Marin Galena,2015-10-21,shot,knife,35,M,H,Calexico,CA,False,other
@@ -857,7 +857,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1007,TK TK,2015-11-13,shot,undetermined,,M,,Jurupa Valley,CA,False,undetermined
 1008,Matthew Coleman,2015-11-13,shot,gun,,M,W,Eden,GA,False,attack
 1006,Ramon Salazar,2015-11-14,shot,hammer,31,M,H,Jurupa Valley,CA,False,other
-1003,TK TK,2015-11-15,shot,toy weapon,,M,,Oakland,CA,False,attack
+1003,Richard Perkins,2015-11-15,shot,toy weapon,39,M,B,Oakland,CA,False,attack
 1004,John David Livingston,2015-11-15,shot and Tasered,Taser,32,M,W,Spring Lake,NC,False,attack
 1009,TK TK,2015-11-15,shot,unknown weapon,,M,,Germantown,PA,False,attack
 1012,Jamar Clark,2015-11-16,shot,unarmed,24,M,B,Minneapolis,MN,False,undetermined
@@ -894,10 +894,21 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1042,Zachary Grigsby,2015-11-29,shot,gun,29,M,W,Lincoln,NE,False,attack
 1043,TK TK,2015-11-30,shot,vehicle,,M,,Aurora,CO,False,attack
 1044,Darius Smith,2015-11-30,shot,gun,18,M,B,Atlanta,GA,False,attack
-1045,Joshua  Jozefowicz ,2015-12-01,shot,undetermined,23,M,,Bangor,ME,False,undetermined
-1047,TK TK,2015-12-01,shot,gun,18,M,,Norwalk,CA,False,attack
-1049,Phillip Munoz,2015-12-02,shot,undetermined,35,M,,Denver,CO,False,undetermined
+1045,Joshua  Jozefowicz ,2015-12-01,shot,undetermined,23,M,W,Bangor,ME,False,undetermined
+1047,John Anthony Gonzalez,2015-12-01,shot,gun,18,M,H,Norwalk,CA,False,attack
+1049,Phillip Munoz,2015-12-02,shot,undetermined,35,M,H,Denver,CO,False,undetermined
 1050,Tashfeen Malik,2015-12-02,shot,gun,27,F,O,San Bernardino,CA,False,attack
 1051,Syed Farook,2015-12-02,shot,gun,28,M,O,San Bernardino,CA,False,attack
 1052,Mario Woods,2015-12-02,shot,undetermined,26,M,B,San Francisco,CA,False,undetermined
-1053,TK TK,2015-12-02,shot,gun,,M,,San Antonio,TX,False,other
+1053,Allen Pacheco,2015-12-02,shot,gun,32,M,H,San Antonio,TX,False,other
+1054,Florenico Lucero,2015-12-02,shot,gun,,M,,Deming,NM,False,attack
+1055,Neil Stretesky,2015-12-03,shot,gun,66,M,W,Big Springs,NE,False,attack
+1056,Ivan Krstic,2015-12-04,shot and Tasered,metal stick,47,M,W,Mesa,AZ,False,other
+1057,Raymone Davis,2015-12-04,shot,gun,21,M,B,Mt. Washington,PA,False,attack
+1058,Colten Price Marcellus,2015-12-05,shot,gun,24,M,,Irving,TX,False,attack
+1059,David  Winesett,2015-12-05,shot and Tasered,straight edge razor,51,M,W,Miami,FL,False,other
+1060,Michael Funk,2015-12-05,shot,gun,60,M,,Neenah,WI,False,other
+1061,Sheilah Huck,2015-12-05,shot,gun,61,F,,St. Louis,MO,False,attack
+1062,TK TK,2015-12-05,shot,gun,38,M,,Indio,CA,False,undetermined
+1063,TK TK,2015-12-06,shot,gun,,M,,Seattle,WA,False,attack
+1064,Carlumandario Zaramo,2015-12-06,shot,gun,46,M,B,Richmond Heights,OH,True,attack
