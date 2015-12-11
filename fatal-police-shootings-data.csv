@@ -914,5 +914,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1065,John Alan Britton,2015-12-06,shot,knife,48,M,W,Laramie,WY,True,other
 1067,Miguel Espinal,2015-12-08,shot,unarmed,36,M,B,Yonkers,NY,False,undetermined
 1068,Derek Stokes,2015-12-08,shot,gun,33,M,,Cleveland,OH,False,undetermined
-1069,TK TK,2015-12-09,shot,gun,,M,,Louisville,KY,False,attack
-1070,TK TK,2015-12-09,shot,gun,,M,,Pryor,OK,True,attack
+1069,Christopher Higdon,2015-12-09,shot,gun,66,M,W,Louisville,KY,False,attack
+1070,Sammy Monroe Echols,2015-12-09,shot,gun,51,M,,Pryor,OK,True,attack
+1071,Jason Bryant,2015-12-10,shot,gun,34,M,W,Indianapolis,IN,False,other
+1072,Charles Rosemond,2015-12-10,shot,gun,55,M,B,Taylors,SC,False,attack
+1074,TK TK,2015-12-10,shot,gun,,M,,Hemet,CA,False,attack
+1073,TK TK,2015-12-11,shot,undetermined,,M,,Marina,CA,False,attack
