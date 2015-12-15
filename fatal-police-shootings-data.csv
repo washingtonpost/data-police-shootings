@@ -334,7 +334,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 428,Nadir Soofi,2015-05-03,shot,gun,34,M,O,Garland,TX,False,attack
 445,Billy Grimm,2015-05-03,shot,gun,44,M,H,Albuquerque,NM,False,attack
 447,Michael Asher,2015-05-03,shot,gun,53,M,W,Chavies,KY,False,attack
-431,Roark Cook,2015-05-04,shot,gun,36,M,W,Kennewick,WA,True,attack
+431,Roark Cook,2015-05-04,shot,toy weapon,36,M,W,Kennewick,WA,True,attack
 429,Brendon Glenn,2015-05-05,shot,unarmed,29,M,B,Venice,CA,False,attack
 430,Thong Kien Ma,2015-05-05,shot,knife,32,M,A,South El Monte,CA,False,attack
 434,Robert A. Frost,2015-05-05,shot,gun,46,M,W,Pulaski,VA,True,attack
@@ -861,7 +861,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1009,TK TK,2015-11-15,shot,unknown weapon,,M,,Germantown,PA,False,attack
 1012,Jamar Clark,2015-11-16,shot,unarmed,24,M,B,Minneapolis,MN,False,undetermined
 1014,Brent Noblitt,2015-11-16,shot,vehicle,25,M,W,Whitfield County,GA,False,other
-1010,Yohans Leon,2015-11-17,shot,undetermined,28,M,B,Miami,FL,True,undetermined
+1010,Yohans Leon,2015-11-17,shot,gun,28,M,B,Miami,FL,True,attack
 1011,Demetrius Bryant,2015-11-17,shot,gun,21,M,B,Cayce,SC,False,attack
 1015,Jeray Chatham,2015-11-17,shot,vehicle,30,M,B,Weatherford,TX,False,other
 1016,Derry Touchstone,2015-11-17,shot,unarmed,58,M,W,Arlington,GA,False,other
@@ -913,24 +913,29 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1064,Carlumandarlo Zaramo,2015-12-06,shot,gun,46,M,B,Richmond Heights,OH,True,attack
 1065,John Alan Britton,2015-12-06,shot,knife,48,M,W,Laramie,WY,True,other
 1067,Miguel Espinal,2015-12-08,shot,unarmed,36,M,B,Yonkers,NY,False,undetermined
-1068,Derek Stokes,2015-12-08,shot,gun,33,M,,Cleveland,OH,False,undetermined
+1068,Derek Stokes,2015-12-08,shot,gun,33,M,,Cleveland,OH,False,attack
 1069,Christopher Higdon,2015-12-09,shot,gun,66,M,W,Louisville,KY,False,attack
 1070,Sammy Monroe Echols,2015-12-09,shot,gun,51,M,,Pryor,OK,True,attack
-1071,Jason Bryant,2015-12-10,shot,gun,34,M,W,Indianapolis,IN,False,other
+1071,Jason Bryant,2015-12-10,shot,gun,34,M,W,Indianapolis,IN,False,attack
 1072,Charles Edward Rosemond,2015-12-10,shot,gun,55,M,B,Taylors,SC,False,attack
 1073,Thomas Arthur Gendreau,2015-12-10,shot,undetermined,54,M,,Marina,CA,False,attack
 1074,TK TK,2015-12-10,shot,gun,,M,,Hemet,CA,False,attack
 1075,TK TK,2015-12-11,shot,,,M,,Tucson,AZ,False,attack
 1076,Christopher Goodlow,2015-12-12,shot,knife,25,M,B,Indianapolis,IN,True,attack
-1078,Javario Shante Eagle,2015-12-12,shot,gun and knife,24,M,B,Chattanooga,TN,False,other
-1079,Nicholas Robertson,2015-12-12,shot,gun,28,M,B,Lynwood,CA,False,other
+1078,Javario Shante Eagle,2015-12-12,shot,gun and knife,24,M,B,Chattanooga,TN,False,attack
+1079,Nicholas Robertson,2015-12-12,shot,gun,28,M,B,Lynwood,CA,False,attack
 1081,Jonathan Wardlow,2015-12-12,shot,Taser,36,M,W,Healdton,OK,False,attack
-1082,Andrew Jospeh Todd,2015-12-12,shot,gun,20,M,,East Stroudsburg,PA,True,other
+1082,Andrew Jospeh Todd,2015-12-12,shot,gun,20,M,,East Stroudsburg,PA,True,attack
 1083,TK TK,2015-12-12,shot,knife,49,M,,San Bernardino,CA,False,attack
 1086,TK TK,2015-12-12,shot,unknown weapon,,M,,Aurora,CO,False,attack
 1077,Shirley  Weis,2015-12-13,shot,gun,51,F,,Arlington,TX,True,attack
-1080,Ryan McMillan,2015-12-13,shot,axe,21,M,W,Denton,TX,False,other
+1080,Ryan McMillan,2015-12-13,shot,ax,21,M,W,Denton,TX,False,other
 1084,Nephi  Leiataua,2015-12-13,shot,knife,30,M,O,Thurston County,WA,False,attack
-1089,TK TK,2015-12-13,shot,gun,,M,,Mountain View,CO,False,other
+1089,TK TK,2015-12-13,shot,gun,,M,,Mountain View,CO,False,attack
 1085,TK TK,2015-12-14,shot,gun,,M,,New Orleans,LA,False,attack
 1088,TK TK,2015-12-14,shot and Tasered,knife,,M,,Middle River,MD,True,other
+1090,Michael  Thomason,2015-12-14,shot,undetermined,56,M,W,Humboldt,TN,False,undetermined
+1091,TK TK,2015-12-14,shot,gun,,F,,Las Vegas,NV,True,attack
+1092,TK TK,2015-12-14,shot,knife,,M,,Long Beach,CA,False,other
+1093,TK TK,2015-12-14,shot,undetermined,,M,,Gilroy,CA,False,undetermined
+1094,TK TK,2015-12-14,shot,gun,,M,,Las Vegas,NV,False,attack
