@@ -939,5 +939,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1092,TK TK,2015-12-14,shot,knife,,M,,Long Beach,CA,False,other
 1093,Hector Alvarez,2015-12-14,shot,undetermined,19,M,H,Gilroy,CA,False,undetermined
 1094,TK TK,2015-12-14,shot,gun,,M,,Las Vegas,NV,False,attack
-1095,Mark Toney,2015-12-14,shot,gun,33,M,W,Mt. Hope,WV,False,attack
+1095,Mark Toney,2015-12-14,shot,gun,33,M,W,Mount Hope,WV,False,attack
 1096,TK TK,2015-12-15,shot,vehicle,,M,,Dallas,NC,False,attack
