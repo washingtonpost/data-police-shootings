@@ -756,7 +756,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 896,Donald Miller II,2015-10-06,shot,gun,39,M,,Monterey,CA,True,attack
 897,Amado Lago,2015-10-07,shot,machete,46,M,H,West Palm Beach,FL,False,attack
 898,Gary Carmona Boitano,2015-10-09,shot,knife,19,M,B,Columbia,MD,False,other
-910,Margaret Wagner,2015-10-09,shot,gun,62,,,Aguanga,CA,False,attack
+910,Margaret Wagner,2015-10-09,shot,gun,62,F,,Aguanga,CA,False,attack
 902,Christopher Whitmarsh,2015-10-10,shot,vehicle,49,M,W,Beverly,MA,True,attack
 903,Richard Love,2015-10-10,shot,gun,31,M,W,Old Saybrook,CT,False,attack
 904,William Combs,2015-10-10,shot,vehicle,38,M,W,Pinion Hills,CA,True,other
@@ -884,6 +884,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1033,Freddy Baez,2015-11-24,shot,gun,24,M,B,Camden,NJ,False,attack
 1034,Magnum Edgar Phillips,2015-11-25,shot,knife,23,M,W,Springfield,MO,False,attack
 1035,Douglas R. Slade,2015-11-25,shot,gun,52,M,,Eagar,AZ,False,attack
+1104,Andrew Thomas,2015-11-26,shot,unarmed,26,M,W,Chico,CA,False,other
 1039,Rick Gullickson,2015-11-27,shot,gun,58,M,W,Lampe,MO,False,attack
 1040,Kevin Close,2015-11-28,shot,baseball bat and fireplace poker,50,M,W,Seagoville,TX,False,other
 1036,Justin D. McHenry,2015-11-29,shot,gun,22,M,W,Celina,OH,False,attack
@@ -929,7 +930,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1083,TK TK,2015-12-12,shot,knife,49,M,,San Bernardino,CA,False,attack
 1086,TK TK,2015-12-12,shot,unknown weapon,,M,,Aurora,CO,False,attack
 1077,Shirley  Weis,2015-12-13,shot,gun,51,F,,Arlington,TX,True,attack
-1080,Ryan McMillan,2015-12-13,shot,ax,21,M,W,Denton,TX,False,other
+1080,Ryan McMillan,2015-12-13,shot,ax,21,M,W,Denton,TX,True,other
 1084,Nephi  Leiataua,2015-12-13,shot,knife,30,M,O,Thurston County,WA,False,attack
 1089,Enrique Gonzalez,2015-12-13,shot,gun,32,M,H,Mountain View,CO,False,attack
 1085,Calvin McKinnis,2015-12-14,shot,gun,33,M,B,New Orleans,LA,False,attack
@@ -943,3 +944,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1096,Ronnie Dubose Carter,2015-12-15,shot,vehicle,51,M,B,Dallas,NC,False,attack
 1097,Bryant Neil Duncan,2015-12-16,shot,knife,,M,W,Camarillo,CA,True,attack
 1098,Douglas Yon,2015-12-17,shot,machete,25,M,W,Kent,OH,True,attack
+1099,Christopher Fletcher,2015-12-17,shot,gun,24,M,,Modesto,CA,False,attack
+1100,Erica Lauro,2015-12-18,shot,gun,22,F,W,Northwood,OH,False,attack
+1101,Amos Frerichs,2015-12-18,shot,vehicle,32,M,W,Knoxville,TN,False,attack
+1102,TK TK,2015-12-18,shot,gun,,M,,Taos,NM,False,undetermined
+1103,TK Tk,2015-12-19,shot,gun,,M,,Concord,VA,False,attack
+1105,Ruben Herrera,2015-12-20,shot,undetermined,26,M,H,Los Angeles,CA,True,attack
+1106,TK TK,2015-12-20,shot,gun,,M,,Palmdale,CA,False,attack
+1107,Mark  Ramirez,2015-12-20,shot,gun,31,M,,Amarillo,TX,True,attack
+1108,Tk Tk,2015-12-21,shot,gun,,M,,Hemet,CA,False,attack
