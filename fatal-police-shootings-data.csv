@@ -623,7 +623,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 752,Deviere Ernel Ransom,2015-08-19,shot,gun,24,M,B,Bloomfield Township,MI,False,attack
 753,Jason Hale,2015-08-19,shot,gun,29,M,W,Hunters,WA,True,attack
 754,Wade Allen Baker,2015-08-19,shot,gun,44,M,W,Canton,NC,True,attack
-881,Tyler Gerken,2015-08-20,shot,gun,19,M,,Beverly,OH,True,attack
+881,Tyler Gerken,2015-08-20,shot,gun,19,M,W,Beverly,OH,True,attack
 755,Jeffory Ray Tevis,2015-08-20,shot and Tasered,unarmed,50,M,W,Tuscaloosa,AL,True,attack
 756,Raul Herrera,2015-08-20,shot,gun,17,M,H,Ontario,CA,True,attack
 758,Timmy Walling,2015-08-21,shot,gun,57,M,W,Grapeview,WA,True,attack
@@ -735,7 +735,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 869,Anthony McKinney,2015-09-26,shot,knife,46,M,B,Baton Rouge,LA,False,attack
 870,Alejandro Lerma,2015-09-26,shot,gun,23,M,H,Lovington,NM,False,attack
 871,Norma Angelica Guzman,2015-09-27,shot,knife,37,F,H,Los Angeles,CA,True,other
-874,Christopher Shell,2015-09-27,shot,gun,43,M,,Rossville,GA,False,attack
+874,Christopher Shell,2015-09-27,shot,gun,43,M,W,Rossville,GA,False,attack
 875,Victor Oswaldo Coronado-Martinez,2015-09-27,shot,gun,40,M,H,Ponder,TX,False,attack
 872,Junior Prosper,2015-09-28,shot and Tasered,unarmed,31,M,B,Miami,FL,False,attack
 873,Alberto Hernandez,2015-09-28,shot,toy weapon,59,M,H,San Ysidro,CA,False,attack
@@ -953,3 +953,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1106,Leroy Browning,2015-12-20,shot,gun,30,M,B,Palmdale,CA,False,attack
 1107,Mark  Ramirez,2015-12-20,shot,gun,31,M,,Amarillo,TX,True,attack
 1108,Guadalupe Quiroz,2015-12-21,shot,gun,34,M,H,Hemet,CA,False,attack
+1109,Bobby  Daniels,2015-12-21,shot,gun,48,M,,Douglasville,GA,False,attack
+1110,Michael Noel,2015-12-21,shot,unarmed,,M,B,Breaux Bridge,LA,True,other
+1111,Derek DeGroat,2015-12-21,shot,gun,21,M,W,Canaan Township,PA,True,undetermined
+1112,Robert Teter,2015-12-21,shot,gun,,M,,Deltona,FL,False,attack
+1113,Tk Tk,2015-12-21,shot,gun,,M,,Aurora,CO,False,attack
