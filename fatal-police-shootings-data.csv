@@ -743,7 +743,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 880,Robert  Christen,2015-09-29,shot,unarmed,37,M,W,Mora,MN,False,attack
 876,Brandon Lamar Johnson,2015-09-30,shot,gun,28,M,B,Beckley,WV,False,attack
 888,David M. Diaz,2015-10-02,shot,gun,28,M,H,Sierra Vista,AZ,False,attack
-889,TK TK,2015-10-02,shot and Tasered,knife,,M,,Rialto,CA,False,attack
+889,TK TK,2015-10-02,shot and Tasered,knife,26,M,,Rialto,CA,False,attack
 890,Phyllis Ilene Jepsen,2015-10-02,shot,knife,55,F,W,Aloha,OR,True,other
 892,Matthew Dobbins,2015-10-02,shot,unarmed,29,M,W,Amarillo,TX,False,undetermined
 886,James Joseph Byrd,2015-10-04,shot,beer bottle,45,M,,Van Nuys,CA,False,undetermined
@@ -787,7 +787,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 930,Dequan Williams,2015-10-17,shot and Tasered,knife,28,M,B,York,PA,True,other
 931,Corey Jones,2015-10-18,shot,gun,31,M,B,Palm Beach Gardens,FL,False,undetermined
 932,Krikor Ekizian,2015-10-18,shot,knife,28,M,W,Fresno,CA,True,attack
-934,TK TK,2015-10-19,shot,vehicle,,M,,Los Angeles,CA,False,attack
+934,Dion Lamont Ramirez,2015-10-19,shot,vehicle,53,M,B,Los Angeles,CA,False,attack
 935,Roger D.  Hall,2015-10-20,shot,toy weapon,30,M,W,Louisville,KY,False,attack
 936,Lamontez Jones,2015-10-20,shot,toy weapon,39,M,B,San Diego,CA,False,attack
 937,Joel Lopes,2015-10-20,shot,gun,40,M,H,Truth or Consequences,NM,False,attack
@@ -957,10 +957,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1110,Michael Noel,2015-12-21,shot,unarmed,,M,B,Breaux Bridge,LA,True,other
 1111,Derek DeGroat,2015-12-21,shot,gun,21,M,W,Canaan Township,PA,True,undetermined
 1112,Robert L. Teter,2015-12-21,shot,gun,,M,,Deltona,FL,False,attack
-1113,TK TK,2015-12-21,shot,gun,,M,,Aurora,CO,False,attack
+1113,Chan Leith,2015-12-21,shot,gun,25,M,B,Aurora,CO,False,attack
 1119,Brandon Barsnick,2015-12-21,shot,gun,30,M,,Smartsville,CA,False,attack
 1114,Charles Reynolds,2015-12-22,shot,gun,61,M,,Ludlow,KY,False,attack
 1115,Kenneth Stephens,2015-12-22,shot,gun,56,M,W,Burlington,VT,False,attack
 1116,Michael Hilber,2015-12-22,shot,undetermined,29,M,W,Brooksville,FL,False,undetermined
 1117,Jose  Rodriguez,2015-12-22,shot,gun,19,M,H,Albuquerque,NM,False,undetermined
 1118,Kevin Matthews,2015-12-23,shot,unarmed,35,M,B,Dearborn,MI,True,other
+1120,TK TK,2015-12-24,shot,vehicle,,M,,Winnsboro,LA,False,undetermined
+1122,Gregory Sanders,2015-12-24,shot,gun,54,M,,Pride,LA,True,attack
+1126,Terrozza Griffin,2015-12-24,shot,gun,24,M,B,Lansing,MI,False,attack
+1127,Omar Ventura,2015-12-24,shot,knife,23,M,H,Porterville,CA,False,other
+1129,Daquan Antonio Westbrook,2015-12-24,shot,gun,18,M,B,Charlotte,NC,False,undetermined
+1125,TK TK,2015-12-25,shot,knife,31,M,,Palo Alto,CA,True,attack
+1123,Bettie Jones,2015-12-26,shot,unarmed,55,F,B,Chicago,IL,False,other
+1124,Quintonio LeGrier,2015-12-26,shot,baseball bat,19,M,B,Chicago,IL,True,undetermined
+1121,Lonnie Niesen,2015-12-27,shot,bricks,41,M,,Phoenix,AZ,True,other
+1128,TK Tk,2015-12-27,shot,undetermined,,M,,Lucedale,MS,False,undetermined
