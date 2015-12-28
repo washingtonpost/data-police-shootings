@@ -970,7 +970,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1127,Omar Ventura,2015-12-24,shot,knife,23,M,H,Porterville,CA,False,other
 1129,Daquan Antonio Westbrook,2015-12-24,shot,gun,18,M,B,Charlotte,NC,False,undetermined
 1125,TK TK,2015-12-25,shot,knife,31,M,,Palo Alto,CA,True,attack
-1121,Lonnie Niesen,2015-12-26,shot,bricks,41,M,,Phoenix,AZ,True,other
+1121,Lonnie Niesen,2015-12-26,shot,brick,41,M,,Phoenix,AZ,True,other
 1123,Bettie Jones,2015-12-26,shot,unarmed,55,F,B,Chicago,IL,False,other
 1124,Quintonio LeGrier,2015-12-26,shot,baseball bat,19,M,B,Chicago,IL,True,undetermined
 1128,TK Tk,2015-12-27,shot,undetermined,,M,,Lucedale,MS,False,undetermined
