@@ -913,7 +913,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1063,Raymond Azevedo,2015-12-06,shot,gun,35,M,W,Seattle,WA,False,attack
 1064,Carlumandarlo Zaramo,2015-12-06,shot,gun,46,M,B,Richmond Heights,OH,True,attack
 1065,John Alan Britton,2015-12-06,shot,knife,48,M,W,Laramie,WY,True,other
-1067,Miguel Espinal,2015-12-08,shot,unarmed,36,M,B,Yonkers,NY,False,undetermined
+1067,Miguel Espinal,2015-12-08,shot,unarmed,36,M,B,Yonkers,NY,False,other
 1068,Derek Stokes,2015-12-08,shot,gun,33,M,B,Cleveland,OH,False,attack
 1069,Christopher Higdon,2015-12-09,shot,gun,66,M,W,Leitchfield,KY,False,attack
 1070,Sammy Monroe Echols,2015-12-09,shot,gun,51,M,,Pryor,OK,True,attack
@@ -943,11 +943,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1095,Mark Toney,2015-12-14,shot,gun,33,M,W,Mount Hope,WV,False,attack
 1096,Ronnie Dubose Carter,2015-12-15,shot,vehicle,51,M,B,Dallas,NC,False,attack
 1097,Bryant Neil Duncan,2015-12-16,shot,knife,,M,W,Camarillo,CA,True,attack
-1098,Douglas Yon,2015-12-17,shot,machete,25,M,W,Kent,OH,True,attack
+1098,Douglas Yon,2015-12-17,shot,machete,25,M,W,Kent,OH,True,other
 1099,Christopher Fletcher,2015-12-17,shot,gun,24,M,,Modesto,CA,False,attack
 1100,Erica Lauro,2015-12-18,shot,gun,22,F,W,Northwood,OH,False,attack
 1101,Amos Frerichs,2015-12-18,shot,vehicle,32,M,W,Knoxville,TN,False,attack
-1102,Robert L. Martinez,2015-12-18,shot,gun,58,M,H,Taos,NM,False,undetermined
+1102,Robert L. Martinez,2015-12-18,shot,gun,58,M,H,Taos,NM,False,attack
 1103,Trayvon Scruggs,2015-12-19,shot,gun,24,M,B,Concord,VA,False,attack
 1105,Ruben Jose Herrera,2015-12-19,shot,undetermined,26,M,H,Los Angeles,CA,True,attack
 1106,Leroy Browning,2015-12-20,shot,gun,30,M,B,Palmdale,CA,False,attack
@@ -964,15 +964,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1116,Michael Hilber,2015-12-22,shot,undetermined,29,M,W,Brooksville,FL,False,undetermined
 1117,Jose  Rodriguez,2015-12-22,shot,gun,19,M,H,Albuquerque,NM,False,undetermined
 1118,Kevin Matthews,2015-12-23,shot,unarmed,35,M,B,Dearborn,MI,True,other
-1120,Schuylar Gunning,2015-12-24,shot,vehicle,36,M,W,Winnsboro,LA,False,undetermined
+1120,Schuylar Gunning,2015-12-24,shot,vehicle,36,M,W,Winnsboro,LA,False,other
 1122,Gregory Sanders,2015-12-24,shot,gun,54,M,,Pride,LA,True,attack
 1126,Terrozza Tyree Griffin,2015-12-24,shot,gun,24,M,B,Lansing,MI,False,attack
 1127,Omar Ventura,2015-12-24,shot,knife,23,M,H,Porterville,CA,False,other
-1129,Daquan Antonio Westbrook,2015-12-24,shot,gun,18,M,B,Charlotte,NC,False,undetermined
+1129,Daquan Antonio Westbrook,2015-12-24,shot,gun,18,M,B,Charlotte,NC,False,attack
 1125,William David Raff,2015-12-25,shot,knife,31,M,,Palo Alto,CA,True,attack
 1121,Lonnie Niesen,2015-12-26,shot,brick,41,M,,Phoenix,AZ,True,other
 1123,Bettie Jones,2015-12-26,shot,unarmed,55,F,B,Chicago,IL,False,other
 1124,Quintonio LeGrier,2015-12-26,shot,baseball bat,19,M,B,Chicago,IL,True,undetermined
 1128,Michael Parker,2015-12-27,shot,undetermined,36,M,W,Lucedale,MS,False,undetermined
-1132,Sean Mould,2015-12-27,shot,knife,34,M,W,Tempe,AZ,False,undetermined
-1131,Corey Jason Achstein,2015-12-28,shot,toy weapon,28,M,,Suffolk,VA,False,undetermined
+1132,Sean Mould,2015-12-27,shot,knife,34,M,W,Tempe,AZ,False,other
+1131,Corey Jason Achstein,2015-12-28,shot,toy weapon,28,M,W,Suffolk,VA,False,attack
+1133,Siolosega Velega-Nuufolau,2015-12-29,shot,knife,50,F,,Santa Nella,CA,True,undetermined
+1134,Tien Hua,2015-12-29,shot,unknown weapon,,M,,Rosemead,CA,False,undetermined
