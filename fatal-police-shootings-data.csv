@@ -984,4 +984,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1137,Keith Childress,2015-12-31,shot,unarmed,23,M,B,Las Vegas,NV,False,other
 1139,TK TK,2016-01-01,shot,knife,,M,,San Diego,CA,False,attack
 1138,TK TK,2016-01-02,shot and Tasered,knife,,M,,Livingston,MT,False,attack
-1140,Germonta Wallace,2016-01-03,shot,gun,,M,,Charlotte,NC,False,attack
+1140,Germonta Wallace,2016-01-03,shot,gun,30,M,,Charlotte,NC,False,attack
