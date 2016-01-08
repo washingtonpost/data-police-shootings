@@ -993,7 +993,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1145,TK TK,2016-01-05,shot,vehicle,29,M,W,Olympia,WA,False,attack
 1146,James K. Maher,2016-01-05,shot,unknown weapon,39,M,W,Johnson City,TN,False,attack
 1147,Carlton Antonio Murphy,2016-01-05,shot,gun,33,M,,Charlotte,NC,False,attack
-1148,TK TK,2016-01-05,shot,gun,50,M,,Redding,CA,True,other
+1148,Stephen Bukwich,2016-01-05,shot,gun,52,M,,Redding,CA,True,other
 1149,Albert Thompson,2016-01-05,shot,undetermined,28,M,,Ceres,CA,False,undetermined
-1150,Charles  Hollstein,2016-01-06,shot,toy weapon,38,M,W,Zion,IL,False,undetermined
+1150,Charles  Hollstein,2016-01-06,shot,toy weapon,38,M,W,Zion,IL,True,undetermined
 1153,TK TK,2016-01-06,shot,gun,,M,,Carrizozo,NM,True,attack
+1154,TK TK,2016-01-06,shot,gun,,M,,Daviess County,KY,False,attack
