@@ -988,7 +988,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1137,Keith Childress,2015-12-31,shot,unarmed,23,M,B,Las Vegas,NV,False,other
 1139,Joshua Sisson,2016-01-01,shot,knife,30,M,W,San Diego,CA,False,attack
 1138,Sean O'Brien,2016-01-02,shot and Tasered,knife,37,M,,Livingston,MT,False,attack
-1140,Germonta Wallace,2016-01-03,shot,gun,30,M,,Charlotte,NC,False,attack
+1140,Germonta Wallace,2016-01-03,shot,gun,30,M,B,Charlotte,NC,False,attack
 1142,Eric John Senegal,2016-01-04,shot,undetermined,27,M,B,Ragley,LA,False,undetermined
 1144,Rodney Turner,2016-01-04,shot,gun,22,M,B,Oklahoma City,OK,False,attack
 1145,TK TK,2016-01-05,shot,vehicle,29,M,W,Olympia,WA,False,attack
@@ -999,6 +999,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1150,Charles  Hollstein,2016-01-06,shot,toy weapon,38,M,W,Zion,IL,True,undetermined
 1153,TK TK,2016-01-06,shot,gun,,M,,Carrizozo,NM,True,attack
 1154,Kenneth Clay,2016-01-06,shot,gun,34,M,,Daviess County,KY,False,attack
-1157,Eric C. Olsen,2016-01-08,shot,knife,26,M,,Geneva,WI,False,other
-1158,Andrew Earl Abernathy,2016-01-08,shot,gun,50,M,,Acworth,GA,False,undetermined
+1157,Eric C. Olsen,2016-01-08,shot,knife,26,M,W,Geneva,WI,False,other
+1158,Andrew Earl Abernathy,2016-01-08,shot,gun,50,M,W,Acworth,GA,False,undetermined
 1156,TK TK,2016-01-10,shot,chainsaw,,M,,Kelso,WA,False,other
