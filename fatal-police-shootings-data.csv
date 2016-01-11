@@ -997,4 +997,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1149,Albert Thompson,2016-01-05,shot,undetermined,28,M,,Ceres,CA,False,undetermined
 1150,Charles  Hollstein,2016-01-06,shot,toy weapon,38,M,W,Zion,IL,True,undetermined
 1153,TK TK,2016-01-06,shot,gun,,M,,Carrizozo,NM,True,attack
-1154,TK TK,2016-01-06,shot,gun,,M,,Daviess County,KY,False,attack
+1154,Kenneth Clay,2016-01-06,shot,gun,34,M,,Daviess County,KY,False,attack
+1157,Eric C. Olsen,2016-01-08,shot,knife,26,M,,Geneva,WI,False,other
+1158,Andrew Earl Abernathy,2016-01-08,shot,gun,50,M,,Acworth,GA,False,undetermined
+1156,TK TK,2016-01-10,shot,chainsaw,,M,,Kelso,WA,False,other
