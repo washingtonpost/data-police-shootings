@@ -1016,7 +1016,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1180,William Keith Waldron,2016-01-15,shot,gun,26,M,,Elkins,WV,False,attack
 1172,TK TK,2016-01-16,shot,gun,,M,,Hollywood Hills,CA,False,undetermined
 1173,TK TK,2016-01-16,shot,gun,27,M,W,San Antonio,TX,False,attack
-1177,Kelsey Rose Hauser,2016-01-16,shot,unarmed,25,F,,El Cajon,CA,False,other
+1177,Kelsey Rose Hauser,2016-01-16,shot,unarmed,25,F,W,El Cajon,CA,False,other
 1179,Clarence Layfield Jr.,2016-01-16,shot,vehicle,55,M,,Petroleum,WV,False,attack
 1181,Henry Bennett,2016-01-16,shot,gun,19,M,B,Belle Glade,FL,False,attack
 1170,Crayton West,2016-01-17,shot,gun,52,M,B,St. Louis,MO,False,attack
@@ -1025,7 +1025,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1175,Corey Lee Henderson,2016-01-17,shot,gun,31,M,W,Salt Lake City,UT,False,attack
 1176,Adam Karjalainen,2016-01-17,shot,gun,44,M,W,Beaverton,OR,False,attack
 1178,Jordan Szymanski,2016-01-18,shot,gun,33,M,,Tucson,AZ,True,attack
-1182,Eric Provost,2016-01-18,shot,gun,28,M,W,Orlando,FL,False,other
+1182,Eric Provost,2016-01-18,shot,toy weapon,28,M,W,Orlando,FL,False,other
 1184,Timothy Joseph Carruthers,2016-01-18,shot,knife,27,M,W,Medford,OR,False,undetermined
 1186,TK TK,2016-01-18,shot,gun,,M,,Phoenix,AZ,True,attack
 1185,Gary Wayne Jones,2016-01-19,shot,gun,36,M,W,Dallas,TX,False,undetermined
