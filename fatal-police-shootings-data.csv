@@ -1028,8 +1028,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1178,Jordan Szymanski,2016-01-18,shot,gun,33,M,,Tucson,AZ,True,attack
 1182,Eric Provost,2016-01-18,shot,toy weapon,28,M,W,Orlando,FL,False,other
 1184,Timothy Joseph Carruthers,2016-01-18,shot,knife,27,M,W,Medford,OR,False,undetermined
-1186,TK TK,2016-01-18,shot,gun,,M,,Phoenix,AZ,True,attack
-1189,Vasilios Alexander Katsouras,2016-01-18,shot,garden tool,29,M,,Union City,CA,False,other
+1186,Levi Gene Wilson,2016-01-18,shot,gun,39,M,,Phoenix,AZ,True,attack
+1189,Vasilios Alexander Katsouras,2016-01-18,shot,garden tool,29,M,W,Union City,CA,False,other
+1193,TK TK,2016-01-18,shot,gun,,M,,Campbelltown,PA,False,attack
 1185,Gary Wayne Jones,2016-01-19,shot,gun,36,M,W,Dallas,TX,False,undetermined
 1187,Samuel  Grady,2016-01-19,shot,knife,55,M,,Statesville,NC,True,undetermined
-1190,TK TK,2016-01-19,shot,gun,,M,W,Valdosta,GA,False,undetermined
+1190,Jim  Redmond,2016-01-19,shot,gun,,M,W,Valdosta,GA,False,undetermined
+1191,Timothy Albert,2016-01-20,shot,gun,40,M,,Port Barre,LA,False,attack
