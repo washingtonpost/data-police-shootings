@@ -1042,3 +1042,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1194,Randy Sanders,2016-01-20,shot,gun,33,M,,Meridianville,AL,False,other
 1202,Michael Clyde Lynch,2016-01-20,shot,undetermined,37,M,W,Kerrville,TX,False,other
 1201,Cedric Norris,2016-01-21,shot,gun,39,M,B,Eufaula,OK,False,attack
+1200,Michael Lamar Robinson,2016-01-23,shot,undetermined,,M,,Clanton,AL,False,undetermined
+1199,TK TK,2016-01-25,shot,knife,,M,,Reno,NV,False,other
