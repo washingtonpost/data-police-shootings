@@ -1015,7 +1015,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1183,Brandon Bearden,2016-01-13,shot,gun,,M,,Sevierville,TN,False,undetermined
 1197,Timothy Meehan,2016-01-13,shot,gun,60,M,,Cle Elum,WA,True,attack
 1168,Willie Holderfield,2016-01-14,shot,gun,40,M,,Hurst,IL,False,attack
-1169,TK TK,2016-01-14,shot,undetermined,,M,,Santa Clarita,CA,False,other
+1169,Miguel Hernandez,2016-01-14,shot,undetermined,39,M,H,Santa Clarita,CA,False,other
 1180,William Keith Waldron,2016-01-15,shot,gun,26,M,,Elkins,WV,False,attack
 1196,Rakeem Bentley,2016-01-15,shot,gun,24,M,,Southfield,MI,False,attack
 1172,Adam Longoria,2016-01-16,shot,gun,34,M,,Hollywood Hills,CA,False,undetermined
@@ -1034,7 +1034,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1184,Timothy Joseph Carruthers,2016-01-18,shot,knife,27,M,W,Medford,OR,False,undetermined
 1186,Levi Gene Wilson,2016-01-18,shot,gun,39,M,,Phoenix,AZ,True,attack
 1189,Vasilios Alexander Katsouras,2016-01-18,shot,garden tool,29,M,W,Union City,CA,False,other
-1193,TK TK,2016-01-18,shot,gun,,M,,Campbelltown,PA,False,attack
 1185,Gary Wayne Jones,2016-01-19,shot,gun,36,M,W,Dallas,TX,False,undetermined
 1187,Samuel  Grady,2016-01-19,shot,knife,55,M,,Statesville,NC,True,undetermined
 1190,Jim  Redmond,2016-01-19,shot,gun,,M,W,Valdosta,GA,False,undetermined
@@ -1043,4 +1042,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1202,Michael Clyde Lynch,2016-01-20,shot,undetermined,37,M,W,Kerrville,TX,False,other
 1201,Cedric Norris,2016-01-21,shot,gun,39,M,B,Eufaula,OK,False,attack
 1200,Michael Lamar Robinson,2016-01-23,shot,undetermined,,M,,Clanton,AL,False,undetermined
-1199,TK TK,2016-01-25,shot,knife,,M,,Reno,NV,False,other
+1199,Sergio Alvardo-Morales,2016-01-25,shot,knife,38,M,H,Reno,NV,False,other
+1203,"Robert ""LaVoy"" Finicum",2016-01-26,shot,undetermined,,M,W,Burns,OR,False,undetermined
+1204,TK TK,2016-01-27,shot,gun,,M,,Mountain Pine,AR,False,undetermined
