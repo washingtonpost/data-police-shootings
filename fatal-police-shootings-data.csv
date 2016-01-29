@@ -887,6 +887,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1033,Freddy Baez,2015-11-24,shot,gun,24,M,B,Camden,NJ,False,attack
 1034,Magnum Edgar Phillips,2015-11-25,shot,knife,23,M,W,Springfield,MO,False,attack
 1035,Douglas R. Slade,2015-11-25,shot,gun,52,M,W,Eagar,AZ,False,attack
+1046,Somer Speer,2015-11-25,shot,gun,37,F,W,Ozark,MO,False,attack
 1104,Andrew Thomas,2015-11-26,shot,unarmed,26,M,W,Chico,CA,False,other
 1039,Rick Gullickson,2015-11-27,shot,gun,58,M,W,Lampe,MO,False,attack
 1040,Kevin Close,2015-11-28,shot,baseball bat and fireplace poker,50,M,W,Seagoville,TX,False,other
@@ -1045,10 +1046,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1199,Sergio Alvardo-Morales,2016-01-25,shot,knife,38,M,H,Reno,NV,False,other
 1203,"Robert ""LaVoy"" Finicum",2016-01-26,shot,undetermined,55,M,W,Burns,OR,False,undetermined
 1204,Scott Scanlon,2016-01-27,shot,gun,52,M,,Mountain Pine,AR,False,undetermined
-1205,Johnathan Bratcher,2016-01-27,shot,gun,32,M,B,Memphis,TN,False,attack
+1205,Johnathan Bracher,2016-01-27,shot,gun,32,M,B,Memphis,TN,False,attack
 1206,TK TK,2016-01-27,shot,gun,,,,Santa Fe,NM,False,undetermined
-1207,TK TK,2016-01-27,shot,undetermined,,M,,Latta,SC,False,undetermined
+1207,Wesley Smith,2016-01-27,shot,undetermined,27,M,,Latta,SC,False,undetermined
 1208,Thongsavanh Vandarack,2016-01-27,shot,undetermined,40,M,A,Lenoir City,TN,True,undetermined
-1209,Janet Wilson,2016-01-27,shot,vehicle,31,F,,Dearborn,MI,True,other
-1210,TK TK,2016-01-27,shot,gun,,M,,Mansfield,TX,False,attack
-1212,Isreal Rodriguez,2016-01-27,shot,gun,26,M,H,Cobb County,GA,False,attack
+1209,Janet Wilson,2016-01-27,shot,vehicle,31,F,B,Dearborn,MI,True,other
+1210,Nathan Lee Bailey,2016-01-27,shot,gun,30,M,,Mansfield,TX,False,attack
+1212,Israel Vladimir Rodriguez,2016-01-27,shot,gun,26,M,H,Cobb County,GA,False,attack
