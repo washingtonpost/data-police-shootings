@@ -1046,7 +1046,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1199,Sergio Alvardo-Morales,2016-01-25,shot,knife,38,M,H,Reno,NV,False,other
 1203,"Robert ""LaVoy"" Finicum",2016-01-26,shot,undetermined,55,M,W,Burns,OR,False,undetermined
 1204,Scott Scanlon,2016-01-27,shot,gun,52,M,,Mountain Pine,AR,False,undetermined
-1205,Johnathan Bracher,2016-01-27,shot,gun,32,M,B,Memphis,TN,False,attack
+1205,Johnathan Bratcher,2016-01-27,shot,gun,32,M,B,Memphis,TN,False,attack
 1206,TK TK,2016-01-27,shot,gun,,,,Santa Fe,NM,False,undetermined
 1207,John Wesley Smith,2016-01-27,shot,undetermined,27,M,,Latta,SC,False,undetermined
 1208,Thongsavanh Vandarack,2016-01-27,shot,undetermined,40,M,A,Lenoir City,TN,True,undetermined
@@ -1057,3 +1057,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1215,TK TK,2016-01-28,shot,gun,19,M,,Clackamas County,OR,True,other
 1213,TK TK,2016-01-29,shot,vehicle,,F,,Tacoma,WA,False,undetermined
 1216,TK TK,2016-01-29,shot,undetermined,,M,,Lynn,MA,False,undetermined
+1218,TK TK,2016-01-29,shot,undetermined,,M,,Irving,TX,False,undetermined
