@@ -1059,12 +1059,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1215,Christopher Kalonji,2016-01-28,shot,gun,19,M,B,Clackamas County,OR,True,other
 1213,Jacqueline D. Salyers,2016-01-29,shot,vehicle,32,F,W,Tacoma,WA,False,undetermined
 1216,Randolph McClain,2016-01-29,shot,gun,33,M,B,Lynn,MA,False,attack
-1218,Michael Dew,2016-01-29,shot,undetermined,29,M,B,Irving,TX,False,undetermined
-1224,Jose Alegre,2016-01-29,shot,gun,64,M,,Rossville,GA,False,attack
+1218,Christopher Michael Dew,2016-01-29,shot,undetermined,29,M,B,Irving,TX,False,undetermined
 1226,Angela  Hiatt,2016-01-29,shot,vehicle,41,F,,Phenix,AL,False,attack
-1221,Charles M.  Smith ,2016-01-30,shot,gun,29,,,Chicago,IL,False,other
-1222,Philip B.  Salazar,2016-01-30,shot,gun,38,M,,Fort Collins,CO,False,other
+1221,Charles M.  Smith,2016-01-30,shot,gun,29,,,Chicago,IL,False,other
+1222,Philip B.  Salazar,2016-01-30,shot,scissors,38,M,,Fort Collins,CO,False,other
+1224,Jose Alegre,2016-01-30,shot,gun,64,M,,Rossville,GA,False,attack
 1220,Bruce Kelley,2016-01-31,shot and Tasered,knife,37,M,B,Wilkinsburg,PA,False,attack
-1223,TK TK,2016-01-31,shot,knife,,M,,Immokalee,FL,False,other
+1223,Juan A. Ruiz,2016-01-31,shot,knife,46,M,H,Immokalee,FL,False,other
 1225,Michael Brown,2016-01-31,shot,undetermined,25,M,,Saginaw,TX,False,attack
-1219,TK TK,2016-02-01,shot,toy weapon,,M,,Washington,DC,False,attack
+1219,TK TK,2016-02-01,shot,toy weapon,,M,B,Washington,DC,False,attack
