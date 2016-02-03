@@ -1024,7 +1024,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1172,Adam Longoria,2016-01-16,shot,gun,34,M,,Hollywood Hills,CA,False,undetermined
 1173,Ashton Lane Morris,2016-01-16,shot,gun,27,M,W,San Antonio,TX,False,attack
 1177,Kelsey Rose Hauser,2016-01-16,shot,unarmed,25,F,W,El Cajon,CA,False,other
-1179,Clarence Layfield Jr.,2016-01-16,shot,vehicle,55,M,,Petroleum,WV,False,attack
+1179,Clarence Layfield Jr.,2016-01-16,shot,vehicle,55,M,W,Petroleum,WV,False,attack
 1181,Henry Bennett,2016-01-16,shot,gun,19,M,B,Belle Glade,FL,False,attack
 1170,Crayton West,2016-01-17,shot,gun,52,M,B,St. Louis,MO,False,attack
 1171,Efrain Herrera,2016-01-17,shot,knife,24,M,H,North Hills,CA,False,undetermined
@@ -1032,7 +1032,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1175,Corey Lee Henderson,2016-01-17,shot,gun,31,M,W,Salt Lake City,UT,False,attack
 1176,Adam Karjalainen,2016-01-17,shot,gun,44,M,W,Beaverton,OR,False,attack
 1188,Daniel Shaver,2016-01-17,shot,undetermined,26,M,W,Mesa,AZ,False,attack
-1178,Jordan Szymanski,2016-01-18,shot,gun,33,M,,Tucson,AZ,True,attack
+1178,Jordan Szymanski,2016-01-18,shot,gun,33,M,W,Tucson,AZ,True,attack
 1182,Eric Provost,2016-01-18,shot,toy weapon,28,M,W,Orlando,FL,False,other
 1184,Timothy Joseph Carruthers,2016-01-18,shot,knife,27,M,W,Medford,OR,False,undetermined
 1186,Levi Gene Wilson,2016-01-18,shot,gun,39,M,W,Phoenix,AZ,True,attack
@@ -1064,9 +1064,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1221,Charles M.  Smith,2016-01-30,shot,gun,29,,,Chicago,IL,False,other
 1222,Philip B.  Salazar,2016-01-30,shot,scissors,38,M,,Fort Collins,CO,False,other
 1224,Jose Alegre,2016-01-30,shot,gun,64,M,,Rossville,GA,False,attack
-1230,Jeremy J. Sinclair,2016-01-30,shot,gun,42,M,,Sugar Creek,MO,False,attack
+1230,Jeremy J. Sinclair,2016-01-30,shot,gun,42,M,W,Sugar Creek,MO,False,attack
 1220,Bruce Kelley,2016-01-31,shot and Tasered,knife,37,M,B,Wilkinsburg,PA,False,attack
 1223,Juan A. Ruiz,2016-01-31,shot,knife,46,M,H,Immokalee,FL,False,other
 1225,Michael Brown,2016-01-31,shot,undetermined,25,M,,Saginaw,TX,False,attack
-1229,TK TK,2016-01-31,shot,gun,52,M,,Newark,CA,True,attack
-1219,TK TK,2016-02-01,shot,toy weapon,,M,B,Washington,DC,False,attack
+1229,Jeffry Graves,2016-01-31,shot,gun,62,M,,Newark,CA,True,attack
+1219,Peter John,2016-02-01,shot,toy weapon,,M,B,Washington,DC,False,attack
+1232,Edgar Rene Alvarado,2016-02-01,shot,undetermined,21,M,,Albuquerque,NM,False,undetermined
+1231,TK TK,2016-02-02,shot and Tasered,knife,,M,W,Rancho Cordova,CA,True,attack
