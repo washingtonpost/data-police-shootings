@@ -1104,7 +1104,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1263,Mohamed Barry,2016-02-12,shot,machete,30,M,O,Columbus,OH,False,attack
 1273,David Glen Watson,2016-02-12,shot,gun,53,M,W,Fort Worth,TX,False,attack
 1266,Calvin Smith,2016-02-13,shot,gun,22,M,B,Baton Rouge,LA,True,attack
-1267,Markevious White,2016-02-13,shot,vehicle,,M,B,Pine Bluff,AR,False,undetermined
 1268,TK TK,2016-02-13,shot,gun,,M,,Urbandale,IA,False,attack
 1272,Dyzhawn Perkins,2016-02-13,shot,undetermined,19,M,B,Arvonia,VA,False,undetermined
 1265,TK TK,2016-02-14,shot,knife,,M,,Van Nuys,CA,False,other
