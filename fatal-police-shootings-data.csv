@@ -1101,7 +1101,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1258,Alijah Jackson,2016-02-11,shot,knife,35,M,,Maiden,NC,True,other
 1261,TK TK,2016-02-11,shot,ax,45,M,W,Lancaster,CA,False,other
 1263,Mohamed Barry,2016-02-11,shot,machete,30,M,O,Columbus,OH,False,attack
-1262,Peter Fanfan,2016-02-12,shot,gun,29,M,,Dorchester,MA,False,attack
+1262,Peter Fanfan,2016-02-12,shot,gun,29,M,,Boston,MA,False,attack
 1273,David Glen Watson,2016-02-12,shot,gun,53,M,W,Fort Worth,TX,False,attack
 1276,Sahlah Ridgeway,2016-02-12,shot,gun,32,F,B,Syracuse,NY,False,other
 1266,Calvin Smith,2016-02-13,shot,gun,22,M,B,Baton Rouge,LA,True,attack
@@ -1109,10 +1109,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1270,Calin Roquemore,2016-02-13,shot,unarmed,24,M,,Beckville,TX,False,undetermined
 1272,Dyzhawn L. Perkins,2016-02-13,shot,undetermined,19,M,B,Arvonia,VA,False,undetermined
 1277,Dennis Windell Marshall,2016-02-13,shot,gun,29,M,,Elizabethtown,NC,False,attack
-1265,TK TK,2016-02-14,shot,knife,,M,,Van Nuys,CA,False,other
 1269,Marc Stoddart,2016-02-14,shot,knife,50,M,W,Bradenton,FL,True,other
 1271,TK TK,2016-02-14,shot,gun,29,M,,Los Angeles,CA,False,other
 1274,Brandon Lee Witt,2016-02-15,shot,undetermined,39,M,,Yorba Linda,CA,False,undetermined
 1275,Christopher Andrews,2016-02-16,shot,unarmed,51,M,W,Fairfield,CT,False,undetermined
-1278,Destry Meikle,2016-02-16,shot,vehicle,48,M,,Republic,MO,False,other
+1278,Destry Meikle,2016-02-16,shot,vehicle,48,M,W,Republic,MO,False,other
 1279,Shawn Henry Allen Dickens,2016-02-16,shot,gun,30,M,W,Mena,AR,False,other
