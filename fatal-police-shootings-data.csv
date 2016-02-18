@@ -800,6 +800,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 943,Lawrence  Green,2015-10-22,shot,knife,38,M,B,Shreveport,LA,False,attack
 945,Adriene Jamarr Ludd,2015-10-22,shot,gun,36,M,B,Carmichael,CA,False,attack
 946,Stephen H. Brock,2015-10-22,shot,undetermined,53,M,W,Pine Top,KY,False,other
+1283,John Tozzi,2015-10-24,shot,gun,,M,,New Paltz,NY,False,attack
 947,Juan Ulloa,2015-10-24,shot,gun,34,M,H,Highgrove,CA,False,attack
 948,Rolly Thomas,2015-10-24,shot,gun,,M,B,Cape Coral,FL,False,attack
 950,Dominic Hutchinson,2015-10-24,shot,undetermined,30,M,B,Cathedral City,CA,False,undetermined
@@ -1000,9 +1001,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1146,James K. Maher,2016-01-05,shot,unknown weapon,39,M,W,Johnson City,TN,False,attack
 1147,Carlton Antonio Murphy,2016-01-05,shot,gun,33,M,B,Charlotte,NC,False,attack
 1148,Stephen Bukwich,2016-01-05,shot,gun,52,M,W,Redding,CA,True,other
-1149,Albert Thompson,2016-01-05,shot,undetermined,28,M,,Ceres,CA,False,undetermined
+1149,Albert Thompson,2016-01-05,shot,hand torch,28,M,,Ceres,CA,False,other
 1160,David Zollo,2016-01-05,shot and Tasered,knife,54,M,W,Upper Darby,PA,True,undetermined
-1150,Charles  Hollstein,2016-01-06,shot,toy weapon,38,M,W,Zion,IL,True,undetermined
+1150,Charles Hollstein,2016-01-06,shot,toy weapon,38,M,W,Zion,IL,True,undetermined
 1153,Alan Huberth Franco-Armenta,2016-01-06,shot,gun,32,M,H,Carrizozo,NM,True,attack
 1154,Kenneth Clay,2016-01-06,shot,gun,34,M,W,Daviess County,KY,False,attack
 1157,Eric C. Olsen,2016-01-08,shot,knife,26,M,W,Geneva,WI,False,other
@@ -1014,7 +1015,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1164,Ramone Lonergan,2016-01-11,shot,gun,32,M,W,Denver,CO,False,attack
 1165,Ciara Meyer,2016-01-11,shot,unarmed,12,F,W,Penn Township,PA,False,other
 1166,Herman Bean,2016-01-12,shot,knife,49,M,,Spenard,AK,False,undetermined
-1167,Keith Richardson,2016-01-12,shot,gun,58,M,W,Norfolk,VA,False,undetermined
+1167,Keith Richardson,2016-01-12,shot,gun,58,M,W,Norfolk,VA,True,undetermined
 1183,Brandon Bearden,2016-01-13,shot,gun,29,M,W,Sevierville,TN,False,undetermined
 1197,Timothy Meehan,2016-01-13,shot,gun,60,M,W,Cle Elum,WA,True,attack
 1168,Willie Holderfield,2016-01-14,shot,gun,40,M,W,Hurst,IL,False,attack
@@ -1062,7 +1063,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1218,Christopher Michael Dew,2016-01-29,shot,gun,29,M,B,Irving,TX,False,undetermined
 1226,Angela  Hiatt,2016-01-29,shot,vehicle,41,F,,Phenix,AL,False,attack
 1221,Charles M. Smith,2016-01-30,shot,gun,29,M,B,Chicago,IL,False,other
-1222,Philip B.  Salazar,2016-01-30,shot,scissors,38,M,,Fort Collins,CO,False,other
+1222,Philip B. Salazar,2016-01-30,shot,scissors,38,M,,Fort Collins,CO,False,other
 1224,Jose Alegre,2016-01-30,shot,gun,64,M,,Rossville,GA,False,attack
 1230,Jeremy J. Sinclair,2016-01-30,shot,gun,42,M,W,Sugar Creek,MO,False,attack
 1220,Bruce Kelley,2016-01-31,shot and Tasered,knife,37,M,B,Wilkinsburg,PA,False,attack
@@ -1109,9 +1110,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1270,Calin Roquemore,2016-02-13,shot,unarmed,24,M,,Beckville,TX,False,undetermined
 1272,Dyzhawn L. Perkins,2016-02-13,shot,undetermined,19,M,B,Arvonia,VA,False,undetermined
 1277,Dennis Windell Marshall,2016-02-13,shot,gun,29,M,,Elizabethtown,NC,False,attack
+1280,Rammy Jaradat,2016-02-14,shot,knife,26,M,,Van Nuys,CA,False,undetermined
 1269,Marc Stoddart,2016-02-14,shot,knife,50,M,W,Bradenton,FL,True,other
 1271,TK TK,2016-02-14,shot,gun,29,M,,Los Angeles,CA,False,other
 1274,Brandon Lee Witt,2016-02-15,shot,undetermined,39,M,,Yorba Linda,CA,False,undetermined
 1275,Christopher Andrews,2016-02-16,shot,unarmed,51,M,W,Fairfield,CT,False,undetermined
 1278,Destry Meikle,2016-02-16,shot,vehicle,48,M,W,Republic,MO,False,other
 1279,Shawn Henry Allen Dickens,2016-02-16,shot,gun,30,M,W,Mena,AR,False,other
+1282,Guadalupe Sauceda,2016-02-17,shot,gun,52,M,H,Jal,NM,False,attack
