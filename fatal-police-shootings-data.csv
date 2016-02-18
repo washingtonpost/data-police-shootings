@@ -1032,15 +1032,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1174,Joshua Tate Fielding,2016-01-17,shot,gun,38,M,W,Rainbow City,AL,False,other
 1175,Corey Lee Henderson,2016-01-17,shot,gun,31,M,W,Salt Lake City,UT,False,attack
 1176,Adam Karjalainen,2016-01-17,shot,gun,44,M,W,Beaverton,OR,False,attack
-1188,Daniel Shaver,2016-01-17,shot,undetermined,26,M,W,Mesa,AZ,False,attack
+1188,Daniel Shaver,2016-01-17,shot,unarmed,26,M,W,Mesa,AZ,False,attack
 1178,Jordan Szymanski,2016-01-18,shot,gun,33,M,W,Tucson,AZ,True,attack
 1182,Eric Provost,2016-01-18,shot,toy weapon,28,M,W,Orlando,FL,False,other
 1184,Timothy Joseph Carruthers,2016-01-18,shot,knife,27,M,W,Medford,OR,False,undetermined
 1186,Levi Gene Wilson,2016-01-18,shot,gun,39,M,W,Phoenix,AZ,True,attack
-1189,Vasilios Alexander Katsouras,2016-01-18,shot,garden tool,29,M,W,Union City,CA,False,other
+1189,Vasilios Alexander Katsouras,2016-01-18,shot,garden tool,29,M,W,Union City,CA,True,other
 1185,Gary Wayne Jones,2016-01-19,shot,gun,36,M,W,Dallas,TX,False,undetermined
-1187,Samuel  Grady,2016-01-19,shot,knife,55,M,W,Statesville,NC,True,undetermined
-1190,Jim Redmond,2016-01-19,shot,gun,28,M,W,Valdosta,GA,False,undetermined
+1187,Samuel Grady,2016-01-19,shot,knife,55,M,W,Statesville,NC,True,undetermined
+1190,Jim Redmond,2016-01-19,shot,gun,28,M,W,Valdosta,GA,False,attack
 1191,Timothy Albert,2016-01-20,shot,gun,40,M,B,Port Barre,LA,False,attack
 1194,Randy Joe Sanders,2016-01-20,shot,gun,33,M,W,Meridianville,AL,False,other
 1202,Michael Clyde Lynch,2016-01-20,shot,undetermined,37,M,W,Kerrville,TX,False,other
@@ -1117,4 +1117,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1275,Christopher Andrews,2016-02-16,shot,unarmed,51,M,W,Fairfield,CT,False,undetermined
 1278,Destry Meikle,2016-02-16,shot,vehicle,48,M,W,Republic,MO,False,other
 1279,Shawn Henry Allen Dickens,2016-02-16,shot,gun,30,M,W,Mena,AR,False,other
+1281,Paul Gaston,2016-02-17,shot,toy weapon,37,M,B,Cincinnati,OH,False,undetermined
 1282,Guadalupe Sauceda,2016-02-17,shot,gun,52,M,H,Jal,NM,False,attack
+1284,Joseph Noel,2016-02-18,shot,undetermined,,M,,Commerce,GA,False,other
