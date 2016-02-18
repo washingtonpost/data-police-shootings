@@ -699,7 +699,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 828,Joseph Thompson Johnson-Shanks,2015-09-14,shot,gun,25,M,B,Princeton,KY,False,attack
 829,David Todd Powell,2015-09-14,shot,unarmed,28,M,W,Barstow,CA,True,attack
 830,Tyrone Bass,2015-09-15,shot,unknown weapon,21,M,B,Chalmette,LA,False,attack
-832,Florencio  Chaidez,2015-09-15,shot,gun,32,M,H,Panorama City,CA,False,attack
+832,Florencio Chaidez,2015-09-15,shot,gun,32,M,H,Panorama City,CA,False,attack
 833,Jorge  Suarez-Ruiz,2015-09-15,shot,gun,51,M,H,Miami,FL,True,undetermined
 834,Carlos Wilhelm,2015-09-15,shot,gun,39,M,H,Los Angeles,CA,False,attack
 837,Bobby R. Anderson,2015-09-15,shot,gun,27,M,B,Alexandria,LA,False,other
