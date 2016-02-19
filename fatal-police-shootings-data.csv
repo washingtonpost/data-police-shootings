@@ -1045,7 +1045,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1194,Randy Joe Sanders,2016-01-20,shot,gun,33,M,W,Meridianville,AL,False,other
 1202,Michael Clyde Lynch,2016-01-20,shot,undetermined,37,M,W,Kerrville,TX,False,other
 1201,Cedric Norris,2016-01-21,shot,gun,39,M,B,Eufaula,OK,False,attack
-1200,Michael Lamar Robinson,2016-01-23,shot,undetermined,43,M,W,Clanton,AL,False,undetermined
+1200,Michael Lamar Robinson,2016-01-23,shot,toy weapon,43,M,W,Clanton,AL,False,undetermined
 1199,Sergio Alvardo-Morales,2016-01-25,shot,knife,38,M,H,Reno,NV,False,other
 1203,"Robert ""LaVoy"" Finicum",2016-01-26,shot,undetermined,55,M,W,Burns,OR,False,undetermined
 1204,Scott Scanlon,2016-01-27,shot,gun,52,M,W,Mountain Pine,AR,False,undetermined
@@ -1120,7 +1120,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1279,Shawn Henry Allen Dickens,2016-02-16,shot,gun,30,M,W,Mena,AR,False,other
 1281,Paul Gaston,2016-02-17,shot,toy weapon,37,M,B,Cincinnati,OH,False,undetermined
 1282,Guadalupe Sauceda,2016-02-17,shot,gun,52,M,H,Jal,NM,False,attack
-1284,Joseph Noel,2016-02-18,shot,undetermined,,M,,Commerce,GA,False,other
+1284,Joseph Noel,2016-02-18,shot,undetermined,25,M,,Commerce,GA,False,other
 1285,TK TK,2016-02-18,shot,undetermined,,M,,Santa Ana,CA,False,undetermined
 1286,TK TK,2016-02-18,shot,undetermined,,M,,Santa Ana,CA,False,undetermined
-1287,Ronnie Padron,2016-02-18,shot,gun,32,M,W,Reno,TX,False,attack
+1287,Ronnie Pardon,2016-02-18,shot,gun,32,M,W,Reno,TX,False,attack
