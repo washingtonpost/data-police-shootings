@@ -1066,6 +1066,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1222,Philip B. Salazar,2016-01-30,shot,scissors,38,M,,Fort Collins,CO,False,other
 1224,Jose Alegre,2016-01-30,shot,gun,64,M,,Rossville,GA,False,attack
 1230,Jeremy J. Sinclair,2016-01-30,shot,gun,42,M,W,Sugar Creek,MO,False,attack
+1288,Joshua Shane Bispo,2016-01-31,shot,gun,42,M,,Bakersfield,CA,False,other
 1220,Bruce Kelley,2016-01-31,shot and Tasered,knife,37,M,B,Wilkinsburg,PA,False,attack
 1223,Juan A. Ruiz,2016-01-31,shot,knife,46,M,H,Immokalee,FL,False,other
 1225,Michael Brown,2016-01-31,shot,undetermined,25,M,,Saginaw,TX,False,attack
@@ -1100,7 +1101,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1257,John Birkeland,2016-02-10,shot,knife,52,M,,Roseville,MN,True,undetermined
 1260,Anthony Bertoni,2016-02-10,shot,gun,56,M,,Henderson County,TX,False,attack
 1258,Alijah Jackson,2016-02-11,shot,knife,35,M,,Maiden,NC,True,other
-1261,TK TK,2016-02-11,shot,ax,45,M,W,Lancaster,CA,False,other
+1261,Matthew Quinn,2016-02-11,shot,ax,45,M,W,Lancaster,CA,False,other
 1263,Mohamed Barry,2016-02-11,shot,machete,30,M,O,Columbus,OH,False,attack
 1262,Peter Fanfan,2016-02-12,shot,gun,29,M,,Boston,MA,False,attack
 1273,David Glen Watson,2016-02-12,shot,gun,53,M,W,Fort Worth,TX,False,attack
@@ -1120,3 +1121,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1281,Paul Gaston,2016-02-17,shot,toy weapon,37,M,B,Cincinnati,OH,False,undetermined
 1282,Guadalupe Sauceda,2016-02-17,shot,gun,52,M,H,Jal,NM,False,attack
 1284,Joseph Noel,2016-02-18,shot,undetermined,,M,,Commerce,GA,False,other
+1285,TK TK,2016-02-18,shot,undetermined,,M,,Santa Ana,CA,False,undetermined
+1286,TK TK,2016-02-18,shot,undetermined,,M,,Santa Ana,CA,False,undetermined
+1287,Ronnie Padron,2016-02-18,shot,gun,32,M,W,Reno,TX,False,attack
