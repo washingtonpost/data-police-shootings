@@ -1,5 +1,4 @@
 id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level
-1309,TK TK,2012-02-23,shot,gun,,M,,Ripon,CA,False,undetermined
 3,Tim Elliot,2015-01-02,shot,gun,53,M,A,Shelton,WA,True,attack
 4,Lewis Lee Lembke,2015-01-02,shot,gun,47,M,W,Aloha,OR,False,attack
 5,John Paul Quintero,2015-01-03,shot and Tasered,unarmed,23,M,H,Wichita,KS,False,other
@@ -1140,5 +1139,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1303,David Green,2016-02-22,shot,vehicle,38,M,,Mission,TX,True,undetermined
 1304,Rouven Loch,2016-02-22,shot,toy weapon,22,M,W,Fairborn,OH,False,undetermined
 1306,TK TK,2016-02-23,shot,vehicle,,M,,Baton Rouge,LA,True,attack
+1309,TK TK,2016-02-23,shot,gun,,M,,Ripon,CA,False,undetermined
 1310,TK TK,2016-02-23,shot and Tasered,machete,,M,,Houston,TX,False,undetermined
 1307,TK TK,2016-02-24,shot,unknown weapon,16,M,,Blue Springs,KS,True,undetermined
