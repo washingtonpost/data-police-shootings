@@ -721,7 +721,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 854,Joel Dixon Smith,2015-09-22,shot,gun,33,M,W,Niceville,FL,True,attack
 855,Tim Kyle Torngren,2015-09-22,shot,gun,55,M,W,Happy Valley,CA,True,attack
 856,Donaven Kyle Anderson,2015-09-22,shot,gun,26,M,,North Las Vegas,NV,False,attack
-882,Samuel Primeno Nunez,2015-09-22,shot,gun,40,M,H,Monroe,WI,False,attack
 857,Robert Berger,2015-09-23,shot,knife,48,M,O,Salt Lake City,UT,False,attack
 858,Joseph Khammash,2015-09-23,shot,gun,35,M,W,McKinney,TX,False,attack
 859,Keith Harrison McLeod,2015-09-23,shot,unarmed,19,M,B,Reisterstown,MD,False,other
@@ -1139,6 +1138,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1303,David Green,2016-02-22,shot,vehicle,38,M,,Mission,TX,True,undetermined
 1304,Rouven Loch,2016-02-22,shot,toy weapon,22,M,W,Fairborn,OH,False,undetermined
 1306,Travis Stevenson,2016-02-23,shot,vehicle,48,M,,Baton Rouge,LA,True,attack
-1309,TK TK,2016-02-23,shot,gun,,M,,Ripon,CA,False,undetermined
+1309,Angel Alan Gleason,2016-02-23,shot,gun,36,M,,Ripon,CA,False,undetermined
 1310,TK TK,2016-02-23,shot and Tasered,machete,,M,,Houston,TX,False,undetermined
-1307,TK TK,2016-02-24,shot,unknown weapon,16,M,,Blue Springs,MO,True,undetermined
+1317,Alex Buckner,2016-02-23,shot,gun,26,M,,Phoenix,AZ,False,attack
+1307,Robert Keil,2016-02-24,shot,knife,16,M,W,Blue Springs,MO,True,other
+1313,Martin Wirth,2016-02-24,shot,gun,58,M,W,Bailey,CO,False,attack
+1314,TK TK,2016-02-24,shot,vehicle,,M,,Phoenix,AZ,False,undetermined
+1312,TK TK,2016-02-25,shot,gun,,M,,Evans,CO,False,attack
+1315,Greg Gunn,2016-02-25,shot,pole,56,M,B,Montgomery,AL,False,undetermined
+1316,TK TK,2016-02-25,shot,vehicle,,M,,Cerritos,CA,False,undetermined
