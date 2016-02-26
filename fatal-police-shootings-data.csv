@@ -1143,7 +1143,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1317,Alex Buckner,2016-02-23,shot,gun,26,M,,Phoenix,AZ,False,attack
 1307,Robert Keil,2016-02-24,shot,knife,16,M,W,Blue Springs,MO,True,other
 1313,Martin Wirth,2016-02-24,shot,gun,58,M,W,Bailey,CO,False,attack
-1314,TK TK,2016-02-24,shot,vehicle,,M,,Phoenix,AZ,False,undetermined
+1314,Victor Rivera,2016-02-24,shot,vehicle,27,M,H,Phoenix,AZ,False,other
+1318,Christopher J. Davis,2016-02-24,shot,undetermined,21,M,B,East Troy,WI,False,undetermined
 1312,TK TK,2016-02-25,shot,gun,,M,,Evans,CO,False,attack
 1315,Greg Gunn,2016-02-25,shot,pole,56,M,B,Montgomery,AL,False,undetermined
 1316,TK TK,2016-02-25,shot,vehicle,,M,,Cerritos,CA,False,undetermined
+1319,TK TK,2016-02-25,shot,gun,,M,,Silver Springs,NV,False,attack
+1320,Cedric Ford,2016-02-25,shot,gun,38,M,B,Hesston,KS,True,attack
