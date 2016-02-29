@@ -959,7 +959,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1106,Leroy Browning,2015-12-20,shot,gun,30,M,B,Palmdale,CA,False,attack
 1107,Mark  Ramirez,2015-12-20,shot,gun,31,M,H,Amarillo,TX,True,attack
 1108,Guadalupe Quiroz,2015-12-21,shot,gun,34,M,H,Hemet,CA,False,attack
-1109,Bobby  Daniels,2015-12-21,shot,gun,48,M,B,Douglasville,GA,False,attack
+1109,Bobby Daniels,2015-12-21,shot,gun,48,M,B,Douglasville,GA,False,attack
 1110,Michael Noel,2015-12-21,shot,unarmed,,M,B,Breaux Bridge,LA,True,other
 1111,Derek DeGroat,2015-12-21,shot,gun,21,M,W,Canaan Township,PA,True,attack
 1112,Robert L. Teter,2015-12-21,shot,gun,39,M,W,Deltona,FL,False,attack
@@ -1129,7 +1129,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1296,Marcos Perea,2016-02-20,shot,gun,41,M,,Lakewood,WA,False,attack
 1298,Charles Lee Lambert,2016-02-20,shot,gun,45,M,W,Iuka,MS,False,attack
 1289,Che Taylor,2016-02-21,shot,unknown weapon,46,M,B,Seattle,WA,False,other
-1290,TK TK,2016-02-21,shot,gun,36,F,,Phoenix,AZ,True,attack
+1290,Sherrisa Homer,2016-02-21,shot,gun,36,F,,Phoenix,AZ,True,attack
 1292,Kisha Michael,2016-02-21,shot,gun,31,F,B,Inglewood,CA,False,other
 1293,Marquintan Sandlin,2016-02-21,shot,unarmed,32,M,B,Inglewood,CA,False,other
 1305,Patricia Kruger,2016-02-21,shot,gun,38,F,,Houston,AK,False,undetermined
@@ -1146,7 +1146,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1314,Victor Rivera,2016-02-24,shot,vehicle,27,M,H,Phoenix,AZ,False,other
 1316,TK TK,2016-02-24,shot,vehicle,,M,,Cerritos,CA,False,undetermined
 1318,Christopher J. Davis,2016-02-24,shot,undetermined,21,M,B,East Troy,WI,False,undetermined
-1312,TK TK,2016-02-25,shot,gun,,M,,Evans,CO,False,attack
+1312,Luke Miller,2016-02-25,shot,gun,37,M,W,Evans,CO,False,attack
 1315,Greg Gunn,2016-02-25,shot,pole,56,M,B,Montgomery,AL,False,undetermined
-1319,TK TK,2016-02-25,shot,gun,,M,,Silver Springs,NV,False,attack
+1319,Tristan Conti,2016-02-25,shot,gun,19,M,,Silver Springs,NV,False,attack
 1320,Cedric Ford,2016-02-25,shot,gun,38,M,B,Hesston,KS,True,attack
+1322,Kionte DeShaun Spencer,2016-02-26,shot,toy weapon,18,M,B,Roanoke,VA,False,other
+1324,Abraham Mitchell Fryer,2016-02-26,shot,undetermined,35,M,,Rapid Valley,SD,False,attack
+1325,Fernando Hernandez,2016-02-27,shot,gun,23,M,H,San Antonio,TX,False,attack
+1321,Nathan Grissom,2016-02-28,shot,gun,,M,,Ashville,AL,False,attack
+1323,TK TK,2016-02-28,shot,gun,,M,,Rapid City,SD,False,undetermined
