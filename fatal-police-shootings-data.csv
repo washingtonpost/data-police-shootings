@@ -1007,7 +1007,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1154,Kenneth Clay,2016-01-06,shot,gun,34,M,W,Daviess County,KY,False,attack
 1157,Eric C. Olsen,2016-01-08,shot,knife,26,M,W,Geneva,WI,False,other
 1158,Andrew Earl Abernathy,2016-01-08,shot,gun,50,M,W,Acworth,GA,False,undetermined
-1156,David Jay Kent,2016-01-10,shot,chain saw,37,M,,Kelso,WA,False,other
+1156,David Jay Kent,2016-01-10,shot,chain saw,37,M,W,Kelso,WA,False,other
 1159,Christine A. Lucas,2016-01-10,shot,toy weapon,45,F,B,Rising Sun,MD,True,attack
 1162,TK TK,2016-01-11,shot,undetermined,,M,,San Fernando,CA,False,attack
 1163,Robert Tenbrink,2016-01-11,shot,toy weapon,45,M,W,Cincinnati,OH,False,attack
@@ -1153,6 +1153,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1322,Kionte DeShaun Spencer,2016-02-26,shot,toy weapon,18,M,B,Roanoke,VA,False,other
 1324,Abraham Mitchell Fryer,2016-02-26,shot,undetermined,35,M,,Rapid Valley,SD,False,attack
 1325,Fernando Hernandez,2016-02-27,shot,gun,23,M,H,San Antonio,TX,False,attack
-1321,Nathan Grissom,2016-02-28,shot,gun,,M,,Ashville,AL,False,attack
+1321,Nathan Grissom,2016-02-28,shot,gun,41,M,W,Ashville,AL,False,attack
 1323,Earl Hicks,2016-02-28,shot,gun,44,M,,Rapid City,SD,False,undetermined
 1327,Akiel Denkins,2016-02-29,shot,undetermined,24,M,B,Raleigh,NC,False,other
