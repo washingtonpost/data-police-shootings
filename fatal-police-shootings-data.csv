@@ -1144,7 +1144,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1307,Robert Keil,2016-02-24,shot,knife,16,M,W,Blue Springs,MO,True,other
 1313,Martin Wirth,2016-02-24,shot,gun,58,M,W,Bailey,CO,False,attack
 1314,Victor Rivera,2016-02-24,shot,vehicle,27,M,H,Phoenix,AZ,False,other
-1316,TK TK,2016-02-24,shot,vehicle,,M,,Cerritos,CA,False,undetermined
+1316,Francisco Garcia,2016-02-24,shot,vehicle,26,M,H,Cerritos,CA,False,undetermined
 1318,Christopher J. Davis,2016-02-24,shot,undetermined,21,M,B,East Troy,WI,False,undetermined
 1312,Luke Miller,2016-02-25,shot,gun,37,M,W,Evans,CO,False,attack
 1315,Greg Gunn,2016-02-25,shot,pole,56,M,B,Montgomery,AL,False,undetermined
@@ -1154,4 +1154,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1324,Abraham Mitchell Fryer,2016-02-26,shot,undetermined,35,M,,Rapid Valley,SD,False,attack
 1325,Fernando Hernandez,2016-02-27,shot,gun,23,M,H,San Antonio,TX,False,attack
 1321,Nathan Grissom,2016-02-28,shot,gun,,M,,Ashville,AL,False,attack
-1323,TK TK,2016-02-28,shot,gun,,M,,Rapid City,SD,False,undetermined
+1323,Earl Hicks,2016-02-28,shot,gun,44,M,,Rapid City,SD,False,undetermined
+1327,Akiel Denkins,2016-02-29,shot,undetermined,24,M,B,Raleigh,NC,False,other
