@@ -1000,7 +1000,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1146,James K. Maher,2016-01-05,shot,unknown weapon,39,M,W,Johnson City,TN,False,attack
 1147,Carlton Antonio Murphy,2016-01-05,shot,gun,33,M,B,Charlotte,NC,False,attack
 1148,Stephen Bukwich,2016-01-05,shot,gun,52,M,W,Redding,CA,True,other
-1149,Albert Thompson,2016-01-05,shot,hand torch,28,M,,Ceres,CA,False,other
+1149,Albert Thompson,2016-01-05,shot,hand torch,28,M,H,Ceres,CA,False,other
 1160,David Zollo,2016-01-05,shot and Tasered,knife,54,M,W,Upper Darby,PA,True,undetermined
 1150,Charles Hollstein,2016-01-06,shot,toy weapon,38,M,W,Zion,IL,True,undetermined
 1153,Alan Huberth Franco-Armenta,2016-01-06,shot,gun,32,M,H,Carrizozo,NM,True,attack
@@ -1019,9 +1019,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1197,Timothy Meehan,2016-01-13,shot,gun,60,M,W,Cle Elum,WA,True,attack
 1168,Willie Holderfield,2016-01-14,shot,gun,40,M,W,Hurst,IL,False,attack
 1169,Miguel Hernandez,2016-01-14,shot,undetermined,39,M,H,Santa Clarita,CA,False,other
-1180,William Keith Waldron,2016-01-15,shot,gun,26,M,,Elkins,WV,False,attack
+1180,William Keith Waldron,2016-01-15,shot,gun,26,M,W,Elkins,WV,False,attack
 1196,Rakeem Bentley,2016-01-15,shot,gun,24,M,B,Southfield,MI,False,attack
-1172,Adam Longoria,2016-01-16,shot,gun,34,M,,Hollywood Hills,CA,False,undetermined
+1172,Adam Longoria,2016-01-16,shot,gun,34,M,H,Hollywood Hills,CA,False,undetermined
 1173,Ashton Lane Morris,2016-01-16,shot,gun,27,M,W,San Antonio,TX,False,attack
 1177,Kelsey Rose Hauser,2016-01-16,shot,unarmed,25,F,W,El Cajon,CA,False,other
 1179,Clarence Layfield Jr.,2016-01-16,shot,vehicle,55,M,W,Petroleum,WV,False,attack
@@ -1050,7 +1050,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1204,Scott Scanlon,2016-01-27,shot,gun,52,M,W,Mountain Pine,AR,False,undetermined
 1205,Johnathan Bratcher,2016-01-27,shot,gun,32,M,B,Memphis,TN,False,attack
 1206,Herman Flores,2016-01-27,shot,gun,31,M,H,Santa Fe,NM,False,undetermined
-1207,John Wesley Smith,2016-01-27,shot,undetermined,27,M,,Latta,SC,False,undetermined
+1207,John Wesley Smith,2016-01-27,shot,knife,27,M,W,Latta,SC,False,other
 1208,Thongsavanh Vandarack,2016-01-27,shot,undetermined,40,M,A,Lenoir City,TN,True,undetermined
 1209,Janet Wilson,2016-01-27,shot,vehicle,31,F,B,Dearborn,MI,True,other
 1210,Nathan Lee Bailey,2016-01-27,shot,gun,30,M,W,Mansfield,TX,False,attack
@@ -1063,15 +1063,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1226,Angela  Hiatt,2016-01-29,shot,vehicle,41,F,,Phenix,AL,False,attack
 1221,Charles M. Smith,2016-01-30,shot,gun,29,M,B,Chicago,IL,False,other
 1222,Philip B. Salazar,2016-01-30,shot,scissors,38,M,,Fort Collins,CO,False,other
-1224,Jose Alegre,2016-01-30,shot,gun,64,M,,Rossville,GA,False,attack
+1224,Jose Alegre,2016-01-30,shot,gun,64,M,H,Rossville,GA,False,attack
 1230,Jeremy J. Sinclair,2016-01-30,shot,gun,42,M,W,Sugar Creek,MO,False,attack
-1288,Joshua Shane Bispo,2016-01-31,shot,gun,42,M,,Bakersfield,CA,False,other
+1288,Joshua Shane Bispo,2016-01-31,shot,gun,42,M,W,Bakersfield,CA,False,other
 1220,Bruce Kelley,2016-01-31,shot and Tasered,knife,37,M,B,Wilkinsburg,PA,False,attack
 1223,Juan A. Ruiz,2016-01-31,shot,knife,46,M,H,Immokalee,FL,False,other
-1225,Michael Brown,2016-01-31,shot,undetermined,25,M,,Saginaw,TX,False,attack
+1225,Michael Brown,2016-01-31,shot,undetermined,25,M,W,Saginaw,TX,False,attack
 1229,Jeffry Graves,2016-01-31,shot,gun,62,M,,Newark,CA,True,attack
 1219,Peter John,2016-02-01,shot,toy weapon,36,M,B,Washington,DC,False,attack
-1232,Edgar Rene Alvarado,2016-02-01,shot,undetermined,21,M,,Albuquerque,NM,False,undetermined
+1232,Edgar Rene Alvarado,2016-02-01,shot,undetermined,21,M,H,Albuquerque,NM,False,undetermined
 1231,Justin Prescott,2016-02-02,shot and Tasered,knife,30,M,W,Rancho Cordova,CA,True,attack
 1233,John Henry Neuman,2016-02-03,shot,gun,53,M,W,Schulter,OK,False,attack
 1234,Cristiaan Oliver Dubrino,2016-02-03,shot,gun,31,M,H,Ocala,FL,True,attack
@@ -1091,34 +1091,34 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1244,Michael Laniado,2016-02-07,shot,knife,27,M,,Manchester,NJ,False,other
 1245,Shalamar Longer,2016-02-08,shot,gun,33,M,B,Chester,PA,False,attack
 1247,David Joseph,2016-02-08,shot,unarmed,17,M,B,Austin,TX,False,other
-1252,Eric Harris,2016-02-08,shot,vehicle,22,M,,New Orleans,LA,False,undetermined
+1252,Eric Harris,2016-02-08,shot,vehicle,22,M,B,New Orleans,LA,False,undetermined
 1251,Gustavo Najera,2016-02-09,shot,unarmed,22,M,,Anaheim,CA,False,undetermined
 1256,Scottie Yanagawa,2016-02-09,shot,gun,29,M,,Hilo,HI,False,attack
 1253,Timothy Vessels,2016-02-10,shot,gun,,M,W,Louisville,KY,False,attack
-1254,David Brian Evans,2016-02-10,shot,gun,67,M,,Abingdon,MD,False,attack
-1255,Vincent Nageak,2016-02-10,shot,undetermined,36,M,,Barrow,AK,False,undetermined
-1257,John Birkeland,2016-02-10,shot,knife,52,M,,Roseville,MN,True,undetermined
+1254,David Brian Evans,2016-02-10,shot,gun,67,M,W,Abingdon,MD,False,attack
+1255,Vincent Nageak,2016-02-10,shot,gun,36,M,N,Barrow,AK,False,attack
+1257,John Birkeland,2016-02-10,shot,knife,52,M,W,Roseville,MN,True,undetermined
 1260,Anthony Bertoni,2016-02-10,shot,gun,56,M,,Henderson County,TX,False,attack
-1258,Alijah Jackson,2016-02-11,shot,knife,35,M,,Maiden,NC,True,other
+1258,Alijah Jackson,2016-02-11,shot,knife,35,M,W,Maiden,NC,True,other
 1261,Matthew Quinn,2016-02-11,shot,ax,45,M,W,Lancaster,CA,False,other
 1263,Mohamed Barry,2016-02-11,shot,machete,30,M,O,Columbus,OH,False,attack
-1262,Peter Fanfan,2016-02-12,shot,gun,29,M,,Boston,MA,False,attack
+1262,Peter Fanfan,2016-02-12,shot,gun,29,M,B,Boston,MA,False,attack
 1273,David Glen Watson,2016-02-12,shot,gun,53,M,W,Fort Worth,TX,False,attack
 1276,Sahlah Ridgeway,2016-02-12,shot,gun,32,F,B,Syracuse,NY,False,other
 1266,Calvin Smith,2016-02-13,shot,gun,22,M,B,Baton Rouge,LA,True,attack
 1268,Ali Eisa Abdalla Yahia,2016-02-13,shot,gun,29,M,B,Urbandale,IA,False,attack
-1270,Calin Roquemore,2016-02-13,shot,unarmed,24,M,,Beckville,TX,False,undetermined
+1270,Calin Roquemore,2016-02-13,shot,unarmed,24,M,B,Beckville,TX,False,undetermined
 1272,Dyzhawn L. Perkins,2016-02-13,shot,undetermined,19,M,B,Arvonia,VA,False,undetermined
-1280,Rammy Jaradat,2016-02-14,shot,knife,26,M,,Van Nuys,CA,False,undetermined
+1280,Rammy Jaradat,2016-02-14,shot,knife,26,M,W,Van Nuys,CA,False,other
 1269,Marc Stoddart,2016-02-14,shot,knife,50,M,W,Bradenton,FL,True,other
 1271,TK TK,2016-02-14,shot,gun,29,M,,Los Angeles,CA,False,other
 1282,Guadalupe Sauceda,2016-02-15,shot,gun,52,M,H,Jal,NM,False,attack
-1274,Brandon Lee Witt,2016-02-15,shot,undetermined,39,M,,Yorba Linda,CA,False,undetermined
+1274,Brandon Lee Witt,2016-02-15,shot,undetermined,39,M,W,Yorba Linda,CA,False,undetermined
 1275,Christopher Andrews,2016-02-16,shot,unknown weapon,51,M,W,Fairfield,CT,False,undetermined
 1278,Destry Meikle,2016-02-16,shot,vehicle,48,M,W,Republic,MO,False,other
 1279,Shawn Henry Allen Dickens,2016-02-16,shot,gun,30,M,W,Mena,AR,False,other
 1281,Paul Gaston,2016-02-17,shot,toy weapon,37,M,B,Cincinnati,OH,False,undetermined
-1284,Joseph Noel,2016-02-18,shot,undetermined,25,M,,Commerce,GA,False,other
+1284,Joseph Noel,2016-02-18,shot,undetermined,25,M,W,Commerce,GA,False,other
 1285,TK TK,2016-02-18,shot,undetermined,,M,,Santa Ana,CA,False,undetermined
 1286,TK TK,2016-02-18,shot,undetermined,,M,,Santa Ana,CA,False,undetermined
 1287,Ronnie Pardon,2016-02-18,shot,gun,32,M,W,Reno,TX,False,attack
@@ -1129,15 +1129,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1296,Marcos Perea,2016-02-20,shot,gun,41,M,,Lakewood,WA,False,attack
 1298,Charles Lee Lambert,2016-02-20,shot,gun,45,M,W,Iuka,MS,False,attack
 1289,Che Taylor,2016-02-21,shot,unknown weapon,46,M,B,Seattle,WA,False,other
-1290,Sherrisa Homer,2016-02-21,shot,gun,36,F,,Phoenix,AZ,True,attack
+1290,Sherrisa Homer,2016-02-21,shot,gun,36,F,N,Phoenix,AZ,True,attack
 1292,Kisha Michael,2016-02-21,shot,gun,31,F,B,Inglewood,CA,False,other
 1293,Marquintan Sandlin,2016-02-21,shot,unarmed,32,M,B,Inglewood,CA,False,other
-1305,Patricia Kruger,2016-02-21,shot,gun,38,F,,Houston,AK,False,undetermined
+1305,Patricia Kruger,2016-02-21,shot,gun,38,F,N,Houston,AK,False,undetermined
 1301,TK TK,2016-02-22,shot,gun,,M,,Denver,CO,False,attack
 1302,Jamie Long,2016-02-22,shot,knife,,M,,Bakersfield,CA,False,attack
 1303,David Green,2016-02-22,shot,vehicle,38,M,,Mission,TX,True,undetermined
 1304,Rouven Loch,2016-02-22,shot,toy weapon,22,M,W,Fairborn,OH,False,undetermined
-1306,Travis Stevenson,2016-02-23,shot,vehicle,48,M,,Baton Rouge,LA,True,attack
+1306,Travis Stevenson,2016-02-23,shot,vehicle,48,M,B,Baton Rouge,LA,True,attack
 1309,Angel Alan Gleason,2016-02-23,shot,gun,36,M,,Ripon,CA,False,undetermined
 1310,TK TK,2016-02-23,shot and Tasered,machete,,M,,Houston,TX,False,undetermined
 1317,Alex Buckner,2016-02-23,shot,gun,26,M,,Phoenix,AZ,False,attack
@@ -1151,9 +1151,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1319,Tristan Conti,2016-02-25,shot,gun,19,M,,Silver Springs,NV,False,attack
 1320,Cedric Ford,2016-02-25,shot,gun,38,M,B,Hesston,KS,True,attack
 1322,Kionte DeShaun Spencer,2016-02-26,shot,toy weapon,18,M,B,Roanoke,VA,False,other
-1324,Abraham Mitchell Fryer,2016-02-26,shot,undetermined,35,M,,Rapid Valley,SD,False,attack
+1324,Abraham Mitchell Fryer,2016-02-26,shot,undetermined,35,M,W,Rapid Valley,SD,False,attack
 1325,Fernando Hernandez,2016-02-27,shot,gun,23,M,H,San Antonio,TX,False,attack
 1321,Nathan Grissom,2016-02-28,shot,gun,41,M,W,Ashville,AL,False,attack
 1323,Earl Hicks,2016-02-28,shot,gun,44,M,,Rapid City,SD,False,undetermined
 1327,Akiel Denkins,2016-02-29,shot,undetermined,24,M,B,Raleigh,NC,False,other
 1328,TK TK,2016-03-01,shot,gun,39,M,,Palm Bay,FL,False,attack
+1329,TK TK,2016-03-01,shot,gun,,,,Euless,TX,False,attack
+1330,TK TK,2016-03-01,shot,gun,37,M,,Gautier,MS,False,attack
