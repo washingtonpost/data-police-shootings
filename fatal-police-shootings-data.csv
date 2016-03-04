@@ -1021,7 +1021,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1169,Miguel Hernandez,2016-01-14,shot,undetermined,39,M,H,Santa Clarita,CA,False,other
 1180,William Keith Waldron,2016-01-15,shot,gun,26,M,W,Elkins,WV,False,attack
 1196,Rakeem Bentley,2016-01-15,shot,gun,24,M,B,Southfield,MI,False,attack
-1172,Adam Longoria,2016-01-16,shot,gun,34,M,H,Hollywood Hills,CA,False,undetermined
+1172,Alfred Longoria,2016-01-16,shot,gun,34,M,H,Hollywood Hills,CA,False,undetermined
 1173,Ashton Lane Morris,2016-01-16,shot,gun,27,M,W,San Antonio,TX,False,attack
 1177,Kelsey Rose Hauser,2016-01-16,shot,unarmed,25,F,W,El Cajon,CA,False,other
 1179,Clarence Layfield Jr.,2016-01-16,shot,vehicle,55,M,W,Petroleum,WV,False,attack
@@ -1157,5 +1157,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1323,Earl Hicks,2016-02-28,shot,gun,44,M,,Rapid City,SD,False,undetermined
 1327,Akiel Denkins,2016-02-29,shot,undetermined,24,M,B,Raleigh,NC,False,other
 1328,TK TK,2016-03-01,shot,gun,39,M,,Palm Bay,FL,False,attack
-1329,TK TK,2016-03-01,shot,gun,,,,Euless,TX,False,attack
+1329,Jorge Brian Gonzalez,2016-03-01,shot,gun,22,M,H,Euless,TX,False,attack
 1330,Mickey Dewayne Sweatt,2016-03-01,shot,gun,37,M,,Gautier,MS,False,attack
+1331,TK TK,2016-03-02,shot,undetermined,35,M,,Bel Air,MD,True,other
