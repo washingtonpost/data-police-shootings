@@ -1128,7 +1128,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1294,Edgar Camacho-Alvarado,2016-02-20,shot,undetermined,23,M,H,Albuquerque,NM,False,undetermined
 1296,Marcos Perea,2016-02-20,shot,gun,41,M,,Lakewood,WA,False,attack
 1298,Charles Lee Lambert,2016-02-20,shot,gun,45,M,W,Iuka,MS,False,attack
-1289,Che Taylor,2016-02-21,shot,unknown weapon,46,M,B,Seattle,WA,False,other
+1289,Che Taylor,2016-02-21,shot,gun,46,M,B,Seattle,WA,False,other
 1290,Sherrisa Homer,2016-02-21,shot,gun,36,F,N,Phoenix,AZ,True,attack
 1292,Kisha Michael,2016-02-21,shot,gun,31,F,B,Inglewood,CA,False,other
 1293,Marquintan Sandlin,2016-02-21,shot,unarmed,32,M,B,Inglewood,CA,False,other
@@ -1162,11 +1162,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1331,Travis Boyd Bradley,2016-03-02,shot,undetermined,36,M,,Bel Air,MD,True,other
 1341,Daniel Burkhardt,2016-03-02,shot and Tasered,knife,41,M,,Johnstown,PA,False,undetermined
 1335,Sergio Ochoa,2016-03-03,shot,knife,27,M,,Gilbert,AZ,False,undetermined
-1338,TK TK,2016-03-04,shot,undetermined,,M,,Sims,AR,False,undetermined
+1338,John Allan Chamberlain,2016-03-04,shot,undetermined,66,M,,Sims,AR,False,undetermined
 1342,Brandon Stanley,2016-03-04,shot,undetermined,30,M,,East Berstadt,KY,False,undetermined
-1334,Darrell Bosell,2016-03-05,shot,gun,34,M,,Cheektowaga,NY,False,attack
-1336,TK TK,2016-03-05,shot,unknown weapon,,M,,Beaumont,TX,False,undetermined
-1332,TK TK,2016-03-06,shot,gun,,M,,Azle,TX,False,attack
-1333,TK TK,2016-03-06,shot,gun,42,M,,Bismarck,ND,False,undetermined
-1340,TK TK,2016-03-06,shot,gun,,M,,South Gate,CA,False,attack
+1334,Darrell Bosell,2016-03-05,shot,gun,34,M,W,Cheektowaga,NY,False,attack
+1336,Herbert Ballance,2016-03-05,shot,unknown weapon,22,M,W,Beaumont,TX,False,undetermined
+1332,Mark Minnick,2016-03-06,shot,gun,51,M,,Azle,TX,False,attack
+1333,James Scott,2016-03-06,shot,gun,42,M,,Bismarck,ND,False,undetermined
+1340,Osvaldo Torres,2016-03-06,shot,gun,41,M,H,South Gate,CA,False,attack
 1339,TK TK,2016-03-07,shot,gun,49,M,,Rochester,NY,False,attack
+1343,TK TK,2016-03-07,shot,knife,,M,,San Jose,CA,False,other
+1344,Randall Selsor,2016-03-07,shot,undetermined,45,M,,Topeka,KS,False,undetermined
+1345,TK TK,2016-03-07,shot,gun,,M,,Billings,MT,False,attack
