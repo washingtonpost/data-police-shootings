@@ -893,7 +893,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1039,Rick Gullickson,2015-11-27,shot,gun,58,M,W,Lampe,MO,False,attack
 1040,Kevin Close,2015-11-28,shot,baseball bat and fireplace poker,50,M,W,Seagoville,TX,False,other
 1036,Justin D. McHenry,2015-11-29,shot,gun,22,M,W,Celina,OH,False,attack
-1037,Lionel  Kerns,2015-11-29,shot,gun,53,M,W,Maysville,MO,False,attack
+1037,Lionel Kerns,2015-11-29,shot,gun,53,M,W,Maysville,MO,False,attack
 1038,Ralph Aguilar,2015-11-29,shot,gun,69,M,H,Sun City,AZ,True,attack
 1041,Hugo Fernando Celio,2015-11-29,shot,gun,23,M,H,Bakersfield,CA,False,attack
 1042,Zachary Grigsby,2015-11-29,shot,gun,29,M,W,Lincoln,NE,False,attack
@@ -1169,14 +1169,23 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1332,Mark Minnick,2016-03-06,shot,gun,51,M,W,Azle,TX,False,attack
 1333,James Scott,2016-03-06,shot,gun,42,M,,Bismarck,ND,False,undetermined
 1340,Osvaldo Torres,2016-03-06,shot,gun,41,M,H,South Gate,CA,False,attack
-1339,TK TK,2016-03-07,shot,gun,49,M,,Rochester,NY,False,attack
+1339,Philip Vitullo,2016-03-07,shot,gun,49,M,W,Rochester,NY,False,attack
 1343,Bryon Rosas,2016-03-07,shot,knife,45,M,W,San Jose,CA,False,other
 1344,Randall J. Selsor,2016-03-07,shot,undetermined,45,M,W,Topeka,KS,False,undetermined
 1345,"John Charles ""JC"" Graham",2016-03-07,shot,gun,42,M,,Billings,MT,False,attack
 1348,Daniel H. Chavez,2016-03-07,shot,vehicle,41,M,H,Carlsbad,NM,False,undetermined
 1347,Jeffery Glen Casale,2016-03-08,shot,toy weapon,27,M,,Tampa,FL,True,other
 1349,Wesley Sheppard,2016-03-10,shot,undetermined,37,M,,Biloxi,MS,False,undetermined
-1351,TK TK,2016-03-10,shot,gun,,M,,Reno,NV,True,attack
+1351,Arteair Porter Jr.,2016-03-10,shot,gun,22,M,,Reno,NV,True,attack
 1352,Martin Hurtado,2016-03-10,shot,gun,22,M,H,Long Beach,CA,False,attack
 1353,Jason Meador,2016-03-10,shot,gun,50,M,,Odessa,TX,True,other
-1350,TK TK,2016-03-11,shot,undetermined,,M,,Norfolk,VA,False,undetermined
+1354,TK Tk,2016-03-10,shot,vehicle,,M,,Colorado City,CO,False,attack
+1350,Tyre Privott,2016-03-11,shot,undetermined,25,M,B,Norfolk,VA,False,undetermined
+1355,"Manford ""Butch"" Moore Jr.",2016-03-11,shot,gun,51,M,W,Rosalia,KS,True,attack
+1357,Peter Gaines,2016-03-12,shot and Tasered,unarmed,37,M,B,Houston,TX,False,other
+1356,Tk Tk,2016-03-13,shot,vehicle,45,M,,Glendale,CA,True,attack
+1358,Jose Raul Cruz,2016-03-13,shot,undetermined,16,M,H,Addison,TX,False,undetermined
+1359,Joshua Grubb,2016-03-13,shot,undetermined,39,M,W,Lenoir City,TN,False,other
+1360,Wesley Deerman,2016-03-13,shot,gun,26,M,,Piedmont,AL,False,attack
+1361,TK TK,2016-03-13,shot,gun,,M,,Chester,PA,False,attack
+1362,TK TK,2016-03-13,shot,hammer,,F,,Vancouver,WA,False,attack
