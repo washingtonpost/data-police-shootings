@@ -1133,7 +1133,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1292,Kisha Michael,2016-02-21,shot,gun,31,F,B,Inglewood,CA,False,other
 1293,Marquintan Sandlin,2016-02-21,shot,unarmed,32,M,B,Inglewood,CA,False,other
 1305,Patricia Kruger,2016-02-21,shot,gun,38,F,N,Houston,AK,False,undetermined
-1301,TK TK,2016-02-22,shot,gun,,M,,Denver,CO,False,attack
+1301,Gerardino Gonzalez,2016-02-22,shot,gun,33,M,H,Denver,CO,False,attack
 1302,Jamie Long,2016-02-22,shot,knife,45,M,W,Bakersfield,CA,False,attack
 1303,David Green,2016-02-22,shot,vehicle,38,M,,Mission,TX,True,undetermined
 1304,Rouven Loch,2016-02-22,shot,toy weapon,22,M,W,Fairborn,OH,False,undetermined
@@ -1185,7 +1185,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1357,Peter Gaines,2016-03-12,shot and Tasered,unarmed,37,M,B,Houston,TX,False,other
 1356,Tk Tk,2016-03-13,shot,vehicle,45,M,,Glendale,CA,True,attack
 1358,Jose Raul Cruz,2016-03-13,shot,undetermined,16,M,H,Addison,TX,False,undetermined
-1359,Joshua Grubb,2016-03-13,shot,undetermined,39,M,W,Lenoir City,TN,False,other
-1360,Wesley Deerman,2016-03-13,shot,gun,26,M,,Piedmont,AL,False,attack
+1359,Joshua Grubb,2016-03-13,shot,undetermined,30,M,W,Lenoir City,TN,False,other
+1360,Wesley Chad Deerman,2016-03-13,shot,gun,26,M,,Piedmont,AL,False,attack
 1361,TK TK,2016-03-13,shot,gun,,M,,Chester,PA,False,attack
 1362,TK TK,2016-03-13,shot,hammer,,F,,Vancouver,WA,False,attack
