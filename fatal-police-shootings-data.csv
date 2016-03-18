@@ -357,7 +357,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 470,Cary Martin,2015-05-14,shot,gun,53,M,W,St. Augustine,FL,True,attack
 460,Mark Farrar,2015-05-15,shot,gun,41,M,W,Rockford,IL,True,attack
 462,Matt Coates,2015-05-15,shot,toy weapon,42,M,W,Sacramento,CA,True,attack
-463,Ronnell Wade,2015-05-16,shot,gun,45,M,B,Harvey,IL,False,attack
+463,Ronell Wade,2015-05-16,shot,gun,45,M,B,Harvey,IL,False,attack
 458,Dennis  Fiel,2015-05-17,shot,gun,34,M,W,San Diego,CA,True,attack
 459,Austin Goodner,2015-05-17,shot,gun,18,M,W,St. Petersburg,FL,True,attack
 461,Timothy Jones,2015-05-17,shot,sword,27,M,W,Ruidoso,NM,False,other
@@ -1184,19 +1184,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1355,"Manford ""Butch"" Moore Jr.",2016-03-11,shot,gun,51,M,W,Rosalia,KS,True,attack
 1375,Jack Goodman,2016-03-11,shot,knife,46,M,,Clinton,IL,True,other
 1357,Peter Gaines,2016-03-12,shot and Tasered,unarmed,37,M,B,Houston,TX,False,other
+1365,TK TK,2016-03-12,shot and Tasered,unarmed,,M,,Houston,TX,False,attack
 1356,Tk Tk,2016-03-13,shot,vehicle,45,M,,Glendale,CA,True,attack
 1358,Jose Raul Cruz,2016-03-13,shot,undetermined,16,M,H,Addison,TX,False,undetermined
 1359,Joshua Grubb,2016-03-13,shot,undetermined,30,M,W,Lenoir City,TN,False,other
 1360,Wesley Chad Deerman,2016-03-13,shot,gun,26,M,W,Piedmont,AL,False,attack
 1361,TK TK,2016-03-13,shot,gun,,M,,Chester,PA,False,attack
 1362,Amy Jean McCoy,2016-03-13,shot,hammer,38,F,,Vancouver,WA,False,attack
-1365,TK TK,2016-03-13,shot and Tasered,unarmed,,M,,Houston,TX,False,attack
 1364,Lamar Harris,2016-03-14,shot,gun,29,M,,Chicago,IL,False,attack
 1366,Joseph Harris,2016-03-15,shot,gun,34,M,,Russellville,KY,False,undetermined
-1369,Daniel Wooters,2016-03-15,shot,knife,38,M,W,Evansville,IN,False,other
+1369,Daniel J. Wooters,2016-03-15,shot,knife,38,M,W,Evansville,IN,False,other
 1371,Ed Russell McIver,2016-03-15,shot,gun,43,M,W,Fort Worth,TX,False,undetermined
-1367,TK TK,2016-03-16,shot,unarmed,,M,,Florence,CA,False,undetermined
-1368,TK TK,2016-03-16,shot,gun,33,M,,San Antonio,TX,False,undetermined
-1374,Dennis Penny,2016-03-16,shot,gun,,M,,Anson County,NC,False,attack
+1367,Cristian Rene Medina,2016-03-16,shot,unarmed,23,M,,Florence,CA,False,undetermined
+1368,Eric Hernandez,2016-03-16,shot,gun,33,M,H,San Antonio,TX,True,undetermined
+1374,Dennis Penny,2016-03-16,shot,gun,40,M,,Anson County,NC,False,attack
 1370,TK TK,2016-03-17,shot,gun,,M,,Burnsville,MN,False,undetermined
 1372,Sunny Chin,2016-03-17,shot,gun,53,M,,Tampa,FL,False,attack
