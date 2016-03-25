@@ -1006,12 +1006,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1153,Alan Huberth Franco-Armenta,2016-01-06,shot,gun,32,M,H,Carrizozo,NM,True,attack
 1154,Kenneth Clay,2016-01-06,shot,gun,34,M,W,Daviess County,KY,False,attack
 1157,Eric C. Olsen,2016-01-08,shot,knife,26,M,W,Geneva,WI,False,other
-1158,Andrew Earl Abernathy,2016-01-08,shot,gun,50,M,W,Acworth,GA,False,undetermined
-1156,David Jay Kent,2016-01-10,shot,chain saw,37,M,W,Kelso,WA,False,other
+1158,Andrew Earl Abernathy,2016-01-08,shot,gun,50,M,W,Acworth,GA,True,attack
+1156,David Jay Kent,2016-01-10,shot,chain saw,37,M,W,Kelso,WA,True,other
 1159,Christine A. Lucas,2016-01-10,shot,toy weapon,45,F,B,Rising Sun,MD,True,attack
 1162,TK TK,2016-01-11,shot,undetermined,,M,,San Fernando,CA,False,attack
 1163,Robert Tenbrink,2016-01-11,shot,toy weapon,45,M,W,Cincinnati,OH,False,attack
-1164,Ramone Lonergan,2016-01-11,shot,gun,32,M,W,Denver,CO,False,attack
+1164,Ramone Lonergan,2016-01-11,shot,gun,32,M,W,Denver,CO,False,other
 1165,Ciara Meyer,2016-01-11,shot,unarmed,12,F,W,Penn Township,PA,False,other
 1166,Herman Bean,2016-01-12,shot,knife,49,M,,Spenard,AK,False,undetermined
 1167,Keith Richardson,2016-01-12,shot,gun,58,M,W,Norfolk,VA,True,undetermined
@@ -1132,7 +1132,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1290,Sherrisa Homer,2016-02-21,shot,gun,36,F,N,Phoenix,AZ,True,attack
 1292,Kisha Michael,2016-02-21,shot,gun,31,F,B,Inglewood,CA,False,other
 1293,Marquintan Sandlin,2016-02-21,shot,unarmed,32,M,B,Inglewood,CA,False,other
-1305,Patricia Kruger,2016-02-21,shot,gun,38,F,N,Houston,AK,False,undetermined
+1305,Patricia Kruger,2016-02-21,shot,gun,38,F,N,Houston,AK,False,attack
 1301,Gerardino Gonzalez,2016-02-22,shot,gun,33,M,H,Denver,CO,False,attack
 1302,Jamie Long,2016-02-22,shot,knife,45,M,W,Bakersfield,CA,False,attack
 1303,David Green,2016-02-22,shot,vehicle,38,M,,Mission,TX,True,undetermined
@@ -1142,7 +1142,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1310,TK TK,2016-02-23,shot and Tasered,machete,,M,,Houston,TX,False,undetermined
 1317,Alex Buckner,2016-02-23,shot,gun,26,M,W,Phoenix,AZ,False,attack
 1307,Robert Keil,2016-02-24,shot,knife,16,M,W,Blue Springs,MO,True,other
-1313,Martin Wirth,2016-02-24,shot,gun,58,M,W,Bailey,CO,False,attack
+1313,Martin Wirth,2016-02-24,shot,gun,58,M,W,Bailey,CO,True,attack
 1314,Victor Rivera,2016-02-24,shot,vehicle,27,M,H,Phoenix,AZ,False,other
 1316,Francisco Garcia,2016-02-24,shot,vehicle,26,M,H,Cerritos,CA,False,undetermined
 1318,Christopher J. Davis,2016-02-24,shot,undetermined,21,M,B,East Troy,WI,False,undetermined
@@ -1221,5 +1221,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1399,Travis J. Blair,2016-03-22,shot,vehicle,33,M,,Fredericksburg,VA,False,attack
 1400,TK TK,2016-03-23,shot,gun,,M,,Thornton,CO,False,attack
 1402,Raymond Gonzalez,2016-03-23,shot,undetermined,,M,H,Fresno,CA,False,undetermined
-1403,TK TK,2016-03-23,shot,gun,30,M,B,Memphis,TN,True,attack
-1404,Robert Dussourd,2016-03-24,shot,knife,44,M,,Braintree,MA,False,attack
+1403,Alexio Allen,2016-03-23,shot,gun,30,M,B,Raleigh,TN,True,attack
+1404,Robert L. Dussourd,2016-03-24,shot,knife,44,M,,Braintree,MA,False,attack
