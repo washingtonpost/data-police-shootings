@@ -1060,7 +1060,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1213,Jacqueline D. Salyers,2016-01-29,shot,vehicle,32,F,W,Tacoma,WA,False,undetermined
 1216,Randolph McClain,2016-01-29,shot,gun,33,M,B,Lynn,MA,False,attack
 1218,Christopher Michael Dew,2016-01-29,shot,gun,29,M,B,Irving,TX,False,undetermined
-1226,Angela  Hiatt,2016-01-29,shot,vehicle,41,F,,Phenix,AL,False,attack
+1226,Angela Hiatt,2016-01-29,shot,vehicle,41,F,,Phenix,AL,False,attack
 1221,Charles M. Smith,2016-01-30,shot,gun,29,M,B,Chicago,IL,False,other
 1222,Philip B. Salazar,2016-01-30,shot,scissors,38,M,H,Fort Collins,CO,False,other
 1224,Jose Alegre,2016-01-30,shot,gun,64,M,H,Rossville,GA,False,attack
@@ -1232,7 +1232,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1413,Terrance S. Blackburn,2016-03-26,shot,gun,36,M,W,Grundy,VA,True,undetermined
 1414,Donald Andrew White,2016-03-26,shot,gun,55,M,,Myrtle Beach,SC,False,attack
 1416,Patrick Matthew McManamon,2016-03-26,shot,gun,46,M,W,Tampa,FL,False,attack
-1410,TK TK,2016-03-27,shot,knife,,M,W,Lee's Summit,MO,False,other
+1410,Jeffrey Lanahan,2016-03-27,shot,knife,34,M,W,Lee's Summit,MO,False,other
 1411,Loreal Tsingine,2016-03-27,shot,unknown weapon,27,F,,Winslow,AZ,False,other
 1417,Robert D. Guerin,2016-03-27,shot,gun,33,M,,Roswell,NM,False,attack
 1418,Deriante Deon Miller,2016-03-27,shot,gun,18,M,,Kinston,NC,False,other
