@@ -1166,7 +1166,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1342,Brandon Stanley,2016-03-04,shot,unarmed,30,M,W,East Berstadt,KY,False,undetermined
 1334,Darrell Bosell,2016-03-05,shot,gun,34,M,W,Cheektowaga,NY,True,attack
 1336,Herbert Ballance,2016-03-05,shot,gun,22,M,W,Beaumont,TX,False,undetermined
-1332,Mark Minnick,2016-03-06,shot,gun,51,M,W,Azle,TX,False,attack
+1332,Mark Minnick,2016-03-06,shot,gun,51,M,W,Azle,TX,True,attack
 1333,James Scott,2016-03-06,shot,unarmed,42,M,W,Bismarck,ND,False,undetermined
 1340,Osvaldo Torres,2016-03-06,shot,gun,41,M,H,South Gate,CA,False,attack
 1339,Philip Vitullo,2016-03-07,shot,gun,49,M,W,Rochester,NY,True,attack
@@ -1226,13 +1226,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1405,Dominique Silva,2016-03-24,shot,unknown weapon,24,M,,Pawtucket,RI,False,attack
 1406,Andrew Mike,2016-03-24,shot,gun,29,M,,Redlands,CA,False,attack
 1407,Joel A. Gonzales,2016-03-24,shot,gun and knife,48,M,,Pueblo,CO,False,other
-1408,Mario Sandoval,2016-03-24,shot,undetermined,19,M,H,Laguna,NM,False,attack
+1408,Mario Sandoval,2016-03-24,shot,undetermined,19,M,H,Pueblo of Laguna,NM,False,attack
 1415,Jermon Seals,2016-03-24,shot,gun,,M,B,Blue Springs,MO,False,attack
-1413,Terrance Blackburn,2016-03-26,shot,gun,36,M,W,Grundy,VA,True,undetermined
-1414,Donald White,2016-03-26,shot,gun,55,M,,Myrtle Beach,SC,False,attack
-1416,Patrick McManamon,2016-03-26,shot,gun,46,M,W,Tampa,FL,False,attack
-1418,TK TK,2016-03-26,shot,gun,,M,,Kinston,NC,False,other
+1412,Jose Perez,2016-03-26,shot,meat cleaver,39,M,H,Lowell,MA,False,attack
+1413,Terrance S. Blackburn,2016-03-26,shot,gun,36,M,W,Grundy,VA,True,undetermined
+1414,Donald Andrew White,2016-03-26,shot,gun,55,M,,Myrtle Beach,SC,False,attack
+1416,Patrick Matthew McManamon,2016-03-26,shot,gun,46,M,W,Tampa,FL,False,attack
 1410,TK TK,2016-03-27,shot,knife,,M,W,Lee's Summit,MO,False,other
 1411,Loreal Tsingine,2016-03-27,shot,unknown weapon,27,F,,Winslow,AZ,False,other
-1412,Jose Perez,2016-03-27,shot,meat cleaver,39,M,H,Lowell,MA,False,attack
-1417,Robert Guerin,2016-03-27,shot,gun,33,M,,Roswell,FL,False,attack
+1417,Robert D. Guerin,2016-03-27,shot,gun,33,M,,Roswell,NM,False,attack
+1418,Deriante Deon Miller,2016-03-27,shot,gun,18,M,,Kinston,NC,False,other
