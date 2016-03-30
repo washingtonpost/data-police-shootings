@@ -1139,7 +1139,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1304,Rouven Loch,2016-02-22,shot,toy weapon,22,M,W,Fairborn,OH,False,undetermined
 1306,Travis Stevenson,2016-02-23,shot,vehicle,48,M,B,Baton Rouge,LA,True,attack
 1309,Angel Alan Gleason,2016-02-23,shot,gun,36,M,,Ripon,CA,False,undetermined
-1310,TK TK,2016-02-23,shot and Tasered,machete,,M,,Houston,TX,False,undetermined
+1310,Baltazar Ramos,2016-02-23,shot and Tasered,machete,39,M,H,Houston,TX,True,undetermined
 1317,Alex Buckner,2016-02-23,shot,gun,26,M,W,Phoenix,AZ,True,attack
 1307,Robert Keil,2016-02-24,shot,knife,16,M,W,Blue Springs,MO,True,other
 1313,Martin Wirth,2016-02-24,shot,gun,58,M,W,Bailey,CO,True,attack
@@ -1182,14 +1182,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1354,TK Tk,2016-03-10,shot,vehicle,,M,,Colorado City,CO,False,attack
 1350,Tyre Privott,2016-03-11,shot,gun,25,M,B,Norfolk,VA,False,attack
 1355,"Manford ""Butch"" Moore Jr.",2016-03-11,shot,gun,51,M,W,Rosalia,KS,True,attack
-1375,Jack Goodman,2016-03-11,shot,knife,46,M,,Clinton,IL,True,other
+1375,Jack Goodman,2016-03-11,shot,knife,46,M,W,Clinton,IL,True,other
 1357,Peter Gaines,2016-03-12,shot and Tasered,unarmed,37,M,B,Houston,TX,False,other
-1365,TK TK,2016-03-12,shot and Tasered,unarmed,,M,,Houston,TX,False,attack
+1365,Marco Loud,2016-03-12,shot and Tasered,unarmed,20,M,B,Houston,TX,False,attack
 1356,Gevork Alachadzhyan,2016-03-13,shot,vehicle,45,M,W,Glendale,CA,True,attack
 1358,Jose Raul Cruz,2016-03-13,shot,undetermined,16,M,H,Addison,TX,False,undetermined
-1359,Joshua Grubb,2016-03-13,shot,undetermined,30,M,W,Lenoir City,TN,False,other
+1359,Joshua Grubb,2016-03-13,shot,unarmed,30,M,W,Lenoir City,TN,False,other
 1360,Wesley Chad Deerman,2016-03-13,shot,gun,26,M,W,Piedmont,AL,False,attack
-1361,TK TK,2016-03-13,shot,gun,,M,,Chester,PA,False,attack
+1361,Keith Montgomery Jr.,2016-03-13,shot,gun,24,M,B,Chester,PA,False,attack
 1362,Amy Jean McCoy,2016-03-13,shot,hammer,38,F,W,Vancouver,WA,False,attack
 1379,Jacai Colson,2016-03-13,shot,gun,28,M,B,Landover,MD,False,other
 1364,Lamar Harris,2016-03-14,shot,gun,29,M,B,Chicago,IL,False,attack
@@ -1215,26 +1215,28 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1393,Abraham Martinez,2016-03-20,shot,gun,62,M,H,Fort Wayne,IN,False,attack
 1394,Robert Dentmond,2016-03-20,shot,toy weapon,16,M,B,Gainesville,FL,True,undetermined
 1395,"Ralph ""Phil"" Grenon",2016-03-21,shot and Tasered,knife,76,M,W,Burlington,VT,True,attack
-1396,Dylan Pape,2016-03-21,shot,toy weapon,25,M,W,Stamford,CT,False,undetermined
+1396,Dylan Pape,2016-03-21,shot,toy weapon,25,M,W,Stamford,CT,True,attack
 1397,Edward J. Gorinski,2016-03-21,shot,gun,28,M,W,South Greensburg,PA,True,attack
 1398,Ethan James Rincon,2016-03-22,shot,pick-axe,25,M,H,Miami,FL,False,attack
 1399,Travis J. Blair,2016-03-22,shot,vehicle,33,M,W,Fredericksburg,VA,False,attack
-1400,TK TK,2016-03-23,shot,gun,,M,,Thornton,CO,False,attack
-1402,Raymond Gonzalez,2016-03-23,shot,undetermined,,M,H,Fresno,CA,False,undetermined
+1400,Daven Scott Hannu,2016-03-23,shot,gun,51,M,,Thornton,CO,False,attack
+1402,Raymond Gonzalez,2016-03-23,shot,gun,,M,H,Fresno,CA,False,attack
 1403,Alexio Allen,2016-03-23,shot,gun,30,M,B,Raleigh,TN,True,attack
 1404,Robert L. Dussourd,2016-03-24,shot,knife,44,M,W,Braintree,MA,False,attack
-1405,Dominique Silva,2016-03-24,shot,toy weapon,24,M,,Pawtucket,RI,False,attack
+1405,Dominique Silva,2016-03-24,shot,toy weapon,24,M,B,Pawtucket,RI,False,attack
 1406,Andrew Mike,2016-03-24,shot,gun,29,M,W,Redlands,CA,False,attack
 1407,Joel A. Gonzales,2016-03-24,shot,gun and knife,48,M,H,Pueblo,CO,False,other
-1408,Mario Sandoval,2016-03-24,shot,undetermined,19,M,H,Pueblo of Laguna,NM,False,attack
+1408,Mario Sandoval,2016-03-24,shot,gun,19,M,H,Pueblo of Laguna,NM,False,attack
 1415,Jermon Seals,2016-03-24,shot,gun,,M,B,Blue Springs,MO,False,attack
-1412,Jose Perez,2016-03-26,shot,meat cleaver,39,M,H,Lowell,MA,False,attack
+1412,Jose Perez,2016-03-26,shot,meat cleaver,39,M,H,Lowell,MA,True,attack
 1413,Terrance S. Blackburn,2016-03-26,shot,gun,36,M,W,Grundy,VA,True,undetermined
 1414,Donald Andrew White,2016-03-26,shot,gun,55,M,,Myrtle Beach,SC,False,attack
 1416,Patrick Matthew McManamon,2016-03-26,shot,gun,46,M,W,Tampa,FL,False,attack
 1410,Jeffrey Lanahan,2016-03-27,shot,knife,34,M,W,Lee's Summit,MO,False,other
 1411,Loreal Tsingine,2016-03-27,shot,unknown weapon,27,F,B,Winslow,AZ,False,other
 1417,Robert D. Guerin,2016-03-27,shot,gun,33,M,W,Roswell,NM,False,attack
-1418,Deriante Deon Miller,2016-03-27,shot,gun,18,M,,Kinston,NC,False,other
+1418,Deriante Deon Miller,2016-03-27,shot,gun,18,M,B,Kinston,NC,False,other
 1419,Earl Ashby,2016-03-27,shot,gun,33,M,,Splendora,TX,True,attack
 1420,TK TK,2016-03-29,shot and Tasered,unknown weapon,,M,,Clearlake Park,CA,False,attack
+1421,Robert Morgan Garrison Jr.,2016-03-29,shot,gun,51,M,,Piedmont,SC,True,attack
+1422,TK TK,2016-03-29,shot,gun,,F,,Aitkin,MN,True,attack
