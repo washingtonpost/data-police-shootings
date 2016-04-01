@@ -1043,10 +1043,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1191,Timothy Albert,2016-01-20,shot,gun,40,M,B,Port Barre,LA,False,attack
 1194,Randy Joe Sanders,2016-01-20,shot,gun,33,M,W,Meridianville,AL,False,other
 1202,Michael Clyde Lynch,2016-01-20,shot,undetermined,37,M,W,Kerrville,TX,False,other
-1201,Cedric Norris,2016-01-21,shot,gun,39,M,B,Eufaula,OK,False,attack
+1201,Cedric Norris,2016-01-21,shot,gun,39,M,B,Eufaula,OK,True,attack
 1200,Michael Lamar Robinson,2016-01-23,shot,toy weapon,43,M,W,Clanton,AL,False,undetermined
 1199,Sergio Alvardo-Morales,2016-01-25,shot,knife,38,M,H,Reno,NV,False,other
-1203,"Robert ""LaVoy"" Finicum",2016-01-26,shot,undetermined,55,M,W,Burns,OR,False,undetermined
+1203,"Robert ""LaVoy"" Finicum",2016-01-26,shot,gun,55,M,W,Burns,OR,False,other
 1204,Scott Scanlon,2016-01-27,shot,gun,52,M,W,Mountain Pine,AR,False,undetermined
 1205,Johnathan Bratcher,2016-01-27,shot,gun,32,M,B,Memphis,TN,False,attack
 1206,Herman Flores,2016-01-27,shot,gun,31,M,H,Santa Fe,NM,False,undetermined
@@ -1066,9 +1066,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1224,Jose Alegre,2016-01-30,shot,gun,64,M,H,Rossville,GA,True,attack
 1230,Jeremy J. Sinclair,2016-01-30,shot,gun,42,M,W,Sugar Creek,MO,False,attack
 1288,Joshua Shane Bispo,2016-01-31,shot,gun,42,M,W,Bakersfield,CA,False,other
-1220,Bruce Kelley,2016-01-31,shot and Tasered,knife,37,M,B,Wilkinsburg,PA,False,attack
+1220,Bruce Kelley,2016-01-31,shot and Tasered,knife,37,M,B,Wilkinsburg,PA,True,attack
 1223,Juan A. Ruiz,2016-01-31,shot,knife,46,M,H,Immokalee,FL,False,other
-1225,Michael Brown,2016-01-31,shot,undetermined,25,M,W,Saginaw,TX,False,attack
+1225,Michael Brown,2016-01-31,shot,unarmed,25,M,W,Saginaw,TX,False,attack
 1229,Jeffry Graves,2016-01-31,shot,gun,62,M,,Newark,CA,True,attack
 1219,Peter John,2016-02-01,shot,toy weapon,36,M,B,Washington,DC,False,attack
 1232,Edgar Rene Alvarado,2016-02-01,shot,gun,21,M,H,Albuquerque,NM,True,attack
