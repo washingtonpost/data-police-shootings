@@ -1072,7 +1072,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1229,Jeffry Graves,2016-01-31,shot,gun,62,M,,Newark,CA,True,attack,Not fleeing,False
 1219,Peter John,2016-02-01,shot,toy weapon,36,M,B,Washington,DC,False,attack,Foot,False
 1232,Edgar Rene Alvarado,2016-02-01,shot,gun,21,M,H,Albuquerque,NM,True,attack,Car,True
-1231,Justin Prescott,2016-02-02,shot and Tasered,knife,30,M,W,Rancho Cordova,CA,True,attack,Not fleeing,False
+1231,Justin Prescott,2016-02-02,shot and Tasered,knife,30,M,W,Rancho Cordova,CA,True,other,Not fleeing,False
 1233,John Henry Neuman,2016-02-03,shot,gun,53,M,W,Schulter,OK,False,attack,Not fleeing,False
 1234,Cristiaan Oliver Dubrino,2016-02-03,shot,gun,31,M,H,Ocala,FL,True,attack,Not fleeing,False
 1235,Raymond Gassman,2016-02-03,shot,gun,22,M,N,Rosebud,SD,False,attack,Not fleeing,True
@@ -1214,7 +1214,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1391,Clarence Briggs,2016-03-20,shot,gun,54,M,W,Fort Littleton,PA,False,attack,Other,False
 1393,Abraham Martinez,2016-03-20,shot,gun,62,M,H,Fort Wayne,IN,False,attack,Foot,False
 1394,Robert Dentmond,2016-03-20,shot,toy weapon,16,M,B,Gainesville,FL,True,undetermined,Not fleeing,False
-1395,"Ralph ""Phil"" Grenon",2016-03-21,shot and Tasered,knife,76,M,W,Burlington,VT,True,attack,Not fleeing,True
+1395,"Ralph ""Phil"" Grenon",2016-03-21,shot and Tasered,knife,76,M,W,Burlington,VT,True,other,Not fleeing,True
 1396,Dylan Pape,2016-03-21,shot,toy weapon,25,M,W,Stamford,CT,True,attack,Not fleeing,False
 1397,Edward J. Gorinski,2016-03-21,shot,gun,28,M,W,South Greensburg,PA,True,attack,Car,False
 1398,Ethan James Rincon,2016-03-22,shot,pick-axe,25,M,H,Miami,FL,False,attack,Not fleeing,False
@@ -1228,7 +1228,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1407,Joel A. Gonzales,2016-03-24,shot,gun and knife,48,M,H,Pueblo,CO,False,other,Not fleeing,True
 1408,Mario Sandoval,2016-03-24,shot,gun,19,M,H,Pueblo of Laguna,NM,False,attack,Not fleeing,False
 1415,Jermon Seals,2016-03-24,shot,gun,,M,B,Blue Springs,MO,False,attack,Not fleeing,False
-1412,Jose Perez,2016-03-26,shot,meat cleaver,39,M,H,Lowell,MA,True,attack,Not fleeing,False
+1412,Jose Perez,2016-03-26,shot,meat cleaver,39,M,H,Lowell,MA,True,other,Not fleeing,False
 1413,Terrance S. Blackburn,2016-03-26,shot,gun,36,M,W,Grundy,VA,True,undetermined,Not fleeing,False
 1414,Donald Andrew White,2016-03-26,shot,gun,55,M,W,Myrtle Beach,SC,False,attack,Not fleeing,True
 1416,Patrick Matthew McManamon,2016-03-26,shot,gun,46,M,W,Tampa,FL,False,attack,Not fleeing,False
@@ -1244,3 +1244,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1424,Kimani Johnson,2016-03-31,shot,gun,18,M,B,Baltimore,MD,False,attack,Not fleeing,False
 1425,Matthew Vincent Wood,2016-03-31,shot,gun,43,M,B,Baltimore,MD,False,attack,Not fleeing,False
 1426,James Brown,2016-03-31,shot,gun,34,M,B,Richmond,VA,False,attack,Not fleeing,False
+1427,TK TK,2016-04-01,shot,shovel,,M,,Lockhart,TX,False,undetermined,Not fleeing,False
