@@ -1240,14 +1240,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1420,Joseph Louis Melvin,2016-03-29,shot and Tasered,unknown weapon,46,M,,Clearlake Park,CA,False,attack,Not fleeing,False
 1421,Robert Morgan Garrison Jr.,2016-03-29,shot,gun,51,M,,Piedmont,SC,True,attack,Not fleeing,False
 1422,Denise Fairchild,2016-03-29,shot,gun,50,F,,Aitkin,MN,True,attack,Not fleeing,False
-1423,TK TK,2016-03-30,shot,gun,,M,,Los Angeles,CA,False,attack,Not fleeing,False
+1423,Angel Montion,2016-03-30,shot,gun,33,M,,Los Angeles,CA,False,attack,Not fleeing,False
+1436,Ruben Cossyleon,2016-03-30,shot,gun,25,M,,Glendale,AZ,False,undetermined,Not fleeing,False
 1424,Kimani Johnson,2016-03-31,shot,gun,18,M,B,Baltimore,MD,False,attack,Not fleeing,False
 1425,Matthew Vincent Wood,2016-03-31,shot,gun,43,M,B,Baltimore,MD,False,attack,Not fleeing,False
 1426,James Brown III,2016-03-31,shot,gun,34,M,B,Richmond,VA,False,attack,Not fleeing,False
 1427,Jesse Juarez,2016-04-01,shot,shovel,65,M,H,Lockhart,TX,False,undetermined,Not fleeing,False
 1435,Joel Fabela,2016-04-01,shot,gun,37,M,,Odessa,TX,False,attack,Not fleeing,False
 1432,Cameron Glover,2016-04-02,shot,unknown weapon,30,M,B,Indianapolis,IN,False,undetermined,Not fleeing,False
-1430,Melissa Votares,2016-04-03,shot,unknown weapon,36,F,,Macon County,AL,True,other,Car,False
-1431,TK TK,2016-04-03,shot,gun,,M,W,Austin,TX,False,attack,Foot,False
-1433,TK TK,2016-04-03,shot,Taser,,M,,Eau Claire,WI,False,attack,Not fleeing,False
-1428,TK TK,2016-04-04,shot,knife,,M,,Minneapolis,MN,False,attack,Not fleeing,False
+1430,Melissa Boarts,2016-04-03,shot,unknown weapon,36,F,,Macon County,AL,True,other,Car,False
+1431,Darrin Andrew Martin,2016-04-03,shot,gun,25,M,W,Austin,TX,False,attack,Foot,False
+1433,David Mack,2016-04-03,shot,Taser,69,M,,Eau Claire,WI,False,attack,Not fleeing,False
+1428,TK TK,2016-04-04,shot,knife,,M,,Minneapolis,MN,True,attack,Not fleeing,False
+1437,TK TK,2016-04-05,shot,knife,,M,,West Springfield,MA,False,other,Not fleeing,False
