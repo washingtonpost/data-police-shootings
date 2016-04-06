@@ -1253,3 +1253,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1433,David Mack,2016-04-03,shot,Taser,69,M,,Eau Claire,WI,False,attack,Not fleeing,False
 1428,TK TK,2016-04-04,shot,knife,,M,,Minneapolis,MN,True,attack,Not fleeing,False
 1437,TK TK,2016-04-05,shot,knife,,M,,West Springfield,MA,False,other,Not fleeing,False
+1438,Kevin Hicks,2016-04-05,shot,unarmed,44,M,B,Indianapolis,IN,False,attack,Not fleeing,False
+1442,TK TK,2016-04-05,shot and Tasered,knife,,M,,Sylmar,CA,True,undetermined,,False
+1439,Marvin Cremeans,2016-04-06,shot,undetermined,60,M,,Oak Hill,OH,False,undetermined,Not fleeing,False
+1441,Laronda Sweatt,2016-04-06,shot,knife,40,F,,Gallatin,TN,False,attack,Not fleeing,False
