@@ -1253,13 +1253,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1433,David Mack,2016-04-03,shot,Taser,69,M,,Eau Claire,WI,False,attack,Not fleeing,False
 1428,Raul Salvador Marquez,2016-04-04,shot,knife,50,M,H,Minneapolis,MN,True,attack,Not fleeing,False
 1437,Peter J. Doherty,2016-04-05,shot,knife,,M,W,West Springfield,MA,False,other,Not fleeing,False
-1438,Kevin Hicks,2016-04-05,shot,unarmed,44,M,B,Indianapolis,IN,False,attack,Not fleeing,False
+1438,Kevin Hicks,2016-04-05,shot,unarmed,44,M,B,Indianapolis,IN,False,attack,Not fleeing,True
 1439,Marvin Cremeans,2016-04-06,shot,undetermined,60,M,,Oak Hill,OH,False,undetermined,Not fleeing,False
 1441,Laronda Sweatt,2016-04-06,shot,ax,40,F,B,Gallatin,TN,False,attack,Not fleeing,True
 1442,TK TK,2016-04-06,shot and Tasered,knife,,M,,Sylmar,CA,True,undetermined,,False
 1443,Luis Gongora,2016-04-07,shot,knife,45,M,,San Francisco,CA,False,other,Not fleeing,False
-1445,Lance McIntire,2016-04-07,shot,vehicle,44,M,W,Omaha,NE,False,attack,Not fleeing,False
-1444,TK TK,2016-04-08,shot,knife,,M,,Sacramento,CA,False,other,Foot,False
-1446,Melissa Abbott,2016-04-08,shot,hatchet,25,F,,Lake Hallie,WI,False,other,Not fleeing,False
-1448,TK TK,2016-04-08,shot,knife,43,M,,Kentwood,MI,False,other,Foot,False
-1447,Diahlo Grant,2016-04-09,shot,gun,27,M,,Lake Brunswick,NJ,False,attack,Foot,False
+1445,Lance C. McIntire,2016-04-07,shot,vehicle,44,M,W,Omaha,NE,False,attack,Not fleeing,False
+1444,Dazion Flenaugh,2016-04-08,shot,knife,40,M,,Sacramento,CA,False,other,Foot,False
+1446,Melissa M. Abbott,2016-04-08,shot,hatchet,25,F,,Lake Hallie,WI,False,other,Not fleeing,False
+1448,Lamont Gulley,2016-04-08,shot,knife,43,M,B,Kentwood,MI,False,other,Foot,False
+1447,Diahlo Grant,2016-04-09,shot,gun,27,M,,New Brunswick,NJ,False,attack,Foot,False
