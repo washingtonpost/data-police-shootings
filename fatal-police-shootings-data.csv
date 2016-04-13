@@ -1219,7 +1219,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1397,Edward J. Gorinski,2016-03-21,shot,gun,28,M,W,South Greensburg,PA,True,attack,Car,False
 1398,Ethan James Rincon,2016-03-22,shot,pick-axe,25,M,H,Miami,FL,False,attack,Not fleeing,False
 1399,Travis J. Blair,2016-03-22,shot,vehicle,33,M,W,Fredericksburg,VA,False,attack,Other,False
-1400,Daven Scott Hannu,2016-03-23,shot,gun,51,M,,Thornton,CO,False,attack,Not fleeing,False
+1400,Daven Scott Hannu,2016-03-23,shot,gun,51,M,W,Thornton,CO,False,attack,Not fleeing,False
 1402,Raymond Gonzalez,2016-03-23,shot,gun,34,M,H,Fresno,CA,False,attack,Foot,True
 1403,Alexio Allen,2016-03-23,shot,gun,30,M,B,Raleigh,TN,True,attack,Not fleeing,False
 1404,Robert L. Dussourd,2016-03-24,shot,knife,44,M,W,Braintree,MA,False,other,Foot,False
@@ -1236,33 +1236,33 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1411,Loreal Tsingine,2016-03-27,shot,scissors,27,F,N,Winslow,AZ,False,other,Not fleeing,True
 1417,Robert D. Guerin,2016-03-27,shot,gun,33,M,W,Roswell,NM,False,attack,Not fleeing,True
 1418,Deriante Deon Miller,2016-03-27,shot,gun,18,M,B,Kinston,NC,False,other,Not fleeing,False
-1419,Earl Ashby,2016-03-27,shot,gun,33,M,,Splendora,TX,True,attack,Not fleeing,False
-1420,Joseph Louis Melvin,2016-03-29,shot and Tasered,unknown weapon,46,M,,Clearlake Park,CA,False,attack,Not fleeing,False
-1421,Robert Morgan Garrison Jr.,2016-03-29,shot,gun,51,M,,Piedmont,SC,True,attack,Not fleeing,False
-1422,Denise Fairchild,2016-03-29,shot,gun,50,F,,Aitkin,MN,True,attack,Not fleeing,False
-1423,Angel Montion,2016-03-30,shot,gun,33,M,,Los Angeles,CA,False,attack,Not fleeing,False
+1419,Earl Ashby,2016-03-27,shot,gun,33,M,W,Splendora,TX,True,attack,Not fleeing,False
+1420,Joseph Louis Melvin,2016-03-29,shot and Tasered,flashlight,46,M,W,Clearlake Park,CA,False,attack,Not fleeing,False
+1421,Robert Morgan Garrison Jr.,2016-03-29,shot,gun,51,M,W,Piedmont,SC,True,attack,Not fleeing,False
+1422,Denise Fairchild,2016-03-29,shot,gun,50,F,W,Aitkin,MN,True,attack,Not fleeing,False
+1423,Angel Montion,2016-03-30,shot,gun,33,M,W,Los Angeles,CA,False,attack,Not fleeing,False
 1436,Ruben Cossyleon,2016-03-30,shot,gun,25,M,,Glendale,AZ,False,undetermined,Not fleeing,False
 1424,Kimani Johnson,2016-03-31,shot,gun,18,M,B,Baltimore,MD,False,attack,Not fleeing,False
 1425,Matthew Vincent Wood,2016-03-31,shot,gun,43,M,B,Baltimore,MD,False,attack,Not fleeing,False
 1426,James Brown III,2016-03-31,shot,gun,34,M,B,Richmond,VA,False,attack,Not fleeing,False
 1427,Jesse Juarez,2016-04-01,shot,shovel,65,M,H,Lockhart,TX,False,undetermined,Not fleeing,False
-1435,Joel Fabela,2016-04-01,shot,gun,37,M,,Odessa,TX,False,attack,Not fleeing,False
-1432,Cameron Glover,2016-04-02,shot,unknown weapon,30,M,B,Indianapolis,IN,False,undetermined,Not fleeing,False
-1430,Melissa Boarts,2016-04-03,shot,unknown weapon,36,F,,Macon County,AL,True,other,Car,False
+1435,Joel Fabela,2016-04-01,shot,gun,37,M,H,Odessa,TX,False,attack,Not fleeing,False
+1432,Cameron Gover,2016-04-02,shot,unknown weapon,30,M,B,Indianapolis,IN,False,undetermined,Not fleeing,False
+1430,Melissa Boarts,2016-04-03,shot,unknown weapon,36,F,W,Macon County,AL,True,other,Car,False
 1431,Darrin Andrew Martin,2016-04-03,shot,gun,25,M,W,Austin,TX,False,attack,Foot,False
-1433,David Mack,2016-04-03,shot,Taser,69,M,,Eau Claire,WI,False,attack,Not fleeing,False
+1433,David Mack,2016-04-03,shot,Taser,69,M,W,Eau Claire,WI,False,attack,Not fleeing,False
 1428,Raul Salvador Marquez,2016-04-04,shot,knife,50,M,H,Minneapolis,MN,True,attack,Not fleeing,False
 1437,Peter J. Doherty,2016-04-05,shot,knife,,M,W,West Springfield,MA,False,other,Not fleeing,False
 1438,Kevin Hicks,2016-04-05,shot,unarmed,44,M,B,Indianapolis,IN,False,attack,Not fleeing,True
-1439,Marvin Cremeans,2016-04-06,shot,undetermined,60,M,,Oak Hill,OH,False,undetermined,Not fleeing,False
+1439,Marvin Cremeans,2016-04-06,shot,undetermined,60,M,W,Oak Hill,OH,False,undetermined,Not fleeing,False
 1441,Laronda Sweatt,2016-04-06,shot,ax,40,F,B,Gallatin,TN,False,attack,Not fleeing,True
-1442,TK TK,2016-04-06,shot and Tasered,knife,,M,,Sylmar,CA,True,undetermined,,False
-1443,Luis Gongora,2016-04-07,shot,knife,45,M,,San Francisco,CA,False,other,Not fleeing,False
+1442,Cesar Frias,2016-04-06,shot and Tasered,knife,20,M,H,Sylmar,CA,True,undetermined,,False
+1443,Luis Gongora,2016-04-07,shot,knife,45,M,H,San Francisco,CA,False,other,Not fleeing,False
 1445,Lance C. McIntire,2016-04-07,shot,vehicle,44,M,W,Omaha,NE,False,attack,Not fleeing,False
-1444,Dazion Flenaugh,2016-04-08,shot,knife,40,M,,Sacramento,CA,False,other,Foot,False
-1446,Melissa M. Abbott,2016-04-08,shot,hatchet,25,F,,Lake Hallie,WI,False,other,Not fleeing,False
+1444,Dazion Flenaugh,2016-04-08,shot,knife,40,M,B,Sacramento,CA,True,other,Foot,False
+1446,Melissa M. Abbott,2016-04-08,shot,hatchet,25,F,W,Lake Hallie,WI,True,other,Not fleeing,False
 1448,Lamont Gulley,2016-04-08,shot,knife,43,M,B,Kentwood,MI,False,other,Foot,False
-1447,Diahlo Grant,2016-04-09,shot,gun,27,M,,New Brunswick,NJ,False,attack,Foot,False
+1447,Diahlo Grant,2016-04-09,shot,gun,27,M,B,New Brunswick,NJ,False,attack,Foot,False
 1453,TK TK,2016-04-09,shot,gun,,M,,Philadelphia,PA,False,attack,Foot,False
 1449,Lonnie Ball,2016-04-10,shot,gun,39,M,,Modesto,CA,False,other,Car,False
 1451,William Clark,2016-04-10,shot,knife,30,M,,Rotterdam,NY,False,attack,Not fleeing,False
@@ -1270,3 +1270,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1454,TK TK,2016-04-11,shot,undetermined,,M,,Las Vegas,NV,False,undetermined,Not fleeing,False
 1455,Pierre Loury,2016-04-11,shot,undetermined,16,M,B,Chicago,IL,False,undetermined,Foot,False
 1456,TK TK,2016-04-12,shot,undetermined,,M,,Denver,CO,False,undetermined,Car,False
+1457,Joshua Moreno,2016-04-12,shot,gun,38,M,,Benton,IL,False,attack,Car,False
+1458,Travis Wood,2016-04-12,shot,vehicle,20,F,W,Noma,FL,False,other,Car,False
+1459,TK TK,2016-04-13,shot,unarmed,,M,,Stockton,CA,False,attack,Not fleeing,False
