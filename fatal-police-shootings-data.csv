@@ -1263,13 +1263,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1446,Melissa M. Abbott,2016-04-08,shot,hatchet,25,F,W,Lake Hallie,WI,True,other,Not fleeing,False
 1448,Lamont Gulley,2016-04-08,shot,knife,43,M,B,Kentwood,MI,False,other,Foot,False
 1447,Diahlo Grant,2016-04-09,shot,gun,27,M,B,New Brunswick,NJ,False,attack,Foot,False
-1453,TK TK,2016-04-09,shot,gun,,M,,Philadelphia,PA,False,attack,Foot,False
-1449,Lonnie Ball,2016-04-10,shot,gun,39,M,,Modesto,CA,False,other,Car,False
-1451,William Clark,2016-04-10,shot,knife,30,M,,Rotterdam,NY,False,attack,Not fleeing,False
+1453,Quron Williams,2016-04-09,shot,gun,19,M,B,Philadelphia,PA,False,attack,Foot,False
+1449,Lonnie Ball,2016-04-10,shot,gun,39,M,W,Modesto,CA,False,other,Car,False
+1451,William Clark,2016-04-10,shot,knife,30,M,W,Rotterdam,NY,False,attack,Not fleeing,False
 1452,TK TK,2016-04-10,shot,knife,28,M,H,Los Angeles,CA,False,attack,Not fleeing,False
-1454,Efrem Trujillo,2016-04-11,shot,gun,22,M,,Las Vegas,NV,False,attack,Not fleeing,False
+1454,Efrem Trujillo,2016-04-11,shot,gun,22,M,H,Las Vegas,NV,False,attack,Not fleeing,False
 1455,Pierre Loury,2016-04-11,shot,undetermined,16,M,B,Chicago,IL,False,undetermined,Foot,False
-1456,Dion Daman,2016-04-12,shot,undetermined,40,M,,Denver,CO,False,undetermined,Car,False
+1456,Dion Daman,2016-04-12,shot,undetermined,40,M,W,Denver,CO,False,undetermined,Car,False
 1457,Joshua Moreno,2016-04-12,shot,gun,38,M,,Benton,IL,False,attack,Car,False
 1458,Travis Wood,2016-04-12,shot,vehicle,20,M,W,Noma,FL,False,other,Car,False
-1459,Rodney Watts,2016-04-13,shot,unarmed,35,M,,Stockton,CA,False,attack,Not fleeing,False
+1459,Rodney Watts,2016-04-13,shot,unarmed,35,M,B,Stockton,CA,False,attack,Not fleeing,False
+1460,TK TK,2016-04-13,shot,gun,,M,,Llano,TX,False,attack,Not fleeing,False
+1462,Koltlee Whitson,2016-04-13,shot,gun,,M,W,Sparta,TN,False,attack,Car,False
