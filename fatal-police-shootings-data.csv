@@ -1273,5 +1273,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1457,Joshua Moreno,2016-04-12,shot,gun,38,M,,Benton,IL,False,attack,Car,False
 1458,Travis Wood,2016-04-12,shot,vehicle,20,M,W,Noma,FL,False,other,Car,False
 1459,Rodney Watts,2016-04-13,shot,unarmed,35,M,B,Stockton,CA,False,attack,Not fleeing,False
-1460,Jeffery Gray Wise,2016-04-13,shot,gun,52,M,,Llano,TX,False,attack,Not fleeing,False
+1460,Jeffrey Gray Wise,2016-04-13,shot,gun,52,M,,Llano,TX,False,attack,Not fleeing,False
 1462,Koltlee Whitson,2016-04-13,shot,gun,26,M,W,Sparta,TN,False,attack,Car,False
+1463,TK TK,2016-04-14,shot and Tasered,unarmed,,M,,McPherson,KS,False,attack,Not fleeing,False
