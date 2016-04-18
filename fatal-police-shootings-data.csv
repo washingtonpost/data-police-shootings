@@ -1278,10 +1278,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1463,Jeff Robertson,2016-04-14,shot and Tasered,unarmed,54,M,,McPherson,KS,True,attack,Not fleeing,False
 1465,Clemente Najeda,2016-04-15,shot,baseball bat,38,M,,Lake Elsinore,CA,False,other,Not fleeing,False
 1469,David Swatsky,2016-04-15,shot,gun,52,M,,Cache,OK,True,attack,Not fleeing,False
-1471,Storm Smith,2016-04-15,shot,undetermined,26,M,,Muncie,IN,False,undetermined,Foot,True
-1467,Richard Bard Jr.,2016-04-16,shot,gun,31,M,,Vineland,NJ,False,attack,Foot,False
-1473,Gerald Boyes,2016-04-16,shot,gun,53,M,W,Antioch,IL,False,attack,Not fleeing,False
+1471,Storm Allen Smith,2016-04-15,shot,undetermined,26,M,,Muncie,IN,False,undetermined,Foot,True
+1473,Gerald Robert Boyes,2016-04-16,shot,gun,53,M,W,Antioch,IL,False,attack,Not fleeing,False
 1464,Kisha Arrone,2016-04-17,shot,gun,35,F,B,Dayton,OH,False,undetermined,Car,False
 1466,Eric John Wilson,2016-04-17,shot,unarmed,22,M,,El Paso,TX,True,other,Not fleeing,False
-1470,George Tillman,2016-04-17,shot,gun,32,M,,Queens,NY,False,other,Foot,False
+1467,Richard Bard Jr.,2016-04-17,shot,gun,31,M,,Vineland,NJ,False,attack,Foot,False
+1470,George Tillman,2016-04-17,shot,gun,32,M,,New York,NY,False,other,Foot,False
 1472,TK TK,2016-04-17,shot,vehicle,,M,,Troy,NY,False,attack,Car,False
