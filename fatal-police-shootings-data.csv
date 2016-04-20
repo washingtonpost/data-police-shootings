@@ -1185,6 +1185,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1375,Jack Goodman,2016-03-11,shot,knife,46,M,W,Clinton,IL,True,other,,False
 1357,Peter Gaines,2016-03-12,shot and Tasered,unarmed,37,M,B,Houston,TX,False,other,Foot,False
 1365,Marco Loud,2016-03-12,shot and Tasered,unarmed,20,M,B,Houston,TX,False,attack,Not fleeing,False
+1476,Christopher Michael Tokazowski,2016-03-12,shot,gun,43,M,,Greensboro,NC,False,attack,Not fleeing,True
 1356,Gevork Alachadzhyan,2016-03-13,shot,vehicle,45,M,W,Glendale,CA,True,attack,Car,False
 1358,Jose Raul Cruz,2016-03-13,shot,undetermined,16,M,H,Addison,TX,False,undetermined,Not fleeing,False
 1359,Joshua Grubb,2016-03-13,shot,unarmed,30,M,W,Lenoir City,TN,False,other,Car,True
@@ -1245,7 +1246,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1424,Kimani Johnson,2016-03-31,shot,gun,18,M,B,Baltimore,MD,False,attack,Not fleeing,False
 1425,Matthew Vincent Wood,2016-03-31,shot,gun,43,M,B,Baltimore,MD,False,attack,Not fleeing,False
 1426,James Brown III,2016-03-31,shot,gun,34,M,B,Richmond,VA,False,attack,Not fleeing,False
-1427,Jesse Juarez,2016-04-01,shot,shovel,65,M,H,Lockhart,TX,False,undetermined,Not fleeing,False
+1427,Jesus Juarez,2016-04-01,shot,shovel,65,M,H,Lockhart,TX,False,undetermined,Not fleeing,False
 1435,Joel Fabela,2016-04-01,shot,gun,37,M,H,Odessa,TX,False,attack,Not fleeing,False
 1432,Cameron Gover,2016-04-02,shot,unknown weapon,30,M,B,Indianapolis,IN,False,undetermined,Not fleeing,False
 1430,Melissa Boarts,2016-04-03,shot,unknown weapon,36,F,W,Macon County,AL,True,other,Car,False
@@ -1285,3 +1286,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1467,Richard Bard Jr.,2016-04-17,shot,gun,31,M,,Vineland,NJ,False,attack,Foot,False
 1470,George Tillman,2016-04-17,shot,gun,32,M,,New York,NY,False,other,Foot,False
 1472,TK TK,2016-04-17,shot,vehicle,,M,,Troy,NY,False,attack,Car,False
+1475,TK TK,2016-04-18,shot,gun,28,M,,Greenbelt,MD,False,attack,Not fleeing,False
+1479,Demetrius Dorsey,2016-04-18,shot,gun,18,M,,Mableton,GA,False,attack,Not fleeing,False
+1474,Sylasone Ackhavong,2016-04-19,shot,gun,41,M,,Charlotte,NC,True,attack,Not fleeing,False
+1477,TK TK,2016-04-19,shot,gun,,M,,St. Louis,MO,False,attack,Car,False
+1478,TK TK,2016-04-19,shot,gun,,M,,Brooksville,AL,False,attack,Car,False
