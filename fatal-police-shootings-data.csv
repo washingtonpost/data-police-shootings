@@ -1308,6 +1308,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1494,TK TK,2016-04-27,shot,machete,,M,H,Atlanta,GA,False,other,Not fleeing,False
 1495,TK TK,2016-04-27,shot,gun,,M,,Westminster,CO,False,attack,Not fleeing,False
 1498,TK TK,2016-04-28,shot,knife,,M,,Miami,FL,False,undetermined,Not fleeing,False
-1499,TK TK,2016-04-28,shot,gun,54,M,,Boise,ID,True,attack,Not fleeing,False
+1499,Lee Easter,2016-04-28,shot,gun,53,M,,Boise,ID,True,attack,Not fleeing,False
 1500,TK TK,2016-04-28,shot and Tasered,knife,,M,,Spokane,WA,False,undetermined,Not fleeing,True
 1501,TK TK,2016-04-28,shot,undetermined,,M,,Houston,TX,False,attack,Car,False
