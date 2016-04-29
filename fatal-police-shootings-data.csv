@@ -1285,7 +1285,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1466,Eric John Wilson,2016-04-17,shot,unarmed,22,M,,El Paso,TX,True,other,Not fleeing,False
 1467,Richard Bard Jr.,2016-04-17,shot,gun,31,M,,Vineland,NJ,False,attack,Foot,False
 1470,George Tillman,2016-04-17,shot,gun,32,M,,New York,NY,False,other,Foot,False
-1472,Edson Thevenin,2016-04-17,shot,vehicle,,M,B,Troy,NY,False,attack,Car,False
+1472,Edson Thevenin,2016-04-17,shot,vehicle,37,M,B,Troy,NY,False,attack,Car,False
 1475,Rico Don Rae Johnson,2016-04-18,shot,gun,28,M,B,Greenbelt,MD,False,attack,Not fleeing,False
 1479,Demetrius Dorsey,2016-04-18,shot,gun,18,M,,Mableton,GA,False,attack,Not fleeing,False
 1474,Sylasone Ackhavong,2016-04-19,shot,gun,41,M,,Charlotte,NC,True,attack,Not fleeing,False
@@ -1308,3 +1308,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1494,TK TK,2016-04-27,shot,machete,,M,H,Atlanta,GA,False,other,Not fleeing,False
 1495,TK TK,2016-04-27,shot,gun,,M,,Westminster,CO,False,attack,Not fleeing,False
 1498,TK TK,2016-04-28,shot,knife,,M,,Miami,FL,False,undetermined,Not fleeing,False
+1499,TK TK,2016-04-28,shot,gun,54,M,,Boise,ID,True,attack,Not fleeing,False
+1500,TK TK,2016-04-28,shot and Tasered,knife,,M,,Spokane,WA,False,undetermined,Not fleeing,True
+1501,TK TK,2016-04-28,shot,undetermined,,M,,Houston,TX,False,attack,Car,False
