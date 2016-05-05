@@ -1319,5 +1319,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1502,Charlin Charles,2016-05-01,shot,toy weapon,25,M,B,Orlando,FL,False,attack,Not fleeing,False
 1503,Ronald Branch,2016-05-01,shot,gun,28,M,,Alamo,TN,True,attack,Not fleeing,False
 1510,Raymond Hopper,2016-05-03,shot,knife,59,M,W,Visalia,CA,False,other,Not fleeing,False
-1509,TK TK,2016-05-04,shot,vehicle,,M,,Philadelphia,PA,False,undetermined,Not fleeing,False
-1511,TK TK,2016-05-04,shot,gun,,M,,Burien,WA,False,undetermined,Car,False
+1509,Richard Ferretti,2016-05-04,shot,vehicle,52,M,,Philadelphia,PA,False,undetermined,Not fleeing,False
+1511,Cayce A. DiTullio,2016-05-04,shot,gun,39,M,,Burien,WA,False,undetermined,Car,False
