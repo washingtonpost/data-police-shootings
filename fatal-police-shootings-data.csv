@@ -1076,7 +1076,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1233,John Henry Neuman,2016-02-03,shot,gun,53,M,W,Schulter,OK,False,attack,Not fleeing,False
 1234,Cristiaan Oliver Dubrino,2016-02-03,shot,gun,31,M,H,Ocala,FL,True,attack,Not fleeing,False
 1235,Raymond Gassman,2016-02-03,shot,gun,22,M,N,Rosebud,SD,False,attack,Not fleeing,True
-1236,Kayden Clarke,2016-02-04,shot,knife,24,M,W,Mesa,AZ,True,other,Not fleeing,False
+1236,Kayden Clarke,2016-02-04,shot,knife,24,M,W,Mesa,AZ,True,other,Not fleeing,True
 1237,Antronie Scott,2016-02-04,shot,unarmed,36,M,B,San Antonio,TX,False,other,Not fleeing,False
 1238,Harless Scott,2016-02-04,shot,gun,47,M,W,Kansas City,MO,False,attack,Other,False
 1243,Thomas Hirko,2016-02-04,shot,toy weapon,54,M,W,Perry Township,OH,False,attack,Not fleeing,False
@@ -1325,3 +1325,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1511,Cayce A. DiTullio,2016-05-04,shot,gun,39,M,,Burien,WA,False,undetermined,Car,False
 1512,TK Tk,2016-05-04,shot,knife,,M,,Temecula,CA,False,other,Not fleeing,False
 1513,Gerry Thompson,2016-05-04,shot,undetermined,40,M,W,Buffalo,MO,False,attack,Not fleeing,False
+1516,Corey DiGiovanni,2016-05-05,shot,vehicle,36,M,W,Gretna,LA,False,attack,Car,False
+1517,Burt Johnson,2016-05-05,shot,gun,38,M,,Milwaukee,WI,False,attack,Foot,False
+1518,Deresha Armstrong,2016-05-05,shot,gun,26,F,B,Orlando,FL,False,attack,Not fleeing,False
