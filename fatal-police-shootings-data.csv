@@ -1316,7 +1316,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1501,TK TK,2016-04-28,shot,undetermined,,M,,Houston,TX,False,attack,Car,False
 1506,Jeffrey Darrell Hobbs,2016-04-29,shot,vehicle,48,M,W,Jackson,MO,False,attack,Car,False
 1504,Oswald Mattner,2016-04-30,shot,knife,42,M,,Wausau,WI,False,other,Foot,False
-1505,Mark David Bess,2016-04-30,shot,knife,33,M,W,Spanish Fork,UT,False,other,Foot,False
+1505,Mark Daniel Bess,2016-04-30,shot,knife,33,M,W,Spanish Fork,UT,False,other,Foot,False
 1507,Bender Dass,2016-04-30,shot,vehicle,55,M,,Florence,AZ,False,attack,Car,False
 1508,TK TK,2016-04-30,shot,knife,,M,,Los Angeles,CA,False,other,Not fleeing,False
 1502,Charlin Charles,2016-05-01,shot,toy weapon,25,M,B,Orlando,FL,False,attack,Not fleeing,False
@@ -1332,7 +1332,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1519,Ronald D. Williams,2016-05-06,shot,gun,,M,,Weirton,WV,True,attack,Not fleeing,False
 1523,TK TK,2016-05-07,shot,gun,29,M,,Lake Stevens,WA,True,other,Not fleeing,False
 1525,Alton Fitzgerald Witchard,2016-05-07,shot,gun,37,M,B,St. Petersburg,FL,False,attack,Other,False
+1529,Derek J. Sam,2016-05-07,shot and Tasered,knife,29,M,,Presque Isle,ME,False,other,Not fleeing,False
 1522,Lionel Gibson,2016-05-08,shot,toy weapon,21,M,,Long Beach,CA,False,undetermined,,False
 1520,TK TK,2016-05-09,shot,gun,,M,,St. Paul,MN,False,attack,Not fleeing,False
 1524,Christian Bowman,2016-05-09,shot,unarmed,23,M,W,St. Martin,MS,False,undetermined,Not fleeing,False
 1526,TK TK,2016-05-09,shot,gun,,M,,Chicago,IL,False,other,Foot,False
+1528,Joseph Napoli,2016-05-09,shot,gun,59,M,,Hog Valley,FL,False,attack,Not fleeing,False
