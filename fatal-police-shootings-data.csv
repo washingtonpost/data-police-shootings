@@ -1302,6 +1302,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1486,Mitchell Oakley,2016-04-23,shot,gun,24,M,W,Chandler,AZ,True,attack,Not fleeing,False
 1487,Jakob E. Wagner,2016-04-23,shot,gun,18,M,W,Antigo,WI,False,attack,Not fleeing,False
 1488,Eric C. Wakup,2016-04-23,shot,gun,30,M,W,Norfolk,VA,False,attack,Not fleeing,False
+1527,Willie Tillman,2016-04-23,shot and Tasered,vehicle,33,M,B,Fayetteville,AR,False,other,Car,False
 1489,Kay Frances Campbell,2016-04-25,shot,gun,60,F,,East Flat Rock,NC,True,attack,Not fleeing,False
 1490,Robin Barber,2016-04-26,shot,gun,28,M,W,Lakewood,CO,False,attack,Foot,False
 1491,Joshua Brooks,2016-04-26,shot,gun,26,M,,Chesapeake,VA,False,attack,Not fleeing,False
@@ -1328,3 +1329,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1516,Corey DiGiovanni,2016-05-05,shot,vehicle,36,M,W,Gretna,LA,False,attack,Car,False
 1517,Burt Johnson,2016-05-05,shot,gun,38,M,,Milwaukee,WI,False,attack,Foot,False
 1518,Deresha Armstrong,2016-05-05,shot,gun,26,F,B,Orlando,FL,False,attack,Not fleeing,False
+1519,Ronald D. Williams,2016-05-06,shot,gun,,M,,Weirton,WV,True,attack,Not fleeing,False
+1523,TK TK,2016-05-07,shot,gun,29,M,,Lake Stevens,WA,True,other,Not fleeing,False
+1525,Alton Fitzgerald Witchard,2016-05-07,shot,gun,37,M,B,St. Petersburg,FL,False,attack,Other,False
+1522,Lionel Gibson,2016-05-08,shot,toy weapon,21,M,,Long Beach,CA,False,undetermined,,False
+1520,TK TK,2016-05-09,shot,gun,,M,,St. Paul,MN,False,attack,Not fleeing,False
+1524,Christian Bowman,2016-05-09,shot,unarmed,23,M,W,St. Martin,MS,False,undetermined,Not fleeing,False
+1526,TK TK,2016-05-09,shot,gun,,M,,Chicago,IL,False,other,Foot,False
