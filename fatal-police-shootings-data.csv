@@ -1338,3 +1338,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1524,Christian Bowman,2016-05-09,shot,unarmed,23,M,W,St. Martin,MS,False,undetermined,Not fleeing,False
 1526,TK TK,2016-05-09,shot,gun,,M,,Chicago,IL,False,other,Foot,False
 1528,Joseph Napoli,2016-05-09,shot,gun,59,M,,Hog Valley,FL,False,attack,Not fleeing,False
+1531,Jamie Stotts,2016-05-09,shot,gun,29,M,W,Nacogdoches,TX,True,attack,Other,False
+1532,Arthur DaRosa,2016-05-10,shot,knife,28,M,B,Taunton,MA,True,other,Not fleeing,False
+1530,TK TK,2016-05-11,shot,gun,,M,,Aurora,CO,False,attack,Car,False
