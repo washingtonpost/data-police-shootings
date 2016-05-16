@@ -374,7 +374,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 484,James Anthony Cooper,2015-05-21,shot,knife,43,M,W,North Charleston,SC,False,attack,Not fleeing,False
 485,Elvin Diaz,2015-05-21,shot,knife,24,M,H,Hackensack,NJ,True,other,Not fleeing,False
 487,Jerome Caldwell,2015-05-21,shot,gun,32,M,B,Charleston,SC,False,attack,Not fleeing,False
-472,Michael  Lowery,2015-05-22,shot,toy weapon,40,M,W,Somerset,PA,False,attack,Not fleeing,False
+472,Michael Lowery,2015-05-22,shot,toy weapon,40,M,W,Somerset,PA,False,attack,Not fleeing,False
 529,Caso Jackson,2015-05-23,shot,gun,25,M,B,Detroit,MI,False,attack,Not fleeing,False
 473,James Horn,2015-05-23,shot,gun,47,M,W,Sedalia,MO,False,attack,Not fleeing,False
 474,Eric Robinson,2015-05-23,shot,gun,40,M,W,Eagar,AZ,False,attack,Car,False
@@ -1106,7 +1106,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1273,David Glen Watson,2016-02-12,shot,gun,53,M,W,Fort Worth,TX,False,attack,Not fleeing,False
 1276,Sahlah Ridgeway,2016-02-12,shot,gun,32,F,B,Syracuse,NY,True,other,Not fleeing,False
 1266,Calvin Smith,2016-02-13,shot,gun,22,M,B,Baton Rouge,LA,True,attack,Car,True
-1268,Ali Eisa Abdalla Yahia,2016-02-13,shot,gun,29,M,B,Urbandale,IA,False,attack,Not fleeing,False
+1268,Ali Eisa Abdalla Yahia,2016-02-13,shot,gun,29,M,B,Urbandale,IA,False,attack,Not fleeing,True
 1270,Calin Roquemore,2016-02-13,shot,unarmed,24,M,B,Beckville,TX,False,other,Foot,False
 1272,Dyzhawn L. Perkins,2016-02-13,shot,unarmed,19,M,B,Arvonia,VA,False,attack,Not fleeing,False
 1280,Rammy Jaradat,2016-02-14,shot,knife,26,M,W,Van Nuys,CA,False,other,Not fleeing,False
@@ -1334,10 +1334,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1525,Alton Fitzgerald Witchard,2016-05-07,shot,gun,37,M,B,St. Petersburg,FL,False,attack,Other,False
 1529,Derek J. Sam,2016-05-07,shot and Tasered,knife,29,M,,Presque Isle,ME,False,other,Not fleeing,False
 1522,Lionel Gibson,2016-05-08,shot,toy weapon,21,M,,Long Beach,CA,False,undetermined,,False
-1520,TK TK,2016-05-09,shot,gun,,M,,St. Paul,MN,False,attack,Not fleeing,False
+1520,Jaffort Smith,2016-05-09,shot,gun,33,M,,St. Paul,MN,False,attack,Not fleeing,False
 1524,Christian Bowman,2016-05-09,shot,unarmed,23,M,W,St. Martin,MS,False,undetermined,Not fleeing,False
 1526,TK TK,2016-05-09,shot,gun,,M,,Chicago,IL,False,other,Foot,False
 1528,Joseph Napoli,2016-05-09,shot,gun,59,M,,Hog Valley,FL,False,attack,Not fleeing,False
 1531,Jamie Stotts,2016-05-09,shot,gun,29,M,W,Nacogdoches,TX,True,attack,Other,False
 1532,Arthur DaRosa,2016-05-10,shot,knife,28,M,B,Taunton,MA,True,other,Not fleeing,False
-1530,TK TK,2016-05-11,shot,gun,,M,,Aurora,CO,False,attack,Car,False
+1530,Stephen Schuster,2016-05-11,shot,gun,35,M,W,Aurora,CO,False,attack,Car,False
+1533,Thongsoune Vilaysane,2016-05-11,shot,vehicle,33,M,,San Diego,CA,False,other,Car,False
+1534,TK TK,2016-05-11,shot,gun,,M,B,Greeley,CO,False,other,Car,False
+1535,Steve Godfrey,2016-05-11,shot,gun,,M,,Byng,OK,True,undetermined,Car,False
+1539,Robert Mark Diaz,2016-05-13,shot,gun,28,M,,Boyle Heights,CA,False,attack,Not fleeing,False
+1536,Cody Marsh,2016-05-14,shot,knife,19,M,W,Jacksonsville,FL,True,other,Not fleeing,False
+1537,Francis Clark,2016-05-14,shot,gun,43,M,,Phoenix,AZ,False,attack,Not fleeing,False
+1538,TK TK,2016-05-14,shot,gun,,M,,Osteen,FL,False,attack,Not fleeing,False
+1540,Ryan Johnson,2016-05-14,shot and Tasered,gun,34,M,W,Stockbridge,GA,True,undetermined,Not fleeing,False
+1541,Dracy Pendleton,2016-05-15,shot,gun,35,M,W,Shawnee National Forest,IL,False,attack,Foot,False
