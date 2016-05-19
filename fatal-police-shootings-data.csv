@@ -1347,7 +1347,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1539,Robert Mark Diaz,2016-05-13,shot,gun,28,M,,Boyle Heights,CA,False,attack,Not fleeing,False
 1536,Cody Marsh,2016-05-14,shot,knife,19,M,W,Jacksonsville,FL,True,other,Not fleeing,False
 1537,Francis Clark,2016-05-14,shot,gun,43,M,,Phoenix,AZ,False,attack,Not fleeing,False
-1538,TK TK,2016-05-14,shot,gun,,M,,Osteen,FL,False,attack,Not fleeing,False
+1538,Jeffrey Sims,2016-05-14,shot,gun,59,M,,Osteen,FL,False,attack,Not fleeing,False
 1540,Ryan Johnson,2016-05-14,shot and Tasered,gun,34,M,W,Stockbridge,GA,True,undetermined,Not fleeing,False
 1541,Dracy Pendleton,2016-05-15,shot,gun,35,M,W,Shawnee National Forest,IL,False,attack,Foot,False
 1542,Jabril Robinson,2016-05-16,shot,gun,23,M,,Riverdale,GA,False,attack,Foot,False
+1544,TK TK,2016-05-17,shot,undetermined,,,,Siskiyou County,CA,False,undetermined,Not fleeing,False
+1543,TK TK,2016-05-18,shot,knife,46,M,W,New York,NY,False,other,Not fleeing,False
