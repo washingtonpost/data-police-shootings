@@ -1356,3 +1356,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1545,Joseph Weatherby,2016-05-18,shot,gun,44,M,W,Sullivan,MO,False,attack,Other,False
 1546,TK TK,2016-05-18,shot,gun,,M,,Phoenix,AZ,False,attack,Not fleeing,False
 1547,Jeremias Cruz,2016-05-19,shot,undetermined,30,M,,Las Vegas,NV,False,attack,Not fleeing,False
+1548,TK TK,2016-05-19,shot,unarmed,27,F,B,San Francisco,CA,False,undetermined,Car,False
+1549,TK TK,2016-05-19,shot,knife,,M,,Citrus Heights,CA,False,other,Not fleeing,False
+1550,Timothy Brandon Stacy,2016-05-19,shot,gun,36,M,W,Fisty,KY,False,attack,Not fleeing,False
+1551,Kentrill William Carraway,2016-05-19,shot,gun,22,M,,Miami,FL,False,attack,Not fleeing,False
