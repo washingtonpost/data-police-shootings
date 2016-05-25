@@ -1364,9 +1364,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1552,Norman Campbell,2016-05-21,shot,gun,63,M,,Chesterfield County,SC,False,attack,Not fleeing,False
 1553,Travis Moore,2016-05-21,shot,undetermined,38,M,W,Oregon City,OR,False,other,Not fleeing,False
 1556,Mark Nelson,2016-05-21,shot,gun,31,M,,Flagstaff,AZ,True,attack,Not fleeing,False
-1554,Michael Eugene Wilson Jr.,2016-05-22,shot,undetermined,27,M,B,Hallandale Beach,FL,False,other,Car,False
+1554,Michael Eugene Wilson Jr.,2016-05-22,shot,undetermined,27,M,B,Hallandale Beach,FL,False,other,Car,True
 1555,Jorge Zambrano,2016-05-22,shot,gun,35,M,H,Oxford,MA,False,attack,Not fleeing,False
 1562,Vernell Bing,2016-05-22,shot,unarmed,22,M,B,Jacksonville,FL,False,undetermined,Car,False
 1563,Bryson Fischer,2016-05-22,shot,gun,28,M,W,Boulder,CO,False,attack,Not fleeing,False
 1560,Verl Bedonie,2016-05-23,shot,gun,26,M,N,Flagstaff,AZ,False,attack,Foot,False
 1561,TK TK,2016-05-24,shot,undetermined,22,M,,Gresham,OR,False,undetermined,,False
+1564,TK TK,2016-05-24,shot,undetermined,,M,,Harrisonville,MO,False,other,Car,True
