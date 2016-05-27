@@ -1372,5 +1372,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1561,Bodhi Wilson Dean Phelps,2016-05-24,shot,undetermined,22,M,W,Gresham,OR,False,undetermined,,False
 1564,TK TK,2016-05-24,shot,undetermined,,M,,Harrisonville,MO,False,other,Car,True
 1567,Mario Montoya,2016-05-24,shot,gun,31,M,H,Albuquerque,NM,False,attack,Foot,False
-1565,TK TK,2016-05-25,shot,knife,,M,,Oklahoma City,OK,False,other,Not fleeing,False
-1566,TK TK,2016-05-25,shot,vehicle,,M,,Miami Gardens,FL,False,other,Car,False
+1565,Derek Prophet,2016-05-25,shot,knife,43,M,,Oklahoma City,OK,False,other,Not fleeing,False
+1566,Doll Pierre Louis,2016-05-25,shot,vehicle,24,M,B,Miami Gardens,FL,False,other,Car,False
+1568,"Eugene ""Geno"" Smith",2016-05-26,shot,gun,,M,,St. Paul,MN,False,attack,Not fleeing,False
+1569,Warren Christian,2016-05-26,shot,gun,43,M,,Lansing,MI,False,attack,Foot,False
+1570,TK Tk,2016-05-26,shot,gun,,,,San Antonio,TX,False,attack,Not fleeing,False
+1571,Devonte Gates,2016-05-26,shot,undetermined,21,M,B,St. Louis,MO,False,undetermined,Foot,False
+1572,Fernando Castro,2016-05-26,shot,gun,19,M,H,Solvang,CA,False,attack,Car,False
