@@ -1375,7 +1375,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1565,Derek Prophet,2016-05-25,shot,knife,43,M,,Oklahoma City,OK,False,other,Not fleeing,False
 1566,Doll Pierre Louis,2016-05-25,shot,vehicle,24,M,B,Miami Gardens,FL,False,other,Car,False
 1568,"Eugene ""Geno"" Francis Smith",2016-05-26,shot,gun,29,M,,St. Paul,MN,False,attack,Not fleeing,False
-1569,Warren Christian,2016-05-26,shot,gun,43,M,,Lansing,MI,False,attack,Foot,False
+1569,Warren Christian,2016-05-26,shot,gun,43,M,,Lansing,IL,False,attack,Foot,False
 1570,TK Tk,2016-05-26,shot,gun,,,,San Antonio,TX,False,attack,Not fleeing,False
 1571,Devonte Gates,2016-05-26,shot,undetermined,21,M,B,Washington Park,IL,False,undetermined,Foot,False
 1572,Fernando Castro,2016-05-26,shot,gun,19,M,H,Solvang,CA,False,attack,Car,False
+1581,Tk Tk,2016-05-26,shot,knife,,F,,Sneads,FL,False,other,Not fleeing,False
+1583,TK TK,2016-05-26,shot,gun,,M,,Socorro,NM,False,attack,Car,False
+1580,Terry Edwards,2016-05-27,shot,gun,59,M,,Indianapolis,IN,False,attack,Not fleeing,False
+1576,TK TK,2016-05-28,shot,gun,,M,,Eastaboga,AL,False,attack,Not fleeing,False
+1582,Dennis Humphrey,2016-05-28,shot,gun,58,M,,Albuquerque,NM,False,undetermined,Not fleeing,False
+1573,Dionisio Garza III,2016-05-29,shot,gun,25,M,H,Houston,TX,True,attack,Not fleeing,False
+1577,Donald Edward Brown III,2016-05-29,beaten,knife,32,M,,Deland,FL,False,other,Not fleeing,False
+1578,John Coffey,2016-05-29,shot,gun,53,M,,Clinton,NC,False,other,Not fleeing,True
+1579,Todd Brent Burroughs,2016-05-29,shot,unarmed,38,M,W,Stoneville,NC,False,other,Car,False
+1574,Robert Wickizer,2016-05-30,shot,gun,70,M,,Tualatin,OR,False,attack,Not fleeing,False
+1575,Osee Calix,2016-05-30,shot,gun,33,M,H,Tucson,AZ,False,attack,Not fleeing,False
