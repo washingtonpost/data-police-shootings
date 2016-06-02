@@ -1380,7 +1380,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1571,Devonte Gates,2016-05-26,shot,undetermined,21,M,B,Washington Park,IL,False,undetermined,Foot,False
 1572,Fernando Castro,2016-05-26,shot,gun,19,M,H,Solvang,CA,False,attack,Car,False
 1581,Tk Tk,2016-05-26,shot,knife,,F,,Sneads,FL,False,other,Not fleeing,False
-1583,TK TK,2016-05-26,shot,gun,,M,,Socorro,NM,False,attack,Car,False
+1583,Angel Daniel Navarro,2016-05-26,shot,gun,25,M,,Socorro,NM,False,attack,Car,False
 1580,Terry Edwards,2016-05-27,shot,gun,59,M,,Indianapolis,IN,False,attack,Not fleeing,False
 1576,TK TK,2016-05-28,shot,gun,,M,,Eastaboga,AL,False,attack,Not fleeing,False
 1582,Dennis Humphrey,2016-05-28,shot,gun,58,M,,Albuquerque,NM,False,attack,Not fleeing,False
@@ -1392,3 +1392,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1575,Osee Calix,2016-05-30,shot,gun,33,M,H,Tucson,AZ,False,attack,Not fleeing,False
 1585,Nicholas Berger,2016-05-31,shot,knife,36,M,,Bend,OR,False,undetermined,Not fleeing,False
 1584,TK TK,2016-06-01,shot,gun,,M,,Phoenix,AZ,False,other,Not fleeing,False
+1586,Michael Johnson,2016-06-01,shot,gun,,,,Newnan,GA,False,attack,Foot,False
+1587,Daniel Pigg,2016-06-01,shot,gun,51,M,W,Berea,KY,False,attack,Foot,False
