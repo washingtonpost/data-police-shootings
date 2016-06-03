@@ -1372,7 +1372,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1561,Bodhi Wilson Dean Phelps,2016-05-24,shot,undetermined,22,M,W,Gresham,OR,False,undetermined,,False
 1564,TK TK,2016-05-24,shot,undetermined,,M,,Harrisonville,MO,False,other,Car,True
 1567,Mario Montoya,2016-05-24,shot,gun,31,M,H,Albuquerque,NM,False,attack,Foot,False
-1565,Derek Prophet,2016-05-25,shot,knife,43,M,,Oklahoma City,OK,False,other,Not fleeing,False
+1565,Derek Prophet,2016-05-25,shot,knife,43,M,W,Oklahoma City,OK,False,other,Not fleeing,False
 1566,Doll Pierre Louis,2016-05-25,shot,vehicle,24,M,B,Miami Gardens,FL,False,other,Car,False
 1568,"Eugene ""Geno"" Francis Smith",2016-05-26,shot,gun,29,M,,St. Paul,MN,False,attack,Not fleeing,False
 1569,Warren Christian,2016-05-26,shot,gun,43,M,,Lansing,IL,False,attack,Foot,False
@@ -1386,11 +1386,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1582,Dennis Humphrey,2016-05-28,shot,gun,58,M,,Albuquerque,NM,False,attack,Not fleeing,False
 1573,Dionisio Augustine Garza III,2016-05-29,shot,gun,25,M,H,Houston,TX,True,attack,Not fleeing,False
 1577,Donald Edward Brown III,2016-05-29,beaten,knife,32,M,W,Deland,FL,False,other,Not fleeing,False
-1578,John Mark Coffey,2016-05-29,shot,gun,53,M,,Clinton,NC,False,other,Not fleeing,True
+1578,John Mark Coffey,2016-05-29,shot,gun,53,M,W,Clinton,NC,False,other,Not fleeing,True
 1579,Todd Brent Burroughs,2016-05-29,shot,unarmed,38,M,W,Stoneville,NC,False,other,Car,False
-1574,Robert Wickizer,2016-05-30,shot,gun,70,M,,Tualatin,OR,False,attack,Not fleeing,False
-1575,Osee Calix,2016-05-30,shot,gun,33,M,H,Tucson,AZ,False,attack,Not fleeing,False
-1585,Nicholas Berger,2016-05-31,shot,knife,36,M,,Bend,OR,False,undetermined,Not fleeing,False
+1574,Robert Wickizer,2016-05-30,shot,gun,70,M,W,Tualatin,OR,False,attack,Not fleeing,False
+1575,Osee Calix,2016-05-30,shot,gun,33,M,B,Tucson,AZ,False,attack,Not fleeing,False
+1585,Nicholas Berger,2016-05-31,shot,knife,36,M,W,Bend,OR,False,undetermined,Not fleeing,False
 1584,TK TK,2016-06-01,shot,gun,,M,,Phoenix,AZ,False,other,Not fleeing,False
-1586,Michael Johnson,2016-06-01,shot,gun,,,,Newnan,GA,False,attack,Foot,False
+1586,Michael Johnson,2016-06-01,shot,gun,21,M,B,Newnan,GA,False,attack,Foot,False
 1587,Daniel Pigg,2016-06-01,shot,gun,51,M,W,Berea,KY,False,attack,Foot,False
+1588,WIllie Jones,2016-06-02,shot,knife,43,M,B,Norfolk,VA,True,other,Not fleeing,True
+1589,Rodney Rodriguez Smith,2016-06-02,shot,gun,18,M,B,Charlotte,NC,False,attack,Not fleeing,False
