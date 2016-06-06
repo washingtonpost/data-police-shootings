@@ -1392,12 +1392,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1575,Osee Calix,2016-05-30,shot,gun,33,M,B,Tucson,AZ,False,attack,Not fleeing,False
 1585,Nicholas Berger,2016-05-31,shot,knife,36,M,W,Bend,OR,False,undetermined,Not fleeing,False
 1584,TK TK,2016-06-01,shot,gun,,M,,Phoenix,AZ,False,other,Not fleeing,False
-1586,Michael Johnson,2016-06-01,shot,gun,21,M,B,Newnan,GA,False,attack,Foot,False
+1586,Michael Johnson,2016-06-01,shot,gun,21,M,B,Newnan,GA,False,attack,Foot,True
 1587,Daniel Pigg,2016-06-01,shot,gun,51,M,W,Berea,KY,False,attack,Foot,False
-1588,Willie James,2016-06-02,shot,knife,43,M,B,Norfolk,VA,True,other,Not fleeing,True
+1588,Willie Demetrius James,2016-06-02,shot,knife,43,M,B,Norfolk,VA,True,other,Not fleeing,True
 1589,Rodney Rodriguez Smith,2016-06-02,shot,gun,18,M,B,Charlotte,NC,False,attack,Not fleeing,False
 1590,Joshua Smith,2016-06-03,shot,knife,33,M,,Wasilla,AK,False,other,Not fleeing,False
 1591,TK TK,2016-06-03,shot,knife,,M,,Parker,AZ,False,other,Not fleeing,False
 1592,TK TK,2016-06-04,shot,undetermined,,M,,Yreka,CA,False,other,Not fleeing,False
-1594,Demarco Rhymes,2016-06-04,shot,gun,35,M,B,Eufala,AL,False,attack,Other,False
+1594,Demarco Rhymes,2016-06-04,shot,gun,35,M,B,Eufaula,AL,False,attack,Other,False
 1593,TK TK,2016-06-05,shot,gun,,M,,Cape Coral,FL,False,other,Car,False
