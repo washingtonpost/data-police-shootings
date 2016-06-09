@@ -1398,9 +1398,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1589,Rodney Rodriguez Smith,2016-06-02,shot,gun,18,M,B,Charlotte,NC,False,attack,Not fleeing,False
 1590,Joshua Smith,2016-06-03,shot,knife,33,M,,Wasilla,AK,False,other,Not fleeing,False
 1591,TK TK,2016-06-03,shot,knife,,M,,Parker,AZ,False,other,Not fleeing,False
-1592,TK TK,2016-06-04,shot,undetermined,,M,,Yreka,CA,False,other,Not fleeing,False
+1592,Daniel Jonathan Shaham,2016-06-04,shot,undetermined,31,M,,Yreka,CA,False,other,Not fleeing,False
 1594,Demarco Rhymes,2016-06-04,shot,gun,35,M,B,Eufaula,AL,False,attack,Other,False
+1598,Larry Dustin Stepp,2016-06-04,shot,knife,31,M,,Muncie,IN,True,undetermined,Not fleeing,False
 1593,Christopher Michael Moran,2016-06-05,shot,gun,31,M,W,Cape Coral,FL,False,other,Car,False
-1595,Henry Green,2016-06-06,shot,gun,23,M,,Columbus,OH,False,attack,Not fleeing,False
-1597,Kalyp Allen Rapoza,2016-06-06,shot,knife,25,M,,Hilo,HI,False,other,Not fleeing,False
-1596,Andrew Henson,2016-06-07,shot,undetermined,25,M,,Wagoner,OK,False,other,Car,True
+1595,Henry Green,2016-06-06,shot,gun,23,M,B,Columbus,OH,False,attack,Not fleeing,False
+1597,Kalyp Allen Rapoza,2016-06-06,shot,knife,25,M,O,Hilo,HI,False,other,Not fleeing,False
+1596,Andrew Henson,2016-06-07,shot,undetermined,25,M,W,Wagoner,OK,False,other,Car,True
+1599,Omar Villagomez,2016-06-07,shot,undetermined,21,M,,Turlock,CA,False,undetermined,Not fleeing,False
+1601,Willis N. Walker,2016-06-07,shot,gun,49,M,B,Norman,VA,False,other,Not fleeing,False
+1602,TK TK,2016-06-08,shot,gun,,M,,Kansas City,MO,False,attack,Not fleeing,False
