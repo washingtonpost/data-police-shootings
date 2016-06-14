@@ -1423,3 +1423,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1609,Daniel Bennett Edwards,2016-06-12,shot,knife,23,,,Eagle Mountain,UT,True,other,Not fleeing,False
 1617,John Williams,2016-06-12,shot,gun,61,M,B,Hiseville,KY,False,attack,Car,False
 1610,Frank Anthony Kelley,2016-06-13,shot,gun,38,M,,Grand Rapids,MI,False,other,Foot,False
+1619,Joshua Sciscm,2016-06-13,shot,gun,33,M,,Schenectady,NY,False,attack,Not fleeing,False
+1620,Michael Moore,2016-06-13,shot,undetermined,18,M,,Mobile,AL,False,undetermined,Not fleeing,False
+1621,TK TK,2016-06-13,shot,gun,,M,,Tiverton,RI,False,undetermined,Car,False
+1618,TK TK,2016-06-14,shot,undetermined,,M,,Boise,ID,False,other,Car,True
