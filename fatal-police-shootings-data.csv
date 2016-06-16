@@ -1425,9 +1425,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1610,Frank Anthony Kelley,2016-06-13,shot,gun,38,M,,Grand Rapids,MI,False,other,Foot,False
 1619,Joshua Sciscm,2016-06-13,shot,gun,33,M,,Schenectady,NY,False,attack,Not fleeing,False
 1620,Michael Moore,2016-06-13,shot,undetermined,18,M,,Mobile,AL,False,undetermined,Not fleeing,False
-1621,TK TK,2016-06-13,shot,gun,,M,,Tiverton,RI,False,undetermined,Car,False
-1623,Kenneth Allen Pointer,2016-06-13,shot,gun,43,M,W,Vancouver,WA,False,attack,Car,False
-1618,TK TK,2016-06-14,shot,undetermined,,M,,Boise,ID,False,other,Car,True
-1622,Nicolas Ferro,2016-06-14,shot,gun,47,M,,Odessa,MO,False,attack,Not fleeing,False
+1621,Edward Acquisto,2016-06-13,shot,gun,80,M,,Tiverton,RI,False,undetermined,Car,False
+1623,Kenneth Allen Pointer,2016-06-13,shot,undetermined,43,M,W,Vancouver,WA,False,undetermined,Car,False
+1618,Noel Rodriguez,2016-06-14,shot,undetermined,50,M,,Boise,ID,False,other,Car,True
+1622,Nicholas Ferro,2016-06-14,shot,gun,47,M,,Odessa,MO,False,attack,Not fleeing,False
 1624,Mohammad Moghaddam,2016-06-14,shot,gun,54,M,O,Amarillo,TX,False,attack,Not fleeing,False
 1625,TK TK,2016-06-14,shot,undetermined,,M,,Chula Vista,CA,False,other,Not fleeing,False
