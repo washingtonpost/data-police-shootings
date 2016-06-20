@@ -1435,3 +1435,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1626,Russell Rosser,2016-06-15,shot,vehicle,43,M,W,Tulsa,OK,False,undetermined,Car,False
 1627,Michael Rasmussen,2016-06-15,shot,gun,38,M,,Pembine,WI,True,attack,Car,False
 1628,Peter Grandpre,2016-06-16,shot,gun,36,M,,Butte,MT,False,attack,Not fleeing,True
+1629,TK TK,2016-06-16,shot,vehicle,,M,,Westminster,CO,False,attack,Car,False
+1630,TK TK,2016-06-16,shot,gun,,M,,Montpelier,OH,True,other,Not fleeing,False
