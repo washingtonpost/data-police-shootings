@@ -1275,7 +1275,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1456,Dion Daman,2016-04-12,shot,unarmed,40,M,W,Denver,CO,False,other,Car,False
 1457,Joshua Moreno,2016-04-12,shot,gun,38,M,H,Benton,IL,False,attack,Car,False
 1458,Travis Wood,2016-04-12,shot,vehicle,20,M,W,Noma,FL,False,other,Car,True
-1459,Rodney Watts,2016-04-13,shot,unarmed,35,M,B,Stockton,CA,False,attack,Not fleeing,False
+1459,Rodney Watts,2016-04-13,shot,undetermined,35,M,B,Stockton,CA,False,attack,Not fleeing,False
 1460,Jeffrey Gray Wise,2016-04-13,shot,gun,52,M,W,Llano,TX,False,attack,Not fleeing,False
 1462,Koltlee Whitson,2016-04-13,shot,gun,26,M,W,Sparta,TN,False,attack,Car,False
 1463,Jeff Robertson,2016-04-14,shot and Tasered,unarmed,54,M,,McPherson,KS,True,attack,Not fleeing,False
@@ -1454,16 +1454,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1651,Shaun Trevor Walke,2016-06-22,shot,gun,31,M,,Bellville,TX,False,attack,Not fleeing,True
 1648,Jay Anderson,2016-06-23,shot,gun,25,M,,Wauwatosa,WI,False,other,Not fleeing,False
 1649,TK TK,2016-06-23,shot,gun,,M,,Belleville,IL,False,attack,Foot,False
+1662,Josh Herrera,2016-06-23,shot,gun,29,M,,Hanover,NM,False,undetermined,Not fleeing,False
 1650,Ismael Miranda,2016-06-24,shot,gun,36,M,,Paterson,NJ,False,attack,Not fleeing,False
 1657,Randy Blecher,2016-06-24,shot,gun,50,M,,Farmington,AR,False,attack,Not fleeing,False
 1658,Christy Sheats,2016-06-24,shot,gun,42,F,W,Fulshear,TX,True,other,Not fleeing,False
 1660,Miguel Angel Chavez-Angles,2016-06-24,shot,gun,42,M,H,Oklahoma City,OK,False,other,Not fleeing,False
-1662,Josh Herrera,2016-06-24,shot,gun,29,M,,Hanover,NM,False,undetermined,Not fleeing,False
-1653,Dylan Nobles,2016-06-25,shot,unarmed,19,M,,Fresno,CA,False,other,Car,False
+1653,Dylan Nobles,2016-06-25,shot,unarmed,19,M,,Fresno,CA,True,other,Car,True
 1654,Waldemar Bogusiewicz,2016-06-25,shot,gun,59,M,W,Pinellas Park,FL,False,attack,Not fleeing,False
-1661,Rodrogio Guardiola,2016-06-25,shot,unarmed,36,M,H,Gainesville,GA,False,other,Other,False
-1664,TK TK,2016-06-25,shot,gun,,M,,Buckeye,AZ,False,attack,Not fleeing,False
-1655,Terry Mauer,2016-06-26,shot,baseball bat,51,M,,Columbia Township,MI,False,attack,Not fleeing,False
+1661,Rodrigo Guardiola,2016-06-25,shot and Tasered,unarmed,36,M,H,Gainesville,GA,False,other,Other,False
+1664,William Ferguson,2016-06-25,shot,gun,,M,,Buckeye,AZ,False,attack,Not fleeing,False
+1655,Terry Mauer,2016-06-26,shot,baseball bat,51,M,,Columbia Township,MI,True,attack,Not fleeing,False
 1656,Daniel Reyes,2016-06-26,shot,knife,27,M,,Thomaston,CT,False,other,Not fleeing,False
 1659,Germichael Kennedy,2016-06-26,shot,gun,22,M,,Lincoln,NE,False,attack,Foot,False
-1663,Donte Johnson,2016-06-26,shot,gun,30,M,,Dolton,IL,False,attack,Not fleeing,False
+1663,Donte L. Johnson,2016-06-26,shot,gun,30,M,,Dolton,IL,False,attack,Not fleeing,False
