@@ -1008,7 +1008,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1157,Eric C. Olsen,2016-01-08,shot,knife,26,M,W,Geneva,WI,False,other,Not fleeing,False
 1158,Andrew Earl Abernathy,2016-01-08,shot,gun,50,M,W,Acworth,GA,True,attack,Not fleeing,False
 1156,David Jay Kent,2016-01-10,shot,chain saw,37,M,W,Kelso,WA,True,other,Not fleeing,False
-1159,Christine A. Lucas,2016-01-10,shot,toy weapon,45,F,B,Rising Sun,MD,True,attack,Not fleeing,False
+1159,Christine A. Lucas,2016-01-10,shot,toy weapon,45,F,W,Rising Sun,MD,True,attack,Not fleeing,False
 1162,TK TK,2016-01-11,shot,vehicle,,M,,San Fernando,CA,False,attack,Car,False
 1163,Robert Tenbrink,2016-01-11,shot,toy weapon,45,M,W,Cincinnati,OH,True,attack,Foot,False
 1164,Ramone Lonergan,2016-01-11,shot,gun,32,M,W,Denver,CO,False,other,Not fleeing,False
@@ -1186,7 +1186,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1515,Teodoro Valencia,2016-03-11,shot,gun,23,M,H,Newark,CA,False,attack,Foot,False
 1357,Peter Gaines,2016-03-12,shot and Tasered,unarmed,37,M,B,Houston,TX,False,other,Foot,False
 1365,Marco Loud,2016-03-12,shot and Tasered,unarmed,20,M,B,Houston,TX,False,attack,Not fleeing,False
-1476,Christopher Michael Tokazowski,2016-03-12,shot,gun,43,M,W,Greensboro,NC,False,attack,Not fleeing,True
+1476,Christopher Michael Tokazowski,2016-03-12,shot,gun,43,M,W,Greensboro,NC,True,attack,Not fleeing,True
 1356,Gevork Alachadzhyan,2016-03-13,shot,vehicle,45,M,W,Glendale,CA,True,attack,Car,False
 1358,Jose Raul Cruz,2016-03-13,shot,undetermined,16,M,H,Addison,TX,False,undetermined,Not fleeing,False
 1359,Joshua Grubb,2016-03-13,shot,unarmed,30,M,W,Lenoir City,TN,False,other,Car,True
@@ -1301,7 +1301,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1483,Demarcus Semer,2016-04-23,shot,vehicle,21,M,B,Fort Pierce,FL,False,attack,Car,False
 1486,Mitchell Oakley,2016-04-23,shot,gun,24,M,W,Chandler,AZ,True,attack,Not fleeing,False
 1487,Jakob E. Wagner,2016-04-23,shot,gun,18,M,W,Antigo,WI,False,attack,Not fleeing,False
-1488,Eric C. Wakup,2016-04-23,shot,gun,30,M,W,Norfolk,VA,False,attack,Not fleeing,False
+1488,Eric C. Wakup,2016-04-23,shot,gun,30,M,W,Norfolk,VA,True,attack,Not fleeing,False
 1527,Willie Tillman,2016-04-23,shot and Tasered,vehicle,33,M,B,Fayetteville,AR,False,other,Car,False
 1489,Kay Frances Campbell,2016-04-25,shot,gun,60,F,W,East Flat Rock,NC,True,attack,Not fleeing,False
 1490,Robin Barber,2016-04-26,shot,gun,28,M,W,Lakewood,CO,False,attack,Foot,False
@@ -1363,7 +1363,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1559,Joshua Beebee,2016-05-20,shot,knife,31,M,B,Omaha,NE,False,other,Foot,True
 1552,Norman Campbell,2016-05-21,shot,gun,63,M,,Chesterfield County,SC,False,attack,Not fleeing,False
 1553,Travis Moore,2016-05-21,shot,undetermined,38,M,W,Oregon City,OR,True,other,Not fleeing,False
-1556,Mark Nelson,2016-05-21,shot,gun,31,M,N,Flagstaff,AZ,True,attack,Not fleeing,False
+1556,Mark Nelson,2016-05-21,shot,gun,31,M,N,Flagstaff,AZ,True,attack,Not fleeing,True
 1554,Michael Eugene Wilson Jr.,2016-05-22,shot,undetermined,27,M,B,Hallandale Beach,FL,False,other,Car,True
 1555,Jorge Zambrano,2016-05-22,shot,gun,35,M,H,Oxford,MA,False,attack,Not fleeing,False
 1562,Vernell Bing,2016-05-22,shot,unarmed,22,M,B,Jacksonville,FL,False,undetermined,Car,False
@@ -1467,3 +1467,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1656,Daniel Reyes,2016-06-26,shot,knife,27,M,,Thomaston,CT,False,other,Not fleeing,False
 1659,Germichael Kennedy,2016-06-26,shot,gun,22,M,,Lincoln,NE,False,attack,Foot,False
 1663,Donte L. Johnson,2016-06-26,shot,gun,30,M,,Dolton,IL,False,attack,Not fleeing,False
+1665,Michael Disbrowe,2016-06-27,shot,gun,28,M,W,Boone,IA,False,attack,Not fleeing,False
+1666,Sherman Evans,2016-06-27,shot,toy weapon,63,M,B,Washington,DC,False,attack,Not fleeing,False
+1667,Blake Peacock,2016-06-27,shot,gun,32,M,,Cochran,GA,False,attack,Not fleeing,False
+1668,TK TK,2016-06-27,shot,gun,,M,,Laguna Pueblo,NM,False,attack,Not fleeing,False
+1669,TK TK,2016-06-27,shot,gun,25,M,,Frederica,DE,False,other,Car,False
