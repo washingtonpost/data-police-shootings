@@ -1310,15 +1310,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1493,Darrel S. Machemehl,2016-04-26,shot,gun,44,M,W,Kingsbury,TX,False,other,Other,False
 1494,Cin Lam Mung,2016-04-27,shot,machete,34,M,A,Atlanta,GA,False,other,Not fleeing,False
 1495,Damon Blair,2016-04-27,shot,gun,21,M,W,Westminster,CO,False,attack,Not fleeing,False
-1498,Kendar del Rosario,2016-04-28,shot,knife,37,M,B,Miami,FL,False,undetermined,Not fleeing,False
+1498,Kendar del Rosario,2016-04-28,shot,knife,37,M,B,Miami,FL,False,attack,Not fleeing,False
 1499,Lee Easter,2016-04-28,shot,gun,53,M,W,Boise,ID,True,attack,Not fleeing,True
-1500,Michael Kurtz,2016-04-28,shot and Tasered,knife,45,M,W,Spokane,WA,False,undetermined,Not fleeing,True
-1501,TK TK,2016-04-28,shot,undetermined,,M,,Houston,TX,False,attack,Car,False
-1506,Jeffrey Darrell Hobbs,2016-04-29,shot,vehicle,48,M,W,Jackson,MO,False,attack,Car,False
+1500,Michael Kurtz,2016-04-28,shot and Tasered,knife,45,M,W,Spokane,WA,True,other,Not fleeing,True
+1501,Ashtain Barnes,2016-04-28,shot,undetermined,24,M,B,Houston,TX,False,attack,Car,False
+1506,Jeffrey Darrell Hobbs,2016-04-29,shot,unarmed,48,M,W,Jackson,MO,False,attack,Car,False
 1504,Oswald Mattner,2016-04-30,shot,knife,42,M,W,Wausau,WI,False,other,Not fleeing,False
 1505,Mark Daniel Bess,2016-04-30,shot,knife,33,M,W,Spanish Fork,UT,False,other,Foot,False
 1507,Bender Dass,2016-04-30,shot,vehicle,55,M,W,Florence,AZ,False,attack,Car,False
-1508,TK TK,2016-04-30,shot,knife,,M,,Los Angeles,CA,False,other,Not fleeing,False
+1508,Marion Habana,2016-04-30,shot,knife,28,M,A,Los Angeles,CA,False,other,Not fleeing,False
 1502,Charlin Charles,2016-05-01,shot,toy weapon,25,M,B,Orlando,FL,False,attack,Not fleeing,False
 1503,Ronald Branch,2016-05-01,shot,gun,28,M,W,Alamo,TN,True,other,Not fleeing,False
 1510,Raymond Hopper,2016-05-03,shot,knife,59,M,W,Visalia,CA,False,other,Not fleeing,False
@@ -1471,6 +1471,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1666,Sherman Evans,2016-06-27,shot,toy weapon,63,M,B,Washington,DC,False,attack,Not fleeing,False
 1667,Blake Peacock,2016-06-27,shot,gun,32,M,,Cochran,GA,False,attack,Not fleeing,False
 1668,TK TK,2016-06-27,shot,gun,,M,,Laguna Pueblo,NM,False,attack,Not fleeing,False
-1669,TK TK,2016-06-27,shot,gun,25,M,,Frederica,DE,False,other,Car,False
+1669,Raymond Hutson,2016-06-27,shot,toy weapon,25,M,,Frederica,DE,False,other,Car,False
 1670,TK TK,2016-06-28,shot,knife,,M,,Long Beach,CA,False,other,Foot,False
-1671,Walden Deng,2016-06-28,shot,knife,,M,,Honolulu,HI,False,attack,Not fleeing,False
+1671,Walden Dang,2016-06-28,shot,knife,61,M,,Honolulu,HI,False,attack,Not fleeing,False
