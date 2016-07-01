@@ -1376,7 +1376,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1566,Doll Pierre Louis,2016-05-25,shot,vehicle,24,M,B,Miami Gardens,FL,False,other,Car,False
 1568,"Eugene ""Geno"" Francis Smith",2016-05-26,shot,gun,29,M,W,St. Paul,MN,False,attack,Not fleeing,False
 1569,Warren Christian,2016-05-26,shot,gun,43,M,W,Lansing,IL,False,attack,Foot,False
-1570,TK Tk,2016-05-26,shot,gun,,,,San Antonio,TX,False,attack,Not fleeing,False
+1570,TK Tk,2016-05-26,shot,gun,,M,,San Antonio,TX,False,other,Not fleeing,False
 1571,Devonte Gates,2016-05-26,shot,undetermined,21,M,B,Washington Park,IL,False,undetermined,Foot,False
 1572,Fernando Castro,2016-05-26,shot,gun,19,M,H,Solvang,CA,False,attack,Car,False
 1581,Tk Tk,2016-05-26,shot,knife,,F,,Sneads,FL,False,other,Not fleeing,False
@@ -1474,10 +1474,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1669,Raymond Hutson,2016-06-27,shot,toy weapon,25,M,W,Frederica,DE,False,other,Car,False
 1670,TK TK,2016-06-28,shot,knife,,M,,Long Beach,CA,False,other,Foot,False
 1671,Walden Dang,2016-06-28,shot,knife,61,M,,Honolulu,HI,False,attack,Not fleeing,False
-1672,Jessie Mills,2016-06-29,shot,undetermined,30,M,,Barbourville,KY,False,other,Not fleeing,False
+1672,Jessie J. Mills,2016-06-29,shot,undetermined,30,M,W,Barbourville,KY,False,other,Not fleeing,False
 1673,Tyrone Reado,2016-06-29,shot,gun,,M,B,Ouachita Parish,LA,False,attack,Not fleeing,False
 1674,TK Tk,2016-06-29,shot,gun,,M,B,Fort Madison,IA,False,attack,Foot,False
 1675,TK TK,2016-06-29,shot,pitchfork,,M,,Madison,WI,False,other,Not fleeing,False
-1678,Scott Ramirez,2016-06-29,shot,undetermined,,M,,Douglas,WY,False,undetermined,Not fleeing,False
-1676,TK TK,2016-06-30,shot,gun,25,M,B,Columbus,OH,False,undetermined,,False
+1676,Kawme Dejuan Patrick,2016-06-30,shot,gun,25,M,B,Columbus,OH,False,undetermined,,False
 1677,TK TK,2016-06-30,shot,gun,,M,,Park County,CO,False,attack,Not fleeing,False
+1678,Jasen Scott Ramirez,2016-06-30,shot,undetermined,44,M,,Douglas,WY,False,undetermined,Not fleeing,False
