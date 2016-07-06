@@ -1356,7 +1356,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1545,Joseph Weatherby,2016-05-18,shot,gun,44,M,W,Sullivan,MO,False,attack,Other,False
 1546,Israel Santos-Blancos,2016-05-18,shot,gun,20,M,H,Phoenix,AZ,False,attack,Not fleeing,False
 1547,Jeremias Cruz,2016-05-19,shot,unarmed,30,M,H,Las Vegas,NV,False,attack,Not fleeing,False
-1548,Jessica Williams,2016-05-19,shot,unarmed,27,F,B,San Francisco,CA,False,undetermined,Car,False
+1548,Jessica Nelson-Williams,2016-05-19,shot,unarmed,27,F,B,San Francisco,CA,False,undetermined,Car,False
 1549,Jaime Ide,2016-05-19,shot,knife,35,M,H,Citrus Heights,CA,False,other,Not fleeing,True
 1550,Timothy Brandon Stacy,2016-05-19,shot,gun,36,M,W,Fisty,KY,False,attack,Not fleeing,False
 1551,Kentrill William Carraway,2016-05-19,shot,gun,22,M,B,Miami,FL,False,other,Not fleeing,False
@@ -1493,4 +1493,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1683,TK TK,2016-07-04,shot,gun,,M,,Washington,DC,False,other,Not fleeing,False
 1685,TK TK,2016-07-04,shot,knife,,M,,Rosser,TX,False,other,Not fleeing,False
 1691,Pedro Villanueva,2016-07-04,shot,vehicle,19,M,H,Fullerton,CA,False,other,Not fleeing,False
-1680,Alton Sterling,2016-07-05,shot,undetermined,37,M,B,Baton Rouge,LA,False,undetermined,Not fleeing,True
+1680,Alton Sterling,2016-07-05,shot and Tasered,undetermined,37,M,B,Baton Rouge,LA,False,undetermined,Not fleeing,True
