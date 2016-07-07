@@ -1150,7 +1150,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1315,Greg Gunn,2016-02-25,shot,pole,56,M,B,Montgomery,AL,False,undetermined,Not fleeing,True
 1319,Tristan Conti,2016-02-25,shot,gun,19,M,W,Silver Springs,NV,False,attack,Not fleeing,True
 1320,Cedric Ford,2016-02-25,shot,gun,38,M,B,Hesston,KS,True,attack,Not fleeing,False
-1322,Kionte DeShaun Spencer,2016-02-26,shot,toy weapon,18,M,B,Roanoke,VA,True,other,Not fleeing,False
+1322,Kionte Desean Spencer,2016-02-26,shot,toy weapon,18,M,B,Roanoke,VA,True,other,Not fleeing,False
 1324,Abraham Mitchell Fryer,2016-02-26,shot,unarmed,35,M,W,Rapid Valley,SD,False,attack,Not fleeing,False
 1325,Fernando Hernandez,2016-02-27,shot,gun,23,M,H,San Antonio,TX,False,attack,Car,True
 1321,Nathan Grissom,2016-02-28,shot,gun,41,M,W,Ashville,AL,False,attack,Not fleeing,False
@@ -1467,7 +1467,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1659,Germichael Kennedy,2016-06-26,shot,gun,22,M,B,Lincoln,NE,False,attack,Foot,False
 1663,Donte L. Johnson,2016-06-26,shot,gun,30,M,B,Dolton,IL,False,attack,Not fleeing,False
 1665,Michael Disbrowe,2016-06-27,shot,gun,28,M,W,Boone,IA,False,attack,Not fleeing,False
-1666,Sherman Evans,2016-06-27,shot,toy weapon,63,M,B,Washington,DC,False,attack,Not fleeing,False
+1666,Sherman Evans,2016-06-27,shot,toy weapon,63,M,B,Washington,DC,False,attack,Not fleeing,True
 1667,Blake Peacock,2016-06-27,shot,gun,32,M,W,Cochran,GA,False,attack,Not fleeing,False
 1668,Travis Vierra,2016-06-27,shot,gun,26,M,W,Laguna Pueblo,NM,False,attack,Not fleeing,False
 1669,Raymond Hutson,2016-06-27,shot,toy weapon,25,M,W,Frederica,DE,False,other,Car,False
