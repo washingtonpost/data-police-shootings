@@ -1498,3 +1498,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1695,Melissa Ventura,2016-07-05,shot,knife,24,F,,Yuma,AZ,False,other,Not fleeing,False
 1694,Philando Castile,2016-07-06,shot,undetermined,32,M,B,Falcon Heights,MN,False,other,Not fleeing,False
 1696,TK TK,2016-07-06,shot,gun,,M,,Grady Springs,OK,False,other,Not fleeing,False
+1697,Vinson Ramos,2016-07-07,shot,knife,37,M,H,Bell,CA,False,other,Not fleeing,False
+1698,TK TK,2016-07-07,shot,vehicle,,M,,Clovis,CA,False,other,Car,False
+1699,Ernest Fells,2016-07-07,shot,gun,63,M,,Selma,AL,False,attack,Not fleeing,False
