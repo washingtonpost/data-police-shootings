@@ -1188,7 +1188,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1365,Marco Loud,2016-03-12,shot and Tasered,Taser,20,M,B,Houston,TX,False,attack,Not fleeing,False
 1476,Christopher Michael Tokazowski,2016-03-12,shot,gun,43,M,W,Greensboro,NC,True,attack,Not fleeing,True
 1356,Gevork Alachadzhyan,2016-03-13,shot,vehicle,45,M,W,Glendale,CA,True,attack,Car,False
-1358,Jose Raul Cruz,2016-03-13,shot,unarmed,16,M,H,Addison,TX,False,undetermined,Not fleeing,False
+1358,Jose Raul Cruz,2016-03-13,shot,unarmed,16,M,H,Addison,TX,False,undetermined,Car,False
 1359,Joshua Grubb,2016-03-13,shot,unarmed,30,M,W,Lenoir City,TN,False,other,Car,True
 1360,Wesley Chad Deerman,2016-03-13,shot,gun,26,M,W,Piedmont,AL,False,attack,Car,False
 1361,Keith Montgomery Jr.,2016-03-13,shot,gun,24,M,B,Chester,PA,False,attack,Not fleeing,False
@@ -1411,7 +1411,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1603,William Michael Hollis,2016-06-09,shot,gun,34,M,W,Birmingham,AL,False,attack,Car,False
 1605,James Allen Nickol,2016-06-09,shot,gun,38,M,W,York,PA,False,attack,,False
 1606,John Michael Brisco,2016-06-09,shot,gun,52,M,B,Port Arthur,TX,False,other,Foot,False
-1607,TK TK,2016-06-09,shot,gun,,M,,Ishpeming Township,MI,True,attack,Not fleeing,False
+1607,TK TK,2016-06-09,shot,gun,,M,,Ishpeming Township,MI,True,attack,Not fleeing,True
 1615,TK TK,2016-06-09,shot,baton,,M,,Somerton,AZ,False,other,Not fleeing,False
 1611,Clayton Millsaps,2016-06-10,shot,baseball bat,29,M,W,Iredell County,NC,False,other,Not fleeing,False
 1613,TK TK,2016-06-10,shot,gun,,M,,Pueblo,CO,False,attack,Foot,False
@@ -1487,17 +1487,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1689,Jonathan Lane Justiss,2016-07-02,shot,gun,50,M,W,Bristol,TN,False,attack,Not fleeing,False
 1684,Shannon Labit,2016-07-03,shot,knife,40,M,,New Iberia,LA,True,other,Not fleeing,False
 1690,Raul Saavedra-Vargas,2016-07-03,shot,vehicle,,M,,Reno,NV,False,other,Car,False
-1691,Pedro Villanueva,2016-07-03,shot,vehicle,19,M,H,Fullerton,CA,False,other,Not fleeing,False
+1691,Pedro Villanueva,2016-07-03,shot,vehicle,19,M,H,Fullerton,CA,False,other,Car,False
 1679,William Patterson,2016-07-04,shot,gun,34,M,W,North Charleston,SC,False,attack,Not fleeing,False
 1681,Anthony Nunez,2016-07-04,shot,gun,18,M,H,San Jose,CA,True,other,Not fleeing,False
 1683,Sidney Washington,2016-07-04,shot,gun,21,M,,Washington,DC,False,other,Not fleeing,False
 1685,TK TK,2016-07-04,shot,knife,,M,,Rosser,TX,False,other,Not fleeing,False
 1680,Alton Sterling,2016-07-05,shot and Tasered,undetermined,37,M,B,Baton Rouge,LA,False,undetermined,Not fleeing,True
 1692,Joshua Bolster,2016-07-05,shot,undetermined,29,M,,Salem,OR,False,undetermined,,False
-1693,TK TK,2016-07-05,shot,undetermined,,M,,Temecula,CA,False,other,Car,False
+1693,Sam Newby,2016-07-05,shot,undetermined,49,M,W,Temecula,CA,False,other,Car,False
 1695,Melissa Ventura,2016-07-05,shot,knife,24,F,,Yuma,AZ,False,other,Not fleeing,False
 1694,Philando Castile,2016-07-06,shot,undetermined,32,M,B,Falcon Heights,MN,False,other,Not fleeing,False
 1696,TK TK,2016-07-06,shot,gun,,M,,Grady Springs,OK,False,other,Not fleeing,False
-1697,Vinson Ramos,2016-07-07,shot,knife,37,M,H,Bell,CA,False,other,Not fleeing,False
-1698,TK TK,2016-07-07,shot,vehicle,,M,,Clovis,CA,False,other,Car,False
-1699,Ernest Fells,2016-07-07,shot,gun,63,M,,Selma,AL,False,attack,Not fleeing,False
+1697,Vinson Lee Ramos,2016-07-07,shot,knife,37,M,H,Bell,CA,False,other,Not fleeing,False
+1698,Adam Smith,2016-07-07,shot,vehicle,33,M,,Clovis,CA,False,other,Car,False
+1699,Earnest Fells,2016-07-07,shot,gun,63,M,,Selma,AL,False,attack,Not fleeing,False
