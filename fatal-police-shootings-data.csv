@@ -1521,3 +1521,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1714,Michael Ray Ramsey,2016-07-17,shot and Tasered,screwdriver,43,M,,Tulsa,OK,False,attack,Not fleeing,False
 1717,Jermaine Johnson,2016-07-17,shot,gun,42,M,,New York,NY,False,attack,Not fleeing,False
 1718,Gavin Eugene Long,2016-07-17,shot,gun,29,M,B,Baton Rouge,LA,True,attack,Not fleeing,False
+1721,Jerry Brimer,2016-07-18,shot,ax,56,M,W,Tulsa,OK,True,other,Not fleeing,False
