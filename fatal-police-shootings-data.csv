@@ -1382,7 +1382,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1583,Angel Daniel Navarro,2016-05-26,shot,gun,25,M,H,Socorro,NM,False,attack,Car,False
 1580,Terry Edwards,2016-05-27,shot,gun,59,M,,Indianapolis,IN,False,attack,Not fleeing,False
 1576,TK TK,2016-05-28,shot,gun,,M,,Eastaboga,AL,False,attack,Not fleeing,False
-1582,Dennis Humphrey,2016-05-28,shot,gun,58,M,W,Albuquerque,NM,False,attack,Not fleeing,False
+1582,Dennis Humphreys,2016-05-28,shot,gun,58,M,W,Albuquerque,NM,False,attack,Not fleeing,True
 1573,Dionisio Augustine Garza III,2016-05-29,shot,gun,25,M,H,Houston,TX,True,attack,Not fleeing,False
 1577,Donald Edward Brown III,2016-05-29,beaten,knife,32,M,W,Deland,FL,False,other,Not fleeing,False
 1578,John Mark Coffey,2016-05-29,shot,gun,53,M,W,Clinton,NC,False,attack,Not fleeing,True
@@ -1503,7 +1503,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1699,Earnest Fells,2016-07-07,shot,gun,63,M,,Selma,AL,False,attack,Not fleeing,False
 1700,Abraham Smith,2016-07-08,shot,knife,30,M,,Tucson,AZ,True,other,Not fleeing,False
 1701,Andre Johnson,2016-07-09,shot,gun,40,M,B,Broken Bow,OK,False,attack,Car,False
-1702,Alva Burnett Braziel,2016-07-09,shot,gun,38,M,B,Houston,TX,False,other,Not fleeing,True
+1702,Alva Burnett Braziel,2016-07-10,shot,gun,38,M,B,Houston,TX,False,other,Not fleeing,True
 1703,Joseph Mann,2016-07-11,shot,knife,50,M,B,Sacramento,CA,True,other,Not fleeing,False
 1704,Jason Brooks,2016-07-11,shot,gun,41,M,B,East St. Louis,IL,False,attack,Not fleeing,False
 1705,Pablo Medina,2016-07-11,shot,gun,41,M,,Romulus,MI,False,attack,Not fleeing,False
@@ -1522,3 +1522,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1717,Jermaine Johnson,2016-07-17,shot,gun,42,M,,New York,NY,False,attack,Not fleeing,False
 1718,Gavin Eugene Long,2016-07-17,shot,gun,29,M,B,Baton Rouge,LA,True,attack,Not fleeing,False
 1721,Jerry Brimer,2016-07-18,shot,ax,56,M,W,Tulsa,OK,True,other,Not fleeing,False
+1722,Javier Garcia Gaona,2016-07-20,shot,knife,31,M,H,Santa Maria,CA,True,other,Not fleeing,False
+1723,Derek Love,2016-07-21,shot,gun,50,M,,Chicago,IL,False,attack,Not fleeing,False
+1724,TK TK,2016-07-21,shot,gun,,M,,Hilo,HI,True,attack,Not fleeing,False
+1725,Paul Yacabitis,2016-07-22,shot,gun,50,M,,Buckhannon,WV,False,attack,,False
