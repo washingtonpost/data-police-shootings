@@ -1421,7 +1421,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1608,Omar Mateen,2016-06-12,shot,gun,29,M,O,Orlando,FL,True,attack,Not fleeing,False
 1609,Daniel Bennett Edwards,2016-06-12,shot,knife,23,M,W,Eagle Mountain,UT,True,other,Not fleeing,False
 1617,John Williams,2016-06-12,shot,gun,61,M,B,Hiseville,KY,False,attack,Car,False
-1610,Frank Anthony Kelley,2016-06-13,shot,gun,38,M,,Grand Rapids,MI,False,other,Foot,False
 1619,Joshua Sciscm,2016-06-13,shot,gun,33,M,W,Schenectady,NY,False,attack,Not fleeing,False
 1620,Michael Moore,2016-06-13,shot,gun,18,M,B,Mobile,AL,False,other,Not fleeing,False
 1621,Edward Acquisto,2016-06-13,shot,gun,80,M,H,Tiverton,RI,False,attack,Car,False
@@ -1458,6 +1457,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1657,Randy Blecher,2016-06-24,shot,gun,50,M,W,Farmington,AR,False,attack,Not fleeing,False
 1658,Christy Sheats,2016-06-24,shot,gun,42,F,W,Fulshear,TX,True,attack,Not fleeing,False
 1660,Miguel Angel Chavez-Angles,2016-06-24,shot,gun,42,M,H,Oklahoma City,OK,True,other,Other,False
+1728,Jamil Alejandro Valladares,2016-06-24,shot,gun,26,M,,Riverview,FL,False,attack,Not fleeing,False
 1653,Dylan Nobles,2016-06-25,shot,unarmed,19,M,W,Fresno,CA,True,other,Car,True
 1654,Waldemar Bogusiewicz,2016-06-25,shot,gun,59,M,W,Pinellas Park,FL,False,attack,Not fleeing,False
 1661,Rodrigo Guardiola,2016-06-25,shot and Tasered,unarmed,36,M,H,Gainesville,GA,False,attack,Other,False
@@ -1524,5 +1524,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1721,Jerry Brimer,2016-07-18,shot,ax,56,M,W,Tulsa,OK,True,other,Not fleeing,False
 1722,Javier Garcia Gaona,2016-07-20,shot,knife,31,M,H,Santa Maria,CA,True,other,Not fleeing,False
 1723,Derek Love,2016-07-21,shot,gun,50,M,,Chicago,IL,False,attack,Not fleeing,False
-1724,TK TK,2016-07-21,shot,gun,,M,,Hilo,HI,True,attack,Not fleeing,False
+1724,BJ Medeiros,2016-07-21,shot,gun,36,M,,Hilo,HI,True,attack,Not fleeing,False
 1725,Paul Edward Yacabitis,2016-07-22,shot,gun,50,M,,Buckhannon,WV,False,attack,,False
+1726,Austin Jerry Lee Howard,2016-07-23,shot,knife,49,M,B,Milwaukee,WI,False,attack,Not fleeing,False
+1727,Bernard Wells,2016-07-23,shot,gun,31,M,,Chino,CA,False,attack,Foot,False
+1729,Robert Lee Lourenco,2016-07-24,shot,hatchet and gun,36,M,,Winchester,CA,False,attack,Not fleeing,False
+1730,Alvin R. Sylversmythe,2016-07-24,shot,knife,29,M,,Gallup,NM,False,other,Not fleeing,False
