@@ -1530,3 +1530,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1727,Bernard Wells,2016-07-23,shot,gun,31,M,,Chino,CA,False,attack,Foot,False
 1729,Robert Lee Lourenco,2016-07-24,shot,hatchet and gun,36,M,,Winchester,CA,False,attack,Not fleeing,False
 1730,Alvin R. Sylversmythe,2016-07-24,shot,knife,29,M,,Gallup,NM,False,other,Not fleeing,False
+1731,TK TK,2016-07-25,shot,gun,,M,,Indianapolis,IN,False,attack,Car,False
+1732,TK TK,2016-07-25,shot,gun,,M,,Los Angeles,CA,False,attack,Foot,False
+1733,TK TK,2016-07-26,shot,gun,,M,W,Pine River,WI,False,attack,Car,False
