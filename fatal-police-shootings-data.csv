@@ -826,7 +826,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 970,Bennie Lee Tignor,2015-10-31,shot,unarmed,56,M,B,Opelika,AL,False,other,Car,False
 972,Luverne Roy Christensen,2015-11-01,shot,gun,49,M,W,Hutchinson,MN,False,attack,Not fleeing,False
 973,Killian O'Quinn,2015-11-01,shot,gun,20,M,W,Eureka,CA,False,attack,Not fleeing,False
-974,Jack Yantis,2015-11-01,shot,gun,62,M,W,Council,ID,False,undetermined,Not fleeing,False
+974,Jack Yantis,2015-11-01,shot,gun,62,M,W,Council,ID,False,undetermined,Not fleeing,True
 975,James Covington,2015-11-02,shot,gun,62,M,B,Washington,DC,False,attack,Car,False
 980,Jeremy Mardis,2015-11-03,shot,unarmed,6,M,W,Marksville,LA,False,other,Car,False
 977,Joseph Tyndall,2015-11-04,shot,gun,30,M,W,Springfield,MO,False,attack,Foot,False
@@ -1537,6 +1537,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1735,Devon Martes,2016-07-27,shot,gun,17,M,B,Metairie,LA,False,attack,Foot,False
 1736,Dalvin Collins,2016-07-27,shot,unknown weapon,19,M,B,Tempe,AZ,False,attack,Foot,False
 1738,Alexander D. Jackson,2016-07-27,shot,gun,21,M,,North Webster,IN,False,attack,Not fleeing,False
-1739,TK TK,2016-07-27,shot,knife,,M,,Scottsdale,AZ,False,other,Foot,False
+1739,Dylan Liberti,2016-07-27,shot,knife,24,M,W,Scottsdale,AZ,False,other,Foot,False
 1740,Saddam Trejeda-Campos,2016-07-27,shot,knife,24,M,H,San Bernardino,CA,True,other,Not fleeing,False
+1746,Emil Mecklenburg,2016-07-27,shot,knife,20,M,,Malta,MT,False,attack,Not fleeing,False
 1737,TK TK,2016-07-28,shot,undetermined,,M,,Sparks,NV,False,undetermined,Not fleeing,False
+1741,TK TK,2016-07-28,shot,,,M,,La Quinta,CA,False,other,Car,False
+1742,Paul O'Neal,2016-07-28,shot,vehicle,18,M,B,Chicago,IL,False,other,Car,True
+1743,Jesus Rael,2016-07-28,shot,gun,31,M,H,Tucson,AZ,False,attack,Other,False
+1744,Donnell Thompson,2016-07-28,shot,undetermined,27,M,,Compton,CA,False,attack,Other,False
+1745,Omar Gonzalez,2016-07-28,shot,undetermined,36,M,,City Terrace,CA,False,other,Car,True
