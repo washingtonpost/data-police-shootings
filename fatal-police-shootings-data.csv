@@ -1493,72 +1493,72 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1683,Sidney Washington,2016-07-04,shot,gun,21,M,,Washington,DC,False,attack,Not fleeing,False
 1685,TK TK,2016-07-04,shot,knife,,M,,Rosser,TX,False,other,Not fleeing,False
 1680,Alton Sterling,2016-07-05,shot and Tasered,undetermined,37,M,B,Baton Rouge,LA,False,undetermined,Not fleeing,True
-1692,Joshua Bolster,2016-07-05,shot,undetermined,29,M,,Salem,OR,False,undetermined,,False
+1692,Joshua Bolster,2016-07-05,shot,undetermined,29,M,W,Salem,OR,False,undetermined,,False
 1693,Sam Newby,2016-07-05,shot,undetermined,49,M,W,Temecula,CA,False,other,Car,False
 1695,Melissa Ventura,2016-07-05,shot,knife,24,F,,Yuma,AZ,False,other,Not fleeing,False
 1694,Philando Castile,2016-07-06,shot,undetermined,32,M,B,Falcon Heights,MN,False,other,Not fleeing,False
-1696,Thomas Vandemark,2016-07-06,shot,gun,65,M,,Rush Springs,OK,False,other,Not fleeing,False
+1696,Thomas Vandemark,2016-07-06,shot,gun,65,M,W,Rush Springs,OK,False,other,Not fleeing,False
 1697,Vinson Lee Ramos,2016-07-07,shot,knife,37,M,H,Bell,CA,False,other,Not fleeing,False
 1698,Adam Smith,2016-07-07,shot,vehicle,33,M,,Clovis,CA,False,other,Car,False
-1699,Earnest Fells,2016-07-07,shot,gun,63,M,,Selma,AL,False,attack,Not fleeing,False
-1700,Abraham Smith,2016-07-08,shot,knife,30,M,,Tucson,AZ,True,other,Not fleeing,False
+1699,Earnest Fells,2016-07-07,shot,gun,63,M,B,Selma,AL,False,attack,Not fleeing,False
+1700,Abraham Smith,2016-07-08,shot,knife,30,M,W,Tucson,AZ,True,other,Not fleeing,False
 1701,Andre Johnson,2016-07-09,shot,gun,40,M,B,Broken Bow,OK,False,attack,Car,False
 1702,Alva Burnett Braziel,2016-07-10,shot,gun,38,M,B,Houston,TX,False,other,Not fleeing,True
 1703,Joseph Mann,2016-07-11,shot,knife,50,M,B,Sacramento,CA,True,other,Not fleeing,False
 1704,Jason Brooks,2016-07-11,shot,gun,41,M,B,East St. Louis,IL,False,attack,Not fleeing,False
-1705,Pablo Medina,2016-07-11,shot,gun,41,M,,Romulus,MI,False,attack,Not fleeing,False
+1705,Pablo Medina,2016-07-11,shot,gun,41,M,H,Romulus,MI,False,attack,Not fleeing,False
 1706,Orville Edwards,2016-07-11,shot,gun,39,M,B,New York,NY,False,attack,Foot,False
 1711,Larry Darnell Gordon,2016-07-11,shot,gun,44,M,W,St. Joseph,MI,False,attack,Not fleeing,False
 1707,Benjamin Zekovic,2016-07-12,shot,hatchet,23,M,W,Anchorage,AK,False,attack,Not fleeing,False
-1708,Donald S. Myers,2016-07-13,shot,gun,32,M,,Flagstaff,AZ,False,undetermined,Foot,True
+1708,Donald S. Myers,2016-07-13,shot,gun,32,M,W,Flagstaff,AZ,False,undetermined,Foot,True
 1709,Richard G. Dinneny,2016-07-13,shot,toy weapon,56,M,W,Middletown,NY,True,other,Not fleeing,False
-1710,Dayten Ernest Harper,2016-07-14,shot,gun,33,M,,Baltimore,MD,False,attack,Not fleeing,False
+1710,Dayten Ernest Harper,2016-07-14,shot,gun,33,M,B,Baltimore,MD,False,attack,Not fleeing,False
 1713,Bobby Horne,2016-07-15,shot,gun,63,M,W,Peachland,NC,True,attack,Not fleeing,False
-1716,Billy D. Smith,2016-07-16,shot,gun,31,M,,Lake Asbury,FL,True,attack,Not fleeing,False
+1716,Billy D. Smith,2016-07-16,shot,gun,31,M,W,Lake Asbury,FL,True,attack,Not fleeing,False
 1719,Cody Wayne Jarrett,2016-07-16,shot and Tasered,gun,26,M,W,San Bernardino,CA,False,attack,Other,False
-1720,Patrick Fennell,2016-07-16,shot,gun,57,M,,Little Egg Harbor Township,NJ,False,other,Foot,False
-1712,Kevin Higgins,2016-07-17,shot,gun,39,M,,Sheboygan,WI,False,other,Not fleeing,False
-1714,Michael Ray Ramsey,2016-07-17,shot and Tasered,screwdriver,43,M,,Tulsa,OK,False,attack,Not fleeing,False
+1720,Patrick Fennell,2016-07-16,shot,gun,57,M,W,Little Egg Harbor Township,NJ,False,other,Foot,False
+1712,Kevin Higgins,2016-07-17,shot,gun,39,M,W,Sheboygan,WI,False,other,Not fleeing,False
+1714,Michael Ray Ramsey,2016-07-17,shot and Tasered,screwdriver,43,M,W,Tulsa,OK,False,attack,Not fleeing,False
 1717,Jermaine Johnson,2016-07-17,shot,gun,42,M,,New York,NY,False,attack,Not fleeing,False
 1718,Gavin Eugene Long,2016-07-17,shot,gun,29,M,B,Baton Rouge,LA,True,attack,Not fleeing,False
 1721,Jerry Brimer,2016-07-18,shot,ax,56,M,W,Tulsa,OK,True,other,Not fleeing,False
 1722,Javier Garcia Gaona,2016-07-20,shot,knife,31,M,H,Santa Maria,CA,True,other,Not fleeing,False
-1723,Derek Love,2016-07-21,shot,gun,50,M,,Chicago,IL,False,attack,Not fleeing,False
+1723,Derek Love,2016-07-21,shot,gun,50,M,B,Chicago,IL,False,attack,Not fleeing,False
 1724,BJ Medeiros,2016-07-21,shot,gun,36,M,,Hilo,HI,True,attack,Not fleeing,False
 1725,Paul Edward Yacabitis,2016-07-22,shot,gun,50,M,,Buckhannon,WV,False,attack,,False
 1726,Austin Jerry Lee Howard,2016-07-23,shot,knife,49,M,B,Milwaukee,WI,False,attack,Not fleeing,False
-1727,Bernard Wells,2016-07-23,shot,gun,31,M,,Chino,CA,False,attack,Foot,False
+1727,Bernard Wells,2016-07-23,shot,gun,31,M,B,Chino,CA,False,attack,Foot,False
 1729,Robert Lee Lourenco,2016-07-24,shot,hatchet and gun,36,M,,Winchester,CA,False,attack,Not fleeing,False
-1730,Alvin R. Sylversmythe,2016-07-24,shot,knife,29,M,,Gallup,NM,False,other,Not fleeing,False
+1730,Alvin R. Sylversmythe,2016-07-24,shot,knife,29,M,N,Gallup,NM,False,other,Not fleeing,False
 1731,Jeff Cornell Tyson,2016-07-25,shot,gun,32,M,,Indianapolis,IN,False,attack,Car,False
 1732,Richard Risher,2016-07-25,shot,gun,18,M,B,Los Angeles,CA,False,attack,Foot,False
 1733,Scot Minard,2016-07-26,shot,gun,50,M,W,Pine River,WI,False,attack,Car,False
-1734,Juan Reynaldo Duran,2016-07-26,shot,gun,36,M,,Artesia,NM,False,other,,False
+1734,Juan Reynaldo Duran,2016-07-26,shot,gun,36,M,H,Artesia,NM,False,other,,False
 1735,Devon Martes,2016-07-27,shot,gun,17,M,B,Metairie,LA,False,attack,Foot,False
 1736,Dalvin Collins,2016-07-27,shot,unknown weapon,19,M,B,Tempe,AZ,False,attack,Foot,False
 1739,Dylan Liberti,2016-07-27,shot,knife,24,M,W,Scottsdale,AZ,False,other,Foot,False
 1740,Saddam Trejeda-Campos,2016-07-27,shot,knife,24,M,H,San Bernardino,CA,True,other,Not fleeing,False
-1746,Emil Mecklenburg,2016-07-27,shot,knife,20,M,,Malta,MT,False,attack,Not fleeing,False
+1746,Emil Mecklenburg,2016-07-27,shot,knife,20,M,W,Malta,MT,False,attack,Not fleeing,False
 1737,Jorge Moreno-Aguirre,2016-07-28,shot,undetermined,41,M,H,Sparks,NV,False,undetermined,Not fleeing,False
 1741,TK TK,2016-07-28,shot,,,M,,La Quinta,CA,False,other,Car,False
 1742,Paul O'Neal,2016-07-28,shot,vehicle,18,M,B,Chicago,IL,False,other,Car,True
 1743,Jesus Rael,2016-07-28,shot,gun,31,M,H,Tucson,AZ,False,attack,Other,False
-1744,Donnell Thompson,2016-07-28,shot,unarmed,27,M,,Compton,CA,False,attack,Other,False
-1745,Omar Gonzalez,2016-07-28,shot,undetermined,36,M,,City Terrace,CA,False,other,Car,True
+1744,Donnell Thompson,2016-07-28,shot,unarmed,27,M,B,Compton,CA,False,attack,Other,False
+1745,Omar Gonzalez,2016-07-28,shot,undetermined,36,M,H,City Terrace,CA,False,other,Car,True
 1747,Amanda Page Bivens,2016-07-29,shot,gun,40,F,W,Homewood,AL,False,attack,Not fleeing,False
 1748,John Casey,2016-07-31,shot,rock,32,M,W,Phelps,KY,False,attack,Foot,False
 1749,Mario Martinez Torres,2016-07-31,shot,undetermined,38,M,,Wapato,WA,False,undetermined,Not fleeing,False
-1752,Limichael Shine,2016-07-31,shot,knife,18,M,,Manchester,NJ,True,other,Not fleeing,False
+1752,Limichael Shine,2016-07-31,shot,knife,18,M,A,Manchester,NJ,True,other,Not fleeing,False
 1750,Korryn Gaines,2016-08-01,shot,gun,23,F,B,Randallstown,MD,False,attack,Not fleeing,False
 1751,Bryan N. Byrd,2016-08-01,shot,vehicle,43,M,W,Edmund,SC,False,attack,Car,False
 1753,Kenneth Eugene Bonanno,2016-08-01,shot,gun,65,M,W,Stafford,VA,False,attack,Not fleeing,False
 1754,Richard Lance London,2016-08-02,shot,gun,22,M,W,Lake City,SC,False,attack,Car,False
 1757,Adam Jo Klimek,2016-08-02,shot,knife,31,M,W,Alexandria,MN,False,other,Not fleeing,False
 1758,DeMarco Newman,2016-08-02,shot,gun,43,M,B,Palm Bay,FL,False,attack,Not fleeing,False
-1759,Matthew David Conrad,2016-08-02,shot,gun,34,M,,Hammett,ID,True,attack,Car,False
-1760,William Bowers,2016-08-02,shot,undetermined,51,M,,Castaic,CA,False,other,Foot,False
+1759,Matthew David Conrad,2016-08-02,shot,gun,34,M,W,Hammett,ID,True,attack,Car,False
+1760,William Bowers,2016-08-02,shot,undetermined,51,M,W,Castaic,CA,False,other,Foot,False
 1755,Benjamin William Heaton,2016-08-03,shot,gun,31,M,W,Clearfield,UT,False,attack,Foot,False
-1756,Bradley Carey,2016-08-03,shot,knife,54,M,,Detroit,MI,False,attack,Not fleeing,False
+1756,Bradley Carey,2016-08-03,shot,knife,54,M,W,Detroit,MI,False,attack,Not fleeing,False
 1761,E.J. Walters,2016-08-03,shot,gun,69,M,,Scott County,VA,False,other,Car,False
 1762,Johannes Wood,2016-08-05,shot,knife,58,M,,Aldie,VA,True,other,Not fleeing,False
 1767,Jamarion Rashad Robinson,2016-08-05,shot,gun,26,M,B,East Point,GA,True,attack,Not fleeing,False
@@ -1570,6 +1570,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1771,Michael McClurg,2016-08-08,shot,gun,56,M,,Citrus Heights,CA,False,attack,Not fleeing,False
 1773,James Eugene Burgess,2016-08-08,shot,gun,64,M,W,Wilkesboro,NC,False,attack,Not fleeing,False
 1774,Juan J. Godines,2016-08-08,shot,undetermined,34,M,,Georgetown,KY,False,attack,Other,False
-1775,Ronald Smith,2016-08-09,shot,gun,,M,,Circleville,OH,True,other,Not fleeing,False
-1776,Jesse Romero,2016-08-09,shot,gun,14,M,,Boyle Heights,CA,False,attack,Foot,False
+1775,Ronald Smith,2016-08-09,shot,gun,45,M,W,Circleville,OH,True,other,Not fleeing,False
+1776,Jesse James Romero,2016-08-09,shot,gun,14,M,H,Los Angeles,CA,False,attack,Foot,False
 1777,Jeffrey Allen Morris,2016-08-09,shot,undetermined,44,M,W,Piedmont,SC,False,other,Not fleeing,False
