@@ -1580,10 +1580,27 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1780,Sylville Smith,2016-08-13,shot,gun,23,M,B,Milwaukee,WI,False,other,Foot,True
 1781,Ruben Horacio Strand,2016-08-13,shot,knife,38,M,,Phoenix,AZ,False,attack,Not fleeing,False
 1784,Perry Lee Heitman,2016-08-13,shot,unknown weapon,53,M,,Lakewood,CO,False,other,Not fleeing,False
-1786,TK TK,2016-08-15,shot,metal pole,29,M,H,Falls Church,VA,True,other,Not fleeing,False
+1786,Jovany Martinez,2016-08-15,shot,metal pole,29,M,H,Falls Church,VA,True,other,Not fleeing,False
 1788,Danny Pirtle,2016-08-15,shot,gun,42,M,,Counce,TN,False,attack,Other,False
 1792,Marcos Antonio Gastelum,2016-08-16,shot,unarmed,25,M,,Tucson,AZ,False,attack,Not fleeing,False
+1795,Kenny Watkins,2016-08-16,shot,gun,18,M,B,Los Angeles,CA,False,other,Foot,False
 1787,Michael S. Martin,2016-08-16,shot,undetermined,36,M,,Rome,OH,False,other,Car,False
 1789,Carl Nivins,2016-08-16,shot,gun,32,M,W,Lenoir,NC,False,attack,Foot,True
 1790,Larry Eugene Kurtley,2016-08-16,shot,gun,53,M,W,Apache Junction,AZ,False,other,Not fleeing,False
 1791,Colby Friday,2016-08-16,shot,gun,30,M,B,Stockton,CA,False,other,Foot,False
+1793,Omer Ali,2016-08-17,shot,piece of wood,27,M,B,Kelso,WA,False,attack,Not fleeing,False
+1794,Francisco Villarreal,2016-08-18,shot,gun,37,M,H,Bakersfield,CA,False,attack,Car,False
+1796,Daniel Harris,2016-08-18,shot,unarmed,29,M,,Charlotte,NC,False,other,Car,False
+1797,Chad Irwin,2016-08-18,shot,knife,40,M,,Antelope,CA,False,other,Not fleeing,False
+1798,Joseph Weber,2016-08-18,shot,undetermined,36,M,W,Hays,KS,False,other,Car,False
+1807,David Klassen,2016-08-18,shot,gun,,M,,Ruidoso,NM,False,other,Not fleeing,False
+1799,Marcello Luna,2016-08-19,shot,bayonet,47,M,H,East Hollywood,CA,True,undetermined,Not fleeing,False
+1800,Jorge Ceniceros,2016-08-19,shot,gun,22,M,H,Phoenix,AZ,False,attack,Not fleeing,False
+1801,Trenton Lohman,2016-08-19,shot,gun,38,M,W,Poway,CA,False,attack,Car,False
+1806,Kole Knight,2016-08-19,shot,gun,31,M,W,New London,WI,False,attack,Not fleeing,False
+1808,TK TK,2016-08-19,shot,undetermined,,M,W,Reno,NV,False,undetermined,Car,False
+1810,TK TK,2016-08-19,shot,knife,,M,,East Ridge,TN,False,other,Not fleeing,False
+1803,TK TK,2016-08-20,shot,knife,71,M,,Indio,CA,False,other,Not fleeing,False
+1804,TK TK,2016-08-21,shot,knife,,M,,Las Cruces,NM,False,other,Not fleeing,False
+1805,Tk TK,2016-08-21,shot,gun,,M,,New Orleans,LA,False,attack,Foot,False
+1802,TK TK,2016-08-22,shot,knife,,M,,Hamilton,OH,False,attack,Not fleeing,False
