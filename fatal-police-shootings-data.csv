@@ -1540,7 +1540,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1740,Saddam Trejeda-Campos,2016-07-27,shot,knife,24,M,H,San Bernardino,CA,True,other,Not fleeing,False
 1746,Emil Mecklenburg,2016-07-27,shot,knife,20,M,W,Malta,MT,False,attack,Not fleeing,False
 1737,Jorge Moreno-Aguirre,2016-07-28,shot,undetermined,41,M,H,Sparks,NV,False,undetermined,Not fleeing,False
-1741,TK TK,2016-07-28,shot,,,M,,La Quinta,CA,False,other,Car,False
+1741,Jeffrey Smith,2016-07-28,shot,,47,M,,La Quinta,CA,False,other,Car,False
 1742,Paul O'Neal,2016-07-28,shot,vehicle,18,M,B,Chicago,IL,False,other,Car,True
 1743,Jesus Rael,2016-07-28,shot,gun,31,M,H,Tucson,AZ,False,attack,Other,False
 1744,Donnell Thompson,2016-07-28,shot,unarmed,27,M,B,Compton,CA,False,attack,Other,False
@@ -1576,7 +1576,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1778,Jeff Martelli,2016-08-11,shot,gun,59,M,,Tukwila,WA,True,attack,Not fleeing,False
 1785,Sergio Daniel Weick,2016-08-11,shot,knife,33,M,,Vista,CA,False,undetermined,Other,False
 1782,Jesus Armando Carillo,2016-08-12,shot,undetermined,22,M,H,Mesa,AZ,False,other,Car,False
-1783,Dominic Rollice,2016-08-12,shot and Tasered,hammer,49,M,W,Tahlequah,OK,False,other,Not fleeing,False
+1783,Dominic Rollice,2016-08-12,shot and Tasered,hammer,49,M,W,Tahlequah,OK,False,other,Not fleeing,True
 1780,Sylville Smith,2016-08-13,shot,gun,23,M,B,Milwaukee,WI,False,other,Foot,True
 1781,Ruben Horacio Strand,2016-08-13,shot,knife,38,M,,Phoenix,AZ,False,attack,Not fleeing,False
 1784,Perry Lee Heitman,2016-08-13,shot,unknown weapon,53,M,,Lakewood,CO,False,other,Not fleeing,False
@@ -1611,3 +1611,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1815,Jerry Lee Jackson,2016-08-25,shot and Tasered,knife,63,M,,Fort Collins,CO,False,other,Not fleeing,False
 1816,Donta Taylor,2016-08-25,shot,gun,31,M,,Compton,CA,False,attack,Foot,False
 1817,TK TK,2016-08-26,shot,gun,,M,,Las Vegas,NV,False,attack,Foot,False
+1819,TK TK,2016-08-26,shot,gun,29,M,H,North Charleston,SC,False,attack,Foot,False
+1820,Angel Torres Jr.,2016-08-27,shot,toy weapon,26,M,,Phoenix,AZ,False,attack,Not fleeing,False
+1821,TK TK,2016-08-27,shot,knife,,M,,Denver,CO,False,undetermined,Not fleeing,False
+1822,TK TK,2016-08-27,shot,gun,,M,,Morgantown,WV,False,attack,Not fleeing,False
+1818,Justin Kulhanek-Derks,2016-08-28,shot,gun,37,M,,Eagan,MN,False,attack,Not fleeing,False
