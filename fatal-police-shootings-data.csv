@@ -1608,3 +1608,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1811,TK Tk,2016-08-24,shot,gun,,M,,Oak Cliff,TX,False,attack,Foot,False
 1813,William Charbonneau,2016-08-24,shot,gun,43,M,,Orlando,FL,True,other,Not fleeing,False
 1814,Jeffrey Darren Hosea,2016-08-24,shot,gun,53,M,W,Shelbyville,TN,False,attack,Not fleeing,False
+1815,Jerry Lee Jackson,2016-08-25,shot and Tasered,knife,63,M,,Fort Collins,CO,False,other,Not fleeing,False
+1816,Donta Taylor,2016-08-25,shot,gun,31,M,,Compton,CA,False,attack,Foot,False
+1817,TK TK,2016-08-26,shot,gun,,M,,Las Vegas,NV,False,attack,Foot,False
