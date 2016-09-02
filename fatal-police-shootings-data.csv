@@ -1244,6 +1244,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1423,Angel Montion,2016-03-30,shot,gun,33,M,W,Los Angeles,CA,False,attack,Foot,False
 1436,Ruben Cossyleon,2016-03-30,shot,gun,25,M,H,Glendale,AZ,False,undetermined,Not fleeing,False
 1514,Thomas Lagano,2016-03-30,shot,gun,52,M,W,Jackson,GA,False,attack,Not fleeing,False
+1846,James Craig Simpson,2016-03-31,shot,gun,31,M,B,Las Vegas,NV,False,attack,Foot,False
 1424,Kimani Johnson,2016-03-31,shot,gun,18,M,B,Baltimore,MD,False,attack,Not fleeing,False
 1425,Matthew Vincent Wood,2016-03-31,shot,gun,43,M,B,Baltimore,MD,False,attack,Not fleeing,False
 1426,James Brown III,2016-03-31,shot,gun,34,M,B,Richmond,VA,False,attack,Not fleeing,False
@@ -1279,7 +1280,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1460,Jeffrey Gray Wise,2016-04-13,shot,gun,52,M,W,Llano,TX,False,attack,Not fleeing,False
 1462,Koltlee Whitson,2016-04-13,shot,gun,26,M,W,Sparta,TN,False,attack,Car,False
 1463,Jeff Robertson,2016-04-14,shot and Tasered,unarmed,54,M,W,McPherson,KS,True,attack,Not fleeing,False
-1465,Clemente Najeda,2016-04-15,shot,baseball bat,38,M,H,Lake Elsinore,CA,False,other,Not fleeing,False
+1465,Clemente Najera,2016-04-15,shot,baseball bat,38,M,H,Lake Elsinore,CA,False,other,Not fleeing,False
 1469,David Swatsky,2016-04-15,shot,gun,52,M,W,Cache,OK,True,attack,Not fleeing,False
 1471,Storm Allen Smith,2016-04-15,shot,undetermined,26,M,W,Muncie,IN,False,attack,Foot,True
 1473,Gerald Robert Boyes,2016-04-16,shot,gun,53,M,W,Antioch,IL,False,attack,Not fleeing,False
@@ -1295,7 +1296,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1478,Daniel Eric Blackmon,2016-04-19,shot,gun,38,M,W,Brooksville,AL,False,attack,Car,False
 1480,Francis Scot Dufore,2016-04-20,shot,gun,41,M,W,Homestead,FL,False,attack,Not fleeing,False
 1481,Jackie Lee Kirkham,2016-04-20,shot,undetermined,52,M,W,Perryville,AR,False,other,Not fleeing,False
-1482,Mario Martinez,2016-04-21,shot,knife,48,M,H,Everett,MA,False,other,Not fleeing,False
+1482,Mario Mejia Martinez,2016-04-21,shot,knife,48,M,H,Everett,MA,False,other,Not fleeing,False
 1484,Tyler Hunkin,2016-04-22,shot,knife,29,M,W,Austin,TX,True,attack,Not fleeing,False
 1485,Carl Baranishyn,2016-04-22,shot,knife,51,M,W,Berne,NY,True,attack,Not fleeing,False
 1483,Demarcus Semer,2016-04-23,shot,vehicle,21,M,B,Fort Pierce,FL,False,attack,Car,False
@@ -1306,7 +1307,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1489,Kay Frances Campbell,2016-04-25,shot,gun,60,F,W,East Flat Rock,NC,True,attack,Not fleeing,False
 1490,Robin Barber,2016-04-26,shot,gun,28,M,W,Lakewood,CO,False,attack,Foot,False
 1491,Joshua Brooks,2016-04-26,shot,gun,26,M,B,Chesapeake,VA,False,attack,Not fleeing,False
-1492,Jaquelyn Burke,2016-04-26,shot,gun,24,F,W,Albuquerque,NM,True,attack,Car,False
+1492,Jacquelyn Burke,2016-04-26,shot,gun,24,F,W,Albuquerque,NM,True,attack,Car,False
 1493,Darrel S. Machemehl,2016-04-26,shot,gun,44,M,W,Kingsbury,TX,False,other,Other,False
 1840,David Shane Anderson,2016-04-27,shot,gun,36,M,W,Milcreek,UT,False,attack,Not fleeing,False
 1494,Cin Lam Mung,2016-04-27,shot,machete,34,M,A,Atlanta,GA,False,other,Not fleeing,False
@@ -1314,7 +1315,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1498,Kendar del Rosario,2016-04-28,shot,knife,37,M,B,Miami,FL,False,attack,Not fleeing,False
 1499,Lee Easter,2016-04-28,shot,gun,53,M,W,Boise,ID,True,attack,Not fleeing,True
 1500,Michael Kurtz,2016-04-28,shot and Tasered,knife,45,M,W,Spokane,WA,True,other,Not fleeing,True
-1501,Ashtain Barnes,2016-04-28,shot,undetermined,24,M,B,Houston,TX,False,other,Car,False
+1501,Ashtian Barnes,2016-04-28,shot,undetermined,24,M,B,Houston,TX,False,other,Car,False
 1506,Jeffrey Darrell Hobbs,2016-04-29,shot,unarmed,48,M,W,Jackson,MO,False,attack,Car,False
 1504,Oswald Mattner,2016-04-30,shot,knife,42,M,W,Wausau,WI,False,other,Not fleeing,False
 1505,Mark Daniel Bess,2016-04-30,shot,knife,33,M,W,Spanish Fork,UT,False,other,Foot,False
@@ -1357,7 +1358,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1544,Luke Sanders,2016-05-17,shot,ax,36,M,W,Siskiyou County,CA,True,other,Not fleeing,False
 1543,Garry Conrad,2016-05-18,shot,knife,46,M,W,New York,NY,False,other,Not fleeing,False
 1545,Joseph Weatherby,2016-05-18,shot,gun,44,M,W,Sullivan,MO,False,attack,Other,False
-1546,Israel Santos-Blancos,2016-05-18,shot,gun,20,M,H,Phoenix,AZ,False,attack,Not fleeing,False
+1546,Israel Santos-Banos,2016-05-18,shot,gun,20,M,H,Phoenix,AZ,False,attack,Not fleeing,False
 1547,Jeremias Cruz,2016-05-19,shot,unarmed,30,M,H,Las Vegas,NV,False,attack,Not fleeing,False
 1548,Jessica Nelson-Williams,2016-05-19,shot,unarmed,29,F,B,San Francisco,CA,False,undetermined,Car,False
 1549,Jaime Ide,2016-05-19,shot,knife,35,M,H,Citrus Heights,CA,False,other,Not fleeing,True
@@ -1376,7 +1377,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1564,Leslie Goletz,2016-05-24,shot,Taser,57,M,,Harrisonville,MO,False,other,Car,True
 1567,Mario Montoya,2016-05-24,shot,gun,31,M,H,Albuquerque,NM,False,attack,Not fleeing,False
 1565,Derek Prophet,2016-05-25,shot,knife,43,M,W,Oklahoma City,OK,True,other,Not fleeing,False
-1566,Doll Pierre Louis,2016-05-25,shot,vehicle,24,M,B,Miami Gardens,FL,False,other,Car,False
+1566,Doll Pierre-Louis,2016-05-25,shot,vehicle,24,M,B,Miami Gardens,FL,False,other,Car,False
 1568,"Eugene ""Geno"" Francis Smith",2016-05-26,shot,gun,29,M,W,St. Paul,MN,False,attack,Not fleeing,False
 1569,Warren Christian,2016-05-26,shot,gun,43,M,W,Lansing,IL,False,attack,Foot,False
 1570,TK Tk,2016-05-26,shot,gun,,M,,San Antonio,TX,False,other,Not fleeing,False
@@ -1386,7 +1387,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1583,Angel Daniel Navarro,2016-05-26,shot,gun,25,M,H,Socorro,NM,False,attack,Car,False
 1580,Terry Edwards,2016-05-27,shot,gun,59,M,,Indianapolis,IN,False,attack,Not fleeing,False
 1576,Dennis Hudson,2016-05-28,shot,gun,50,M,B,Eastaboga,AL,False,attack,Not fleeing,False
-1582,Dennis Humphreys,2016-05-28,shot,gun,58,M,W,Albuquerque,NM,False,attack,Not fleeing,True
+1582,Dennis Humphrey,2016-05-28,shot,gun,58,M,W,Albuquerque,NM,False,attack,Not fleeing,True
 1573,Dionisio Augustine Garza III,2016-05-29,shot,gun,25,M,H,Houston,TX,True,attack,Not fleeing,False
 1577,Donald Edward Brown III,2016-05-29,beaten,knife,32,M,W,Deland,FL,False,other,Not fleeing,False
 1578,John Mark Coffey,2016-05-29,shot,gun,53,M,W,Clinton,NC,False,attack,Not fleeing,True
@@ -1410,7 +1411,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1596,Andrew Henson,2016-06-07,shot,unarmed,25,M,W,Wagoner,OK,False,other,Car,True
 1599,Omar Villagomez,2016-06-07,shot,vehicle,21,M,H,Turlock,CA,False,other,Not fleeing,False
 1601,Willis N. Walker,2016-06-07,shot,gun,49,M,B,Norman,VA,False,other,Not fleeing,False
-1604,David Powell,2016-06-07,shot,gun,63,M,W,Stockbridge,GA,False,attack,Not fleeing,False
+1604,William David Powell,2016-06-07,shot,gun,63,M,W,Stockbridge,GA,False,attack,Not fleeing,False
 1602,Carlos Garcia,2016-06-08,shot,gun,43,M,H,Kansas City,MO,False,attack,Not fleeing,False
 1603,William Michael Hollis,2016-06-09,shot,gun,34,M,W,Birmingham,AL,False,attack,Car,False
 1605,James Allen Nickol,2016-06-09,shot,gun,38,M,W,York,PA,False,attack,,False
@@ -1445,7 +1446,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1637,Antwun Shumpert,2016-06-18,shot,unarmed,37,M,B,Tupelo,MS,False,attack,Foot,False
 1631,Rashaun Lloyd,2016-06-19,shot,gun,25,M,B,New York,NY,False,attack,Not fleeing,False
 1635,Anthony Ford,2016-06-19,shot,gun,30,M,,Fort Walton Beach,FL,False,other,Not fleeing,False
-1632,Rafael M. Bostick,2016-06-20,shot,gun,,M,,Hardeeville,SC,False,attack,Not fleeing,False
+1632,Raufeal M. Bostick,2016-06-20,shot,gun,23,M,B,Hardeeville,SC,False,attack,Not fleeing,False
 1638,Devin Christopher Scott,2016-06-20,shot and Tasered,knife,20,M,W,Lake Havasu City,AZ,False,other,Not fleeing,True
 1640,Lane Lesko,2016-06-21,shot,undetermined,19,M,W,Peterborough,NH,True,undetermined,Car,False
 1642,Jeff Hyde,2016-06-21,shot,gun,,M,,Casper,WY,False,attack,Not fleeing,False
@@ -1464,11 +1465,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1658,Christy Sheats,2016-06-24,shot,gun,42,F,W,Fulshear,TX,True,attack,Not fleeing,False
 1660,Miguel Angel Chavez-Angles,2016-06-24,shot,gun,42,M,H,Oklahoma City,OK,True,other,Other,False
 1728,Jamil Alejandro Valladares,2016-06-24,shot,gun,26,M,H,Riverview,FL,False,attack,Not fleeing,False
-1653,Dylan Nobles,2016-06-25,shot,unarmed,19,M,W,Fresno,CA,True,other,Car,True
+1653,Dylan Noble,2016-06-25,shot,unarmed,19,M,W,Fresno,CA,True,other,Car,True
 1654,Waldemar Bogusiewicz,2016-06-25,shot,gun,59,M,W,Pinellas Park,FL,False,attack,Not fleeing,False
 1661,Rodrigo Guardiola,2016-06-25,shot and Tasered,unarmed,36,M,H,Gainesville,GA,False,attack,Other,False
 1664,William Ferguson,2016-06-25,shot,gun,,M,,Buckeye,AZ,False,attack,Not fleeing,False
-1655,Terry Mauer,2016-06-26,shot,baseball bat,51,M,W,Columbia Township,MI,True,attack,Not fleeing,False
+1655,Terry Lynn Maurer,2016-06-26,shot,baseball bat,51,M,W,Columbia Township,MI,True,attack,Not fleeing,False
 1656,Daniel Reyes,2016-06-26,shot,knife,27,M,H,Thomaston,CT,False,other,Not fleeing,False
 1659,Germichael Kennedy,2016-06-26,shot,gun,22,M,B,Lincoln,NE,False,attack,Foot,False
 1663,Donte L. Johnson,2016-06-26,shot,gun,30,M,B,Dolton,IL,False,attack,Not fleeing,False
@@ -1515,7 +1516,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1705,Pablo Medina,2016-07-11,shot,gun,41,M,H,Romulus,MI,False,attack,Not fleeing,False
 1706,Orville Edwards,2016-07-11,shot,gun,39,M,B,New York,NY,False,attack,Foot,False
 1711,Larry Darnell Gordon,2016-07-11,shot,gun,44,M,W,St. Joseph,MI,False,attack,Not fleeing,False
-1707,Benjamin Zekovic,2016-07-12,shot,hatchet,23,M,W,Anchorage,AK,False,attack,Not fleeing,False
+1707,Benjamin Zeckovic,2016-07-12,shot,hatchet,23,M,W,Anchorage,AK,False,attack,Not fleeing,False
 1708,Donald S. Myers,2016-07-13,shot,gun,32,M,W,Flagstaff,AZ,False,undetermined,Foot,True
 1709,Richard G. Dinneny,2016-07-13,shot,toy weapon,56,M,W,Middletown,NY,True,other,Not fleeing,False
 1710,Dayten Ernest Harper,2016-07-14,shot,gun,33,M,B,Baltimore,MD,False,attack,Not fleeing,False
@@ -1543,10 +1544,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1734,Juan Reynaldo Duran,2016-07-26,shot,gun,36,M,H,Artesia,NM,False,other,,False
 1835,Michael Adams,2016-07-27,shot,knife,33,M,W,Estill Springs,TN,False,other,Foot,True
 1735,Devon Martes,2016-07-27,shot,gun,17,M,B,Metairie,LA,False,attack,Foot,False
-1736,Dalvin Collins,2016-07-27,shot,unknown weapon,19,M,B,Tempe,AZ,False,attack,Foot,False
+1736,Dalvin Hollins,2016-07-27,shot,unknown weapon,19,M,B,Tempe,AZ,False,attack,Foot,False
 1739,Dylan Liberti,2016-07-27,shot,knife,24,M,W,Scottsdale,AZ,False,other,Foot,False
 1740,Saddam Trejeda-Campos,2016-07-27,shot,knife,24,M,H,San Bernardino,CA,True,other,Not fleeing,False
-1746,Emil Mecklenburg,2016-07-27,shot,knife,20,M,W,Malta,MT,False,attack,Not fleeing,False
+1746,Emil Ambrose Mecklenburg,2016-07-27,shot,knife,20,M,W,Malta,MT,False,attack,Not fleeing,False
 1737,Jorge Moreno-Aguirre,2016-07-28,shot,undetermined,41,M,H,Sparks,NV,False,undetermined,Not fleeing,False
 1741,Jeffrey Smith,2016-07-28,shot,,47,M,,La Quinta,CA,False,other,Car,False
 1742,Paul O'Neal,2016-07-28,shot,vehicle,18,M,B,Chicago,IL,False,other,Car,True
@@ -1623,7 +1624,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1817,Matthew Gibbon,2016-08-26,shot,gun,41,M,,Las Vegas,NV,False,attack,Foot,False
 1819,TK TK,2016-08-26,shot,gun,29,M,H,North Charleston,SC,False,attack,Foot,False
 1820,Angel Torres Jr.,2016-08-27,shot,toy weapon,26,M,H,Phoenix,AZ,False,attack,Not fleeing,False
-1821,Terry Salazar,2016-08-27,shot and Tasered,knife,49,M,,Denver,CO,False,undetermined,Not fleeing,False
+1821,Terry Salazar,2016-08-27,shot and Tasered,knife,49,M,,Denver,CO,False,other,Not fleeing,False
 1822,Darrel Hetrick,2016-08-27,shot,gun,82,M,,Morgantown,WV,False,attack,Not fleeing,False
 1818,Justin Kulhanek-Derks,2016-08-28,shot,gun,37,M,,Eagan,MN,False,attack,Not fleeing,False
 1823,Jaqwan Julius Terry,2016-08-29,shot,gun,24,M,B,Raleigh,NC,False,attack,Foot,False
@@ -1633,6 +1634,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1825,TK TK,2016-08-30,shot and Tasered,chain saw,36,M,,Graham,WA,True,attack,Not fleeing,False
 1827,Levonia Riggins,2016-08-30,shot,unarmed,22,M,B,Tampa,FL,False,undetermined,Not fleeing,False
 1828,Lyle Patrick Blanchard,2016-08-30,shot,gun,59,M,,Harker Heights,TX,False,attack,Other,False
-1830,TK TK,2016-08-30,shot and Tasered,knife,36,M,,Weatherford,TX,False,other,Not fleeing,False
-1841,TK TK,2016-08-31,shot,gun,,M,,Denver,CO,False,attack,Foot,False
+1830,Gregory Mathis,2016-08-30,shot and Tasered,knife,36,M,W,Weatherford,TX,False,other,Not fleeing,False
+1841,Michael Ferguson,2016-08-31,shot,gun,21,M,,Denver,CO,False,attack,Foot,False
 1839,Ed Holup,2016-09-01,shot,vehicle,60,M,W,Sylvania Township,OH,False,other,Not fleeing,False
+1847,TK TK,2016-09-01,shot,gun,,M,,Florence,CA,False,other,Foot,False
+1848,TK TK,2016-09-01,shot and Tasered,pipe,,M,H,Huntington Park,CA,False,other,Not fleeing,False
