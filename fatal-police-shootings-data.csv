@@ -1251,7 +1251,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1427,Jesus Juarez,2016-04-01,shot,shovel,65,M,H,Lockhart,TX,False,undetermined,Not fleeing,False
 1435,Joel Fabela,2016-04-01,shot,gun,37,M,H,Odessa,TX,False,attack,Not fleeing,False
 1432,Cameron Gover,2016-04-02,shot,gun,30,M,B,Indianapolis,IN,False,attack,Not fleeing,False
-1845,Preston Perez,2016-04-03,shot,undetermined,48,M,W,Raceland,LA,False,undetermined,,False
+1845,Preston Paul Perez,2016-04-03,shot,undetermined,48,M,W,Raceland,LA,False,undetermined,,False
 1430,Melissa Boarts,2016-04-03,shot,unknown weapon,36,F,W,Macon County,AL,True,other,Not fleeing,True
 1431,Darrin Andrew Martin,2016-04-03,shot,gun,25,M,W,Austin,TX,False,attack,Foot,False
 1433,David Mack,2016-04-03,shot,Taser,69,M,W,Eau Claire,WI,False,attack,Not fleeing,False
@@ -1418,7 +1418,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1606,John Michael Brisco,2016-06-09,shot,gun,52,M,B,Port Arthur,TX,False,other,Foot,False
 1607,Clifford Tucker,2016-06-09,shot,gun,68,M,W,Ishpeming Township,MI,True,attack,Not fleeing,True
 1615,TK TK,2016-06-09,shot,baton,,M,,Somerton,AZ,False,attack,Not fleeing,False
-1838,Keith Bursey Jr.,2016-06-10,shot,gun,31,M,B,Hyde Park,CA,False,attack,Not fleeing,False
+1838,Keith Bursey,2016-06-10,shot,gun,31,M,B,Los Angeles,CA,False,attack,Not fleeing,False
 1611,Clayton Millsaps,2016-06-10,shot,baseball bat,29,M,W,Iredell County,NC,False,other,Not fleeing,False
 1613,Bobby Sanchez,2016-06-10,shot,gun,32,M,H,Pueblo,CO,False,attack,Foot,False
 1614,J. Juan Briseno-Ortega,2016-06-10,shot,gun,50,M,H,Yakima,WA,False,attack,Not fleeing,False
@@ -1437,10 +1437,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1625,Fernando Geovanni Llanez,2016-06-14,shot,undetermined,22,M,H,Chula Vista,CA,False,attack,Not fleeing,False
 1626,Russell Rosser,2016-06-15,shot,vehicle,43,M,W,Tulsa,OK,False,attack,Car,False
 1627,Michael Rasmussen,2016-06-15,shot,gun,38,M,W,Pembine,WI,True,attack,Car,False
+1837,Ronald Delfino,2016-06-16,shot,gun,21,M,,Albuquerque,NM,False,attack,Car,False
 1628,Peter Grandpre,2016-06-16,shot,gun,36,M,W,Butte,MT,False,attack,Not fleeing,True
 1629,Nicholas Damon,2016-06-16,shot,vehicle,30,M,H,Westminster,CO,False,attack,Car,False
 1630,John Anderson,2016-06-16,shot,gun,,M,,Montpelier,OH,True,other,Not fleeing,False
-1837,Ronald Delfino,2016-06-17,shot,gun,21,M,,Albuquerque,NM,False,attack,Car,False
 1633,William Thomas Hennessey,2016-06-18,shot,gun,34,M,W,Huntsville,AL,False,attack,Not fleeing,True
 1634,Sergey Makarenko,2016-06-18,shot,vehicle,17,M,W,Carmichael,CA,False,other,Car,False
 1637,Antwun Shumpert,2016-06-18,shot,unarmed,37,M,B,Tupelo,MS,False,attack,Foot,False
@@ -1606,7 +1606,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1798,Joseph Weber,2016-08-18,shot,undetermined,36,M,W,Hays,KS,False,other,Car,False
 1801,Trenton Lohman,2016-08-18,shot,gun,38,M,W,Poway,CA,False,attack,Car,False
 1807,David Klassen,2016-08-18,shot,gun,29,M,W,Ruidoso,NM,False,other,Not fleeing,False
-1831,Daniel Fulton,2016-08-18,shot,gun,59,M,W,McKinneyville,CA,True,attack,Not fleeing,False
+1831,David Allan Fulton,2016-08-18,shot,gun,59,M,W,McKinneyville,CA,True,attack,Not fleeing,False
 1799,Marcelo Luna,2016-08-19,shot,bayonet,47,M,H,East Hollywood,CA,True,undetermined,Not fleeing,False
 1800,Jorge Ceniceros,2016-08-19,shot,gun,22,M,H,Phoenix,AZ,False,attack,Not fleeing,False
 1806,Kole B. Knight,2016-08-19,shot,gun,31,M,W,New London,WI,False,attack,Not fleeing,False
