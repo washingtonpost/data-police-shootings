@@ -1644,11 +1644,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1850,Randall Rodick,2016-09-02,shot,gun,40,M,,Parker,CO,True,attack,Car,False
 1853,Michael Musson,2016-09-02,shot,glass shard,22,M,W,Round Lake,IL,False,other,Not fleeing,False
 1856,TK TK,2016-09-02,shot,gun,38,M,,St. Louis,MO,False,undetermined,Other,False
-1854,Jerome Camden,2016-09-03,shot,undetermined,25,M,B,Atlantic City,NJ,False,undetermined,Foot,False
+1854,Jerome Damon,2016-09-03,shot,undetermined,25,M,B,Atlantic City,NJ,False,undetermined,Foot,False
 1855,Cameron Ayers,2016-09-03,shot,undetermined,,M,,East Wenatchee,WA,False,undetermined,Not fleeing,False
 1860,Donny Max Daugherty,2016-09-03,shot,undetermined,36,M,,Metropolis,IL,False,undetermined,Other,False
 1861,TK TK,2016-09-03,shot,gun,,M,,Temple,TX,False,attack,Car,False
 1852,TK TK,2016-09-04,shot,knife,,M,,Long Beach,CA,True,other,Not fleeing,False
 1859,TK TK,2016-09-04,shot,undetermined,,M,,Grand Junction,CO,False,undetermined,Not fleeing,False
 1851,Moses Ruben,2016-09-05,shot,gun,36,M,,Ellis County,TX,False,attack,Car,False
-1858,TK TK,2016-09-05,shot,gun,,M,,Austin,TX,False,other,Not fleeing,False
+1858,Cesar Garcia,2016-09-05,shot,gun,35,M,,Austin,TX,False,other,Not fleeing,False
+1862,David Anderson,2016-09-06,shot,undetermined,25,M,,Omaha,NE,False,undetermined,Other,False
+1863,Bernard Cottrell,2016-09-06,shot,gun,65,M,,Spencer,WV,True,attack,Car,False
+1864,Steven Del Rio,2016-09-06,shot,undetermined,31,M,H,Phoenix,AZ,False,undetermined,Car,False
+1865,Larry Grant Whitehead,2016-09-06,shot,gun,70,M,,Gray,TN,False,other,Not fleeing,True
