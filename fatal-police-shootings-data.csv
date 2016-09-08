@@ -1636,14 +1636,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1828,Lyle Patrick Blanchard,2016-08-30,shot,gun,59,M,,Harker Heights,TX,False,attack,Other,False
 1830,Gregory Mathis,2016-08-30,shot and Tasered,knife,36,M,W,Weatherford,TX,False,other,Not fleeing,False
 1841,Michael Ferguson,2016-08-31,shot,gun,21,M,,Denver,CO,False,attack,Foot,False
+1870,Thomas Sekscinski,2016-08-31,shot,vehicle,38,M,,McDowell,MO,False,other,Car,False
 1839,Ed Holup,2016-09-01,shot,vehicle,60,M,W,Sylvania Township,OH,False,other,Not fleeing,False
-1843,Caleb J. Douglas,2016-09-01,shot,vehicle,18,M,W,Wichita,KS,False,other,Car,True
+1843,Caleb J. Douglas,2016-09-01,shot,gun,18,M,W,Wichita,KS,False,other,Car,True
 1847,TK TK,2016-09-01,shot,gun,,M,,Florence,CA,False,other,Foot,False
 1848,TK TK,2016-09-01,shot and Tasered,pipe,,M,H,Huntington Park,CA,False,other,Not fleeing,False
 1849,Joseph Moreno,2016-09-02,shot,gun,38,M,H,Alamogordo,NM,False,attack,Foot,True
 1850,Randall Rodick,2016-09-02,shot,gun,40,M,,Parker,CO,True,attack,Car,False
-1853,Michael Musson,2016-09-02,shot,glass shard,22,M,W,Round Lake,IL,False,other,Not fleeing,False
-1856,TK TK,2016-09-02,shot,gun,38,M,,St. Louis,MO,False,undetermined,Other,False
+1853,Michael Robert Musson,2016-09-02,shot,glass shard,22,M,W,Round Lake,IL,False,other,Not fleeing,False
+1856,Michael Thompson,2016-09-02,shot,gun,38,M,B,St. Louis,MO,False,attack,Other,False
 1854,Jerome Damon,2016-09-03,shot,undetermined,25,M,B,Atlantic City,NJ,False,undetermined,Foot,False
 1855,Cameron Ayers,2016-09-03,shot,undetermined,,M,,East Wenatchee,WA,False,undetermined,Not fleeing,False
 1860,Donny Max Daugherty,2016-09-03,shot,undetermined,36,M,,Metropolis,IL,False,undetermined,Other,False
@@ -1656,3 +1657,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1863,Bernard Cottrell,2016-09-06,shot,gun,65,M,,Spencer,WV,True,attack,Car,False
 1864,Steven Del Rio,2016-09-06,shot,undetermined,31,M,H,Phoenix,AZ,False,undetermined,Car,False
 1865,Larry Grant Whitehead,2016-09-06,shot,gun,70,M,,Gray,TN,False,other,Not fleeing,True
+1868,Dylan Papa,2016-09-06,shot,sword,25,M,,Phoenix,AZ,True,attack,Not fleeing,False
+1867,Robert Lee Brown,2016-09-07,shot,knife,55,M,B,Albany,GA,False,attack,Not fleeing,False
+1869,Jesse Joynt,2016-09-07,shot,undetermined,35,M,W,Titusville,FL,False,undetermined,Not fleeing,False
