@@ -1619,7 +1619,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1811,Elias Portillo,2016-08-24,shot,gun,,M,,Oak Cliff,TX,False,attack,Foot,False
 1813,William Charbonneau,2016-08-24,shot,gun,43,M,W,Orlando,FL,True,other,Not fleeing,False
 1814,Jeffrey Darren Hosea,2016-08-24,shot,gun,53,M,W,Shelbyville,TN,False,attack,Not fleeing,False
-1815,Jerry Lee Jackson,2016-08-25,shot and Tasered,knife,63,M,,Fort Collins,CO,False,other,Not fleeing,False
+1815,Jerry Lee Jackson,2016-08-25,shot and Tasered,knife,63,M,,Fort Collins,CO,False,other,Not fleeing,True
 1816,Donta Taylor,2016-08-25,shot,gun,31,M,B,Compton,CA,False,attack,Foot,False
 1817,Matthew Gibbon,2016-08-26,shot,gun,41,M,W,Las Vegas,NV,False,attack,Foot,False
 1820,Angel Torres Jr.,2016-08-27,shot,toy weapon,26,M,H,Phoenix,AZ,False,attack,Not fleeing,False
@@ -1674,4 +1674,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1884,TK TK,2016-09-15,shot,gun,,M,,Phoenix,AZ,False,other,Other,False
 1885,TK TK,2016-09-15,shot and Tasered,gun,,M,,Austin,TX,False,attack,Foot,False
 1886,Joseph Allen Schlosser,2016-09-15,shot,gun,69,M,W,Weeki Wachi,FL,True,other,Not fleeing,False
-1887,TK TK,2016-09-16,shot,gun,,M,,Big Bear,MO,False,attack,Not fleeing,False
+1887,Thomas P. Mone,2016-09-16,shot,gun,46,M,,Big Bear,MO,False,attack,Not fleeing,False
