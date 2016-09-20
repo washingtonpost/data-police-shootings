@@ -1576,7 +1576,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1770,James Quealy,2016-08-05,shot,gun,59,M,,Beaver Dam,WI,True,attack,Not fleeing,False
 1763,Jawari Porter,2016-08-07,shot,knife,25,M,B,Cincinnati,OH,True,attack,Not fleeing,False
 1764,Earl Pinckney,2016-08-07,shot,knife,20,M,B,Harrisburg,PA,True,other,Not fleeing,False
-1833,James Jennings,2016-08-08,shot,gun,69,M,,Little Mountain,SC,True,attack,Not fleeing,False
+1833,James W. Jennings,2016-08-08,shot,gun,69,M,,Little Mountain,SC,True,attack,Not fleeing,False
 1766,Darnell Wicker,2016-08-08,shot,knife,57,M,B,Louisville,KY,False,other,Not fleeing,True
 1771,Michael McClurg,2016-08-08,shot,gun,56,M,,Citrus Heights,CA,False,attack,Not fleeing,False
 1773,James Eugene Burgess,2016-08-08,shot,gun,64,M,W,Wilkesboro,NC,False,attack,Not fleeing,False
@@ -1682,7 +1682,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1893,Lucas Anderson,2016-09-16,shot,knife,29,M,,Owensboro,KY,False,attack,Not fleeing,False
 1890,TK TK,2016-09-17,shot,hatchet,,M,,Beaumont,CA,False,other,Not fleeing,False
 1894,Nicholas Glenn,2016-09-17,shot,gun,25,M,B,Philadelphia,PA,False,attack,Foot,False
-1895,TK TK,2016-09-17,shot,gun,,M,W,Huntsville,AL,False,attack,Other,False
-1896,TK TK,2016-09-17,shot,gun,,M,,Rutherfordton,NC,True,attack,Not fleeing,False
+1895,Robert Young,2016-09-17,shot,toy weapon,45,M,W,Huntsville,AL,False,attack,Other,False
+1896,William Joseph Ryan,2016-09-17,shot,gun,55,M,,Rutherfordton,NC,True,attack,Not fleeing,False
 1898,Dahir Adan,2016-09-17,shot,knife,22,M,O,St. Cloud,MN,False,attack,Not fleeing,False
-1891,TK TK,2016-09-18,shot,gun,61,M,,Akron,OH,False,other,Not fleeing,False
+1891,Philip Hasan,2016-09-18,shot,gun,61,M,B,Akron,OH,False,other,Not fleeing,False
