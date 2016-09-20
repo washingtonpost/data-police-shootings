@@ -1686,3 +1686,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1896,William Joseph Ryan,2016-09-17,shot,gun,55,M,,Rutherfordton,NC,True,attack,Not fleeing,False
 1898,Dahir Adan,2016-09-17,shot,knife,22,M,O,St. Cloud,MN,False,attack,Not fleeing,False
 1891,Philip Hasan,2016-09-18,shot,gun,61,M,B,Akron,OH,False,other,Not fleeing,False
+1900,Michelle Miller,2016-09-19,shot,gun,46,F,,Spring,TX,True,attack,Not fleeing,False
+1901,Joshua Scott,2016-09-19,shot,gun,22,M,W,Port St. Lucie,FL,True,attack,Not fleeing,False
+1902,Jeremy Ray Swenson,2016-09-19,shot,unknown weapon,30,M,,Logan Canyon,UT,True,other,Not fleeing,False
+1899,Charles Dove,2016-09-20,shot,gun,35,M,,Decatur County,TN,False,other,Car,False
+1903,TK TK,2016-09-20,shot,unknown weapon,,M,,Mashantucket,CT,False,other,Not fleeing,False
