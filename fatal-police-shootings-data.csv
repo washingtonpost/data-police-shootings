@@ -1511,7 +1511,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1700,Abraham Smith,2016-07-08,shot,knife,30,M,W,Tucson,AZ,True,other,Not fleeing,False
 1701,Andre Johnson,2016-07-09,shot,gun,40,M,B,Broken Bow,OK,False,attack,Car,False
 1702,Alva Burnett Braziel,2016-07-10,shot,gun,38,M,B,Houston,TX,False,other,Not fleeing,True
-1703,Joseph Mann,2016-07-11,shot,knife,50,M,B,Sacramento,CA,True,other,Not fleeing,False
+1703,Joseph Mann,2016-07-11,shot,knife,50,M,B,Sacramento,CA,True,other,Not fleeing,True
 1704,Jason Brooks,2016-07-11,shot,gun,41,M,B,East St. Louis,IL,False,attack,Not fleeing,False
 1705,Pablo Medina,2016-07-11,shot,gun,41,M,H,Romulus,MI,False,attack,Not fleeing,False
 1706,Orville Edwards,2016-07-11,shot,gun,39,M,B,New York,NY,False,attack,Foot,False
@@ -1687,7 +1687,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1898,Dahir Adan,2016-09-17,shot,knife,22,M,O,St. Cloud,MN,False,attack,Not fleeing,False
 1891,Philip Hasan,2016-09-18,shot,gun,61,M,B,Akron,OH,False,other,Not fleeing,False
 1900,Michelle Miller,2016-09-19,shot,gun,46,F,,Spring,TX,True,attack,Not fleeing,False
-1901,Joshua Scott,2016-09-19,shot,gun,22,M,W,Port St. Lucie,FL,True,attack,Not fleeing,False
-1902,Jeremy Ray Swenson,2016-09-19,shot,unknown weapon,30,M,,Logan Canyon,UT,True,other,Not fleeing,False
+1902,Jeremy Ray Swenson,2016-09-19,shot,unknown weapon,30,M,W,Logan Canyon,UT,True,other,Not fleeing,False
 1899,Charles Dove,2016-09-20,shot,gun,35,M,,Decatur County,TN,False,other,Car,False
+1901,Joshua Scott,2016-09-20,shot,gun,22,M,W,Port St. Lucie,FL,True,attack,Not fleeing,False
 1903,TK TK,2016-09-20,shot,unknown weapon,,M,,Mashantucket,CT,False,other,Not fleeing,False
