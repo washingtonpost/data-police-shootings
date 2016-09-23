@@ -1693,6 +1693,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1901,Joshua Scott,2016-09-20,shot,gun,22,M,W,Port St. Lucie,FL,True,attack,Not fleeing,False
 1903,TK TK,2016-09-20,shot,unknown weapon,,M,,Mashantucket,CT,False,other,Not fleeing,False
 1904,Keith Lamont Scott,2016-09-20,shot,gun,43,M,B,Charlotte,NC,False,undetermined,Not fleeing,True
-1905,Joe Sandy Duke,2016-09-20,shot,gun,43,M,W,Talbot's Corner,TN,False,attack,Not fleeing,False
-1906,TK TK,2016-09-20,shot,gun,,M,,Westminster,CO,False,other,Foot,False
-1908,TK TK,2016-09-21,shot,unarmed,23,M,,Louisville,NE,False,undetermined,Not fleeing,False
+1905,Sandy Joe Duke,2016-09-20,shot,gun,43,M,W,Nashville,TN,False,attack,Not fleeing,False
+1906,Thomas Tucker,2016-09-20,shot,gun,49,M,W,Westminster,CO,False,other,Foot,False
+1908,Austin M. Baier,2016-09-21,shot,unarmed,23,M,,Louisville,NE,False,undetermined,Not fleeing,False
+1909,TK TK,2016-09-23,shot,undetermined,41,M,,Fair Oaks,CA,False,attack,Foot,False
