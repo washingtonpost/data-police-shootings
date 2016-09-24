@@ -9,6 +9,8 @@ Fill in the API key in the API_KEY field below.
 """
 
 import urllib.request
+import urllib.error
+from time import sleep
 import csv
 import ast
 
@@ -16,6 +18,7 @@ import ast
 API_KEY = '728083e8ebb522935279c284a900a4cd9d491f12'
 LOCATION_CSV = './places.csv'
 SHOOTINGS_CSV = '../fatal-police-shootings-data.csv'
+OUTPUT_CSV = '../shootings_with_population_data.csv'
 REPORT_YEAR = 2010
 
 class Census:
@@ -30,9 +33,15 @@ class Census:
             query.append(item)
         add_url = '&'.join(query)
         url = base_url + add_url
-        print(url)
         req = urllib.request.Request(url)
-        response = urllib.request.urlopen(req)
+
+        try:
+            response = urllib.request.urlopen(req)
+        except urllib.error.URLError:
+            # Might be going to fast. Sleep a few seconds and give it another shot.
+            print(" -> Could not connect to Census Bureau. Sleeping for 15 seconds and trying again.")
+            sleep(15)
+            response = urllib.request.urlopen(req)
 
         return response.read()
 
@@ -75,16 +84,9 @@ class CSV:
                             'asian_population',
                             'hispanic_population']
 
-        with open('./output.csv', 'w') as csvoutput:
+        with open(OUTPUT_CSV, 'w') as csvoutput:
             writer = csv.writer(csvoutput, lineterminator='\n')
             all = []
-
-            for location, race_population in population_data.items():
-                for race, population in race_population.items():
-
-                    output_text = "{0}: {1}".format(race, population)
-
-                    print("Location: {0}, {1}".format(location, output_text))
 
             row_0 = next(self.csv_file)
 
@@ -98,7 +100,24 @@ class CSV:
                 row.append(None)
                 all.append(row)
 
-            #writer.writerows(all)
+            for row in all:  # add the pop data to new table
+                for location, race_population in population_data.items():
+                    city = location.split(',')[0]
+                    state = location.split(',')[1]
+
+                    if city == row[8] and state == row[9]:  # found a match!
+
+                        try:
+                            row[14] = race_population['total_population']  # there already seems to be a cell here.
+                            row.append(race_population['white_population'])
+                            row.append(race_population['black_population'])
+                            row.append(race_population['asian_population'])
+                            row.append(race_population['hispanic_population'])
+
+                        except KeyError:
+                            print("Could not find population data for {}".format(location))
+
+            writer.writerows(all)
 
 
 def count_pop_county(county_result):
@@ -126,6 +145,8 @@ def get_total_population(location, census):
     _city = location[0].strip()
     _state = location[1].strip()
 
+    error_status = False
+
     results = {}
 
     # Get city FIPS code from places.csv
@@ -142,6 +163,7 @@ def get_total_population(location, census):
     places = csv.reader(file)
 
     for row in places:
+        error_status = False
         if row_index > 0:
             state_name = row[0].strip()
             state_fips = row[1].strip()
@@ -156,11 +178,22 @@ def get_total_population(location, census):
 
                 for re, value in reports.items():  # Get the population for each race
                     city = census.get(['{}'.format(value)], ['{}'.format(search_string)])
-                    _result = ast.literal_eval(city.decode('utf8'))[1]
 
-                    results[re] = _result[0]
+                    if len(city) > 0:
+                        _result = ast.literal_eval(city.decode('utf8'))[1]
+
+                        results[re] = _result[0]
+
+                    else:
+                        error_status = True
+                        results[re] = None  # Couldn't get population
 
         row_index += 1
+
+    if error_status == False:
+        print(" -> Success\n")
+    else:
+        print(" -> Failure\n")
 
     return results
 
@@ -181,13 +214,11 @@ def get_populations():
 
     for location in locations:
         if location_index > 0:
-            if test_counter < 10:  # TODO: Remove this
-                print(location)
-                location_name = '{0},{1}'.format(location[0], location[1])
-                results = get_total_population(location, c)
-                population_results[location_name] = results
+            print("Parsing {0}, {1}".format(location[0], location[1]))
+            location_name = '{0},{1}'.format(location[0], location[1])
+            results = get_total_population(location, c)
+            population_results[location_name] = results
 
-                test_counter += 1
         location_index += 1
 
     return population_results
