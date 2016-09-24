@@ -1,5 +1,11 @@
 """
 Gets population of us cities in police shootings file
+
+Go to the US Census Bureau and sign up for an API key (there are only two fields to worry about):
+
+http://api.census.gov/data/key_signup.html
+
+Fill in the API key in the API_KEY field below.
 """
 
 import urllib.request
@@ -9,13 +15,14 @@ import ast
 
 API_KEY = '728083e8ebb522935279c284a900a4cd9d491f12'
 LOCATION_CSV = './places.csv'
-
+SHOOTINGS_CSV = '../fatal-police-shootings-data.csv'
+REPORT_YEAR = 2010
 
 class Census:
     def __init__(self, key):
         self.key = key
 
-    def get(self, fields, geo, year=2010, dataset='sf1'):
+    def get(self, fields, geo, year=REPORT_YEAR, dataset='sf1'):
         fields = [','.join(fields)]
         base_url = 'http://api.census.gov/data/%s/%s?key=%s&get=' % (str(year), dataset, self.key)
         query = fields
@@ -34,11 +41,12 @@ class CSV:
     """
     Read and write to and from the CSV file
     """
-    def __init__(self, csv):
-        file = open(csv)
+    def __init__(self, csv_file):
+        file = open(csv_file)
         self.csv_file = csv.reader(file)
+        self.writer = csv.writer(file)
 
-    def build_cityState_list(self):
+    def build_city_state_list(self):
         """
         Build city, state list. The city is in row 8, and the state is in row 9
         :return: a list containing (city, state)
@@ -55,6 +63,43 @@ class CSV:
 
         return city_states
 
+    def write_new_columns(self, population_data):
+        """
+        Write new columns to the CSV after getting races per city.
+        :return: None
+        """
+
+        new_column_names = ['total_population',
+                            'white_population',
+                            'black_population',
+                            'asian_population',
+                            'hispanic_population']
+
+        with open('./output.csv', 'w') as csvoutput:
+            writer = csv.writer(csvoutput, lineterminator='\n')
+            all = []
+
+            for location, race_population in population_data.items():
+                for race, population in race_population.items():
+
+                    output_text = "{0}: {1}".format(race, population)
+
+                    print("Location: {0}, {1}".format(location, output_text))
+
+            row_0 = next(self.csv_file)
+
+            for column_name in new_column_names:
+                row_0.append(column_name)
+
+            all.append(row_0)
+
+            for row in self.csv_file:
+
+                row.append(None)
+                all.append(row)
+
+            #writer.writerows(all)
+
 
 def count_pop_county(county_result):
     count = 0
@@ -70,7 +115,7 @@ def count_pop_city(city_result):
     return count
 
 
-def get_population_value(location, census):
+def get_total_population(location, census):
     """
     Returns the population for a given city and state
     :param location: Tuple denoting (city, state)
@@ -78,33 +123,74 @@ def get_population_value(location, census):
     :return: Int -> population of city, state
     """
     row_index = 0  # for skipping the places.csv header
-    city_fips_to_search = None
-    state_fips_to_search = None
-    _city = location[0]
-    _state = location[1]
+    _city = location[0].strip()
+    _state = location[1].strip()
+
+    results = {}
 
     # Get city FIPS code from places.csv
+
+    reports = {
+        'total_population':     'P0080001',
+        'white_population':     'P0080003',
+        'black_population':     'P0080004',
+        'asian_population':     'P0080006',
+        'hispanic_population':  'P0090002'
+    }  # Total, White, Black, Asian and Hispanic
 
     file = open(LOCATION_CSV)
     places = csv.reader(file)
 
     for row in places:
         if row_index > 0:
-            state_name = row[0]
-            state_fips = row[1]
-            city_fips = row[2]
-            city_name = row[3]
-            county_name = row[4]
+            state_name = row[0].strip()
+            state_fips = row[1].strip()
+            city_fips = row[2].strip()
+            city_name = row[3].strip()
 
-            if city_name == _city:
+            if city_name == _city and state_name == _state:
                 city_fips_to_search = city_fips
                 state_fips_to_search = state_fips
 
+                search_string = 'in=state:{0}&for=place:{1}'.format(state_fips_to_search, city_fips_to_search)
+
+                for re, value in reports.items():  # Get the population for each race
+                    city = census.get(['{}'.format(value)], ['{}'.format(search_string)])
+                    _result = ast.literal_eval(city.decode('utf8'))[1]
+
+                    results[re] = _result[0]
+
         row_index += 1
 
-    city = c.get(['P0010001'], 'in=state:{}'.format(state_fips_to_search), 'for=place:{}'.format(city_fips_to_search))
+    return results
 
-    return city
+
+def get_populations():
+    """
+    Gets population per race, per city
+    :return: A dict of dicts containing populatin per race, per city
+    """
+
+    population_results = {}
+    location_index = 0
+    c = Census(API_KEY)
+    shooting_data = CSV(SHOOTINGS_CSV)
+    locations = shooting_data.build_city_state_list()
+
+    test_counter = 0
+
+    for location in locations:
+        if location_index > 0:
+            if test_counter < 10:  # TODO: Remove this
+                print(location)
+                location_name = '{0},{1}'.format(location[0], location[1])
+                results = get_total_population(location, c)
+                population_results[location_name] = results
+
+                test_counter += 1
+        location_index += 1
+
+    return population_results
 
 
 def main():
@@ -113,23 +199,10 @@ def main():
     :return: None
     """
 
-    c = Census(API_KEY)
-    state = c.get(['P0010001'], ['for=state:25'])
-    # url: http://api.census.gov/data/2010/sf1?key=<mykey>&get=P0010001&for=state:25
-    county = c.get(['P0010001'], ['in=state:25', 'for=county:*'])
-    # url: http://api.census.gov/data/2010/sf1?key=<mykey>&get=P0010001&in=state:25&for=county:*
-    city = c.get(['P0010001'], ['in=state:25', 'for=place:*'])
-    # url: http://api.census.gov/data/2010/sf1?key=<mykey>&get=P0010001&in=state:25&for=place:*
+    results = get_populations()
 
-    # Cast result to list type
-    #state_result = ast.literal_eval(state.decode('utf8'))
-    #county_result = ast.literal_eval(county.decode('utf8'))
-    city_result = ast.literal_eval(city.decode('utf8'))
-
-    print(city_result[0])
-    for i in city_result:
-        if i[2] == '76450':
-            input("Graham: {}".format(i))
+    test = CSV(SHOOTINGS_CSV)
+    test.write_new_columns(results)
 
 if __name__ == '__main__':
     main()
