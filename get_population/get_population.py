@@ -8,6 +8,7 @@ import ast
 
 
 API_KEY = '728083e8ebb522935279c284a900a4cd9d491f12'
+LOCATION_CSV = './places.csv'
 
 
 class Census:
@@ -76,11 +77,34 @@ def get_population_value(location, census):
     :param census: Census object
     :return: Int -> population of city, state
     """
+    row_index = 0  # for skipping the places.csv header
+    city_fips_to_search = None
+    state_fips_to_search = None
+    _city = location[0]
+    _state = location[1]
 
-    city = location[0]
-    state = location[1]
+    # Get city FIPS code from places.csv
 
-    city = c.get(['P0010001'], 'in=state:{}'.format(state), 'for=place:{}'.format(city))
+    file = open(LOCATION_CSV)
+    places = csv.reader(file)
+
+    for row in places:
+        if row_index > 0:
+            state_name = row[0]
+            state_fips = row[1]
+            city_fips = row[2]
+            city_name = row[3]
+            county_name = row[4]
+
+            if city_name == _city:
+                city_fips_to_search = city_fips
+                state_fips_to_search = state_fips
+
+        row_index += 1
+
+    city = c.get(['P0010001'], 'in=state:{}'.format(state_fips_to_search), 'for=place:{}'.format(city_fips_to_search))
+
+    return city
 
 
 def main():
