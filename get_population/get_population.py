@@ -15,7 +15,7 @@ import csv
 import ast
 
 
-API_KEY = '728083e8ebb522935279c284a900a4cd9d491f12'
+API_KEY = '[PUT YOUR API KEY HERE]'
 LOCATION_CSV = './places.csv'
 SHOOTINGS_CSV = '../fatal-police-shootings-data.csv'
 OUTPUT_CSV = '../shootings_with_population_data.csv'
