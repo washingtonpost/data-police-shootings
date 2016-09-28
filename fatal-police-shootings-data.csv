@@ -1687,7 +1687,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1896,William Joseph Ryan,2016-09-17,shot,gun,55,M,,Rutherfordton,NC,True,attack,Not fleeing,False
 1898,Dahir Adan,2016-09-17,shot,knife,22,M,O,St. Cloud,MN,False,attack,Not fleeing,False
 1891,Philip Hasan,2016-09-18,shot,gun,61,M,B,Akron,OH,False,other,Not fleeing,False
-1900,Michelle Miller,2016-09-19,shot,gun,46,F,,Spring,TX,True,attack,Not fleeing,False
+1900,Michelle Miller,2016-09-19,shot,gun,46,F,W,Spring,TX,True,attack,Not fleeing,False
 1902,Jeremy Ray Swenson,2016-09-19,shot,unknown weapon,30,M,W,Logan Canyon,UT,True,other,Not fleeing,False
 1907,Gary Don Lafon,2016-09-19,shot,gun,56,M,W,Wood County,TX,True,attack,Not fleeing,False
 1899,Charles Dove,2016-09-20,shot,gun,35,M,,Decatur County,TN,False,other,Car,False
@@ -1698,10 +1698,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1906,Thomas Tucker,2016-09-20,shot,gun,49,M,W,Westminster,CO,False,other,Foot,False
 1908,Austin M. Baier,2016-09-21,shot,unarmed,23,M,,Louisville,NE,False,undetermined,Not fleeing,False
 1909,Jesse Ataway,2016-09-23,shot,undetermined,41,M,W,Fair Oaks,CA,False,attack,Foot,False
+1914,Oddis Bernard Colvin,2016-09-23,shot,vehicle,33,M,B,Pikesville,MD,False,other,Not fleeing,False
 1915,Christopher Contreras,2016-09-23,shot,gun,30,M,,San Antonio,TX,False,other,Foot,False
-1914,"Oddis Bernard Colvin, Jr.",2016-09-24,shot,vehicle,33,M,B,Pikesville,MD,False,other,Not fleeing,False
 1910,Cody Lafont,2016-09-25,shot,undetermined,25,M,,Claremont,NH,False,undetermined,Not fleeing,False
 1911,Anthony Ray Bauer,2016-09-26,shot,gun,52,,W,Garden City,ID,False,attack,Other,False
 1912,Leeland White,2016-09-26,shot,gun,32,M,W,Little Rock,AR,True,other,Not fleeing,False
-1916,Nathan Desai,2016-09-26,shot,gun,,M,W,Houston,TX,False,attack,Not fleeing,False
+1916,Nathan DeSai,2016-09-26,shot,gun,46,M,W,Houston,TX,False,attack,Not fleeing,False
 1917,TK TK,2016-09-26,shot,gun,,M,,Burnsville,MN,True,other,Not fleeing,True
