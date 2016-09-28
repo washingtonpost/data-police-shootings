@@ -590,7 +590,7 @@ AK,2,1560,Aleneva ,Kodiak Island Borough
 AK,2,1860,Allakaket ,Yukon-Koyukuk Census Area
 AK,2,1970,Ambler ,Northwest Arctic Borough
 AK,2,2080,Anaktuvuk Pass ,North Slope Borough
-AK,2,3000,Anchorage municipality,Anchorage Municipality
+AK,2,3000,Anchorage,Anchorage Municipality
 AK,2,3110,Anchor Point ,Kenai Peninsula Borough
 AK,2,3220,Anderson ,Denali Borough
 AK,2,3440,Angoon ,Hoonah-Angoon Census Area
@@ -6012,7 +6012,7 @@ ID,16,7840,Blackfoot ,Bingham County
 ID,16,8290,Blanchard ,Bonner County
 ID,16,8470,Bliss ,Gooding County
 ID,16,8560,Bloomington ,Bear Lake County
-ID,16,8830,Boise City ,Ada County
+ID,16,8830,Boise,Ada County
 ID,16,9370,Bonners Ferry ,Boundary County
 ID,16,9730,Bovill ,Latah County
 ID,16,10810,Buhl ,Twin Falls County
@@ -7861,7 +7861,7 @@ IN,18,35284,Huntingburg ,Dubois County
 IN,18,35302,Huntington ,Huntington County
 IN,18,35500,Hymera ,Sullivan County
 IN,18,35536,Idaville ,White County
-IN,18,36003,Indianapolis  (balance),Marion County
+IN,18,36003,Indianapolis,Marion County
 IN,18,36144,Indian Heights ,Howard County
 IN,18,36306,Indian Village ,St. Joseph County
 IN,18,36342,Ingalls ,Madison County
@@ -13380,8 +13380,6 @@ MI,26,24420,East Tawas ,Iosco County
 MI,26,24500,Eastwood ,Kalamazoo County
 MI,26,24520,Eaton ,Eaton County
 MI,26,24540,Eaton Rapids ,Eaton County
-MI,26,24540,Eaton Rapids ,Eaton County
-MI,26,24560,Eaton Rapids ,Eaton County
 MI,26,24580,Eau Claire village,Berrien County
 MI,26,24640,Echo ,Antrim County
 MI,26,24700,Eckford ,Calhoun County
@@ -14543,7 +14541,7 @@ MI,26,69800,Roseville ,Macomb County
 MI,26,69800,Roseville ,Macomb County
 MI,26,69820,Ross ,Kalamazoo County
 MI,26,69880,Rothbury village,Oceana County
-MI,26,70020,Roxand ,Eaton County
+MI,26,70020,Roxand Township,Eaton County
 MI,26,70040,Royal Oak ,Oakland County
 MI,26,70040,Royal Oak ,Oakland County
 MI,26,70060,Royal Oak charter ,Oakland County
@@ -14576,8 +14574,7 @@ MI,26,70940,St. Johns ,Clinton County
 MI,26,70960,St. Joseph ,Berrien County
 MI,26,70960,St. Joseph ,Berrien County
 MI,26,70980,St. Joseph charter ,Berrien County
-MI,26,71000,St. Louis ,Gratiot County
-MI,26,71000,St. Louis ,Gratiot County
+MI,26,71000,St Louis ,Gratiot County
 MI,26,71100,Salem ,Allegan County
 MI,26,71130,Salem ,Washtenaw County
 MI,26,71140,Saline ,Washtenaw County
@@ -21142,7 +21139,6 @@ NH,33,16980,Danbury ,Merrimack County
 NH,33,17140,Danville ,Rockingham County
 NH,33,17460,Deerfield ,Rockingham County
 NH,33,17780,Deering ,Hills County
-NH,33,17860,Derry ,Rockingham County
 NH,33,17940,Derry ,Rockingham County
 NH,33,18340,Dixs grant,Coos County
 NH,33,18420,Dixville ,Coos County
@@ -22138,7 +22134,6 @@ NJ,34,54570,Oceanport ,Monmouth County
 NJ,34,54660,Ogdensburg ,Sussex County
 NJ,34,54660,Ogdensburg ,Sussex County
 NJ,34,54690,Old Bridge ,Middlesex County
-NJ,34,54705,Old Bridge ,Middlesex County
 NJ,34,54810,Oldmans ,Salem County
 NJ,34,54870,Old Tappan ,Bergen County
 NJ,34,54870,Old Tappan ,Bergen County
@@ -22862,7 +22857,7 @@ NM,35,64900,Rosedale ,Grant County
 NM,35,64930,Roswell ,Chaves County
 NM,35,65000,Rowe ,San Miguel County
 NM,35,65070,Roy village,Harding County
-NM,35,65210,Ruidoso village,Lincoln County
+NM,35,65210,Ruidoso,Lincoln County
 NM,35,65280,Ruidoso Downs ,Lincoln County
 NM,35,65560,Sacramento ,Otero County
 NM,35,65840,Salem ,Do�a Ana County
@@ -39271,8 +39266,6 @@ WI,55,30575,Gratiot village,Lafayette County
 WI,55,30575,Gratiot village,Lafayette County
 WI,55,30600,Gratiot ,Lafayette County
 WI,55,31000,Green Bay ,Brown County
-WI,55,31000,Green Bay ,Brown County
-WI,55,31025,Green Bay ,Brown County
 WI,55,31075,Greenbush ,Sheboygan County
 WI,55,31100,Greenbush ,Sheboygan County
 WI,55,31125,Greendale village,Milwaukee County
@@ -39725,8 +39718,6 @@ WI,55,46925,McKinley ,Taylor County
 WI,55,46975,McMillan ,Marathon County
 WI,55,47025,Madge ,Washburn County
 WI,55,48000,Madison ,Dane County
-WI,55,48000,Madison ,Dane County
-WI,55,48025,Madison ,Dane County
 WI,55,48150,Magnolia ,Rock County
 WI,55,48175,Maiden Rock village,Pierce County
 WI,55,48175,Maiden Rock village,Pierce County

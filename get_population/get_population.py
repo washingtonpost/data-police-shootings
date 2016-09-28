@@ -15,7 +15,7 @@ import csv
 import ast
 
 
-API_KEY = '[PUT YOUR API KEY HERE]'
+API_KEY = '728083e8ebb522935279c284a900a4cd9d491f12'
 LOCATION_CSV = './places.csv'
 SHOOTINGS_CSV = '../fatal-police-shootings-data.csv'
 OUTPUT_CSV = '../shootings_with_population_data.csv'
@@ -82,7 +82,9 @@ class CSV:
                             'white_population',
                             'black_population',
                             'asian_population',
-                            'hispanic_population']
+                            'hispanic_population',
+                            'state_fips',
+                            'city_fips']
 
         with open(OUTPUT_CSV, 'w') as csvoutput:
             writer = csv.writer(csvoutput, lineterminator='\n')
@@ -108,30 +110,22 @@ class CSV:
                     if city == row[8] and state == row[9]:  # found a match!
 
                         try:
-                            row[14] = race_population['total_population']  # there already seems to be a cell here.
-                            row.append(race_population['white_population'])
-                            row.append(race_population['black_population'])
-                            row.append(race_population['asian_population'])
-                            row.append(race_population['hispanic_population'])
+                            if row[14]:
+                                row[14] = race_population['total_population'][0]  # there already seems to be a cell here.
+                            else:
+                                row.append(race_population['total_population'][0])
+                            row.append(race_population['white_population'][0])
+                            row.append(race_population['black_population'][0])
+                            row.append(race_population['asian_population'][0])
+                            row.append(race_population['hispanic_population'][0])
+                            row.append(race_population['total_population'][1])
+                            row.append(race_population['total_population'][2])
 
-                        except KeyError:
+                        except KeyError or TypeError:  # TypeError is prob. because results not found
                             print("Could not find population data for {}".format(location))
 
             writer.writerows(all)
 
-
-def count_pop_county(county_result):
-    count = 0
-    for item in county_result[1:]:
-        count += int(item[0])
-    return count
-
-
-def count_pop_city(city_result):
-    count = 0
-    for item in city_result[1:]:
-        count += int(item[0])
-    return count
 
 
 def get_total_population(location, census):
@@ -182,7 +176,7 @@ def get_total_population(location, census):
                     if len(city) > 0:
                         _result = ast.literal_eval(city.decode('utf8'))[1]
 
-                        results[re] = _result[0]
+                        results[re] = (_result[0], state_fips_to_search, city_fips_to_search)
 
                     else:
                         error_status = True
@@ -210,14 +204,15 @@ def get_populations():
     shooting_data = CSV(SHOOTINGS_CSV)
     locations = shooting_data.build_city_state_list()
 
-    test_counter = 0
+    i = 0
 
     for location in locations:
         if location_index > 0:
-            print("Parsing {0}, {1}".format(location[0], location[1]))
-            location_name = '{0},{1}'.format(location[0], location[1])
-            results = get_total_population(location, c)
-            population_results[location_name] = results
+                print("Parsing {0}, {1}".format(location[0], location[1]))
+                location_name = '{0},{1}'.format(location[0], location[1])
+                results = get_total_population(location, c)
+
+                population_results[location_name] = results
 
         location_index += 1
 
