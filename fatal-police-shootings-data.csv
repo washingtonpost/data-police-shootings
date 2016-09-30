@@ -1592,13 +1592,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1832,Eric Ortega Soto,2016-08-13,shot,vehicle,36,M,H,Hayward,CA,False,other,Car,False
 1780,Sylville Smith,2016-08-13,shot,gun,23,M,B,Milwaukee,WI,False,other,Foot,True
 1781,Ruben Horacio Strand,2016-08-13,shot,knife,38,M,,Phoenix,AZ,True,attack,Not fleeing,False
-1784,Perry Lee Heitman,2016-08-13,shot,unknown weapon,53,M,W,Lakewood,CO,False,other,Not fleeing,False
+1784,Perry Lee Heitman,2016-08-13,shot,gun,53,M,W,Lakewood,CO,False,other,Not fleeing,False
 1786,Jovany Martinez,2016-08-15,shot,metal pole,29,M,H,Falls Church,VA,True,other,Not fleeing,False
 1788,Danny Pirtle,2016-08-15,shot,gun,42,M,W,Counce,TN,False,attack,Other,False
-1792,Marcos Antonio Gastelum,2016-08-16,shot,unarmed,25,M,,Tucson,AZ,False,attack,Not fleeing,False
-1795,Kenny Watkins,2016-08-16,shot,gun,18,M,B,Los Angeles,CA,False,other,Foot,False
+1792,Marcos Antonio Gastelum,2016-08-16,shot,unarmed,25,M,H,Tucson,AZ,False,attack,Not fleeing,False
+1795,Kenney Watkins,2016-08-16,shot,gun,18,M,B,Los Angeles,CA,False,other,Foot,False
 1787,Michael S. Martin,2016-08-16,shot,gun,36,M,W,Rome,OH,False,other,Car,False
-1789,Carl Nivins,2016-08-16,shot,gun,32,M,W,Lenoir,NC,False,attack,Foot,True
+1789,Carl Nivens,2016-08-16,shot,gun,32,M,W,Lenoir,NC,False,attack,Foot,True
 1790,Larry Eugene Kurtley,2016-08-16,shot,gun,53,M,W,Apache Junction,AZ,False,other,Not fleeing,False
 1791,Colby Friday,2016-08-16,shot,gun,30,M,B,Stockton,CA,False,other,Foot,False
 1793,Omer Ismail Ali,2016-08-17,shot,piece of wood,27,M,B,Kelso,WA,False,attack,Not fleeing,False
@@ -1704,4 +1704,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1911,Anthony Ray Bauer,2016-09-26,shot,gun,52,,W,Garden City,ID,False,attack,Other,False
 1912,Leeland White,2016-09-26,shot,gun,32,M,W,Little Rock,AR,True,other,Not fleeing,False
 1916,Nathan DeSai,2016-09-26,shot,gun,46,M,W,Houston,TX,False,attack,Not fleeing,False
-1917,TK TK,2016-09-26,shot,gun,,M,,Burnsville,MN,True,other,Not fleeing,True
+1917,Jamie Joseph Lewis,2016-09-26,shot,gun,48,M,,Burnsville,MN,True,other,Not fleeing,True
+1918,Alfred Olango,2016-09-27,shot,unarmed,38,M,B,El Cajon,CA,True,attack,Not fleeing,False
+1919,Christopher Sowell,2016-09-28,shot,undetermined,32,M,,Philadelphia,PA,False,attack,Not fleeing,False
+1920,Johnathan Lozano-Murillo,2016-09-28,shot,knife,,M,H,Valdosta,GA,False,attack,Not fleeing,False
+1921,Jeffrey Clair Cave,2016-09-29,shot,gun,53,M,,Kingman,AZ,False,attack,Not fleeing,False
