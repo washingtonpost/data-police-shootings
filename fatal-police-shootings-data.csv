@@ -1692,7 +1692,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1907,Gary Don Lafon,2016-09-19,shot,gun,56,M,W,Wood County,TX,True,attack,Not fleeing,False
 1899,Charles Dove,2016-09-20,shot,gun,35,M,,Decatur County,TN,False,other,Car,False
 1901,Joshua Scott,2016-09-20,shot,gun,22,M,W,Port St. Lucie,FL,True,attack,Not fleeing,False
-1903,TK TK,2016-09-20,shot,unknown weapon,,M,,Mashantucket,CT,False,other,Not fleeing,False
+1903,Michael Goodale,2016-09-20,shot,unknown weapon,23,M,,Mashantucket,CT,False,other,Not fleeing,False
 1904,Keith Lamont Scott,2016-09-20,shot,gun,43,M,B,Charlotte,NC,False,undetermined,Not fleeing,True
 1905,Sandy Joe Duke,2016-09-20,shot,gun,43,M,W,Nashville,TN,False,attack,Not fleeing,False
 1906,Thomas Tucker,2016-09-20,shot,gun,49,M,W,Westminster,CO,False,other,Foot,False
@@ -1722,3 +1722,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1932,Robert Dapkus,2016-10-03,shot,gun,57,M,,Lynn,MA,False,attack,Not fleeing,False
 1933,John H. Fetter,2016-10-03,shot,gun,49,M,,Ventnor,NJ,False,other,Not fleeing,False
 1934,TK TK,2016-10-04,shot,gun,,M,,Statesboro,GA,False,other,Foot,False
+1935,Isaias Salgado,2016-10-04,shot,brick,31,M,H,Riverview,FL,False,attack,Foot,False
+1936,Zachary Sutton,2016-10-04,shot,gun,29,M,W,Springdale,AR,False,attack,Not fleeing,False
+1938,Dean Bruning,2016-10-04,shot,gun,51,M,,Hessel,MI,True,other,Not fleeing,False
+1937,TK TK,2016-10-05,shot,machete,,M,,Boulder,CO,False,other,Not fleeing,False
