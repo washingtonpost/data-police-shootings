@@ -1735,9 +1735,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1953,Thomas Jeffery Burns,2016-10-07,shot,gun,49,M,,Benton,AR,False,other,Not fleeing,False
 1942,TK TK,2016-10-08,shot,knife,21,M,H,Federal Way,WA,True,other,Not fleeing,False
 1947,Dylan Rogers,2016-10-08,shot,vehicle,39,M,,Wetumka,OK,False,other,Not fleeing,False
+1956,Kim Jackson,2016-10-08,shot,knife,53,F,,Modesto,CA,False,attack,Not fleeing,False
 1943,Deric J. Brown,2016-10-09,shot,gun,41,M,,Syracuse,NY,False,attack,Not fleeing,False
 1954,TK TK,2016-10-09,shot,gun,,M,,Scottsdale,AZ,False,other,Car,False
 1949,TK TK,2016-10-10,shot,gun,,M,,Lumberton,NC,False,other,Not fleeing,False
-1950,TK TK,2016-10-10,shot,undetermined,30,M,,Irvine,CA,False,undetermined,,False
-1951,TK TK,2016-10-10,shot,gun,,M,,Midland,TX,False,other,,False
+1950,Maurico Barron,2016-10-10,shot,undetermined,27,M,H,Irvine,CA,True,other,Not fleeing,False
+1951,Kheyanev Littledog,2016-10-10,shot,gun,19,M,,Midland,TX,False,other,,False
 1952,Devan Desnoyers,2016-10-10,shot,vehicle,26,M,,Westlake,OH,False,other,Car,False
+1957,TK TK,2016-10-11,shot,knife,,M,,Seattle,WA,False,other,Not fleeing,False
+1958,TK TK,2016-10-11,shot,knife,,M,,Concord,CA,False,other,Not fleeing,False
