@@ -1760,5 +1760,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1973,Keegan Schweikle,2016-10-17,shot,gun,17,M,,Benton,AR,True,attack,Foot,False
 1974,Eric St. Germain,2016-10-17,shot and Tasered,knife,39,M,,Holiday,FL,False,other,Not fleeing,False
 1972,Darius Wimberly,2016-10-18,shot,gun,,M,,Benton Harbor,MI,False,attack,Not fleeing,False
-1975,Deborah Danner,2016-10-18,shot,baseball bat,66,F,,Bronx,NY,True,attack,Not fleeing,False
-1976,TK TK,2016-10-18,shot,gun,,M,,Tulsa,OK,False,attack,Not fleeing,False
+1975,Deborah Danner,2016-10-18,shot,baseball bat,66,F,B,Bronx,NY,True,attack,Not fleeing,False
+1976,Salvador Reyes,2016-10-18,shot,gun,42,M,H,Tulsa,OK,False,attack,Not fleeing,False
+1979,Charles Stidham,2016-10-18,shot,gun,34,M,W,Paris,KY,False,attack,Not fleeing,False
+1977,Frank J. Sandor,2016-10-19,shot,vehicle,38,M,,Willoughby,OH,False,undetermined,Car,False
+1978,Anthony Garcia,2016-10-19,shot,gun,24,M,,Dallas,TX,False,other,Not fleeing,False
+1980,Jacob DePetris,2016-10-20,shot,gun,29,M,W,Jacksonville,FL,False,attack,Not fleeing,False
