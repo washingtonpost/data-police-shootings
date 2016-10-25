@@ -1768,8 +1768,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1982,Javier Munoz,2016-10-19,shot,undetermined,28,M,H,Henderson,NV,False,attack,Car,False
 1980,Jacob DePetris,2016-10-20,shot,gun,29,M,W,Jacksonville,FL,False,attack,Not fleeing,False
 1983,William Frost,2016-10-21,shot and Tasered,knife,58,M,W,Tulsa,OK,False,other,,False
-1988,TK TK,2016-10-21,shot,gun,23,F,,Muckleshoot Indian Reservation,WA,True,other,Not fleeing,False
+1988,Renee Davis,2016-10-21,shot,gun,23,F,N,Muckleshoot Indian Reservation,WA,True,other,Not fleeing,False
 1986,Nathaniel B. Dorough,2016-10-22,shot,unknown weapon,21,M,,Westover,AL,True,other,Not fleeing,False
-1984,TK TK,2016-10-23,shot,unknown weapon,,M,,Rochester,MN,False,other,Not fleeing,False
+1984,Kristofer Daniel Youngquist,2016-10-23,shot,toy weapon,45,M,,Peterson,MN,False,other,Not fleeing,False
 1985,Kenny Tomblin,2016-10-23,shot,gun,38,M,,Edmonton,KY,False,attack,Not fleeing,False
 1987,Demetrius Mac Moore,2016-10-23,shot,gun,40,M,B,Colorado Springs,CO,False,attack,Not fleeing,False
+1989,TK TK,2016-10-24,shot,gun,,M,,North St. Louis,MO,False,attack,Car,False
+1990,TK TK,2016-10-25,shot,gun,,M,B,Little Rock,AR,False,other,Not fleeing,False
