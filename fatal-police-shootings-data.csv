@@ -1701,7 +1701,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1914,Oddis Bernard Colvin,2016-09-23,shot,vehicle,33,M,B,Pikesville,MD,False,other,Not fleeing,False
 1915,Christopher Contreras,2016-09-23,shot,gun,30,M,,San Antonio,TX,False,other,Foot,False
 1910,Cody Lafont,2016-09-25,shot,undetermined,25,M,W,Claremont,NH,True,undetermined,Not fleeing,False
-1911,Anthony Ray Bauer,2016-09-26,shot,gun,52,,W,Garden City,ID,False,attack,Other,False
+1911,Anthony Ray Bauer,2016-09-26,shot,gun,52,M,W,Garden City,ID,False,attack,Other,False
 1912,Leeland White,2016-09-26,shot,gun,32,M,W,Little Rock,AR,True,other,Not fleeing,False
 1916,Nathan DeSai,2016-09-26,shot,gun,46,M,W,Houston,TX,False,attack,Not fleeing,False
 1917,Jamie Joseph Lewis,2016-09-26,shot,gun,48,M,W,Burnsville,MN,True,other,Not fleeing,True
@@ -1752,7 +1752,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1964,TK TK,2016-10-13,shot,gun,38,M,W,Kent,WA,False,other,Not fleeing,False
 1965,Chaz Logan York,2016-10-14,shot,baseball bat,23,M,,Beaumont,TX,False,attack,Not fleeing,False
 1969,George Zapata,2016-10-14,shot,gun,24,M,,Oak Cliff,TX,False,attack,Not fleeing,False
-1970,Nicholas McWherter,2016-10-14,shot,gun,26,M,,San Francisco,CA,False,attack,Not fleeing,False
+1970,Nicholas McWherter,2016-10-14,shot,gun,26,M,,San Francisco,CA,True,attack,Not fleeing,False
 1968,Daniel Richard Murphy,2016-10-15,shot,gun,38,M,,Phenix City,AL,False,attack,Not fleeing,False
 1966,Micah Dsheigh Jester,2016-10-16,shot,toy weapon,26,F,W,Austin,TX,True,attack,Not fleeing,False
 1967,Sean Arlt,2016-10-16,shot and Tasered,metal rake,32,M,,Santa Cruz,CA,True,attack,Not fleeing,False
@@ -1773,5 +1773,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1984,Kristofer Daniel Youngquist,2016-10-23,shot,toy weapon,45,M,,Peterson,MN,False,other,Not fleeing,False
 1985,Kenny Tomblin,2016-10-23,shot,gun,38,M,,Edmonton,KY,False,attack,Not fleeing,False
 1987,Demetrius Mac Moore,2016-10-23,shot,gun,40,M,B,Colorado Springs,CO,False,attack,Not fleeing,False
-1989,TK TK,2016-10-24,shot,gun,,M,,North St. Louis,MO,False,attack,Car,False
-1990,TK TK,2016-10-25,shot,gun,,M,B,Little Rock,AR,False,other,Not fleeing,False
+1989,Aaron Marquis Ballard,2016-10-24,shot,gun,19,M,,North St. Louis,MO,False,attack,Car,False
+1990,Roy Lee Richards,2016-10-25,shot,gun,46,M,B,Little Rock,AR,False,other,Not fleeing,False
+1991,Brandon Jones,2016-10-25,shot,toy weapon,25,M,,Elkton,MD,False,attack,Not fleeing,False
+1992,Chelsea Porter,2016-10-25,shot,toy weapon,25,F,W,Elkton,MD,False,attack,Not fleeing,False
+1993,Brandon Millard,2016-10-25,shot,knife,,M,,Lincoln,CA,True,other,Not fleeing,False
