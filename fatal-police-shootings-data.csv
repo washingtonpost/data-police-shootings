@@ -1777,4 +1777,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1990,Roy Lee Richards,2016-10-25,shot,gun,46,M,B,Little Rock,AR,False,other,Not fleeing,False
 1991,Brandon Jones,2016-10-25,shot,toy weapon,25,M,,Elkton,MD,False,attack,Not fleeing,False
 1992,Chelsea M. Porter,2016-10-25,shot,toy weapon,25,F,W,Elkton,MD,False,attack,Not fleeing,False
-1993,Brandon Millard,2016-10-25,shot,knife,,M,,Lincoln,CA,True,other,Not fleeing,False
+1993,Brandon Millard,2016-10-25,shot,knife,37,M,W,Lincoln,CA,True,other,Not fleeing,False
+1994,Malcolm Loren Hickson,2016-10-26,shot,gun,25,M,B,Carrollton,TX,False,other,Not fleeing,False
+1996,William Cole,2016-10-26,shot,undetermined,36,M,,Bartlesville,OK,False,attack,Not fleeing,False
+1995,TK TK,2016-10-27,shot,gun,32,M,,Billings,MT,True,other,Not fleeing,False
