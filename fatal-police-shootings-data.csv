@@ -1643,7 +1643,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1847,Joshua Quintero,2016-09-01,shot,gun,23,M,H,Florence,CA,False,other,Foot,False
 1848,TK TK,2016-09-01,shot and Tasered,pipe,,M,H,Huntington Park,CA,False,other,Not fleeing,False
 1849,Joseph Moreno,2016-09-02,shot,gun,38,M,H,Alamogordo,NM,False,attack,Foot,True
-1850,Randall Rodick,2016-09-02,shot,gun,40,M,,Parker,CO,True,attack,Car,False
+1850,Randall Rodick,2016-09-02,shot,gun,40,M,,Parker,CO,True,attack,Car,True
 1853,Michael Robert Musson,2016-09-02,shot,glass shard,22,M,W,Round Lake,IL,False,other,Not fleeing,False
 1856,Michael Thompson,2016-09-02,shot,gun,38,M,B,St. Louis,MO,False,attack,Other,False
 1854,Jerome Damon,2016-09-03,shot,undetermined,25,M,B,Atlantic City,NJ,False,undetermined,Foot,False
@@ -1774,10 +1774,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1985,Kenny Tomblin,2016-10-23,shot,gun,38,M,,Edmonton,KY,False,attack,Not fleeing,False
 1987,Demetrius Mac Moore,2016-10-23,shot,gun,40,M,B,Colorado Springs,CO,False,attack,Not fleeing,False
 1989,Aaron Marquis Ballard,2016-10-24,shot,gun,19,M,,North St. Louis,MO,False,attack,Car,False
-1990,Roy Lee Richards,2016-10-25,shot,gun,46,M,B,Little Rock,AR,False,other,Not fleeing,False
+1990,Roy Lee Richards,2016-10-25,shot,toy weapon,46,M,B,Little Rock,AR,False,other,Not fleeing,False
 1991,Brandon Jones,2016-10-25,shot,toy weapon,25,M,,Elkton,MD,False,attack,Not fleeing,False
 1992,Chelsea M. Porter,2016-10-25,shot,toy weapon,25,F,W,Elkton,MD,False,attack,Not fleeing,False
 1993,Brandon Millard,2016-10-25,shot,knife,37,M,W,Lincoln,CA,True,other,Not fleeing,False
 1994,Malcolm Loren Hickson,2016-10-26,shot,gun,25,M,B,Carrollton,TX,False,other,Not fleeing,False
-1996,William Clifford Cole,2016-10-26,shot and Tasered,undetermined,36,M,,Bartlesville,OK,False,attack,Not fleeing,False
-1995,TK TK,2016-10-27,shot,gun,32,M,,Billings,MT,True,other,Not fleeing,False
+1996,William Clifford Cole,2016-10-26,shot and Tasered,unarmed,36,M,,Bartlesville,OK,False,attack,Not fleeing,False
+1995,Kyle Killough,2016-10-27,shot,gun,32,M,,Billings,MT,True,other,Not fleeing,False
+1997,TK TK,2016-10-27,shot,gun and knife,,M,,San Antonio,TX,False,other,Not fleeing,False
+1998,TK TK,2016-10-27,shot,undetermined,,M,,Elberton,GA,False,attack,Foot,False
