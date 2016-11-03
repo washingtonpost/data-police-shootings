@@ -1737,7 +1737,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1947,Dylan Rogers,2016-10-08,shot,vehicle,39,M,,Wetumka,OK,False,other,Not fleeing,False
 1956,Kim Jackson,2016-10-08,shot,knife,53,F,,Modesto,CA,False,attack,Not fleeing,False
 1943,Deric J. Brown,2016-10-09,shot,gun,41,M,B,Syracuse,NY,False,attack,Not fleeing,False
-1954,TK TK,2016-10-09,shot,gun,,M,,Scottsdale,AZ,False,other,Car,False
+1954,Luis Michael Hoff,2016-10-09,shot,gun,40,M,,Scottsdale,AZ,True,other,Car,False
 1949,Dennis Hunt,2016-10-10,shot,gun,50,M,,Lumberton,NC,False,other,Not fleeing,False
 1950,Maurico Barron,2016-10-10,shot,undetermined,27,M,H,Irvine,CA,True,other,Not fleeing,False
 1951,Kheyanev Littledog,2016-10-10,shot,gun,19,M,,Midland,TX,False,other,,False
@@ -1793,3 +1793,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2006,Michelle Lee Shirley,2016-10-31,shot,vehicle,39,F,,Torrance,CA,True,attack,Car,False
 2007,Jose Armando Cueva,2016-10-31,shot,knife,55,M,,Chatsworth,CA,False,attack,Not fleeing,False
 2008,TK TK,2016-11-01,shot,gun,,M,,Carson City,NV,False,attack,Not fleeing,False
+2009,Wilton Henry,2016-11-02,shot,gun,59,M,W,Houma,LA,True,attack,Not fleeing,True
+2010,Jesse Jay Taylor,2016-11-02,shot,undetermined,40,M,,West Jordan,UT,False,undetermined,Other,False
+2011,Ferguson Laurent,2016-11-03,shot,gun,23,M,,Salisbury,NC,False,attack,Not fleeing,False
+2012,TK TK,2016-11-03,shot,knife,,M,,Chambersburg,PA,False,attack,Not fleeing,False
