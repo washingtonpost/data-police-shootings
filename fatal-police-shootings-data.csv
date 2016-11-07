@@ -1796,4 +1796,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2009,Wilton Henry,2016-11-02,shot,gun,59,M,W,Houma,LA,True,attack,Not fleeing,True
 2010,Jesse Jay Taylor,2016-11-02,shot,undetermined,40,M,,West Jordan,UT,False,undetermined,Other,False
 2011,Ferguson Laurent,2016-11-03,shot,gun,23,M,B,Salisbury,NC,False,attack,Not fleeing,False
-2012,TK TK,2016-11-03,shot,knife,,M,,Chambersburg,PA,False,attack,Not fleeing,False
+2012,Dennis Kirk,2016-11-03,shot,knife,64,M,,Chambersburg,PA,True,attack,Not fleeing,False
+2013,Rita King,2016-11-03,shot,gun,56,F,,Loganville,GA,False,attack,Not fleeing,False
+2015,TK TK,2016-11-04,shot,undetermined,,M,,Palm Springs,CA,False,undetermined,Not fleeing,False
+2016,Manuel Rosales,2016-11-04,shot,gun,35,M,,New York,NY,True,attack,Other,False
+2017,John Zemola,2016-11-05,shot,knife,49,M,W,Lealman,FL,True,other,Not fleeing,False
+2020,James Carl Coale,2016-11-05,shot,vehicle,36,M,W,Okemah,OK,False,other,Car,False
+2021,Russell Elswick,2016-11-05,shot,gun,56,M,,Clendenin,WV,False,attack,Not fleeing,False
+2022,TK TK,2016-11-05,shot,gun,,M,,Beaver,WA,False,undetermined,,False
+2023,TK TK,2016-11-05,shot,undetermined,,M,,Gladewater,TX,False,undetermined,Not fleeing,False
+2014,TK TK,2016-11-06,shot,undetermined,,M,H,Santa Ana,CA,False,undetermined,Not fleeing,False
+2018,Joel Keenan,2016-11-06,shot,gun,43,M,W,Aiken,SC,False,attack,Not fleeing,False
+2019,"Randy Clark, Jr.",2016-11-06,shot,vehicle,43,M,,Bowling Green,KY,False,undetermined,Car,False
+2024,Jimmy L. Testa,2016-11-06,shot,metal pipe,31,M,W,Maurice River,NJ,False,other,Foot,False
+2025,Christian Andrew Redwine,2016-11-06,shot,vehicle,17,M,W,Phenix City,AL,False,other,Car,False
