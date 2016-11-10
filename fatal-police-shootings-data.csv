@@ -1798,6 +1798,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2011,Ferguson Laurent,2016-11-03,shot,gun,23,M,B,Salisbury,NC,False,attack,Not fleeing,False
 2012,Dennis Kirk,2016-11-03,shot,knife,64,M,,Chambersburg,PA,True,attack,Not fleeing,False
 2013,Rita King,2016-11-03,shot,gun,56,F,,Loganville,GA,False,attack,Not fleeing,False
+2035,Ashley Sides,2016-11-03,shot,gun,31,F,,Brookville,OH,False,attack,Other,False
 2015,TK TK,2016-11-04,shot,undetermined,,M,,Palm Springs,CA,False,undetermined,Not fleeing,False
 2016,Manuel Rosales,2016-11-04,shot,gun,35,M,,New York,NY,True,attack,Other,False
 2017,John F. Zemola,2016-11-05,shot,knife,49,M,W,Lealman,FL,True,other,Not fleeing,False
@@ -1814,3 +1815,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2026,Darryl Chisholm,2016-11-07,shot,gun,31,M,,Philadelphia,PA,False,attack,Other,False
 2028,TK TK,2016-11-08,shot and Tasered,unarmed,,M,,Hays,KS,False,attack,Car,False
 2031,TK TK,2016-11-08,shot,gun,,M,,Denver,CO,False,attack,Other,False
+2032,TK TK,2016-11-08,shot,vehicle,,M,,Ashtabula,OH,False,attack,Car,False
+2033,TK TK,2016-11-08,shot,gun,45,M,,Azusa,CA,False,attack,Not fleeing,False
+2034,Daniel Erickson,2016-11-09,shot,gun,36,M,W,Show Low,AZ,False,attack,Not fleeing,False
