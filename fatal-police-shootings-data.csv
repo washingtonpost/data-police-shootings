@@ -1679,7 +1679,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1886,Joseph Allen Schlosser,2016-09-15,shot,gun,69,M,W,Weeki Wachi,FL,True,other,Not fleeing,False
 1887,Thomas P. Mone,2016-09-16,shot,gun,46,M,,Big Bear,MO,False,attack,Not fleeing,False
 1888,Terence Crutcher,2016-09-16,shot and Tasered,unarmed,40,M,B,Tulsa,OK,False,undetermined,Not fleeing,False
-1889,Jesse Beshaw,2016-09-16,shot,unarmed,29,M,,Winooski,VT,False,undetermined,Foot,True
+1889,Jesse Beshaw,2016-09-16,shot,unarmed,29,M,N,Winooski,VT,False,undetermined,Foot,True
 1893,Lucas Anderson,2016-09-16,shot,knife,29,M,W,Owensboro,KY,False,attack,Not fleeing,False
 1890,Robert Duh,2016-09-17,shot,hatchet,42,M,W,Beaumont,CA,False,other,Not fleeing,False
 1894,Nicholas Glenn,2016-09-17,shot,gun,25,M,B,Philadelphia,PA,False,attack,Foot,False
@@ -1818,6 +1818,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2032,TK TK,2016-11-08,shot,vehicle,,M,,Ashtabula,OH,False,attack,Car,False
 2033,TK TK,2016-11-08,shot,gun,45,M,,Azusa,CA,False,attack,Not fleeing,False
 2034,Daniel Erickson,2016-11-09,shot,gun,36,M,W,Show Low,AZ,False,attack,Not fleeing,False
-2036,TK TK,2016-11-10,shot,gun,,M,,San Angelo,TX,False,undetermined,,False
+2036,George Delacruz,2016-11-10,shot,gun,41,M,H,San Angelo,TX,False,undetermined,,False
 2038,John Pacuicrk,2016-11-10,shot,gun,53,M,W,Lakeland,FL,False,attack,Not fleeing,False
 2037,TK TK,2016-11-11,shot,,,M,,East Point,GA,False,undetermined,,False
+2039,TK TK,2016-11-11,shot,vehicle,,,,Grand Junction,CO,False,attack,Car,False
