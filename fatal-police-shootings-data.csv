@@ -1792,13 +1792,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2005,Michael Dale Vance Jr.,2016-10-30,shot,gun,38,M,,Leedey,OK,False,attack,Car,False
 2006,Michelle Lee Shirley,2016-10-31,shot,vehicle,39,F,,Torrance,CA,True,attack,Car,False
 2007,Jose Armando Cueva,2016-10-31,shot,knife,55,M,,Chatsworth,CA,False,attack,Not fleeing,False
+2035,Ashley Sides,2016-10-31,shot,gun,31,F,,Brookville,OH,False,attack,Other,False
 2008,Henry Simpson,2016-11-01,shot,gun,,M,,Carson City,NV,False,other,Not fleeing,False
 2009,Wilton Henry,2016-11-02,shot,gun,59,M,W,Houma,LA,True,attack,Not fleeing,True
 2010,Jesse Jay Taylor,2016-11-02,shot,undetermined,40,M,,West Jordan,UT,False,undetermined,Other,False
 2011,Ferguson Laurent,2016-11-03,shot,gun,23,M,B,Salisbury,NC,False,attack,Not fleeing,False
 2012,Dennis Kirk,2016-11-03,shot,knife,64,M,,Chambersburg,PA,True,attack,Not fleeing,False
 2013,Rita King,2016-11-03,shot,gun,56,F,,Loganville,GA,False,attack,Not fleeing,False
-2035,Ashley Sides,2016-11-03,shot,gun,31,F,,Brookville,OH,False,attack,Other,False
 2015,TK TK,2016-11-04,shot,undetermined,,M,,Palm Springs,CA,False,undetermined,Not fleeing,False
 2016,Manuel Rosales,2016-11-04,shot,gun,35,M,,New York,NY,True,attack,Other,False
 2017,John F. Zemola,2016-11-05,shot,knife,49,M,W,Lealman,FL,True,other,Not fleeing,False
@@ -1814,11 +1814,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2027,Joseph Newcomb,2016-11-06,shot,hammer,32,M,,Hensley,WV,False,other,Not fleeing,False
 2026,Darryl Chisholm,2016-11-07,shot,gun,31,M,,Philadelphia,PA,False,attack,Other,False
 2028,TK TK,2016-11-08,shot and Tasered,unarmed,,M,,Hays,KS,False,attack,Car,False
-2031,TK TK,2016-11-08,shot,gun,,M,,Denver,CO,False,attack,Other,False
-2032,TK TK,2016-11-08,shot,vehicle,,M,,Ashtabula,OH,False,attack,Car,False
+2031,Juan Ramos,2016-11-08,shot,gun,23,M,,Denver,CO,False,attack,Other,False
+2032,Evan Cox,2016-11-08,shot,vehicle,26,M,,Ashtabula,OH,False,attack,Car,False
 2033,TK TK,2016-11-08,shot,gun,45,M,,Azusa,CA,False,attack,Not fleeing,False
 2034,Daniel Erickson,2016-11-09,shot,gun,36,M,W,Show Low,AZ,False,attack,Not fleeing,False
 2036,George Delacruz,2016-11-10,shot,gun,41,M,H,San Angelo,TX,False,undetermined,,False
 2038,John Pacuicrk,2016-11-10,shot,gun,53,M,W,Lakeland,FL,False,attack,Not fleeing,False
-2037,TK TK,2016-11-11,shot,,,M,,East Point,GA,False,undetermined,,False
+2037,TK TK,2016-11-11,shot and Tasered,,,M,,East Point,GA,False,undetermined,,False
 2039,TK TK,2016-11-11,shot,vehicle,,,,Grand Junction,CO,False,attack,Car,False
