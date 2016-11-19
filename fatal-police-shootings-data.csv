@@ -1499,7 +1499,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1679,William Tracy Patterson,2016-07-04,shot,gun,34,M,W,North Charleston,SC,False,attack,Not fleeing,True
 1681,Anthony Nunez,2016-07-04,shot,gun,18,M,H,San Jose,CA,True,other,Not fleeing,False
 1683,Sidney Washington,2016-07-04,shot,gun,21,M,B,Washington,DC,False,attack,Not fleeing,False
-1685,TK TK,2016-07-04,shot,knife,,M,,Rosser,TX,False,other,Not fleeing,False
+1685,TK TK,2016-07-04,shot,knife,,M,,Rosser,TX,False,other,Not fleeing,True
 1680,Alton Sterling,2016-07-05,shot and Tasered,undetermined,37,M,B,Baton Rouge,LA,False,undetermined,Not fleeing,True
 1692,Joshua Bolster,2016-07-05,shot,undetermined,29,M,W,Salem,OR,False,undetermined,,False
 1693,Sam Newby,2016-07-05,shot,undetermined,49,M,W,Temecula,CA,False,other,Car,False
@@ -1832,5 +1832,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2049,Robert Daffern,2016-11-15,shot,gun,37,M,,Webster,TX,False,attack,Not fleeing,False
 2047,Michael Cookson,2016-11-15,shot,knife,48,M,,Temecula,CA,False,other,Not fleeing,False
 2050,TK TK,2016-11-16,shot,machete,,M,,Whittier,CA,False,other,Not fleeing,False
-2051,"Edmund Leighty, Sr.",2016-11-16,shot,gun,56,M,W,Redding,CA,False,other,Not fleeing,False
-2052,Joseph Leland Fletcher,2016-11-18,shot,undetermined,35,M,,Fort Walton Beach,FL,False,undetermined,Not fleeing,False
+2051,Edmund Leighty,2016-11-16,shot,gun,56,M,W,Redding,CA,False,other,Not fleeing,False
+2052,Joseph Leland Fletcher,2016-11-18,shot and Tasered,gun,35,M,W,Fort Walton Beach,FL,False,other,Not fleeing,False
