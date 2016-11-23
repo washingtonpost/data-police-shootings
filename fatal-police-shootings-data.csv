@@ -1799,24 +1799,24 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2011,Ferguson Laurent,2016-11-03,shot,gun,23,M,B,Salisbury,NC,False,attack,Not fleeing,False
 2012,Dennis Kirk,2016-11-03,shot,knife,64,M,,Chambersburg,PA,True,attack,Not fleeing,False
 2013,Rita King,2016-11-03,shot,gun,56,F,,Loganville,GA,False,attack,Not fleeing,False
-2015,TK TK,2016-11-04,shot,undetermined,,M,,Palm Springs,CA,False,undetermined,Not fleeing,False
+2015,Abraham Ortiz,2016-11-04,shot,undetermined,26,M,H,Palm Springs,CA,False,undetermined,Not fleeing,False
 2016,Manuel Rosales,2016-11-04,shot,gun,35,M,,New York,NY,True,attack,Other,False
 2017,John F. Zemola,2016-11-05,shot,knife,49,M,W,Lealman,FL,True,other,Not fleeing,False
 2020,James Carl Coale,2016-11-05,shot,vehicle,36,M,W,Okemah,OK,False,other,Car,False
 2021,Russell Elswick,2016-11-05,shot,gun,56,M,,Clendenin,WV,False,attack,Not fleeing,False
 2022,Edward Lowell Hills,2016-11-05,shot,gun,59,M,,Beaver,WA,False,undetermined,,False
 2023,Patrick Wise,2016-11-05,shot,undetermined,34,M,W,Gladewater,TX,False,undetermined,Other,True
-2014,TK TK,2016-11-06,shot and Tasered,undetermined,,M,H,Santa Ana,CA,False,undetermined,Not fleeing,False
+2014,David Contreras,2016-11-06,shot and Tasered,undetermined,33,M,H,Santa Ana,CA,False,undetermined,Not fleeing,False
 2018,Joel B. Keenan,2016-11-06,shot,gun,43,M,W,Aiken,SC,False,attack,Not fleeing,False
 2019,Randy J. Clark,2016-11-06,shot and Tasered,vehicle,43,M,,Bowling Green,KY,False,undetermined,Car,False
 2024,Jimmy L. Testa,2016-11-06,shot,metal pipe,31,M,W,Maurice River,NJ,False,other,Foot,False
 2025,Christian Andrew Redwine,2016-11-06,shot,vehicle,17,M,W,Phenix City,AL,False,other,Car,False
 2027,Joseph Newcomb,2016-11-06,shot,hammer,32,M,,Hensley,WV,False,other,Not fleeing,False
 2026,Darryl Chisholm,2016-11-07,shot,gun,31,M,,Philadelphia,PA,False,attack,Other,False
-2028,TK TK,2016-11-08,shot and Tasered,unarmed,,M,,Hays,KS,False,attack,Car,False
+2028,Kenton Kobza,2016-11-08,shot and Tasered,unarmed,19,M,W,Hays,KS,False,attack,Car,False
 2031,Juan Ramos,2016-11-08,shot,gun,23,M,,Denver,CO,False,attack,Other,False
 2032,Evan Cox,2016-11-08,shot,vehicle,26,M,,Ashtabula,OH,False,attack,Car,False
-2033,TK TK,2016-11-08,shot,gun,45,M,,Azusa,CA,False,attack,Not fleeing,False
+2033,Carlos Mendez,2016-11-08,shot,gun,45,M,H,Azusa,CA,False,attack,Not fleeing,False
 2034,Daniel Erickson,2016-11-09,shot,gun,36,M,W,Show Low,AZ,False,attack,Not fleeing,False
 2036,George Delacruz,2016-11-10,shot,gun,41,M,H,San Angelo,TX,False,undetermined,,False
 2038,John Pacuicrk,2016-11-10,shot,gun,53,M,W,Lakeland,FL,False,attack,Not fleeing,False
@@ -1831,7 +1831,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2048,Rasheem Singletary,2016-11-15,shot,vehicle,25,M,,York County,PA,False,other,Car,False
 2049,Robert Daffern,2016-11-15,shot,gun,37,M,,Webster,TX,False,attack,Not fleeing,False
 2047,Michael Cookson,2016-11-15,shot,knife,48,M,,Temecula,CA,False,other,Not fleeing,False
-2050,TK TK,2016-11-16,shot,machete,,M,,Whittier,CA,False,other,Not fleeing,False
+2050,Jose George Anthony Franco,2016-11-16,shot,machete,37,M,H,Whittier,CA,False,other,Not fleeing,False
 2051,Edmund Leighty,2016-11-16,shot,gun,56,M,W,Redding,CA,False,other,Not fleeing,False
 2052,Joseph Leland Fletcher,2016-11-18,shot and Tasered,gun,35,M,W,Fort Walton Beach,FL,False,other,Not fleeing,False
 2056,Samson Fleurant,2016-11-18,shot and Tasered,machete,25,M,B,Port St. Lucie,FL,False,other,Not fleeing,False
@@ -1847,3 +1847,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2060,George Bush III,2016-11-21,shot,gun,19,M,B,St. Louis,MO,False,attack,Foot,False
 2064,Michael Giles,2016-11-21,shot,knife,27,M,,Lompoc,CA,True,other,Foot,False
 2065,TK TK,2016-11-22,shot,gun,,M,,La Mirada,CA,False,attack,Not fleeing,False
+2066,TK TK,2016-11-22,shot,gun,36,M,,Baytown,TX,False,other,Car,False
+2067,Frank Nathaniel Clark,2016-11-22,shot,undetermined,34,M,B,Durham,NC,False,undetermined,Not fleeing,False
+2068,Tai Upchurch,2016-11-22,shot,gun,,M,,Newark,NJ,False,attack,Not fleeing,False
