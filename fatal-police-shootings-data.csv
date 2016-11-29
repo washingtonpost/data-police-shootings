@@ -1668,7 +1668,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1876,Travis Ell,2016-09-09,shot,unknown weapon,64,M,W,Auburn,WA,True,other,Not fleeing,False
 1879,Gregory Frazier,2016-09-09,shot,knife,55,M,B,Pompano Beach,FL,False,other,Not fleeing,False
 1877,Dennis Claude Stanley,2016-09-10,shot,toy weapon,69,M,W,Montcalm,WV,False,other,Not fleeing,False
-1897,Adrian Joseph Shaffer,2016-09-10,shot,gun,37,M,W,Boulder,CO,False,attack,Not fleeing,False
+1897,Adrian Joseph Shaffer,2016-09-10,shot,gun,37,M,W,Boulder,CO,False,attack,Not fleeing,True
 1875,Terrence Sterling,2016-09-11,shot,motorcycle,31,M,B,Washington,DC,False,attack,Other,False
 1880,Eugene Craig,2016-09-12,shot,gun,86,M,,Saratoga,CA,False,other,Not fleeing,False
 1881,Markell Bivins,2016-09-12,shot,undetermined,25,M,B,Cedar Rapids,IA,False,undetermined,Not fleeing,False
@@ -1683,14 +1683,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1893,Lucas Anderson,2016-09-16,shot,knife,29,M,W,Owensboro,KY,False,attack,Not fleeing,False
 1890,Robert Duh,2016-09-17,shot,hatchet,42,M,W,Beaumont,CA,False,other,Not fleeing,False
 1894,Nicholas Glenn,2016-09-17,shot,gun,25,M,B,Philadelphia,PA,False,attack,Foot,False
-1895,Robert Young,2016-09-17,shot,toy weapon,45,M,W,Huntsville,AL,False,attack,Other,False
+1895,Robert Young,2016-09-17,shot,toy weapon,45,M,W,Huntsville,AL,False,attack,Other,True
 1896,William Joseph Ryan,2016-09-17,shot,gun,55,M,,Rutherfordton,NC,True,attack,Not fleeing,False
 1898,Dahir Adan,2016-09-17,shot,knife,22,M,O,St. Cloud,MN,False,attack,Not fleeing,False
 1891,Philip Hasan,2016-09-18,shot,gun,61,M,B,Akron,OH,False,other,Not fleeing,False
-1900,Michelle Miller,2016-09-19,shot,gun,46,F,W,Spring,TX,True,attack,Not fleeing,False
+1900,Michelle Miller,2016-09-19,shot,gun,46,F,W,Spring,TX,True,attack,Not fleeing,True
 1902,Jeremy Ray Swenson,2016-09-19,shot,unknown weapon,30,M,W,Logan Canyon,UT,True,other,Not fleeing,False
 1907,Gary Don Lafon,2016-09-19,shot,gun,56,M,W,Wood County,TX,True,attack,Not fleeing,False
-1899,Charles Dove,2016-09-20,shot,gun,35,M,W,Decatur County,TN,False,other,Car,False
+1899,Charles Dove,2016-09-20,shot,gun,35,M,W,Decatur County,TN,False,other,Car,True
 1901,Joshua Scott,2016-09-20,shot,gun,22,M,W,Port St. Lucie,FL,True,attack,Not fleeing,False
 1903,Michael Goodale,2016-09-20,shot,unknown weapon,23,M,W,Mashantucket,CT,False,other,Not fleeing,False
 1904,Keith Lamont Scott,2016-09-20,shot,gun,43,M,B,Charlotte,NC,False,undetermined,Not fleeing,True
@@ -1857,11 +1857,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2071,Cleotha Mitchell,2016-11-25,shot,gun,37,M,B,Chicago,IL,False,attack,,False
 2078,Jerome Chris Harmon,2016-11-25,shot,gun,23,M,,Hattiesburg,MS,False,attack,Other,False
 2077,Derek Adame,2016-11-26,shot,undetermined,20,M,,Surprise,AZ,False,attack,Car,False
-2075,TK TK,2016-11-27,shot,blunt object,,,,Olathe,KS,False,attack,Not fleeing,False
-2080,Norman Strobel,2016-11-27,shot,gun,59,M,W,Naples,ME,False,attack,Not fleeing,False
+2075,TK TK,2016-11-27,shot and Tasered,blunt object,50,,,Olathe,KS,False,attack,Not fleeing,False
+2080,Norman J. Strobel,2016-11-27,shot,gun,59,M,W,Naples,ME,False,attack,Not fleeing,False
 2081,Richard Grimes,2016-11-27,shot,gun,36,M,B,Chicago,IL,False,attack,Foot,False
 2082,Terrell Walker,2016-11-27,shot,gun,48,M,,Baton Rouge,LA,False,attack,Not fleeing,False
 2083,Abdul Razak Ali Artan,2016-11-28,shot,knife,18,M,O,Columbus,OH,False,attack,Not fleeing,False
-2085,Pablo Renato Caratena,2016-11-28,shot,gun,23,M,H,Los Angeles,CA,False,undetermined,Foot,False
+2085,Pablo Renato Cartagena,2016-11-28,shot,gun,23,M,H,Los Angeles,CA,False,undetermined,Foot,False
 2086,TK TK,2016-11-28,shot,undetermined,,,,Hickory,NC,False,undetermined,,False
 2084,TK TK,2016-11-29,shot,gun,,M,,Lynn,MA,False,other,Not fleeing,False
