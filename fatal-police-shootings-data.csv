@@ -1658,7 +1658,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1863,Bernard Cottrell,2016-09-06,shot,gun,65,M,,Spencer,WV,True,attack,Car,False
 1864,Steven Del Rio,2016-09-06,shot,undetermined,31,M,H,Phoenix,AZ,False,undetermined,Car,False
 1865,Larry Grant Whitehead,2016-09-06,shot,gun,70,M,W,Gray,TN,False,other,Not fleeing,True
-1868,Dylan Papa,2016-09-06,shot,sword,25,M,,Phoenix,AZ,True,attack,Not fleeing,False
+1868,Dylan Pape,2016-09-06,shot,sword,25,M,,Phoenix,AZ,True,attack,Not fleeing,False
 1867,Robert Lee Brown,2016-09-07,shot,knife,55,M,B,Albany,GA,False,attack,Not fleeing,False
 1869,Jesse Daniel Joynt,2016-09-07,shot,undetermined,35,M,W,Titusville,FL,False,undetermined,Not fleeing,False
 1871,Sadiq Bishara-Abaker Idris,2016-09-07,shot,gun,25,M,B,Wyoming,MI,False,attack,Not fleeing,False
@@ -1846,7 +1846,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2063,Jacob C. Stevens,2016-11-20,shot,gun,18,M,W,Kansas City,MO,False,other,Foot,False
 2060,George Bush III,2016-11-21,shot,gun,19,M,B,St. Louis,MO,False,attack,Foot,False
 2064,Michael Giles,2016-11-21,shot,knife,27,M,,Lompoc,CA,True,other,Foot,False
-2065,TK TK,2016-11-22,shot,gun,,M,,La Mirada,CA,False,attack,Not fleeing,False
+2065,Mark Daniel Sly,2016-11-22,shot,gun,45,M,H,La Mirada,CA,False,attack,Not fleeing,False
 2066,Ivory C. Pantallion,2016-11-22,shot,gun,36,M,,Baytown,TX,False,other,Car,False
 2067,Frank Nathaniel Clark,2016-11-22,shot,undetermined,34,M,B,Durham,NC,False,undetermined,Not fleeing,False
 2068,Tai Upchurch,2016-11-22,shot,gun,,M,,Newark,NJ,False,attack,Not fleeing,False
@@ -1862,3 +1862,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2081,Richard Grimes,2016-11-27,shot,gun,36,M,B,Chicago,IL,False,attack,Foot,False
 2082,Terrell Walker,2016-11-27,shot,gun,48,M,,Baton Rouge,LA,False,attack,Not fleeing,False
 2083,Abdul Razak Ali Artan,2016-11-28,shot,knife,18,M,O,Columbus,OH,False,attack,Not fleeing,False
+2085,Pablo Renato Caratena,2016-11-28,shot,gun,23,M,H,Los Angeles,CA,False,undetermined,Foot,False
+2086,TK TK,2016-11-28,shot,undetermined,,,,Hickory,NC,False,undetermined,,False
+2084,TK TK,2016-11-29,shot,gun,,M,,Lynn,MA,False,other,Not fleeing,False
