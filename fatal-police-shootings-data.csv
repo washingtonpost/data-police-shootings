@@ -1615,7 +1615,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1808,Kyle Zimbelman,2016-08-19,shot,undetermined,29,M,W,Reno,NV,False,undetermined,Car,False
 1810,Todd P. Browning,2016-08-19,shot,knife,54,M,W,East Ridge,TN,False,other,Not fleeing,False
 1803,Pedro Montanez,2016-08-20,shot,knife,71,M,H,Indio,CA,False,other,Not fleeing,True
-1804,Juan Gabriel Torres,2016-08-21,shot,knife,36,M,,Las Cruces,NM,False,other,Not fleeing,True
+1804,Juan Gabriel Torres,2016-08-21,shot,knife,36,M,H,Las Cruces,NM,False,other,Not fleeing,True
 1802,Kelley Brandon Forte,2016-08-22,shot,knife,34,M,B,Hamilton,OH,False,attack,Not fleeing,False
 1812,Bobby Lyn Buck,2016-08-23,shot,gun,49,M,W,Myra,TX,False,other,Car,False
 1811,Elias Portillo,2016-08-24,shot,gun,36,M,H,Oak Cliff,TX,False,attack,Foot,False
@@ -1636,7 +1636,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1827,Levonia Riggins,2016-08-30,shot,unarmed,22,M,B,Tampa,FL,False,undetermined,Not fleeing,False
 1828,Lyle Patrick Blanchard,2016-08-30,shot,gun,59,M,W,Harker Heights,TX,False,attack,Other,False
 1830,Gregory Mathis,2016-08-30,shot and Tasered,knife,36,M,W,Weatherford,TX,False,other,Not fleeing,False
-1841,Michael Ferguson,2016-08-31,shot,gun,21,M,,Denver,CO,False,attack,Foot,False
+1841,Michael Ferguson,2016-08-31,shot,gun,21,M,W,Denver,CO,False,attack,Foot,False
 1870,Thomas E. Sekscinski,2016-08-31,shot,vehicle,38,M,W,McDowell,MO,False,other,Car,False
 1839,Ed Holup,2016-09-01,shot,vehicle,60,M,W,Sylvania Township,OH,True,other,Not fleeing,False
 1843,Caleb J. Douglas,2016-09-01,shot,gun,18,M,W,Wichita,KS,False,other,Car,True
