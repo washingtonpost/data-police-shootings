@@ -1748,7 +1748,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1961,Matthew Brewer,2016-10-12,shot,gun,22,M,,Morehead,KY,False,attack,Not fleeing,False
 1962,Rex Vance Wilson,2016-10-13,shot,gun,50,M,,Las Vegas,NV,False,other,Car,True
 1963,Shawn Pappe,2016-10-13,shot and Tasered,knife,46,M,W,Grants Pass,OR,True,other,,False
-1964,TK TK,2016-10-13,shot,gun,38,M,W,Kent,WA,False,other,Not fleeing,False
+1964,Patrick D. Reddeck,2016-10-13,shot,gun,38,M,W,Kent,WA,False,other,Not fleeing,False
 1965,Chaz Logan York,2016-10-14,shot,baseball bat,23,M,W,Beaumont,TX,False,attack,Not fleeing,False
 1969,George Zapata,2016-10-14,shot,gun,24,M,H,Oak Cliff,TX,False,attack,Not fleeing,False
 1970,Nicholas McWherter,2016-10-14,shot,gun,26,M,W,San Francisco,CA,True,attack,Not fleeing,False
@@ -1825,6 +1825,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2046,William Ray Score,2016-11-11,shot,gun,47,M,,Montrose County,CO,False,attack,Not fleeing,False
 2042,James Dale Ritchie,2016-11-12,shot,gun,40,M,W,Anchorage,AK,False,attack,Not fleeing,False
 2045,Richard T. Herrera,2016-11-12,shot,gun,29,M,H,Tucson,AZ,False,attack,Car,False
+2124,Jonathan Young,2016-11-13,shot,baseball bat,38,M,,Bloomsburg,PA,True,attack,Not fleeing,False
 2040,Juan Carlos Fernandez,2016-11-13,shot,gun,22,M,H,San Diego,CA,False,attack,Not fleeing,True
 2041,Daniel Laguna,2016-11-13,shot,gun,21,M,H,Oklahoma City,OK,False,attack,Not fleeing,False
 2048,Rasheem Singletary,2016-11-15,shot,vehicle,25,M,B,York County,PA,False,other,Car,False
@@ -1895,6 +1896,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2118,TK TK,2016-12-11,shot,vehicle,,M,,Fairmont,WV,False,other,Not fleeing,False
 2121,Jose Angel Vallarta,2016-12-11,shot,knife,30,M,H,Laredo,TX,False,attack,Not fleeing,False
 2123,TK TK,2016-12-11,shot,toy weapon,44,F,,Bullhead City,AZ,True,attack,,False
-2114,Francisco Serna,2016-12-12,shot,undetermined,73,M,H,Bakersfield,CA,False,other,Not fleeing,False
+2127,Gary Leon Herd,2016-12-11,shot,gun,24,M,,Medicine Lodge,KS,False,attack,Not fleeing,False
+2114,Francisco Serna,2016-12-12,shot,unarmed,73,M,H,Bakersfield,CA,False,undetermined,Not fleeing,False
 2120,Rainer Tyler Smith,2016-12-12,shot,gun,31,M,,Fort Valley,GA,False,attack,Not fleeing,False
 2125,Kenneth Robledo,2016-12-12,shot,gun,28,M,B,Philadelphia,PA,False,attack,Not fleeing,False
+2126,TK TK,2016-12-13,shot,gun,,M,,Baltimore,MD,False,attack,Not fleeing,False
+2128,TK TK,2016-12-13,shot,gun,,M,,Hampton,GA,False,other,Not fleeing,False
