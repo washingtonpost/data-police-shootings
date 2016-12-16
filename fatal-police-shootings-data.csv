@@ -1316,7 +1316,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1498,Kendar del Rosario,2016-04-28,shot,knife,37,M,B,Miami,FL,False,attack,Not fleeing,False
 1499,Lee Easter,2016-04-28,shot,gun,53,M,W,Boise,ID,True,attack,Not fleeing,True
 1500,Michael Kurtz,2016-04-28,shot and Tasered,knife,45,M,W,Spokane,WA,True,other,Not fleeing,True
-1501,Ashtian Barnes,2016-04-28,shot,undetermined,24,M,B,Houston,TX,False,other,Car,False
+1501,Ashtian Barnes,2016-04-28,shot,vehicle,24,M,B,Houston,TX,False,other,Car,False
 1506,Jeffrey Darrell Hobbs,2016-04-29,shot,unarmed,48,M,W,Jackson,MO,False,attack,Car,False
 1504,Oswald Mattner,2016-04-30,shot,knife,42,M,W,Wausau,WI,False,other,Not fleeing,False
 1505,Mark Daniel Bess,2016-04-30,shot,knife,33,M,W,Spanish Fork,UT,False,other,Foot,False
@@ -1671,7 +1671,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1897,Adrian Joseph Shaffer,2016-09-10,shot,gun,37,M,W,Boulder,CO,False,attack,Not fleeing,True
 1875,Terrence Sterling,2016-09-11,shot,motorcycle,31,M,B,Washington,DC,False,attack,Other,False
 1880,Eugene Craig,2016-09-12,shot,gun,86,M,,Saratoga,CA,False,other,Not fleeing,False
-1881,Markell Bivins,2016-09-12,shot,undetermined,25,M,B,Cedar Rapids,IA,False,undetermined,Not fleeing,False
+1881,Markell Bivins,2016-09-12,shot,knife,25,M,B,Cedar Rapids,IA,False,attack,Not fleeing,False
 1882,Christian Vargas,2016-09-12,shot,undetermined,25,M,H,Colton,CA,False,undetermined,Car,False
 1883,Tyre King,2016-09-14,shot,toy weapon,13,M,B,Columbus,OH,False,other,Foot,False
 1884,Robert Carrillo,2016-09-15,shot,gun,32,M,H,Phoenix,AZ,False,other,Other,False
@@ -1700,7 +1700,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1909,Jesse Ataway,2016-09-23,shot,undetermined,41,M,W,Fair Oaks,CA,False,attack,Foot,False
 1914,Oddis Bernard Colvin,2016-09-23,shot,vehicle,33,M,B,Pikesville,MD,False,other,Not fleeing,True
 1915,Christopher Contreras,2016-09-23,shot,gun,30,M,H,San Antonio,TX,False,other,Foot,False
-1910,Cody Lafont,2016-09-25,shot,undetermined,25,M,W,Claremont,NH,True,undetermined,Not fleeing,False
+1910,Cody Lafont,2016-09-25,shot,gun,25,M,W,Claremont,NH,True,other,Not fleeing,False
 1911,Anthony Ray Bauer,2016-09-26,shot,gun,52,M,W,Garden City,ID,False,attack,Other,False
 1912,Leeland White,2016-09-26,shot,gun,32,M,W,Little Rock,AR,True,other,Not fleeing,False
 1916,Nathan DeSai,2016-09-26,shot,gun,46,M,W,Houston,TX,False,attack,Not fleeing,True
@@ -1804,7 +1804,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2020,James Carl Coale,2016-11-05,shot,vehicle,36,M,W,Okemah,OK,False,other,Car,False
 2021,Russell Elswick,2016-11-05,shot,gun,56,M,W,Clendenin,WV,False,attack,Not fleeing,False
 2022,Edward Lowell Hills,2016-11-05,shot,gun,59,M,,Beaver,WA,False,undetermined,,False
-2023,Patrick Wise,2016-11-05,shot,undetermined,34,M,W,Gladewater,TX,False,undetermined,Other,True
+2023,Patrick Wise,2016-11-05,shot,gun,34,M,W,Gladewater,TX,False,other,Other,True
 2014,David Contreras,2016-11-06,shot and Tasered,undetermined,33,M,H,Santa Ana,CA,False,undetermined,Not fleeing,False
 2018,Joel B. Keenan,2016-11-06,shot,gun,43,M,W,Aiken,SC,True,attack,Not fleeing,False
 2019,Randy J. Clark,2016-11-06,shot and Tasered,vehicle,43,M,W,Bowling Green,KY,False,undetermined,Car,False
@@ -1825,7 +1825,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2046,William Ray Score,2016-11-11,shot,gun,47,M,,Montrose County,CO,False,attack,Not fleeing,False
 2042,James Dale Ritchie,2016-11-12,shot,gun,40,M,W,Anchorage,AK,False,attack,Not fleeing,False
 2045,Richard T. Herrera,2016-11-12,shot,gun,29,M,H,Tucson,AZ,False,attack,Car,False
-2124,Jonathan Young,2016-11-13,shot,baseball bat,38,M,,Bloomsburg,PA,True,attack,Not fleeing,False
+2124,Jonathan M. Young,2016-11-13,shot and Tasered,baseball bat,38,M,,Bloomsburg,PA,True,attack,Not fleeing,False
 2040,Juan Carlos Fernandez,2016-11-13,shot,gun,22,M,H,San Diego,CA,False,attack,Not fleeing,True
 2041,Daniel Laguna,2016-11-13,shot,gun,21,M,H,Oklahoma City,OK,False,attack,Not fleeing,False
 2048,Rasheem Singletary,2016-11-15,shot,vehicle,25,M,B,York County,PA,False,other,Car,False
@@ -1863,9 +1863,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2082,Terrell Walker,2016-11-27,shot,gun,48,M,B,Baton Rouge,LA,False,attack,Not fleeing,False
 2083,Abdul Razak Ali Artan,2016-11-28,shot,knife,18,M,O,Columbus,OH,False,attack,Not fleeing,False
 2085,Pablo Renato Cartagena,2016-11-28,shot,gun,23,M,H,Los Angeles,CA,False,undetermined,Foot,False
-2086,Irecas Valentine,2016-11-28,shot,undetermined,41,M,B,Hickory,NC,False,undetermined,,False
+2086,Irecas Valentine,2016-11-28,shot,vehicle,41,M,B,Hickory,NC,False,other,Car,False
 2084,Michael McInnis,2016-11-29,shot,gun,41,M,W,Lynn,MA,False,other,Not fleeing,False
-2088,Toby Cummins,2016-11-29,shot,rock,55,M,W,Friendswood,TX,False,other,Car,False
+2088,Toby Cummins,2016-11-29,shot,rock,55,M,W,Friendswood,TX,False,other,Car,True
 2089,Bradley King,2016-11-29,shot,knife,29,M,,Avon,IN,False,other,Not fleeing,False
 2090,Alexander Chance Partain,2016-11-29,shot,undetermined,31,M,W,Iva,SC,False,other,Foot,False
 2092,David K. Crosby-Dowdy,2016-11-30,shot,gun,25,M,,Kansas City,MO,False,other,Not fleeing,False
@@ -1886,6 +1886,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2108,Keelan Charles Murray,2016-12-07,shot,undetermined,37,M,W,Dallas,TX,False,undetermined,,False
 2109,Redrick Jevon Batiste,2016-12-07,shot,gun,27,M,,Houston,TX,False,attack,Not fleeing,False
 2111,Daniel Riedmann,2016-12-07,shot,undetermined,36,M,W,Sioux City,IA,False,other,Not fleeing,False
+2129,Steven Ward,2016-12-07,shot,knife,20,M,,Avella,PA,True,attack,Not fleeing,False
 2110,TK TK,2016-12-08,shot,gun,,M,,Allen,TX,False,attack,Not fleeing,False
 2115,Stephen Joshua Whitney,2016-12-09,shot,vehicle,30,M,,Keaau,HI,False,other,Not fleeing,False
 2119,Brent Quinn,2016-12-09,shot,gun,,M,W,Leland,NC,False,attack,Not fleeing,False
@@ -1895,10 +1896,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2112,Timothy Case,2016-12-11,shot and Tasered,knife,53,M,,York,NE,False,other,Not fleeing,False
 2118,TK TK,2016-12-11,shot,vehicle,,M,,Fairmont,WV,False,other,Not fleeing,False
 2121,Jose Angel Vallarta,2016-12-11,shot,knife,30,M,H,Laredo,TX,False,attack,Not fleeing,False
-2123,TK TK,2016-12-11,shot,toy weapon,44,F,,Bullhead City,AZ,True,attack,,False
+2123,Amber Lewis,2016-12-11,shot,toy weapon,44,F,,Bullhead City,AZ,True,attack,Not fleeing,False
 2127,Gary Leon Herd,2016-12-11,shot,gun,24,M,,Medicine Lodge,KS,False,attack,Not fleeing,False
 2114,Francisco Serna,2016-12-12,shot,unarmed,73,M,H,Bakersfield,CA,False,undetermined,Not fleeing,False
 2120,Rainer Tyler Smith,2016-12-12,shot,gun,31,M,,Fort Valley,GA,False,attack,Not fleeing,False
 2125,Kenneth Robledo,2016-12-12,shot,gun,28,M,B,Philadelphia,PA,False,attack,Not fleeing,False
-2126,TK TK,2016-12-13,shot,gun,,M,,Baltimore,MD,False,attack,Not fleeing,False
-2128,TK TK,2016-12-13,shot,gun,,M,,Hampton,GA,False,other,Not fleeing,False
+2126,Lavar Montray Douglas,2016-12-13,shot,gun,18,M,,Baltimore,MD,False,attack,Not fleeing,False
+2128,Earl Labon Eubanks,2016-12-13,shot and Tasered,gun,,M,,Hampton,GA,False,other,Not fleeing,False
+2130,TK TK,2016-12-15,shot,gun,,M,,Hacienda Heights,CA,False,attack,Not fleeing,False
