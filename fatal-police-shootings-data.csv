@@ -1886,7 +1886,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2108,Keelan Charles Murray,2016-12-07,shot,undetermined,37,M,W,Dallas,TX,False,undetermined,,False
 2109,Redrick Jevon Batiste,2016-12-07,shot,gun,27,M,,Houston,TX,False,attack,Not fleeing,False
 2111,Daniel Riedmann,2016-12-07,shot,undetermined,36,M,W,Sioux City,IA,False,other,Not fleeing,False
-2129,Steven Ward,2016-12-07,shot,knife,20,M,,Avella,PA,True,attack,Not fleeing,False
+2129,Steven Garrett Ward,2016-12-07,shot,knife,20,M,,Avella,PA,True,attack,Not fleeing,False
 2110,TK TK,2016-12-08,shot,gun,,M,,Allen,TX,False,attack,Not fleeing,False
 2115,Stephen Joshua Whitney,2016-12-09,shot,vehicle,30,M,,Keaau,HI,False,other,Not fleeing,False
 2119,Brent Quinn,2016-12-09,shot,gun,,M,W,Leland,NC,False,attack,Not fleeing,False
@@ -1903,4 +1903,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2125,Kenneth Robledo,2016-12-12,shot,gun,28,M,B,Philadelphia,PA,False,attack,Not fleeing,False
 2126,Lavar Montray Douglas,2016-12-13,shot,gun,18,M,,Baltimore,MD,False,attack,Not fleeing,False
 2128,Earl Labon Eubanks,2016-12-13,shot and Tasered,gun,,M,,Hampton,GA,False,other,Not fleeing,False
-2130,TK TK,2016-12-15,shot,gun,,M,,Hacienda Heights,CA,False,attack,Not fleeing,False
+2130,Robert James Hess,2016-12-15,shot and Tasered,gun,60,M,,Hacienda Heights,CA,False,attack,Not fleeing,False
