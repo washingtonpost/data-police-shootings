@@ -1912,3 +1912,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2135,TK TK,2016-12-18,shot,gun,,M,,Ridgefield,WA,False,other,Not fleeing,False
 2136,Ronald Roy Massengale,2016-12-18,shot,gun,72,M,,Tulsa,OK,False,attack,Not fleeing,False
 2131,Roy Minton,2016-12-19,shot,undetermined,52,M,W,Granite Falls,NC,False,undetermined,Not fleeing,False
+2139,TK TK,2016-12-20,shot,undetermined,,M,,Hemet,CA,False,undetermined,Other,False
+2140,TK TK,2016-12-20,shot,knife,,M,,Pharr,TX,False,other,Not fleeing,False
+2141,TK TK,2016-12-20,shot,knife,,M,,Brawley,CA,True,other,Not fleeing,False
