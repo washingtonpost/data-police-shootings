@@ -1785,7 +1785,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1994,Malcolm Loren Hickson,2016-10-26,shot,gun,25,M,B,Carrollton,TX,False,other,Not fleeing,False
 1996,William Clifford Cole,2016-10-26,shot and Tasered,unarmed,36,M,W,Bartlesville,OK,False,attack,Not fleeing,False
 1995,Kyle Killough,2016-10-27,shot,gun,32,M,W,Billings,MT,True,other,Not fleeing,False
-1997,TK TK,2016-10-27,shot,gun and knife,,M,,San Antonio,TX,False,other,Not fleeing,False
+1997,Thad Demarco Hale,2016-10-27,shot,gun and knife,33,M,B,San Antonio,TX,False,other,Not fleeing,False
 1998,Edwin Amaya Maldonado,2016-10-27,shot,undetermined,24,M,H,Elberton,GA,False,attack,Foot,False
 2000,Jay Johannes Holmgren,2016-10-28,shot,gun,37,M,W,Morris,MN,False,attack,Other,False
 2001,Jason King,2016-10-28,shot,gun,38,M,B,Sacramento,CA,True,attack,Not fleeing,False
@@ -1900,7 +1900,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2113,Waltki Williams,2016-12-10,shot,gun,35,M,B,Sumter,SC,False,attack,Foot,False
 2116,Samson G. Varner,2016-12-10,shot,knife,36,M,W,Greenwood,IN,False,other,Not fleeing,True
 2112,Timothy Case,2016-12-11,shot and Tasered,knife,53,M,,York,NE,False,other,Not fleeing,False
-2118,TK TK,2016-12-11,shot,vehicle,,M,,Fairmont,WV,False,other,Not fleeing,False
+2118,Randy Lee Cumberledge,2016-12-11,shot,vehicle,39,M,W,Fairmont,WV,False,other,Not fleeing,False
 2121,Jose Angel Vallarta,2016-12-11,shot,knife,30,M,H,Laredo,TX,False,attack,Not fleeing,False
 2123,Amber Lewis,2016-12-11,shot,toy weapon,44,F,,Bullhead City,AZ,True,attack,Not fleeing,False
 2127,Gary Leon Herd,2016-12-11,shot,gun,24,M,,Medicine Lodge,KS,False,attack,Not fleeing,False
@@ -1914,12 +1914,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2132,Jimmy Lee Lawson,2016-12-17,shot,knife,48,M,W,Arlington,TN,False,undetermined,Not fleeing,False
 2134,TK TK,2016-12-17,shot,gun,,M,,Los Angeles,CA,False,other,Not fleeing,False
 2137,TK TK,2016-12-17,shot,gun,44,M,,Everett,WA,False,other,Not fleeing,False
-2133,TK TK,2016-12-18,shot,undetermined,,M,B,Los Angeles,CA,False,undetermined,Foot,False
-2135,TK TK,2016-12-18,shot,gun,,M,,Ridgefield,WA,False,other,Not fleeing,False
+2133,Ryan Joseph,2016-12-18,shot,undetermined,20,M,B,Los Angeles,CA,False,undetermined,Foot,False
+2135,Paul Kolar,2016-12-18,shot,gun,37,M,,Ridgefield,WA,False,other,Not fleeing,False
 2136,Ronald Roy Massengale,2016-12-18,shot,gun,72,M,,Tulsa,OK,False,attack,Not fleeing,False
 2131,Roy Minton,2016-12-19,shot,undetermined,52,M,W,Granite Falls,NC,False,undetermined,Not fleeing,False
-2139,TK TK,2016-12-20,shot,undetermined,,M,,Hemet,CA,False,undetermined,Other,False
-2140,TK TK,2016-12-20,shot,knife,,M,,Pharr,TX,False,other,Not fleeing,False
+2139,Nick Hamilton,2016-12-20,shot,gun,31,M,,Hemet,CA,False,other,Other,False
+2140,Martin Gomez,2016-12-20,shot,knife,46,M,H,Pharr,TX,False,other,Not fleeing,False
 2141,TK TK,2016-12-20,shot,knife,,M,,Brawley,CA,True,other,Not fleeing,False
 2146,TK TK,2016-12-21,shot,tire iron,,M,,Ponca City,OK,False,other,Not fleeing,False
 2147,TK TK,2016-12-21,shot,gun,,M,,Burns Flat,OK,False,attack,Other,False
