@@ -1156,7 +1156,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1325,Fernando Hernandez,2016-02-27,shot,gun,23,M,H,San Antonio,TX,False,attack,Car,True
 1321,Nathan Grissom,2016-02-28,shot,gun,41,M,W,Ashville,AL,False,attack,Not fleeing,False
 1323,Earl Hicks,2016-02-28,shot,gun,44,M,W,Rapid City,SD,True,attack,Not fleeing,False
-1327,Akiel Denkins,2016-02-29,shot,undetermined,24,M,B,Raleigh,NC,False,attack,Foot,False
+1327,Akiel Denkins,2016-02-29,shot,gun,24,M,B,Raleigh,NC,False,attack,Foot,False
 1328,Dimitri Corcino,2016-03-01,shot,gun,39,M,H,Palm Bay,FL,True,attack,Not fleeing,False
 1329,Jorge Brian Gonzalez,2016-03-01,shot,gun,22,M,H,Euless,TX,True,attack,Not fleeing,False
 1330,Mickey Dewayne Sweatt,2016-03-01,shot,gun,37,M,W,Gautier,MS,False,attack,Not fleeing,False
@@ -1941,3 +1941,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2160,James Tylka,2016-12-25,shot,gun,30,M,W,King City,OR,True,attack,Car,False
 2161,Joseph Garcia,2016-12-25,shot,gun,33,M,,Desha,AR,False,attack,Not fleeing,False
 2162,Michael Alan Altice,2016-12-25,shot,gun,61,M,W,Middleburg,FL,True,attack,Not fleeing,False
+2169,Dustin Kirk,2016-12-27,shot,gun,35,M,,Grass Valley,CA,False,attack,Not fleeing,False
+2170,TK TK,2016-12-27,shot,gun,,F,W,Pearland,TX,False,attack,Not fleeing,False
+2171,Alfonso Lopez,2016-12-27,shot,undetermined,41,M,H,North Riverside,IL,False,attack,Not fleeing,False
+2172,Jake Childers,2016-12-27,shot,gun,36,M,W,Campbellton,TX,False,attack,Other,False
