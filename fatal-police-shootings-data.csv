@@ -1351,7 +1351,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1535,Steve Godfrey,2016-05-11,shot,gun,,M,W,Byng,OK,True,attack,Car,False
 1539,Robert Mark Diaz,2016-05-13,shot,gun,28,M,H,Boyle Heights,CA,False,attack,Not fleeing,True
 1536,Cody Marsh,2016-05-14,shot,knife,19,M,W,Jacksonsville,FL,True,other,Not fleeing,False
-1537,Francis Clark,2016-05-14,shot,gun,43,M,N,Phoenix,AZ,False,attack,Not fleeing,False
+1537,Francis Clark,2016-05-14,shot,gun,43,M,N,Phoenix,AZ,False,attack,Not fleeing,True
 1538,Jeffrey Sims,2016-05-14,shot,gun,59,M,W,Osteen,FL,False,attack,Not fleeing,False
 1540,Ryan Johnson,2016-05-14,shot and Tasered,gun,34,M,W,Stockbridge,GA,True,other,Not fleeing,False
 1541,"Dracy ""Clint"" Pendleton",2016-05-15,shot,gun,35,M,W,Shawnee National Forest,IL,False,attack,Foot,False
