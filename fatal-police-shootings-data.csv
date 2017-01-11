@@ -1949,7 +1949,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2173,James L. Rich,2016-12-29,shot,gun,52,M,,Chestertown,MD,False,undetermined,Not fleeing,True
 2176,Jamal Rollins,2016-12-30,shot,gun,21,M,B,Miami,FL,False,other,Car,False
 2182,TK TK,2016-12-30,shot,gun,,M,,Pensacola,FL,False,attack,Not fleeing,False
-2186,TK TK,2016-12-30,shot and Tasered,knife,,M,,Phoenix,AZ,False,other,Foot,False
+2186,Dustin Selby,2016-12-30,shot and Tasered,knife,31,M,,Phoenix,AZ,False,other,Foot,False
 2179,Chase Anthony Tuseth,2016-12-31,shot and Tasered,unarmed,33,M,W,Mankato,MN,False,attack,Not fleeing,False
 2181,Ricky Whidden,2016-12-31,shot,knife,46,M,W,Loxahatchee,FL,True,attack,Not fleeing,False
 2183,Jason Michael Robison,2016-12-31,shot,gun,32,M,W,Huntingdon County,PA,False,attack,Other,False
@@ -1965,3 +1965,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2191,TK TK,2017-01-04,shot,gun,,M,,Pomona,CA,False,attack,Foot,False
 2192,Welby O'Dell Mullins,2017-01-04,shot,gun,64,M,,Lancaster,KY,False,attack,Not fleeing,False
 2193,Richard A. Jackson,2017-01-04,shot,vehicle,45,M,,English,IN,False,other,Car,False
+2194,Luis Vargas,2017-01-05,shot,gun,20,M,H,Dinuba,CA,False,attack,Not fleeing,False
+2195,Randy Wayne Cole,2017-01-05,shot,gun,41,M,,Monteagle,TN,False,attack,Not fleeing,False
+2197,Sean Ryan Hake,2017-01-06,shot,undetermined,23,M,,Sharon,PA,False,other,Not fleeing,False
+2200,Jamal Parks,2017-01-06,shot,gun,32,M,,Deerfield,IL,False,attack,Other,False
+2196,Daniel Giberson,2017-01-07,shot,knife,25,M,,Princeton,WV,False,other,Car,False
+2198,Travis Baker,2017-01-07,shot,gun,42,M,,Fairland,OK,False,attack,Other,False
+2199,William Tucker Mathis,2017-01-07,shot,unarmed,41,M,,Elkridge,MD,False,attack,Not fleeing,False
+2201,TK TK,2017-01-07,shot,vehicle,,M,,Northglenn,CO,False,other,Not fleeing,False
+2202,TK TK,2017-01-07,shot,gun,,M,,Independence,MO,True,attack,Not fleeing,False
+2203,Gilbert Zambronio-Lovato,2017-01-07,shot,,38,M,H,Albuquerque,NM,False,other,Not fleeing,False
+2204,TK TK,2017-01-08,shot,knife,,,,Cumming,GA,True,other,Not fleeing,False
+2205,JR Williams,2017-01-09,shot,unarmed,38,M,,Phoenix,AZ,False,other,Foot,False
+2206,Davion Henderson,2017-01-09,shot,gun,21,M,,St. Louis,MO,False,attack,Car,False
+2207,TK TK,2017-01-10,shot,knife,,M,,Los Angeles,CA,False,other,Not fleeing,False
+2208,Darrion Barnhill,2017-01-10,shot,undetermined,23,M,B,Reagan,TN,False,attack,Not fleeing,False
