@@ -1979,4 +1979,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2205,JR Williams,2017-01-09,shot,unarmed,38,M,,Phoenix,AZ,False,other,Foot,False
 2206,Davion Henderson,2017-01-09,shot,gun,21,M,,St. Louis,MO,False,attack,Car,False
 2207,Michael Rogers,2017-01-10,shot,knife,32,M,,Los Angeles,CA,False,other,Not fleeing,False
-2208,Darrion M. Barnhill,2017-01-10,shot,undetermined,23,M,B,Reagan,TN,False,attack,Not fleeing,False
+2223,Darrion Barnhill,2017-01-10,shot and Tasered,unarmed,23,M,B,Reagan,TN,False,attack,Not fleeing,False
+2209,Ronnie Johnson,2017-01-11,shot,unarmed,,M,,Austin,MN,False,undetermined,Not fleeing,False
+2210,TK TK,2017-01-11,shot,gun,,M,,Lake Elsinore,CA,False,attack,Other,False
+2215,Jose A. Fernandez-Ventura,2017-01-11,shot,gun,38,M,H,Camden,NJ,False,attack,Not fleeing,False
+2211,Kevin Ernest Tree,2017-01-12,shot,gun,54,M,W,Ocala,FL,True,undetermined,,False
+2224,Jamison Christopher Anderson,2017-01-12,shot,gun,20,M,,Vineland,MN,False,attack,Not fleeing,False
+2218,TK TK,2017-01-13,shot,vehicle,29,M,,Malaekahana Beach,HI,False,undetermined,Car,False
+2221,TK TK,2017-01-14,shot,gun,,M,W,Austin,TX,False,attack,Foot,False
+2222,Jahlire Nicholson,2017-01-14,shot and Tasered,screwdriver,28,M,,Queens,NY,False,attack,Not fleeing,False
+2217,TK TK,2017-01-15,shot and Tasered,knife,,F,,Long Beach,CA,False,other,Not fleeing,False
+2219,Herbert Johnson,2017-01-15,shot,unknown weapon,34,M,,Chicago,IL,False,other,Foot,False
+2220,TK TK,2017-01-15,shot and Tasered,knife,,M,,Spokane,WA,False,other,Foot,True
+2212,TK TK,2017-01-16,shot,gun,,M,,Tyrone,GA,False,attack,Car,False
+2213,Charles Christopher McClure,2017-01-16,shot,pole and knife,43,M,,Fulton,KY,False,undetermined,,False
+2214,Mohammad Azim Doudzai,2017-01-16,shot,gun and knife,32,M,,Herndon,VA,False,attack,Not fleeing,False
+2216,TK TK,2017-01-16,shot,gun,49,M,,Azusa,CA,False,attack,Not fleeing,False
