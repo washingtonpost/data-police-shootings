@@ -1985,21 +1985,21 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2215,Jose A. Fernandez-Ventura,2017-01-11,shot,gun,38,M,H,Camden,NJ,False,attack,Not fleeing,False
 2211,Kevin Ernest Tree,2017-01-12,shot,gun,54,M,W,Ocala,FL,True,undetermined,,False
 2224,Jamison Christopher Anderson,2017-01-12,shot,gun,20,M,,Vineland,MN,False,attack,Not fleeing,False
+2227,Rodney L. Hoback,2017-01-12,shot,knife,26,M,,Pearisburg,VA,False,attack,Not fleeing,False
 2218,Cameron Johnson,2017-01-13,shot,vehicle,29,M,O,Kahuku,HI,False,undetermined,Car,False
 2221,Scott Laurance Gilpin,2017-01-14,shot,gun,47,M,W,Austin,TX,False,attack,Foot,False
 2222,Jahlire Nicholson,2017-01-14,shot and Tasered,screwdriver,28,M,,New York,NY,False,attack,Not fleeing,False
+2216,Eric David Anderson,2017-01-15,shot,gun,48,M,W,Azusa,CA,False,attack,Not fleeing,False
 2217,TK TK,2017-01-15,shot and Tasered,knife,,F,,Long Beach,CA,False,other,Not fleeing,False
-2219,Herbert Johnson,2017-01-15,shot,unknown weapon,34,M,,Chicago,IL,False,other,Foot,False
-2220,Dexter Dumarce,2017-01-15,shot and Tasered,knife,33,M,W,Spokane,WA,False,other,Foot,True
+2219,Herbert Johnson,2017-01-15,shot,gun,34,M,,Chicago,IL,False,other,Foot,False
+2220,Dexter Martin Dumarce,2017-01-15,shot and Tasered,knife,33,M,W,Spokane,WA,False,other,Foot,True
 2212,TK TK,2017-01-16,shot,gun,,M,,Tyrone,GA,False,attack,Car,False
 2213,Charles Christopher McClure,2017-01-16,shot,pole and knife,43,M,,Fulton,KY,False,undetermined,,False
 2214,Mohammad Azim Doudzai,2017-01-16,shot,gun and knife,32,M,,Herndon,VA,False,attack,Not fleeing,False
-2216,Eric Anderson,2017-01-16,shot,gun,48,M,W,Azusa,CA,False,attack,Not fleeing,False
-2226,Christopher Sexton,2017-01-17,shot,gun,29,M,,Soddy-Daisy,TN,False,attack,Car,False
-2227,Rodney Hoback,2017-01-17,shot,knife,26,M,,Pearisburg,VA,False,attack,Not fleeing,False
+2226,Christopher Dalton Sexton,2017-01-17,shot,gun,29,M,,Soddy-Daisy,TN,False,attack,Car,False
 2229,TK TK,2017-01-17,shot,gun,39,M,,Twentynine Palms,CA,False,attack,Not fleeing,False
-2225,TK TK,2017-01-18,shot,knife,,M,H,Salinas,CA,False,other,Not fleeing,False
+2225,TK TK,2017-01-18,shot and Tasered,knife,,M,H,Salinas,CA,False,other,Not fleeing,False
 2228,Stoney McJunkin,2017-01-18,shot,metal pipe,40,M,,Watts,OK,False,attack,Not fleeing,False
 2230,Troy Bateman,2017-01-18,shot,gun,35,M,W,Columbia,MO,False,attack,Not fleeing,False
 2231,Genevive Dawes,2017-01-18,shot,vehicle,21,F,,Dallas,TX,False,other,Car,False
-2232,TK TK,2017-01-18,shot,hatchet,,M,,Westchester,CA,False,other,Car,False
+2232,TK TK,2017-01-18,shot,hatchet,,M,,Los Angeles,CA,False,other,Car,False
