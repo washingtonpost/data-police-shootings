@@ -2010,15 +2010,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2244,Christopher Garza,2017-01-19,shot,gun,44,M,H,Fritch,TX,False,attack,Foot,False
 2240,Gino Martin Palazzolo,2017-01-20,shot,gun,39,M,W,Gainesville,FL,True,attack,Not fleeing,False
 2237,Ronnie Lee Shorter,2017-01-21,shot,gun,44,M,B,Greenville,MS,False,attack,Not fleeing,False
-2239,Paul Carr Palmer,2017-01-21,shot,knife,57,M,W,Jean,NV,True,attack,Not fleeing,False
+2239,Paul Carr Palmer,2017-01-21,shot and Tasered,knife,57,M,W,Jean,NV,True,attack,Not fleeing,False
+2233,Jon M. Alspaugh,2017-01-22,shot,gun,57,M,W,Waldoboro,ME,False,attack,Not fleeing,False
 2234,Christopher Thompkins,2017-01-22,shot,gun,57,M,B,Pittsburgh,PA,False,attack,Not fleeing,False
 2238,Jorge Victor,2017-01-22,shot,gun,33,M,H,Carson,CA,False,other,Not fleeing,False
-2233,Jon M. Alspaugh,2017-01-23,shot,gun,57,M,W,Waldoboro,ME,False,attack,Not fleeing,False
 2235,Angel Ramos,2017-01-23,shot,knife,21,M,H,Vallejo,CA,False,attack,Not fleeing,False
 2248,Gary Mark Wigley,2017-01-23,shot,gun,52,M,W,Brooklet,GA,False,attack,Foot,False
 2249,Daniel D. Rogers,2017-01-23,shot,unarmed,27,M,W,Springfield,IL,True,attack,Not fleeing,True
-2251,Bruce Altenberger,2017-01-23,shot,gun,60,M,W,Wilmington,DE,False,other,Not fleeing,False
-2253,Armond Brown,2017-01-23,shot,knife,25,M,B,Kenner,LA,True,other,Not fleeing,False
+2251,Bruce Altenburger,2017-01-23,shot,gun,60,M,W,Wilmington,DE,False,other,Not fleeing,False
+2253,Armond Brown,2017-01-23,shot and Tasered,knife,25,M,B,Kenner,LA,True,other,Not fleeing,False
 2246,Josue Gallardo,2017-01-24,shot,gun,34,M,H,Atascadero,CA,False,other,Not fleeing,False
 2247,Dakota A. Lukeheart,2017-01-24,shot,undetermined,22,M,W,Sugar Creek,MO,False,undetermined,Car,False
 2254,Arties Manning,2017-01-24,shot,gun,26,M,B,New Orleans,LA,False,attack,Car,False
