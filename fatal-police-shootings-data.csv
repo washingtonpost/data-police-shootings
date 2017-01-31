@@ -2020,21 +2020,21 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2251,Bruce Altenburger,2017-01-23,shot,gun,60,M,W,Wilmington,DE,False,other,Not fleeing,False
 2253,Armond Brown,2017-01-23,shot and Tasered,knife,25,M,B,Kenner,LA,True,other,Not fleeing,False
 2246,Josue Gallardo,2017-01-24,shot,gun,34,M,H,Atascadero,CA,False,other,Not fleeing,False
-2247,Dakota A. Lukeheart,2017-01-24,shot,undetermined,22,M,W,Sugar Creek,MO,False,undetermined,Car,False
+2247,Dakota A. Lukecart,2017-01-24,shot,undetermined,22,M,W,Sugar Creek,MO,False,undetermined,Car,False
 2254,Arties Manning,2017-01-24,shot,gun,26,M,B,New Orleans,LA,False,attack,Car,False
 2255,Antonio Arturo Perez Garcia,2017-01-24,shot,gun,27,M,H,Bakersfield,CA,False,attack,Other,False
 2256,Jeremy Lopez-Robledo,2017-01-24,shot,knife,29,M,H,Las Cruces,NM,False,attack,Foot,False
 2257,Jonathan David Sper,2017-01-24,shot,undetermined,30,M,W,Algoma Township,MI,True,attack,Not fleeing,False
 2258,Jose Efrain Rodriguez,2017-01-24,shot and Tasered,gun,18,M,H,Lancaster City,PA,False,attack,Not fleeing,False
 2259,Ramon Milanez,2017-01-24,shot,gun,32,M,H,Kuna,ID,False,attack,Car,False
-2260,Micah R. Lambert,2017-01-25,shot,vehicle,37,M,W,Oxford,AL,False,attack,Car,False
+2260,Micah R. Lambert,2017-01-25,shot,vehicle,37,M,W,Oxford,AL,True,attack,Car,False
 2261,Kevin Darnell Washington,2017-01-25,shot,gun,54,M,B,Southaven,MS,False,attack,Not fleeing,False
-2262,Donovan Paul Scheurich Sr,2017-01-25,shot,gun,50,M,W,Millston,WI,True,attack,Not fleeing,False
+2262,Donovan Paul Scheurich,2017-01-25,shot,gun,50,M,W,Millston,WI,True,attack,Not fleeing,False
 2265,Josue Javier Diaz,2017-01-26,shot,gun,28,M,H,Charlotte,NC,False,other,Car,False
-2266,Kerry Lee Coomer,2017-01-26,shot,gun,57,M,,Overlea,MD,False,attack,Not fleeing,True
+2266,Kerry Lee Coomer,2017-01-26,shot,gun,59,M,,Overlea,MD,True,attack,Not fleeing,True
 2267,Deaundre Phillips,2017-01-26,shot,undetermined,24,M,B,Atlanta,GA,False,other,Car,False
 2268,TK TK,2017-01-26,shot,metal pipe,,M,,Madison Township,OH,False,other,Not fleeing,False
-2272,Eduardo Hernandez,2017-01-27,shot,gun,25,M,H,Alhambra,CA,False,attack,Not fleeing,False
+2272,Eduardo Hernandez,2017-01-27,shot,gun,25,M,H,Alhambra,CA,False,attack,Not fleeing,True
 2273,TK TK,2017-01-28,shot,gun,,M,,Fort Stockton,TX,False,attack,Car,False
 2274,TK TK,2017-01-28,shot,gun,,M,,Des Moines,WA,False,attack,Not fleeing,False
 2271,Val Thomas,2017-01-29,shot,Taser,53,M,,Oakdale,CT,True,attack,Not fleeing,False
