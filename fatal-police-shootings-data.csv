@@ -2043,7 +2043,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2270,Jeremy Dowell,2017-01-30,shot,knife,36,M,W,Lynnwood,WA,False,other,Not fleeing,False
 2276,Refugio Alvarez,2017-01-30,shot and Tasered,gun and knife,45,M,H,Fresno,CA,True,attack,Not fleeing,False
 2277,Spencer Herckt,2017-01-30,shot and Tasered,unknown weapon,42,M,,Modesto,CA,False,other,Not fleeing,False
-2278,TK TK,2017-01-31,shot and Tasered,knife,,M,B,Hollywood,CA,False,attack,Not fleeing,False
+2278,TK TK,2017-01-31,shot and Tasered,knife,,M,B,Hollywood,CA,True,attack,Not fleeing,False
 2280,Tavis Crane,2017-02-01,shot,vehicle,23,M,B,Arlington,TX,False,attack,Car,False
 2301,Michael Russo,2017-02-01,shot,vehicle,31,M,,Highland,CA,False,attack,Car,False
 2282,Kris Kristl,2017-02-02,shot,unarmed,26,M,W,Geneva,WI,False,undetermined,Not fleeing,False
@@ -2058,14 +2058,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2299,Daniel Loren Rucker,2017-02-03,shot,gun,45,M,,Irving,TX,False,other,Not fleeing,False
 2288,Johnnie J. Harris,2017-02-04,shot,gun,64,M,,Kansas City,MO,False,attack,Not fleeing,False
 2293,Thomas Scott Henry,2017-02-04,shot,gun,56,M,,DeLand,FL,True,attack,Not fleeing,False
-2283,TK TK,2017-02-05,shot,undetermined,,M,,Fremont,CA,False,other,Not fleeing,False
+2283,Nana Adomako,2017-02-05,shot,unarmed,45,M,,Fremont,CA,False,attack,Not fleeing,False
 2286,Shelly Porter III,2017-02-05,shot,undetermined,41,M,,Englewood,OH,False,attack,Not fleeing,False
 2300,Andrew Byrd,2017-02-05,shot,vehicle,33,M,,Pueblo,CO,False,other,Not fleeing,True
 2305,Jerome Allen,2017-02-06,shot,toy weapon,22,M,B,Jacksonville,FL,False,attack,Not fleeing,False
 2306,TK TK,2017-02-06,shot,gun,,M,,Commerce City,CO,False,other,Not fleeing,False
-2287,TK TK,2017-02-06,shot,knife,,M,,Santa Monica,CA,False,attack,Foot,False
+2287,Gerardo Vasquez,2017-02-06,shot,knife,52,M,H,Santa Monica,CA,False,attack,Foot,False
 2308,Alex Christopher Davis,2017-02-07,shot and Tasered,piece of wood,18,M,W,Jackson County,AL,False,undetermined,Not fleeing,False
 2309,Bradley Nelson,2017-02-07,shot,unknown weapon,35,M,,Mt. Pleasant,TN,False,attack,Car,False
-2310,TK TK,2017-02-07,shot,gun,18,M,,Baltimore,MD,False,other,Other,True
+2310,Curtis Jamal Deal,2017-02-07,shot,gun,18,M,B,Baltimore,MD,False,other,Other,True
 2312,Richard Latimer,2017-02-07,shot,gun,,M,,Howland Township,OH,False,attack,Not fleeing,False
 2307,Donald Parker,2017-02-08,shot,gun,29,M,,Brookville,IN,False,other,Not fleeing,False
+2314,TK TK,2017-02-08,shot,knife,,M,,Anadarko,OK,False,other,,False
+2313,Vincent Palma,2017-02-09,shot and Tasered,unarmed,26,M,W,Geneva Township,OH,False,undetermined,Not fleeing,False
+2315,TK TK,2017-02-09,shot,knife,33,M,,Lake Stevens,WA,True,other,Not fleeing,False
+2316,TK TK,2017-02-09,shot,undetermined,,M,,Portland,OR,False,undetermined,Foot,False
+2317,TK TK,2017-02-10,shot,undetermined,,M,,Vancouver,WA,False,undetermined,Foot,False
