@@ -2070,11 +2070,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2312,Richard Latimer,2017-02-07,shot,gun,34,M,W,Howland Township,OH,False,attack,Not fleeing,False
 2307,Donald Parker,2017-02-08,shot,gun,29,M,,Brookville,IN,False,other,Not fleeing,False
 2314,Henry James Hunter,2017-02-08,shot,knife,34,M,N,Anadarko,OK,False,other,,False
+2343,Chad Robertson,2017-02-08,shot,unarmed,25,M,B,Chicago,IL,False,undetermined,,False
 2313,Vincent Palma,2017-02-09,shot and Tasered,unarmed,26,M,W,Geneva Township,OH,False,undetermined,Not fleeing,False
 2315,TK TK,2017-02-09,shot and Tasered,knife,33,M,,Lake Stevens,WA,True,other,Not fleeing,False
 2316,Quanice Derrick Hayes,2017-02-09,shot,toy weapon,17,M,B,Portland,OR,False,undetermined,Foot,False
 2319,TK TK,2017-02-09,shot,undetermined,,M,,Crownpoint,NM,False,undetermined,,False
-2317,TK TK,2017-02-10,shot,undetermined,,M,,Vancouver,WA,False,undetermined,Foot,False
+2317,Justin Burton,2017-02-10,shot,undetermined,25,M,,Vancouver,WA,False,undetermined,Foot,False
 2322,Jocques Scott Clemmons,2017-02-10,shot,gun,31,M,B,Nashville,TN,False,other,Foot,False
 2324,Kadhar Bailey,2017-02-10,shot,vehicle,25,M,W,Vassalboro,ME,False,other,,False
 2325,Ambroshia Fagre,2017-02-10,shot,unarmed,18,F,,Vassalboro,ME,False,other,,False
@@ -2083,12 +2084,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2331,Carlos Keith Blackman,2017-02-10,shot,gun,25,M,,Greensboro,NC,False,attack,Other,True
 2332,Darryl L. Fuqua,2017-02-10,shot,gun,23,M,B,Bridgeton,NJ,False,undetermined,Foot,False
 2318,Jason Robert Mendez,2017-02-11,shot,undetermined,37,M,W,Greenville,SC,False,undetermined,Not fleeing,False
-2320,TK TK,2017-02-11,shot,vehicle,33,M,,Aiea,HI,False,other,Car,False
+2320,Pekelo Sanchez,2017-02-11,shot,vehicle,33,M,A,Aiea,HI,False,other,Car,False
 2321,Alonzo E. Ashley,2017-02-11,shot,gun,27,M,,Kansas City,MO,False,attack,Not fleeing,False
 2323,William A. Young,2017-02-11,shot,metal stick,32,M,W,Louisville,KY,True,attack,Not fleeing,True
 2328,TK TK,2017-02-12,shot,vehicle,,M,,Terrell,TX,False,other,Other,False
 2329,Willard Eugene Scott,2017-02-12,shot,gun,31,M,B,Durham,NC,False,undetermined,Other,False
 2333,Brian Carreno,2017-02-12,shot,knife,26,M,,Santa Barbara,CA,True,other,Foot,False
-2334,Brandon Lambert,2017-02-13,shot,vehicle,32,M,W,Knoxville,TN,False,attack,Car,False
-2335,TK Tk,2017-02-13,shot,gun,,M,,Golden Shores,AZ,False,attack,Not fleeing,False
-2337,Raynard Burton,2017-02-13,shot,undetermined,19,M,,Detroit,MI,False,undetermined,Not fleeing,False
+2334,Brandon S. Lambert,2017-02-13,shot,vehicle,32,M,W,Knoxville,TN,False,attack,Car,False
+2335,Drey Krause,2017-02-13,shot,gun,,M,,Golden Shores,AZ,False,attack,Not fleeing,False
+2337,Raynard Burton,2017-02-13,shot,undetermined,19,M,,Detroit,MI,False,undetermined,Other,False
+2338,TK TK,2017-02-14,shot,knife,,M,,Columbus,OH,True,other,Not fleeing,False
+2339,David Zimmerman,2017-02-14,shot,vehicle,35,M,W,Vincennes,IN,False,other,Other,False
+2342,Kenneth Lee Bailey Jr,2017-02-15,shot,gun,24,M,B,Durham,NC,False,attack,Foot,False
+2344,TK TK,2017-02-15,shot,knife,,M,,Cape Girardeau,MO,False,other,Not fleeing,False
+2341,TK TK,2017-02-16,shot,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
