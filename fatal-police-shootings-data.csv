@@ -2097,4 +2097,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2339,David Zimmerman,2017-02-14,shot,vehicle,35,M,W,Vincennes,IN,False,other,Other,False
 2342,Kenneth Lee Bailey Jr,2017-02-15,shot,gun,24,M,B,Durham,NC,False,attack,Foot,False
 2344,TK TK,2017-02-15,shot,knife,,M,,Cape Girardeau,MO,False,other,Not fleeing,False
+2345, ,2017-02-15,shot,undetermined,,M,,Newman,CA,False,attack,Not fleeing,False
 2341,TK TK,2017-02-16,shot,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
