@@ -2056,6 +2056,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2297,Daniel McMasters,2017-02-03,shot,gun,38,M,,Grafton,WV,False,attack,Not fleeing,False
 2298,Marco A. Gomez,2017-02-03,shot,vehicle,26,M,H,Forest Park,IL,False,other,Car,False
 2299,Daniel Loren Rucker,2017-02-03,shot,gun,45,M,,Irving,TX,False,other,Not fleeing,False
+2348,Peter Torres,2017-02-04,shot,unarmed,23,M,H,Moultrie,GA,False,other,Not fleeing,False
 2288,Johnnie J. Harris,2017-02-04,shot,gun,68,M,,Kansas City,MO,False,attack,Not fleeing,False
 2293,Thomas Scott Henry,2017-02-04,shot,gun,56,M,,DeLand,FL,True,attack,Not fleeing,False
 2283,Nana Adomako,2017-02-05,shot,unarmed,45,M,,Fremont,CA,False,attack,Not fleeing,False
@@ -2068,6 +2069,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2309,Bradley Nelson,2017-02-07,shot,unknown weapon,35,M,,Mt. Pleasant,TN,False,attack,Car,False
 2310,Curtis Jamal Deal,2017-02-07,shot,gun,18,M,B,Baltimore,MD,False,other,Other,True
 2312,Richard Latimer,2017-02-07,shot,gun,34,M,W,Howland Township,OH,False,attack,Not fleeing,False
+2347,Kenneth B. Huntzinger,2017-02-07,shot,vehicle,51,M,,Richmond,KY,False,other,,False
 2307,Donald Parker,2017-02-08,shot,gun,29,M,,Brookville,IN,False,other,Not fleeing,False
 2314,Henry James Hunter,2017-02-08,shot,knife,34,M,N,Anadarko,OK,False,other,,False
 2343,Chad Robertson,2017-02-08,shot,unarmed,25,M,B,Chicago,IL,False,undetermined,,False
@@ -2093,9 +2095,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2334,Brandon S. Lambert,2017-02-13,shot,vehicle,32,M,W,Knoxville,TN,False,attack,Car,False
 2335,Drey Krause,2017-02-13,shot,gun,,M,,Golden Shores,AZ,False,attack,Not fleeing,False
 2337,Raynard Burton,2017-02-13,shot,undetermined,19,M,,Detroit,MI,False,undetermined,Other,False
-2338,TK TK,2017-02-14,shot,knife,,M,,Columbus,OH,True,other,Not fleeing,False
+2338,Michael Lee Morris,2017-02-14,shot,knife,53,M,,Columbus,OH,True,other,Not fleeing,False
 2339,David Zimmerman,2017-02-14,shot,vehicle,35,M,W,Vincennes,IN,False,other,Other,False
 2342,Kenneth Lee Bailey Jr,2017-02-15,shot,gun,24,M,B,Durham,NC,False,attack,Foot,False
-2344,TK TK,2017-02-15,shot,knife,,M,,Cape Girardeau,MO,False,other,Not fleeing,False
-2345, ,2017-02-15,shot,undetermined,,M,,Newman,CA,False,attack,Not fleeing,False
+2344,Andrew McClendon,2017-02-15,shot,knife,33,M,,Cape Girardeau,MO,False,other,Not fleeing,False
+2345,TK TK,2017-02-15,shot,undetermined,,M,,Newman,CA,False,attack,Not fleeing,False
 2341,TK TK,2017-02-16,shot,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
+2346,TK TK,2017-02-16,shot,gun,,,,Brooklyn,NY,False,attack,Foot,False
+2349,TK TK,2017-02-16,shot,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
+2350,TK TK,2017-02-16,shot,gun,,M,,Gardena,CA,False,attack,Foot,False
