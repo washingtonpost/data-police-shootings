@@ -2100,10 +2100,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2342,Kenneth Lee Bailey,2017-02-15,shot,gun,24,M,B,Durham,NC,False,attack,Foot,False
 2344,Andrew McClendon,2017-02-15,shot,knife,33,M,W,Cape Girardeau,MO,False,other,Not fleeing,False
 2345,Mauro Garnica,2017-02-15,shot,unknown weapon,55,M,,Newman,CA,False,attack,Not fleeing,False
-2341,TK TK,2017-02-16,shot,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
 2346,Kadeem Torres,2017-02-16,shot,gun,17,M,B,Brooklyn,NY,False,attack,Foot,False
-2349,TK TK,2017-02-16,shot,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
-2350,TK TK,2017-02-16,shot,gun,,M,B,Gardena,CA,False,attack,Foot,False
+2349,Joseph Tamayo,2017-02-16,shot,gun,48,M,H,San Antonio,TX,False,attack,Not fleeing,False
+2350,Jimmy Briggs,2017-02-16,shot,gun,21,M,B,Gardena,CA,False,attack,Foot,False
 2359,Joshua Henry,2017-02-17,shot,,30,M,,Grand Prarie,TX,False,attack,Not fleeing,False
 2361,David English,2017-02-17,shot,knife,34,M,W,Tulsa,OK,True,attack,Not fleeing,False
 2363,Jean R. Valescot,2017-02-17,shot,gun,35,M,B,Big Lake,AK,False,attack,Not fleeing,False
@@ -2116,9 +2115,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2362,Manuel Encinas,2017-02-19,shot,gun,26,M,H,Tucson,AZ,False,attack,Not fleeing,False
 2353,Jason Fanning,2017-02-20,shot,undetermined,27,M,,St. Joseph,MO,False,undetermined,,False
 2355,Taylor Hodge,2017-02-20,shot and Tasered,knife,26,M,W,Brooksville,FL,False,attack,Not fleeing,False
-2357,TK TK,2017-02-21,shot,gun,,M,,Beaverton,OR,False,other,Not fleeing,False
-2365,TK TK,2017-02-21,shot,gun,63,M,,"St, Louis",MO,False,attack,Not fleeing,False
-2366,TK TK,2017-02-21,shot,gun,,,,Roy,UT,False,attack,Not fleeing,False
-2367,TK TK,2017-02-21,shot,gun,,M,,Ogden,UT,False,attack,Not fleeing,False
+2357,Douglas Michael Smith,2017-02-21,shot,gun,51,M,W,Beaverton,OR,False,other,Not fleeing,False
+2365,Don Clark,2017-02-21,shot,gun,63,M,B,"St, Louis",MO,False,attack,Not fleeing,False
+2366,TK TK,2017-02-21,shot,gun,,,,Roy,UT,False,attack,Not fleeing,True
+2367,Bartolo Justice Sambrano,2017-02-21,shot,gun,25,M,,Ogden,UT,False,attack,Not fleeing,True
 2368,Tk TK,2017-02-21,shot,gun,,M,,Colorado Springs,CO,False,other,Other,False
 2369,Medger Blake,2017-02-22,shot,knife,41,M,,Conroe,TX,False,attack,Not fleeing,False
+2371,Kyle Copson,2017-02-22,shot,knife,26,M,,Princeton,WV,False,other,Not fleeing,False
+2372,TK TK,2017-02-22,shot,knife,,F,,Austin,TX,False,other,Car,False
+2370,TK TK,2017-02-23,shot,gun,,M,,Newton,KS,False,other,Not fleeing,False
+2373,TK TK,2017-02-23,shot,gun,54,M,,Fairfax,OK,False,attack,Not fleeing,False
