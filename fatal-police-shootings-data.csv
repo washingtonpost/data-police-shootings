@@ -2069,7 +2069,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2309,Bradley Nelson,2017-02-07,shot,unknown weapon,35,M,W,Mt. Pleasant,TN,False,attack,Car,False
 2310,Curtis Jamal Deal,2017-02-07,shot,gun,18,M,B,Baltimore,MD,False,other,Other,True
 2312,Richard Latimer,2017-02-07,shot,gun,34,M,W,Howland Township,OH,False,attack,Not fleeing,False
-2347,Kenneth B. Huntzinger,2017-02-07,shot,vehicle,51,M,,Richmond,KY,False,other,,False
+2347,Kenneth B. Huntzinger,2017-02-07,shot,vehicle,51,M,W,Richmond,KY,False,other,,False
 2307,Donald Parker,2017-02-08,shot,gun,29,M,W,Brookville,IN,False,other,Not fleeing,False
 2314,Henry James Hunter,2017-02-08,shot,knife,34,M,N,Anadarko,OK,False,other,,False
 2343,Chad Robertson,2017-02-08,shot,unarmed,25,M,B,Chicago,IL,False,undetermined,,False
@@ -2117,7 +2117,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2355,Taylor Hodge,2017-02-20,shot and Tasered,knife,26,M,W,Brooksville,FL,False,attack,Not fleeing,False
 2357,Douglas Michael Smith,2017-02-21,shot,gun,51,M,W,Beaverton,OR,False,other,Not fleeing,False
 2365,Don Clark,2017-02-21,shot,gun,63,M,B,St. Louis,MO,False,attack,Not fleeing,False
-2366,Nicolas Sanchez,2017-02-21,shot,gun,38,M,,Roy,UT,False,attack,Not fleeing,True
+2366,Nicolas Sanchez,2017-02-21,shot,gun,38,M,H,Roy,UT,False,attack,Not fleeing,True
 2367,Bartolo Justice Sambrano,2017-02-21,shot,gun,25,M,H,Ogden,UT,False,attack,Not fleeing,True
 2368,Misael Macias Cano,2017-02-21,shot,gun,39,M,H,Colorado Springs,CO,False,other,Other,False
 2369,Medger Blake,2017-02-22,shot,knife,41,M,B,Conroe,TX,False,attack,Not fleeing,False
@@ -2125,17 +2125,22 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2372,Morgan London Rankins,2017-02-22,shot,knife,30,F,B,Austin,TX,True,other,Car,False
 2370,David Lee Montano,2017-02-23,shot,gun,33,M,H,Newton,KS,False,attack,Not fleeing,False
 2373,Kenneth Robertson,2017-02-23,shot,gun,54,M,,Fairfax,OK,False,attack,Not fleeing,False
-2375,Jimmie Patton,2017-02-23,shot,gun,38,M,,Columbus,OH,False,attack,Not fleeing,False
+2375,Jimmie Patton,2017-02-23,shot,gun,38,M,W,Columbus,OH,False,attack,Not fleeing,False
 2376,Steven Valenzuela,2017-02-23,shot,gun,24,M,H,Reno,NV,False,other,Foot,False
-2377,Timothy Lionel Williams,2017-02-23,shot,gun,47,M,,Washington,DC,False,attack,Foot,True
-2386,Michael Stoudt,2017-02-24,shot,gun,62,M,,Reading,PA,False,attack,Not fleeing,False
+2377,Timothy Lionel Williams,2017-02-23,shot,gun,47,M,B,Washington,DC,False,attack,Foot,True
+2386,Michael T. Stoudt,2017-02-24,shot,gun,62,M,W,Reading,PA,False,attack,Not fleeing,False
 2388,Joey Isgrigg,2017-02-24,shot,gun,30,M,W,London,KY,True,attack,Not fleeing,False
-2390,Jacqueline Johnson,2017-02-24,shot,vehicle,33,F,W,Lake Jackson,TX,False,other,Car,False
-2383,TK TK,2017-02-25,shot,undetermined,,M,,Rocklin,CA,False,undetermined,Foot,False
+2390,Jacqueline Cheyanne Johnson,2017-02-24,shot,gun,33,F,W,Lake Jackson,TX,False,attack,Car,False
+2383,Lorenzo Antoine Cruz,2017-02-25,shot,toy weapon,23,M,,Rocklin,CA,False,attack,Foot,False
 2384,TK TK,2017-02-25,shot,gun,,,,Lumpkin,GA,False,attack,Car,False
-2379,Jacob Taulbee,2017-02-26,shot,knife,,M,,Englewood,FL,False,other,Not fleeing,False
-2380,Evin Sanna Olsen,2017-02-26,shot,undetermined,46,F,W,Ripon,CA,False,undetermined,Car,False
-2381,TK TK,2017-02-26,shot,gun,,M,,Aragonite,UT,False,attack,Not fleeing,False
-2382,Marker James Leroy,2017-02-26,shot,gun,66,M,W,Floral City,FL,False,other,Car,False
-2378,Joey Bridges Jr.,2017-02-27,shot,gun,27,M,,Shelby,NC,False,attack,Foot,False
-2391,TK TK,2017-02-27,shot,undetermined,40,M,,Corning,WI,False,undetermined,,False
+2379,Jacob Taulbee,2017-02-26,shot,knife,,M,W,Englewood,FL,False,other,Not fleeing,False
+2380,Evin Sanna Olsen,2017-02-26,shot,vehicle,46,F,W,Ripon,CA,False,other,Car,False
+2381,Barry Michael Zumwalt,2017-02-26,shot,gun,36,M,W,Aragonite,UT,True,other,Not fleeing,False
+2382,James Leroy Marker,2017-02-26,shot,gun,66,M,W,Floral City,FL,False,other,Car,False
+2378,Joey J. Bridges,2017-02-27,shot,gun,27,M,W,Shelby,NC,True,attack,Foot,False
+2391,Shawn M. Igers,2017-02-27,shot,gun,40,M,W,Corning,WI,False,attack,Not fleeing,False
+2393,Earl Riley,2017-02-28,shot,gun,25,M,B,Houston,TX,False,attack,Not fleeing,False
+2394,Christopher Redding,2017-02-28,shot,gun,20,M,B,Orlando,FL,False,attack,Foot,False
+2392,Epthen Lamont Johnson,2017-03-01,shot,knife,40,M,B,Lufkin,TX,False,attack,Not fleeing,True
+2395,Josh Hall,2017-03-02,shot,unknown weapon,33,M,W,Rib Mountain,WI,True,attack,Not fleeing,False
+2396,TK TK,2017-03-02,shot,baseball bat,,M,,San Marcos,CA,False,other,Not fleeing,False
