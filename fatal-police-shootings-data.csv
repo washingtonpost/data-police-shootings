@@ -2042,7 +2042,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2269,Marvin Washington,2017-01-30,shot,gun,50,M,B,Kiowa,OK,False,other,Not fleeing,False
 2270,Jeremy Dowell,2017-01-30,shot,knife,36,M,W,Lynnwood,WA,True,other,Not fleeing,False
 2276,Refugio Alvarez,2017-01-30,shot and Tasered,gun and knife,45,M,H,Fresno,CA,True,attack,Not fleeing,False
-2277,Spencer Herckt,2017-01-30,shot and Tasered,unknown weapon,42,M,W,Modesto,CA,False,other,Not fleeing,False
+2277,Spencer Herckt,2017-01-30,shot and Tasered,beer bottle,42,M,W,Modesto,CA,False,other,Not fleeing,False
 2278,TK TK,2017-01-31,shot and Tasered,knife,,M,B,Hollywood,CA,True,attack,Not fleeing,False
 2280,Tavis Crane,2017-02-01,shot,vehicle,23,M,B,Arlington,TX,False,attack,Car,False
 2301,Michael Russo,2017-02-01,shot,vehicle,31,M,B,Highland,CA,False,attack,Car,False
@@ -2144,3 +2144,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2392,Epthen Lamont Johnson,2017-03-01,shot,knife,40,M,B,Lufkin,TX,False,attack,Not fleeing,True
 2395,Josh Hall,2017-03-02,shot,unknown weapon,33,M,W,Rib Mountain,WI,True,attack,Not fleeing,False
 2396,TK TK,2017-03-02,shot,baseball bat,,M,,San Marcos,CA,False,other,Not fleeing,False
+2397,Michael Cisneros,2017-03-02,shot,toy weapon,27,M,,Phoenix,AZ,False,attack,Not fleeing,False
+2398,TK TK,2017-03-02,shot,undetermined,,M,,Reno,NV,False,undetermined,,False
+2401,Michael Kocher,2017-03-03,shot,gun,32,M,,Englewood,CO,False,undetermined,Not fleeing,False
+2403,Dave Phoenix,2017-03-03,shot,toy weapon,25,M,,Lemoore,CA,False,attack,Not fleeing,False
+2399,George Seeton,2017-03-04,shot,vehicle,38,M,W,Oklahoma City,OK,False,attack,Car,True
+2402,TK TK,2017-03-04,shot,pipe,,M,,Los Angeles,CA,False,other,Not fleeing,False
+2404,TK TK,2017-03-04,shot,undetermined,,M,,Cabazon,CA,False,undetermined,Foot,False
+2400,Joseph Inabinet,2017-03-05,shot,gun,50,M,,Fountain Inn,SC,True,attack,Not fleeing,False
