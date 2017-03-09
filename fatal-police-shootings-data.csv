@@ -2154,3 +2154,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2404,TK TK,2017-03-04,shot,undetermined,,M,,Cabazon,CA,False,undetermined,Foot,False
 2405,Roy Dale Evans,2017-03-07,shot,vehicle,,M,W,Medina,OH,False,other,Car,False
 2406,TK TK,2017-03-07,shot,undetermined,,M,,Ladera Heights,CA,False,other,Not fleeing,False
+2407,Frank W. Wratny,2017-03-08,shot,gun,91,M,,Union Township,PA,False,attack,Not fleeing,False
+2408,TK TK,2017-03-08,shot,knife,,M,,Riverside,CA,False,other,Not fleeing,False
+2409,Iaroslav Mosiiuk,2017-03-08,shot,gun,25,M,W,Charlotte,NC,True,other,Not fleeing,False
