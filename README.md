@@ -14,6 +14,27 @@ The FBI and the Centers for Disease Control and Prevention log fatal shootings b
 
 [The Post’s database](https://www.washingtonpost.com/graphics/national/police-shootings-2016/) is updated regularly as fatal shootings are reported and as facts emerge about individual cases. The Post is seeking assistance in making the database as comprehensive as possible. To provide information about fatal police shootings since Jan. 1, 2015, send us an email at policeshootingsfeedback@washpost.com. The Post is also interested in obtaining photos of the deceased and original videos of fatal encounters with police.
 
+# About the data
+
+Race:
+- W: White, non-Hispanic
+- B: Black, non-Hispanic
+- A: Asian
+- N: Native American
+- H: Hispanic
+- O: Other
+- None: unknown
+
+
+Gender:
+- M: Male
+- F: Female
+- None: unknown
+
+The threat level column was used to flag incidents for the story by Amy Brittain in October 2015. http://www.washingtonpost.com/sf/investigative/2015/10/24/on-duty-under-fire/ As described in the story, the general criteria for the attack label was that there was the most direct and immediate threat to life. That would include incidents where officers or others were shot at, threatened with a gun, attacked with other weapons or physical force, etc. The attack category is meant to flag the highest level of threat. The other and undetermined categories represent all remaining cases. Other includes many incidents where officers or others faced significant threats. 
+ 
+The threat column and the fleeing column are not necessarily related. For example, there is an incident in which the suspect is moving away from officers (fleeing) and at the same time turns to fire at gun at the officer. Also, attacks represent a status immediately before fatal shots by police; while fleeing could begin slightly earlier and involve a chase.
+
 # Credits:
 
 Research and Reporting: Julie Tate, Jennifer Jenkins and Steven Rich
