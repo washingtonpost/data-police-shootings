@@ -2132,7 +2132,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2388,Joey Isgrigg,2017-02-24,shot,gun,30,M,W,London,KY,True,attack,Not fleeing,False
 2390,Jacqueline Cheyanne Johnson,2017-02-24,shot,gun,33,F,W,Lake Jackson,TX,False,attack,Car,False
 2383,Lorenzo Antoine Cruz,2017-02-25,shot,toy weapon,23,M,,Rocklin,CA,False,attack,Foot,False
-2384,TK TK,2017-02-25,shot,gun,,,,Lumpkin,GA,False,attack,Car,False
+2384,William Dwayne Darby,2017-02-25,shot,gun,39,M,W,Lumpkin,GA,False,attack,Car,False
 2379,Jacob Taulbee,2017-02-26,shot,knife,,M,W,Englewood,FL,False,other,Not fleeing,False
 2380,Evin Sanna Olsen,2017-02-26,shot,vehicle,46,F,W,Ripon,CA,False,other,Car,False
 2381,Barry Michael Zumwalt,2017-02-26,shot,gun,36,M,W,Aragonite,UT,True,other,Not fleeing,False
@@ -2146,21 +2146,29 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2396,Isidro Bazan Jr,2017-03-02,shot,baseball bat,34,M,H,San Marcos,CA,False,other,Not fleeing,False
 2397,Michael Cisneros,2017-03-02,shot,toy weapon,27,M,,Phoenix,AZ,False,attack,Not fleeing,False
 2398,Rafael Navarro-Garcia,2017-03-02,shot,undetermined,25,M,H,Reno,NV,False,undetermined,,False
-2401,Michael Kocher,2017-03-03,shot,gun,32,M,,Englewood,CO,False,undetermined,Not fleeing,False
+2401,Michael Kocher,2017-03-03,shot,gun,32,M,W,Englewood,CO,False,undetermined,Not fleeing,False
 2403,Dave Phoenix,2017-03-03,shot,toy weapon,25,M,N,Lemoore,CA,False,attack,Not fleeing,False
 2399,George Lee Seeton,2017-03-04,shot,vehicle,38,M,W,Oklahoma City,OK,False,attack,Car,True
-2400,Joseph Scott Inabinet,2017-03-04,shot,gun,50,M,,Fountain Inn,SC,True,attack,Not fleeing,False
+2400,Joseph Scott Inabinet,2017-03-04,shot,gun,50,M,W,Fountain Inn,SC,True,attack,Not fleeing,False
 2402,TK TK,2017-03-04,shot and Tasered,pipe,,M,,Los Angeles,CA,False,other,Not fleeing,False
 2404,TK TK,2017-03-04,shot,undetermined,,M,,Cabazon,CA,False,undetermined,Foot,False
 2405,Roy Dale Evans,2017-03-07,shot,vehicle,,M,W,Medina,OH,False,other,Car,False
 2406,TK TK,2017-03-07,shot and Tasered,sharp object,,M,,Ladera Heights,CA,False,other,Not fleeing,False
-2407,Frank W. Wratny,2017-03-08,shot,gun,91,M,,Union Township,PA,False,attack,Not fleeing,False
+2407,Frank W. Wratny,2017-03-08,shot,gun,91,M,W,Union Township,PA,False,attack,Not fleeing,False
 2408,TK TK,2017-03-08,shot,knife,,M,,Riverside,CA,False,other,Not fleeing,False
 2409,Iaroslav Mosiiuk,2017-03-08,shot,gun,25,M,W,Charlotte,NC,True,other,Not fleeing,False
 2410,Jesus Alberto Geney,2017-03-09,shot and Tasered,knife,24,M,H,Santa Clara,CA,True,other,,False
 2411,Steven Schlitz,2017-03-09,shot,baseball bat and bottle,29,M,,Huntington Beach,CA,True,other,Not fleeing,False
 2415,Damon Seitz,2017-03-10,shot,gun,40,M,W,Escondido,CA,False,attack,Not fleeing,False
 2413,Mark Robert Carlberg,2017-03-11,shot,gun,51,M,W,Midlothian,TX,False,attack,Not fleeing,False
-2412,TK TK,2017-03-12,shot,knife,35,M,,Orange,CA,False,other,Not fleeing,False
+2412,Michael Anthony Perez,2017-03-12,shot and Tasered,knife,33,M,H,Orange,CA,True,other,Not fleeing,False
 2414,TK TK,2017-03-12,shot,knife,,M,,Bellingham,WA,False,attack,Foot,False
-2416,TK TK,2017-03-13,shot,undetermined,,M,,Euclid,OH,False,undetermined,,False
+2416,Luke O. Stewart,2017-03-13,shot,undetermined,23,M,,Euclid,OH,False,undetermined,,False
+2417,Noel Aaron Russell,2017-03-13,shot,knife,23,M,,Napa,CA,True,other,Not fleeing,False
+2419,Christopher Apostolos,2017-03-14,shot,unarmed,56,M,,Toms River,NJ,True,attack,,False
+2421,Rashad Opher,2017-03-14,shot,vehicle,20,M,B,Woodlawn,MD,False,attack,Other,True
+2422,Ryan Rosa,2017-03-14,shot,vehicle,36,M,,Fife,WA,False,other,Not fleeing,False
+2423,TK TK,2017-03-14,shot,undetermined,,M,,Westminster,CO,False,attack,Not fleeing,False
+2424,TK TK,2017-03-14,shot,gun,,M,,Panama City Beach,FL,False,attack,,False
+2426,TK TK,2017-03-14,shot,unarmed,,F,,Hayward,CA,False,other,,False
+2418,TK TK,2017-03-15,shot,undetermined,,M,,St. Paul,MN,False,other,Not fleeing,False
