@@ -2146,6 +2146,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2396,Isidro Bazan Jr,2017-03-02,shot,baseball bat,34,M,H,San Marcos,CA,False,other,Not fleeing,False
 2397,Michael Cisneros,2017-03-02,shot,toy weapon,27,M,,Phoenix,AZ,False,attack,Not fleeing,False
 2398,Rafael Navarro-Garcia,2017-03-02,shot,undetermined,25,M,H,Reno,NV,False,undetermined,,False
+2435,Ramon Andrade,2017-03-02,shot,knife,37,M,H,Paterson,NJ,True,other,Not fleeing,False
 2401,Michael Kocher,2017-03-03,shot,gun,32,M,W,Englewood,CO,False,undetermined,Not fleeing,False
 2403,Dave Phoenix,2017-03-03,shot,toy weapon,25,M,N,Lemoore,CA,False,attack,Not fleeing,False
 2399,George Lee Seeton,2017-03-04,shot,vehicle,38,M,W,Oklahoma City,OK,False,attack,Car,True
@@ -2172,3 +2173,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2424,Shawn Anthony Dumitras,2017-03-14,shot,gun,43,M,,Panama City Beach,FL,False,attack,,False
 2426,"Elena ""Ebbie"" Mondragon",2017-03-14,shot,unarmed,16,F,,Hayward,CA,False,other,,False
 2418,Cordale Quinn Handy,2017-03-15,shot,undetermined,29,M,B,St. Paul,MN,False,other,Not fleeing,False
+2428,Todd Munson,2017-03-15,shot,vehicle,25,M,W,Phoenix,AZ,False,other,Car,False
+2429,Frederick Ricardo Brown,2017-03-16,shot,gun,34,M,,Warren,MI,False,attack,Not fleeing,False
+2431,Jermaine Claybrooks,2017-03-16,shot,gun,32,M,B,Milwaukee,WI,False,other,Not fleeing,False
+2432,Patrick Gatson,2017-03-16,shot,gun,32,M,B,Fayetteville,NC,False,attack,Not fleeing,False
+2433,Daniel Donarski,2017-03-16,shot,gun,58,M,W,Deltona,FL,True,attack,Not fleeing,False
+2434,Rodney Hess,2017-03-16,shot,vehicle,36,M,B,Alamo,TN,True,attack,Not fleeing,True
+2436,Brentant Lahey,2017-03-17,shot,knife,25,M,W,Presque Isle,ME,False,other,Not fleeing,False
+2439,Nancy Lewellyn,2017-03-17,shot,toy weapon,59,F,,Lakeland,TN,True,attack,Not fleeing,False
+2440,Desmond Phillips,2017-03-17,shot,knife,25,M,B,Chico,CA,True,other,Not fleeing,False
+2437,Kevin Perry,2017-03-18,shot,gun,25,M,,Wichita,KS,False,attack,Not fleeing,False
+2438,TK TK,2017-03-18,shot,gun,,M,,Hulls Gulch,ID,False,attack,Not fleeing,False
