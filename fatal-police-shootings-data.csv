@@ -2176,13 +2176,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2428,Todd Munson,2017-03-15,shot,vehicle,25,M,W,Phoenix,AZ,False,other,Car,False
 2429,Frederick Ricardo Brown,2017-03-16,shot,gun,34,M,,Warren,MI,False,attack,Not fleeing,False
 2431,Jermaine Claybrooks,2017-03-16,shot,gun,32,M,B,Milwaukee,WI,False,other,Not fleeing,False
-2432,Patrick Gatson,2017-03-16,shot,gun,32,M,B,Fayetteville,NC,False,attack,Not fleeing,False
+2432,Patrick Earl Gatson,2017-03-16,shot and Tasered,gun,32,M,B,Fayetteville,NC,False,attack,Not fleeing,False
 2433,Daniel Donarski,2017-03-16,shot,gun,58,M,W,Deltona,FL,True,attack,Not fleeing,False
-2434,Rodney Hess,2017-03-16,shot,vehicle,36,M,B,Alamo,TN,True,attack,Not fleeing,True
-2436,Brentant Lahey,2017-03-17,shot,knife,25,M,W,Presque Isle,ME,False,other,Not fleeing,False
-2439,Nancy Lewellyn,2017-03-17,shot,toy weapon,59,F,,Lakeland,TN,True,attack,Not fleeing,False
-2440,Desmond Phillips,2017-03-17,shot,knife,25,M,B,Chico,CA,True,other,Not fleeing,False
+2434,Rodney James Hess,2017-03-16,shot,vehicle,36,M,B,Alamo,TN,True,attack,Not fleeing,True
+2436,Brentant M. Lahey,2017-03-17,shot,knife,25,M,W,Presque Isle,ME,False,other,Not fleeing,False
+2439,Nancy Jane Lewellyn,2017-03-17,shot,toy weapon,59,F,,Lakeland,TN,True,attack,Not fleeing,False
+2440,Desmond Phillips,2017-03-17,shot and Tasered,knife,25,M,B,Chico,CA,True,other,Not fleeing,False
 2437,Kevin Perry,2017-03-18,shot,gun,25,M,,Wichita,KS,False,attack,Not fleeing,False
-2438,TK TK,2017-03-18,shot,gun,,M,,Hulls Gulch,ID,False,attack,Not fleeing,False
+2438,Benjamin Christian Barnes,2017-03-18,shot,gun,42,M,W,Boise,ID,False,attack,Not fleeing,False
+2446,Jason Dennis Watkins,2017-03-18,shot,vehicle,36,M,,Cedartown,GA,False,other,Car,False
 2441,Clifton Knickmeyer,2017-03-19,shot,gun,58,M,W,Affton,MO,False,attack,Other,False
 2442,Alteria Woods,2017-03-19,shot,unarmed,21,F,B,Gifford,FL,False,other,Not fleeing,False
+2443,Trevor Allen Brice Gingras,2017-03-19,shot,gun,19,M,,Cape Canaveral,FL,False,attack,Foot,False
+2444,TK TK,2017-03-19,shot,gun,45,M,,DeLand,FL,True,other,Car,False
+2445,TK Tk,2017-03-19,shot,knife,,M,,Desert Edge,CA,False,attack,Not fleeing,False
