@@ -2162,9 +2162,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2411,Steven Schiltz,2017-03-09,shot,baseball bat and bottle,29,M,,Huntington Beach,CA,True,other,Not fleeing,False
 2415,Damon Seitz,2017-03-10,shot,gun,40,M,W,Escondido,CA,False,attack,Not fleeing,False
 2413,Mark Robert Carlberg,2017-03-11,shot,gun,51,M,W,Midlothian,TX,False,attack,Not fleeing,False
+2447,Brandon Wiley,2017-03-11,shot,gun,30,M,B,East Baton Rouge,LA,False,attack,,False
 2412,Michael Anthony Perez,2017-03-12,shot and Tasered,knife,33,M,H,Orange,CA,True,other,Not fleeing,False
 2414,TK TK,2017-03-12,shot,knife,,M,,Bellingham,WA,False,attack,Foot,False
-2416,Luke O. Stewart,2017-03-13,shot,vehicle,23,M,,Euclid,OH,False,other,,False
+2416,Luke O. Stewart,2017-03-13,shot,vehicle,23,M,,Euclid,OH,False,other,,True
 2417,Noel Aaron Russell,2017-03-13,shot,knife,23,M,,Napa,CA,True,other,Not fleeing,False
 2421,Rashad Daquan Opher,2017-03-13,shot,vehicle,20,M,B,Woodlawn,MD,False,other,Other,True
 2419,Christopher Apostolos,2017-03-14,shot,unarmed,56,M,,Toms River,NJ,True,attack,,False
@@ -2182,7 +2183,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2436,Brentant M. Lahey,2017-03-17,shot,knife,25,M,W,Presque Isle,ME,False,other,Not fleeing,False
 2439,Nancy Jane Lewellyn,2017-03-17,shot,toy weapon,59,F,,Lakeland,TN,True,attack,Not fleeing,False
 2440,Desmond Phillips,2017-03-17,shot and Tasered,knife,25,M,B,Chico,CA,True,other,Not fleeing,False
-2437,Kevin Perry,2017-03-18,shot,gun,25,M,,Wichita,KS,False,attack,Not fleeing,False
+2437,Kevin C. Perry,2017-03-18,shot,gun,25,M,,Wichita,KS,False,attack,Not fleeing,False
 2438,Benjamin Christian Barnes,2017-03-18,shot,gun,42,M,W,Boise,ID,False,attack,Not fleeing,False
 2446,Jason Dennis Watkins,2017-03-18,shot,vehicle,36,M,,Cedartown,GA,False,other,Car,False
 2441,Clifton Knickmeyer,2017-03-19,shot,gun,58,M,W,Affton,MO,False,attack,Other,False
@@ -2190,3 +2191,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2443,Trevor Allen Brice Gingras,2017-03-19,shot,gun,19,M,,Cape Canaveral,FL,False,attack,Foot,False
 2444,TK TK,2017-03-19,shot,gun,45,M,,DeLand,FL,True,other,Car,False
 2445,TK Tk,2017-03-19,shot,knife,,M,,Desert Edge,CA,False,attack,Not fleeing,False
+2448,Charles Harris,2017-03-22,shot,knife,42,M,,Booneville,KY,False,undetermined,,False
+2450,TK TK,2017-03-22,shot,gun,,M,,Crowley,LA,False,attack,Not fleeing,False
+2449,TK TK,2017-03-23,shot,machete,,M,,Des Moines,WA,False,other,Not fleeing,False
+2451,TK Tk,2017-03-23,shot,knife,,M,B,Sheridan,AR,False,attack,Car,False
+2453,TK TK,2017-03-23,shot,knife,24,M,,Phoenix,AZ,False,attack,Not fleeing,False
+2452,TK TK,2017-03-24,shot,knife,39,M,,Baltimore,MD,False,other,Not fleeing,True
