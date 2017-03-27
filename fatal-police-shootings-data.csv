@@ -2192,8 +2192,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2444,Mario Simoes,2017-03-19,shot,gun,45,M,,DeLand,FL,True,other,Car,False
 2445,TK Tk,2017-03-19,shot,knife,,M,,Desert Edge,CA,False,attack,Not fleeing,False
 2448,Charles Harris,2017-03-22,shot,knife,42,M,,Booneville,KY,False,undetermined,,False
-2450,TK TK,2017-03-22,shot,gun,,M,,Crowley,LA,False,attack,Not fleeing,False
+2450,Don Johnson,2017-03-22,shot,gun,27,M,,Crowley,LA,False,attack,Not fleeing,False
 2449,TK TK,2017-03-23,shot,machete,,M,,Des Moines,WA,False,other,Not fleeing,False
-2451,TK Tk,2017-03-23,shot,knife,,M,B,Sheridan,AR,False,attack,Car,False
-2453,TK TK,2017-03-23,shot,knife,24,M,,Phoenix,AZ,False,attack,Not fleeing,False
-2452,TK TK,2017-03-24,shot,knife,39,M,,Baltimore,MD,False,other,Not fleeing,True
+2451,Eddie Davis,2017-03-23,shot,knife,42,M,B,Sheridan,AR,False,attack,Car,False
+2453,Francisco Valdez,2017-03-23,shot,knife,24,M,H,Phoenix,AZ,False,attack,Not fleeing,False
+2452,Reno Joseph Owens,2017-03-24,shot,knife,39,M,B,Baltimore,MD,False,other,Not fleeing,True
+2456,TK TK,2017-03-24,shot,gun,,M,,Cottonwood,CA,False,attack,Not fleeing,False
+2458,Matthew Gambaro,2017-03-24,shot,gun,26,M,H,Cisco,TX,False,other,Foot,False
+2454,Fred Barragan,2017-03-25,shot,gun,35,M,,Boyle Heights,CA,False,other,Foot,False
+2455,TK TK,2017-03-26,shot,gun,,,,Anderson,CA,False,attack,Not fleeing,False
+2457,Michael Hornibrook,2017-03-26,shot,gun,54,M,W,Little Rock,AR,False,attack,Foot,False
+2459,Justin Quincy Smith,2017-03-26,shot,gun,36,M,,Wasilla,AK,False,attack,Other,False
