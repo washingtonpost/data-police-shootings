@@ -2193,26 +2193,30 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2445,TK Tk,2017-03-19,shot,knife,,M,,Desert Edge,CA,False,attack,Not fleeing,False
 2448,Charles Harris,2017-03-22,shot,knife,42,M,,Booneville,KY,False,undetermined,,False
 2450,Don Johnson,2017-03-22,shot,gun,27,M,,Crowley,LA,False,attack,Not fleeing,False
+2477,Nengmy Vang,2017-03-22,shot,gun,45,M,A,Weston,WI,False,attack,,False
 2449,TK TK,2017-03-23,shot,machete,,M,,Des Moines,WA,False,other,Not fleeing,False
 2451,Eddie Davis,2017-03-23,shot,knife,42,M,B,Sheridan,AR,False,attack,Car,False
 2453,Francisco Valdez,2017-03-23,shot,knife,24,M,H,Phoenix,AZ,False,attack,Not fleeing,False
 2452,Reno Joseph Owens,2017-03-24,shot,knife,39,M,B,Baltimore,MD,False,other,Not fleeing,True
-2456,TK TK,2017-03-24,shot,gun,,M,,Cottonwood,CA,False,attack,Not fleeing,False
+2456,Austin Macon,2017-03-24,shot,gun,18,M,,Cottonwood,CA,False,attack,Not fleeing,False
 2458,Matthew Gambaro,2017-03-24,shot,gun,26,M,H,Cisco,TX,False,other,Foot,False
-2454,Fred Barragan,2017-03-25,shot,gun,35,M,,Los Angeles,CA,False,other,Foot,False
+2454,Fred Barragan,2017-03-25,shot,gun,35,M,H,Los Angeles,CA,False,other,Foot,False
 2455,TK TK,2017-03-26,shot,gun,,,,Anderson,CA,False,attack,Not fleeing,False
 2457,Michael Hornibrook,2017-03-26,shot,gun,54,M,W,Little Rock,AR,False,attack,Foot,False
-2459,Justin Quincy Smith,2017-03-26,shot,gun,36,M,,Wasilla,AK,False,attack,Other,False
-2460,Steven Hopwood,2017-03-27,shot,gun,51,M,,Lewisburg,TN,False,attack,Not fleeing,False
+2459,Justin Quincy Smith,2017-03-26,shot,gun,36,M,W,Wasilla,AK,False,attack,Other,False
+2460,Steven Hopwood,2017-03-27,shot,gun,51,M,W,Lewisburg,TN,False,attack,Not fleeing,False
 2461,Pryor Spencer Bailey,2017-03-27,shot,gun,45,M,W,Columbus,MS,False,attack,Car,False
-2462,Richard Alexander Tilley,2017-03-28,shot,knife,28,M,,Montgomery Village,MD,False,other,Not fleeing,True
+2462,Richard Alexander Tilley,2017-03-27,shot,knife,28,M,W,Montgomery Village,MD,False,other,Not fleeing,True
 2463,Peter J. Doffin,2017-03-28,shot,gun,36,M,,Lafayette,IN,False,attack,Car,False
-2464,Destiny A. Moneyhun,2017-03-28,shot,undetermined,18,F,,Anchorage,KY,False,undetermined,,False
-2465,Bradley James Sheets,2017-03-28,shot,undetermined,25,M,,Anchorage,KY,False,undetermined,,True
-2466,Daniel Hendrix,2017-03-29,shot,gun,26,M,,Chattanooga,TN,False,other,Not fleeing,False
-2467,Lee Pat Milks,2017-03-29,shot,gun,73,M,W,Manistee,MI,False,attack,Not fleeing,False
-2468,TK Tk,2017-03-29,shot,gun,,M,,Stockton,IL,False,attack,Car,False
-2469,Doyle Wayne Johnson,2017-03-29,shot,gun,59,M,,Byars,OK,False,attack,Car,False
+2464,Destiny A. Moneyhun,2017-03-28,shot,undetermined,18,F,W,Anchorage,KY,False,undetermined,,False
+2465,Bradley James Sheets,2017-03-28,shot,undetermined,25,M,W,Anchorage,KY,False,undetermined,,True
+2467,Lee Pat Milks,2017-03-28,shot,gun,73,M,W,Manistee,MI,False,attack,Not fleeing,False
+2466,Daniel Hendrix,2017-03-29,shot,gun,26,M,W,Chattanooga,TN,False,other,Not fleeing,False
+2468,Troy Boyle,2017-03-29,shot,gun,41,M,W,Stockton,IL,False,attack,Car,False
+2469,Doyle Wayne Johnson,2017-03-29,shot,gun,59,M,W,Byars,OK,False,attack,Car,False
 2470,Leroy Brown,2017-03-29,shot,vehicle,28,M,B,New Castle,DE,False,other,Car,False
 2471,Fred Ratliff,2017-03-29,shot,gun,45,M,W,Lawrenceburg,KY,False,attack,Not fleeing,False
-2473,TK TK,2017-03-30,shot,vehicle,,M,,Whitewright,TX,False,other,Car,False
+2473,Dennis Wasson,2017-03-29,shot,vehicle,27,M,W,Whitewright,TX,False,other,Car,False
+2474,Christopher Angelo Pizzichetta,2017-03-30,shot,vehicle,46,M,W,Cranbury Township,NJ,False,other,Car,False
+2475,TK TK,2017-04-01,shot,gun,,M,,Cantonment,FL,False,attack,Foot,False
+2476,TK TK,2017-04-01,shot,knife,,M,,Iberia Parish,LA,False,other,,False
