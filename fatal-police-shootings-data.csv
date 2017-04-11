@@ -2222,12 +2222,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2476,Phosowath Sengphong,2017-04-01,shot,knife,30,M,A,New Iberia,LA,False,other,,False
 2478,Jose Antonio Hernandez,2017-04-03,shot and Tasered,vehicle,46,M,H,Pendleton,SC,False,other,Not fleeing,True
 2479,Rogelio Vidal Landa,2017-04-04,shot,unarmed,47,M,,Bakersfield,CA,False,other,Foot,False
-2480,TK TK,2017-04-04,shot,vehicle,,,,Houston,TX,False,attack,Car,False
+2480,Michael Maldonado,2017-04-04,shot,vehicle,32,M,H,Houston,TX,False,attack,Car,False
 2481,Stephen Connard Ferry,2017-04-04,shot,gun,65,M,,Napa,CA,False,attack,Car,False
 2482,Michael Alcaraz,2017-04-05,shot,gun,19,M,,Goshen,IN,False,attack,Car,False
 2483,Austin Dakota Snyder,2017-04-05,shot,vehicle,22,M,,Little Rock,AR,False,other,,False
-2484,TK TK,2017-04-06,shot,toy weapon,,M,,Westerville,OH,True,attack,Not fleeing,False
+2484,Christopher Wade,2017-04-06,shot,toy weapon,39,M,B,Westerville,OH,True,attack,Not fleeing,False
 2485,Benjamin Ailstock,2017-04-06,shot,gun,38,M,W,Madison Township,OH,True,attack,Not fleeing,False
 2486,Glenn Watenpool,2017-04-06,shot,gun,68,M,W,Bradenton,FL,False,attack,Not fleeing,False
 2487,Richard Xavier Summers,2017-04-06,shot,gun,49,M,B,Largo,FL,False,attack,Not fleeing,False
-2488,TK TK,2017-04-06,shot,gun,,M,,Newark,NJ,False,attack,Not fleeing,False
+2488,Kenneth Francis,2017-04-06,shot,gun,37,M,,Newark,NJ,False,attack,Not fleeing,False
+2492,TK TK,2017-04-08,shot,knife,25,M,,Eau Claire,WI,False,other,Not fleeing,False
+2490,TK TK,2017-04-09,shot,knife,36,M,,Santa Paula,CA,False,undetermined,Not fleeing,False
+2491,TK TK,2017-04-09,shot,gun,,M,,Ontario,CA,False,other,Not fleeing,False
+2489,TK TK,2017-04-10,shot,gun,,M,,Fremont,CA,False,undetermined,Foot,False
+2493,Jeffrey Findlay,2017-04-10,shot,gun,30,M,,Cleveland,OH,False,other,Not fleeing,False
+2494,TK TK,2017-04-10,shot,gun,,M,,Houston,TX,False,other,Foot,True
