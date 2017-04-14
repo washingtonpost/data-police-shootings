@@ -2231,14 +2231,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2486,Glenn Watenpool,2017-04-06,shot,gun,68,M,W,Bradenton,FL,False,attack,Not fleeing,False
 2487,Richard Xavier Summers,2017-04-06,shot,gun,49,M,B,Largo,FL,False,attack,Not fleeing,False
 2488,Kenneth Francis,2017-04-06,shot,gun,37,M,,Newark,NJ,False,attack,Not fleeing,False
-2495,TK TK,2017-04-07,shot,gun,,M,,Kyle,SD,False,attack,Car,False
-2492,TK TK,2017-04-08,shot,knife,25,M,,Eau Claire,WI,False,other,Not fleeing,False
-2490,TK TK,2017-04-09,shot,knife,36,M,,Santa Paula,CA,False,undetermined,Not fleeing,False
+2495,Jeffrey Lynn Curry,2017-04-07,shot,gun,33,M,,Kyle,SD,False,attack,Car,False
+2492,Gregory Kever,2017-04-08,shot,knife,25,M,W,Eau Claire,WI,False,other,Not fleeing,False
+2490,Jose Gonzales Rendon,2017-04-09,shot,knife,36,M,H,Santa Paula,CA,False,undetermined,Not fleeing,False
 2491,William Baker,2017-04-09,shot,gun,36,M,,Ontario,CA,False,other,Not fleeing,False
 2493,Jeffrey Findlay,2017-04-10,shot,gun,30,M,,Cleveland,OH,False,other,Not fleeing,False
 2494,TK TK,2017-04-10,shot,gun,,M,,Houston,TX,False,other,Foot,True
 2496,TK TK,2017-04-12,shot,gun,,M,,Los Angeles,CA,False,other,Not fleeing,False
-2497,TK TK,2017-04-12,shot,gun,42,M,,Gresham,OR,True,attack,,False
 2499,TK TK,2017-04-13,shot,vehicle,,M,,Avondale,AZ,False,other,Not fleeing,False
 2500,Charles Johnston,2017-04-13,shot,gun,25,M,W,Udall,KS,False,attack,Car,False
 2501,TK TK,2017-04-13,shot,undetermined,,M,,Suffield,CT,False,undetermined,,False
+2502,TK TK,2017-04-14,shot,gun,35,M,,Spanaway,WA,False,undetermined,Car,False
