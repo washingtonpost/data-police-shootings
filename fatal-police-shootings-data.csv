@@ -2239,3 +2239,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2494,TK TK,2017-04-10,shot,gun,,M,,Houston,TX,False,other,Foot,True
 2496,TK TK,2017-04-12,shot,gun,,M,,Los Angeles,CA,False,other,Not fleeing,False
 2497,TK TK,2017-04-12,shot,gun,42,M,,Gresham,OR,True,attack,,False
+2499,TK TK,2017-04-13,shot,vehicle,,M,,Avondale,AZ,False,other,Not fleeing,False
+2500,Charles Johnston,2017-04-13,shot,gun,25,M,W,Udall,KS,False,attack,Car,False
+2501,TK TK,2017-04-13,shot,undetermined,,M,,Suffield,CT,False,undetermined,,False
