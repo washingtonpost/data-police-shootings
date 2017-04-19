@@ -2242,7 +2242,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2500,Charles Johnston,2017-04-13,shot,gun,25,M,W,Udall,KS,False,attack,Car,False
 2501,Thomas Gezotis,2017-04-13,shot,undetermined,57,M,,Suffield,CT,False,undetermined,,False
 2502,TK TK,2017-04-14,shot,gun,35,M,,Spanaway,WA,False,undetermined,Car,False
-2503,TK TK,2017-04-14,shot,knife,24,M,,Mandan,ND,False,attack,Not fleeing,False
+2503,TK TK,2017-04-14,shot,knife,24,M,,Mandan,ND,False,other,Not fleeing,False
 2505,TK TK,2017-04-14,shot,gun,,M,,Paterson,NJ,True,attack,Not fleeing,False
 2506,Olugbalah Ridley,2017-04-15,shot,gun,33,M,B,West Memphis,AR,False,attack,,False
 2509,David Airth,2017-04-15,shot,knife,56,M,,Newport Beach,CA,False,other,Not fleeing,False
