@@ -2237,14 +2237,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2491,William Baker,2017-04-09,shot,gun,36,M,,Ontario,CA,False,other,Not fleeing,False
 2493,Jeffrey Findlay,2017-04-10,shot,gun,30,M,W,Cleveland,OH,False,other,Not fleeing,False
 2494,TK TK,2017-04-10,shot,gun,39,M,,Houston,TX,False,other,Foot,True
-2496,TK TK,2017-04-12,shot,gun,,M,,Los Angeles,CA,False,other,Not fleeing,False
+2496,Zelalem Eshetu Ewnetu,2017-04-12,shot,gun,28,M,B,Los Angeles,CA,False,other,Not fleeing,False
 2499,Erik Pamias,2017-04-13,shot,vehicle,28,M,,Avondale,AZ,False,other,Not fleeing,False
 2500,Charles Johnston,2017-04-13,shot,gun,25,M,W,Udall,KS,False,attack,Car,False
 2501,Thomas Gezotis,2017-04-13,shot,undetermined,57,M,,Suffield,CT,False,undetermined,,False
 2502,TK TK,2017-04-14,shot,gun,35,M,,Spanaway,WA,False,undetermined,Car,False
-2503,TK TK,2017-04-14,shot,knife,24,M,,Mandan,ND,False,other,Not fleeing,False
+2503,Ivan Wilson,2017-04-14,shot,knife,24,M,,Mandan,ND,False,other,Not fleeing,False
 2505,TK TK,2017-04-14,shot,gun,,M,,Paterson,NJ,True,attack,Not fleeing,False
 2506,Olugbalah Ridley,2017-04-15,shot,gun,33,M,B,West Memphis,AR,False,attack,,False
 2509,David Airth,2017-04-15,shot,knife,56,M,,Newport Beach,CA,False,other,Not fleeing,False
-2510,TK TK,2017-04-15,shot,gun,59,M,,Colebrook Township,OH,True,attack,Not fleeing,False
-2508,TK TK,2017-04-16,shot,undetermined,,M,W,Vadnais Heights,MN,False,undetermined,Not fleeing,False
+2510,Frederick H. Hall,2017-04-15,shot,gun,56,M,,Colebrook Township,OH,True,attack,Not fleeing,False
+2508,Darren Jahnke,2017-04-16,shot,undetermined,47,M,W,Vadnais Heights,MN,False,undetermined,Not fleeing,False
+2511,Casey Desper,2017-04-18,shot,vehicle,32,M,,Brandywine,WV,False,attack,Car,False
+2514,Keith Price,2017-04-19,shot,gun,21,M,B,Wilmington,DE,False,attack,Other,True
+2513,Marion Lee Holliday,2017-04-20,shot,gun,64,M,W,Logan County,OK,False,attack,Not fleeing,False
+2515,TK TK,2017-04-20,shot,gun,19,M,,Seattle,WA,False,attack,,False
+2516,TK TK,2017-04-20,shot and Tasered,knife,,M,,San Antonio,TX,False,other,,False
+2517,Jose Trejo,2017-04-20,shot,gun,,M,H,Hardeeville,SC,False,attack,Not fleeing,False
