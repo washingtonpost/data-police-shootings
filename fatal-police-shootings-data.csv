@@ -2256,8 +2256,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2516,Ray Valdez,2017-04-20,shot and Tasered,knife,55,M,,San Antonio,TX,False,other,,False
 2517,Jose Trejo,2017-04-20,shot,gun,,M,H,Hardeeville,SC,False,attack,Not fleeing,False
 2518,Brandon Pequeno,2017-04-20,shot,vehicle,25,M,H,Glendale,AZ,False,other,Car,False
-2519,TK Tk,2017-04-21,shot,gun,,M,,West Linn,OR,True,other,Not fleeing,False
+2525,TK TK,2017-04-20,shot,unarmed,17,F,,Glendale,AZ,False,undetermined,,False
+2519,Chance Rickie Thompson,2017-04-21,shot,gun,25,M,,West Linn,OR,True,other,Not fleeing,False
 2521,Joseph Sin,2017-04-22,shot,hatchet and gun,43,M,A,Yuba City,CA,False,attack,Foot,False
 2522,William D. Spates,2017-04-22,shot,undetermined,39,M,B,Portage,IN,False,undetermined,Not fleeing,False
 2523,Michael Wilson-Salzl,2017-04-22,shot,knife,24,M,,Hamilton,OH,False,other,Not fleeing,False
+2526,TK TK,2017-04-23,shot,gun,,,,Prescott,AZ,False,attack,Not fleeing,False
 2524,Robert Becker,2017-04-24,shot,gun,79,,,Stewartstown,PA,True,attack,Not fleeing,False
+2527,TK TK,2017-04-24,shot,gun,16,M,,Houston,TX,False,other,Foot,True
