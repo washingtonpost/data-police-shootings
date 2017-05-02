@@ -2284,3 +2284,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2544,Peter Raymond Selis,2017-04-30,shot,gun,49,M,W,University City,CA,False,attack,Not fleeing,False
 2545,James Edward Ray,2017-04-30,shot,gun,46,M,B,Detroit,MI,False,attack,Not fleeing,False
 2548,Robert Brunner,2017-04-30,shot,gun,52,M,,Milford,IA,False,attack,Not fleeing,False
+2550,Joseph Allan,2017-05-01,shot,gun,25,M,,Conroe,TX,False,attack,Not fleeing,False
+2549,TK TK,2017-05-02,shot,knife,,M,,Irving,TX,False,attack,Not fleeing,False
