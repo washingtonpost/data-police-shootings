@@ -2275,7 +2275,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2535,Burgon Sealy,2017-04-27,shot,gun,26,M,B,Middletown,DE,False,attack,Not fleeing,False
 2537,Tim A. Holmgren,2017-04-27,shot,gun,53,M,,Rapid City,SD,False,attack,Not fleeing,False
 2542,Avery Richard,2017-04-28,shot,gun,32,M,B,Atlanta,GA,False,attack,Not fleeing,False
-2547,TK TK,2017-04-28,shot,gun,,M,,San Jose,CA,False,attack,Not fleeing,False
+2547,TK TK,2017-04-28,shot,gun,,M,,San Mateo,CA,False,attack,Not fleeing,False
 2538,Jordan Edwards,2017-04-29,shot,unarmed,15,M,B,Balch Springs,TX,False,undetermined,Not fleeing,True
 2539,Gene Bernhardt,2017-04-29,shot,crossbow,59,M,,Papaaloa,HI,False,undetermined,Not fleeing,False
 2543,Caleb Johnson,2017-04-29,shot,gun,35,M,,Newport News,VA,False,attack,Not fleeing,False
@@ -2285,4 +2285,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2545,James Edward Ray,2017-04-30,shot,gun,46,M,B,Detroit,MI,False,attack,Not fleeing,False
 2548,Robert Brunner,2017-04-30,shot,gun,52,M,,Milford,IA,False,attack,Not fleeing,False
 2550,Joseph Allan,2017-05-01,shot,gun,25,M,,Conroe,TX,False,attack,Not fleeing,False
-2549,TK TK,2017-05-02,shot,knife,,M,,Irving,TX,False,attack,Not fleeing,False
+2549,Rodney Henderson,2017-05-02,shot,knife,48,M,B,Irving,TX,False,attack,Not fleeing,False
+2551,TK TK,2017-05-02,shot,gun,20,M,,Austin,TX,True,other,Not fleeing,False
+2552,TK TK,2017-05-03,shot,knife,,M,,San Jose,CA,True,attack,Not fleeing,False
+2553,TK TK,2017-05-03,shot,undetermined,,M,,San Jose,CA,False,undetermined,Not fleeing,False
+2554,Malik Carey,2017-05-03,shot,gun,18,M,B,Grand Rapids,MI,False,attack,Not fleeing,False
+2555,William Dean,2017-05-03,shot,gun,67,M,,Peachtree City,GA,False,attack,Not fleeing,False
+2556,TK TK,2017-05-03,shot,knife,,M,,San Francisco,CA,False,attack,Not fleeing,False
