@@ -2292,9 +2292,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2554,Malik Carey,2017-05-03,shot,gun,18,M,B,Grand Rapids,MI,False,attack,Not fleeing,False
 2555,William Dean,2017-05-03,shot,gun,67,M,,Peachtree City,GA,False,attack,Not fleeing,False
 2556,Nicholas Flusche,2017-05-03,shot,knife,26,M,W,San Francisco,CA,False,attack,Not fleeing,False
-2561,Lucille Espinosa,2017-05-04,shot,gun,54,F,,Houston,TX,True,other,Not fleeing,False
+2561,Lucille Espinosa,2017-05-04,shot,gun,54,F,,Katy,TX,True,other,Not fleeing,False
 2557,Jacob Peterson,2017-05-06,shot,toy weapon,15,M,W,San Diego,CA,True,attack,Not fleeing,True
 2560,TK TK,2017-05-07,shot,ax,,M,,Las Vegas,NV,False,other,Not fleeing,False
 2562,Landon Nobles,2017-05-07,shot,gun,24,M,B,Austin,TX,False,attack,Foot,False
 2558,Cedric Mifflin,2017-05-07,shot,undetermined,27,M,B,Phenix City,AL,False,undetermined,Other,False
-2559,Jose Hernandez-Rossy,2017-05-07,shot,gun,26,M,,Black Rock,NY,False,attack,Not fleeing,False
+2559,Jose Hernandez-Rossy,2017-05-07,shot,gun,26,M,,Buffalo,NY,False,attack,Foot,False
