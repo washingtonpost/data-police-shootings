@@ -1971,7 +1971,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2200,Jamal Parks,2017-01-06,shot,gun,32,M,B,Deerfield,IL,False,attack,Other,False
 2196,Daniel Scott Giberson,2017-01-07,shot,knife,25,M,W,Princeton,WV,False,other,Car,False
 2198,Travis Edward Baker,2017-01-07,shot,gun,42,M,W,Fairland,OK,False,attack,Other,False
-2199,William Tucker Mathis,2017-01-07,shot,unarmed,41,M,W,Elkridge,MD,False,attack,Not fleeing,False
+2199,William Tucker Mathis,2017-01-07,shot,unarmed,41,M,W,Elkridge,MD,True,attack,Not fleeing,False
 2201,Hector Navarrete,2017-01-07,shot,vehicle,31,M,H,Northglenn,CO,True,other,Not fleeing,False
 2202,Carlos A. Cruz,2017-01-07,shot,gun,50,M,H,Independence,MO,True,attack,Not fleeing,False
 2203,Gilbert Zambronio-Lovato,2017-01-07,shot,,38,M,H,Albuquerque,NM,False,other,Not fleeing,False
@@ -2307,3 +2307,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2570,Terrell Kyreem Johnson,2017-05-10,shot,knife,24,M,,Portland,OR,False,other,Foot,False
 2571,Robin White,2017-05-10,shot,gun,50,F,,St. Louis,MO,False,attack,Not fleeing,False
 2572,TK TK,2017-05-10,shot and Tasered,undetermined,,M,,Barona Indian Reservation,CA,False,other,Car,False
+2573,TK TK,2017-05-11,shot,gun,,M,H,Arlington,TX,False,attack,Not fleeing,False
+2574,Ronald Singletary,2017-05-12,shot and Tasered,knife,51,M,,Philadelphia,PA,False,other,Not fleeing,False
