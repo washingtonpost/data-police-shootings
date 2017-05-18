@@ -1985,7 +1985,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2215,Jose A. Fernandez-Ventura,2017-01-11,shot,gun,38,M,H,Camden,NJ,False,attack,Not fleeing,False
 2211,Kevin Ernest Tree,2017-01-12,shot,gun,54,M,W,Ocala,FL,True,undetermined,,False
 2224,Jamison Christopher Anderson,2017-01-12,shot,gun,20,M,N,Vineland,MN,False,attack,Not fleeing,False
-2227,Rodney L. Hoback,2017-01-12,shot,knife,26,M,W,Pearisburg,VA,False,attack,Not fleeing,False
+2227,Rodney L. Hoback,2017-01-12,shot,knife,26,M,W,Pearisburg,VA,True,attack,Not fleeing,False
 2218,Cameron Johnson,2017-01-13,shot,vehicle,29,M,O,Kahuku,HI,False,undetermined,Car,False
 2221,Scott Laurance Gilpin,2017-01-14,shot,gun,47,M,W,Austin,TX,False,attack,Foot,False
 2222,Jahlire Nicholson,2017-01-14,shot and Tasered,screwdriver,28,M,B,New York,NY,False,attack,Not fleeing,False
@@ -2309,16 +2309,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2572,Jeroen Peter Koornwinder,2017-05-10,shot and Tasered,vehicle,50,M,W,Barona Indian Reservation,CA,False,other,Car,False
 2573,TK TK,2017-05-11,shot,gun,,M,H,Arlington,TX,False,attack,Not fleeing,False
 2574,Ronald Singletary,2017-05-12,shot and Tasered,knife,51,M,B,Philadelphia,PA,False,other,Not fleeing,False
-2575,TK TK,2017-05-12,shot,gun,,M,,Billings,MT,True,attack,Not fleeing,False
+2575,Ryan Lowell,2017-05-12,shot,gun,30,M,,Billings,MT,True,attack,Not fleeing,False
 2577,Jonathan David Victor,2017-05-12,shot,undetermined,35,M,,Baldwin County,AL,False,undetermined,,False
 2578,Phillip O'Shea,2017-05-12,shot,gun,46,M,W,Jupiter,FL,False,attack,Car,False
-2576,TK TK,2017-05-13,shot,gun,,M,,West Allis,WI,False,attack,Foot,False
+2576,Maxwell Holt,2017-05-13,shot,gun,37,M,W,West Allis,WI,False,attack,Foot,False
 2580,Clarence E. Coats,2017-05-13,shot,gun,41,M,B,Columbia,MO,False,attack,,False
 2579,TK TK,2017-05-14,shot,gun,,M,,Kingman,AZ,False,attack,Car,False
-2581,TK TK,2017-05-15,shot,gun,,F,,Phoenix,AZ,False,other,Not fleeing,False
+2581,Jonie Block,2017-05-15,shot,gun,27,F,,Phoenix,AZ,False,other,Not fleeing,False
 2582,Jaison Fitzgerald,2017-05-15,shot,undetermined,29,M,B,Richmond,VA,False,undetermined,Not fleeing,False
 2583,Buford Shane Whitson,2017-05-15,shot,gun,47,M,,Johnson City,TN,True,attack,Other,False
 2584,TK TK,2017-05-15,shot,undetermined,,M,,Long Beach,CA,False,attack,Other,False
-2585,TK TK,2017-05-15,shot,knife,,M,,Del Mar,CA,False,undetermined,Foot,False
-2586,TK TK,2017-05-16,shot,gun,,F,,Washington,DC,False,undetermined,Not fleeing,False
+2585,Emmanuel Ibarra,2017-05-15,shot,knife,34,M,,Del Mar,CA,False,undetermined,Foot,False
+2589,Keith Andrew Chesser,2017-05-15,shot,crossbow,48,M,W,Wewoka,OK,False,attack,Not fleeing,False
+2586,Isabelle Duval,2017-05-16,shot,gun,41,F,W,Washington,DC,False,attack,Not fleeing,False
 2587,TK TK,2017-05-16,shot,knife,25,M,,Tempe,AZ,False,other,,False
+2588,Edwin Fuentes,2017-05-16,shot,gun,24,M,,Tustin,CA,True,attack,Not fleeing,False
+2591,Marshall Barrus,2017-05-16,shot,gun,38,M,W,Three Forks,MT,False,attack,Car,False
+2590,Daniel Bork,2017-05-17,shot,vehicle,28,M,,Arlington,VA,False,attack,Car,False
