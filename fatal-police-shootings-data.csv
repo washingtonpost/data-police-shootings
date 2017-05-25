@@ -2335,3 +2335,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2598,Carlos Garcia Petrovich,2017-05-21,shot,unarmed,37,M,,Orlando,FL,False,attack,Not fleeing,False
 2600,TK TK,2017-05-22,shot,knife,,M,,Mountain Home,ID,False,attack,Not fleeing,False
 2601,TK TK,2017-05-23,shot and Tasered,gun,,M,,Glendale,AZ,False,attack,Other,False
+2602,TK TK,2017-05-23,shot,undetermined,,M,,Pahrump,NV,False,undetermined,Not fleeing,False
+2603,TK TK,2017-05-23,shot,gun,,M,,San Francisco,CA,False,other,Not fleeing,False
+2605,TK TK,2017-05-23,shot,gun,,M,,Knoxville,TN,False,attack,,False
+2604,Hayden J. Stutz,2017-05-24,shot,undetermined,24,M,,Canton,OH,False,undetermined,,False
