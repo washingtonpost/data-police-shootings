@@ -2033,7 +2033,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2266,Kerry Lee Coomer,2017-01-26,shot,gun,59,M,W,Overlea,MD,True,attack,Not fleeing,True
 2267,Deaundre Phillips,2017-01-26,shot,undetermined,24,M,B,Atlanta,GA,False,other,Car,True
 2268,William Brigham,2017-01-26,shot,metal pipe,34,M,W,Madison Township,OH,False,other,Not fleeing,False
-2272,Eduardo Hernandez,2017-01-27,shot,gun,25,M,H,Alhambra,CA,False,attack,Not fleeing,True
+2272,Eduardo Hernandez,2017-01-27,shot,gun,25,M,H,Alhambra,CA,True,attack,Not fleeing,True
 2273,Gerardo Coronado,2017-01-28,shot,gun,25,M,H,Fort Stockton,TX,False,attack,Car,False
 2274,Mi'Chance Dunlap-Gittens,2017-01-28,shot,gun,17,M,B,Des Moines,WA,False,attack,Not fleeing,False
 2271,Val Thomas,2017-01-29,shot,Taser,53,M,,Oakdale,CT,True,attack,Not fleeing,False
@@ -2241,7 +2241,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2500,Charles Johnston,2017-04-13,shot,gun,25,M,W,Udall,KS,False,attack,Car,False
 2501,Thomas Gezotis,2017-04-13,shot,undetermined,57,M,,Suffield,CT,False,undetermined,,False
 2502,TK TK,2017-04-14,shot,gun,35,M,,Spanaway,WA,False,undetermined,Car,False
-2503,Ivan Wilson,2017-04-14,shot,knife,24,M,,Mandan,ND,False,other,Not fleeing,False
+2503,Ivan Wilson,2017-04-14,shot,knife,24,M,N,Mandan,ND,False,other,Not fleeing,False
 2505,TK TK,2017-04-14,shot,gun,,M,,Paterson,NJ,True,attack,Not fleeing,False
 2506,Olugbalah Ridley,2017-04-15,shot,gun,33,M,B,West Memphis,AR,False,attack,,False
 2509,David Airth,2017-04-15,shot,knife,56,M,,Newport Beach,CA,False,other,Not fleeing,False
@@ -2282,7 +2282,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2540,Devin Hawkins,2017-04-30,shot,gun,32,M,W,Tom,OK,True,attack,Not fleeing,False
 2544,Peter Raymond Selis,2017-04-30,shot,gun,49,M,W,University City,CA,False,attack,Not fleeing,False
 2545,James Edward Ray,2017-04-30,shot,gun,46,M,B,Detroit,MI,False,attack,Not fleeing,False
-2548,Robert Brunner,2017-04-30,shot,gun,52,M,,Milford,IA,False,attack,Not fleeing,False
 2550,Joseph William Alain,2017-05-01,shot,gun,25,M,W,Conroe,TX,False,attack,Not fleeing,False
 2549,Rodney Henderson,2017-05-02,shot and Tasered,knife,48,M,B,Irving,TX,False,attack,Not fleeing,False
 2551,Jason Sebastian Roque,2017-05-02,shot,gun,20,M,,Austin,TX,True,other,Not fleeing,False
@@ -2293,7 +2292,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2556,Nicholas Flusche,2017-05-03,shot,knife,26,M,W,San Francisco,CA,False,attack,Not fleeing,True
 2561,Lucille Espinosa,2017-05-04,shot,gun,54,F,,Katy,TX,True,other,Not fleeing,False
 2557,Jacob Peterson,2017-05-06,shot,toy weapon,15,M,W,San Diego,CA,True,attack,Not fleeing,True
-2560,Steven Price,2017-05-07,shot,ax,62,M,,Las Vegas,NV,False,other,Not fleeing,False
+2560,Steven Price,2017-05-07,shot,ax,62,M,W,Las Vegas,NV,True,other,Not fleeing,False
 2562,Landon Nobles,2017-05-07,shot,gun,24,M,B,Austin,TX,False,attack,Foot,False
 2558,Cedric Jamal Mifflin,2017-05-07,shot,undetermined,27,M,B,Phenix City,AL,False,undetermined,Other,False
 2559,Jose Hernandez-Rossy,2017-05-07,shot,gun,26,M,H,Buffalo,NY,False,attack,Foot,False
@@ -2317,7 +2316,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2579,David Jay Juarez,2017-05-14,shot,gun,41,M,H,Kingman,AZ,False,attack,Car,False
 2581,Jonie Block,2017-05-15,shot,gun,27,F,,Phoenix,AZ,False,other,Not fleeing,False
 2582,Jaison Fitzgerald,2017-05-15,shot,gun,29,M,B,Richmond,VA,False,undetermined,Not fleeing,False
-2583,Buford Shane Whitson,2017-05-15,shot,gun,47,M,,Johnson City,TN,True,attack,Other,False
+2583,Buford Shane Whitson,2017-05-15,shot,gun,47,M,W,Johnson City,TN,True,attack,Other,False
 2584,TK TK,2017-05-15,shot,undetermined,,M,,Long Beach,CA,False,attack,Other,False
 2585,Emmanuel Ibarra,2017-05-15,shot,knife,34,M,,Del Mar,CA,False,undetermined,Foot,False
 2589,Keith Andrew Chesser,2017-05-15,shot,crossbow,48,M,W,Wewoka,OK,False,attack,Not fleeing,False
@@ -2326,16 +2325,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2588,Edwin Fuentes,2017-05-16,shot,gun,24,M,,Tustin,CA,True,attack,Not fleeing,False
 2591,Marshall Barrus,2017-05-16,shot,gun,38,M,W,Three Forks,MT,False,attack,Car,False
 2590,Daniel George Bork,2017-05-17,shot,vehicle,28,M,,Arlington,VA,False,attack,Car,False
-2592,Anthony Paul Ardo,2017-05-20,shot,fireworks,47,M,,Lower Mount Bethel,PA,True,other,Not fleeing,False
+2592,Anthony Paul Ardo,2017-05-20,shot,fireworks,47,M,W,Lower Mount Bethel,PA,True,other,Not fleeing,False
 2593,Roger Burbar,2017-05-20,shot,gun,65,M,,Belgrade,ME,False,attack,Not fleeing,False
 2599,Shannon Edward Estill,2017-05-20,shot,toy weapon,58,M,,Pleasanton,CA,True,attack,Not fleeing,True
 2594,Jimmie Montel Sanders,2017-05-21,shot,gun,33,M,,Appleton,WI,False,attack,Not fleeing,False
 2595,Joseph M. Hodgin,2017-05-21,shot,gun,43,M,W,Allentown,PA,False,attack,Car,False
 2596,Ricco Devante Holden,2017-05-21,shot,undetermined,24,M,B,Converse,LA,False,other,Not fleeing,False
 2598,Carlos Garcia Petrovich,2017-05-21,shot,unarmed,37,M,,Orlando,FL,False,attack,Not fleeing,False
-2600,TK TK,2017-05-22,shot,knife,,M,,Mountain Home,ID,False,attack,Not fleeing,False
-2601,TK TK,2017-05-23,shot and Tasered,gun,,M,,Glendale,AZ,False,attack,Other,False
-2602,TK TK,2017-05-23,shot,undetermined,,M,,Pahrump,NV,False,undetermined,Not fleeing,False
+2600,Aaron M. Thompson,2017-05-22,shot,knife,,M,,Mountain Home,ID,False,attack,Not fleeing,False
+2601,Jorge Alberto Fuentes,2017-05-23,shot and Tasered,gun,21,M,H,Glendale,AZ,False,attack,Other,False
+2602,Michael Anthony Bonini,2017-05-23,shot,gun,65,M,W,Pahrump,NV,False,attack,Not fleeing,False
 2603,TK TK,2017-05-23,shot,gun,,M,,San Francisco,CA,False,other,Not fleeing,False
-2605,TK TK,2017-05-23,shot,gun,,M,,Knoxville,TN,False,attack,,False
-2604,Hayden J. Stutz,2017-05-24,shot,undetermined,24,M,,Canton,OH,False,undetermined,,False
+2605,Albert Gagnier,2017-05-23,shot,gun,74,M,W,Knoxville,TN,False,attack,Not fleeing,False
+2604,Hayden J. Stutz,2017-05-24,shot,undetermined,24,M,,Canton,OH,True,undetermined,,True
