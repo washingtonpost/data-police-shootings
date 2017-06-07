@@ -2346,7 +2346,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2613,Eduardo Valencia,2017-05-27,shot,gun,,M,,Austell,GA,False,attack,Not fleeing,False
 2608,TK TK,2017-05-28,shot,gun,,M,,Miami,FL,False,attack,Car,False
 2610,Shaquian Tyrone Johnson,2017-05-28,shot,gun,22,M,B,Cary,NC,False,attack,Not fleeing,False
-2611,TK TK,2017-05-28,shot and Tasered,ax,35,M,,San Jose,CA,True,other,Not fleeing,False
+2611,Francis de la Cruz,2017-05-28,shot and Tasered,ax,35,M,,San Jose,CA,True,other,Not fleeing,False
 2607,Chad Dionne,2017-05-29,shot,gun,37,M,,Arundel,ME,False,other,Not fleeing,False
 2609,Joseph Godinez,2017-05-29,shot,vehicle,20,M,,Vacaville,CA,False,attack,Car,True
 2619,Larry Warren Kipps,2017-05-29,shot,gun,62,M,,Gerrardstown,WV,True,attack,Not fleeing,False
@@ -2354,13 +2354,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2620,James Gleason,2017-05-31,shot,vehicle,24,M,,Hesperia,CA,False,attack,,False
 2621,James Daniel Hill,2017-05-31,shot,gun,17,M,,Centennial,CO,False,other,Other,False
 2633,Francisco Suarez-Madonado,2017-06-01,shot,gun,27,M,H,Las Vegas,NV,True,attack,Not fleeing,False
-2623,TK TK,2017-06-02,shot,vehicle,,M,,Yulee,FL,False,attack,Car,False
+2623,Edward Everett Courtenay,2017-06-02,shot,vehicle,51,M,,Yulee,FL,False,attack,Car,False
 2624,Charles Darnell Baker,2017-06-02,shot,gun,29,M,,Abbeville,AL,False,attack,Not fleeing,False
 2626,Marc Brandon Davis,2017-06-02,shot,undetermined,34,M,,Petal,MS,False,undetermined,,False
-2627,Naway Willy,2017-06-02,shot,gun,,M,,Tulsa,OK,False,other,Foot,False
+2627,Naway Willy,2017-06-02,shot,gun,,M,,Tulsa,OK,False,attack,Foot,False
 2628,Corsean Lewis,2017-06-02,shot,gun,17,M,,Chicago,IL,False,attack,Not fleeing,False
 2634,Antonio Gerardo Rodriguez,2017-06-02,shot,gun,55,M,H,Laredo,TX,False,attack,Not fleeing,False
-2625,TK TK,2017-06-03,shot,gun,,M,,Avondale,AZ,False,attack,Not fleeing,False
-2622,TK TK,2017-06-04,shot,gun,27,M,,Callahan,FL,False,attack,,False
-2632,TK TK,2017-06-05,shot,gun,,M,,Bardstown,KY,False,attack,Car,False
-2635,TK TK,2017-06-05,shot,undetermined,,M,,Miami,FL,False,undetermined,,False
+2625,Donald Lee Cramer,2017-06-03,shot,gun,44,M,,Avondale,AZ,False,attack,Not fleeing,False
+2622,Jeremy Austin Lindsey,2017-06-04,shot,gun,27,M,,Callahan,FL,False,attack,,False
+2636,Bruce Dawley,2017-06-04,shot,gun,66,M,W,Campo,CA,True,attack,Not fleeing,False
+2632,Charles Edgar Mullins,2017-06-05,shot,gun,45,M,,Bardstown,KY,False,attack,Car,False
+2635,John Spaulding,2017-06-05,shot,gun,47,M,B,Miami,FL,False,other,,False
+2637,Quentin Louis Case,2017-06-05,shot,gun,34,M,W,Lakes Wales,FL,False,attack,Other,False
+2638,Adrian Maurice Hardeman,2017-06-05,shot,gun,37,M,B,San Antonio,TX,False,other,,False
+2640,Mark Ellis,2017-06-06,shot,gun,54,M,,Orrington,ME,False,attack,Not fleeing,False
+2641,TK TK,2017-06-06,shot,gun,,M,,Vancouver,WA,False,attack,Car,False
+2639,TK TK,2017-06-07,shot,gun,21,M,,Fresno,CA,False,attack,,False
