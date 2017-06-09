@@ -2059,7 +2059,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2288,Johnnie J. Harris,2017-02-04,shot,gun,68,M,B,Kansas City,MO,False,attack,Not fleeing,False
 2293,Thomas Scott Henry,2017-02-04,shot,gun,56,M,W,DeLand,FL,True,attack,Not fleeing,False
 2283,Nana Adomako,2017-02-05,shot,unarmed,45,M,B,Fremont,CA,True,attack,Not fleeing,False
-2286,Shelly Porter,2017-02-05,shot,unknown weapon,41,M,B,Englewood,OH,False,attack,Not fleeing,True
+2286,Shelly Porter,2017-02-05,shot,unknown weapon,41,M,B,Englewood,OH,True,attack,Not fleeing,True
 2300,Andrew Byrd,2017-02-05,shot,vehicle,33,M,H,Pueblo,CO,False,other,Not fleeing,True
 2305,Jerome Allen,2017-02-06,shot,toy weapon,22,M,B,Jacksonville,FL,False,attack,Not fleeing,False
 2306,Cole Wooley,2017-02-06,shot,gun,50,M,B,Commerce City,CO,False,other,Not fleeing,False
