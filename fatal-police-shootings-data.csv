@@ -2419,10 +2419,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2681,Alton Folmar,2017-06-19,shot,gun,28,M,W,Dallas,TX,False,other,Not fleeing,False
 2683,TK TK,2017-06-20,shot and Tasered,knife,,M,,Las Vegas,NV,False,other,Not fleeing,False
 2684,TK TK,2017-06-20,shot,toy weapon,,M,,South Gate,CA,False,attack,Other,False
-2685,David Bryan Creson,2017-06-20,shot,gun,40,M,,Franklin,TN,False,attack,Car,False
+2685,David Bryan Creson,2017-06-20,shot,gun,40,M,W,Franklin,TN,False,attack,Car,False
 2686,Jacob Faulkner,2017-06-20,shot,gun,32,M,W,St. Clair Township,OH,True,attack,Other,False
-2687,Robb Stewart,2017-06-20,shot,gun,50,M,,Lehigh,KS,True,other,Not fleeing,False
-2688,Brandon D. Lukenbill,2017-06-21,shot,vehicle,33,M,,Nevada,MO,False,undetermined,Car,False
+2687,Robb Stewart,2017-06-20,shot,gun,50,M,W,Lehigh,KS,True,other,Not fleeing,False
+2688,Brandon D. Lukenbill,2017-06-21,shot,vehicle,33,M,W,Nevada,MO,False,undetermined,Car,False
 2690,Daniel Francisco Valenzuela,2017-06-21,shot,knife,37,M,,Millerton,OK,False,other,Not fleeing,False
 2691,Armando Garcia-Muro,2017-06-22,shot,unarmed,17,M,H,Palmdale,CA,False,other,Not fleeing,False
 2693,Santino Trevino,2017-06-23,shot,gun,20,M,,Hollywood Hills,CA,False,attack,Not fleeing,False
@@ -2437,11 +2437,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2698,TK TK,2017-06-25,shot,gun,,M,,Las Vegas,NV,False,attack,Not fleeing,False
 2694,Rip Huntington,2017-06-26,shot,gun,36,M,,Rowe,NM,True,attack,Not fleeing,False
 2705,Jason Magana Herrera,2017-06-27,shot and Tasered,gun,35,M,,Amarillo,TX,False,attack,Foot,False
-2716,TK TK,2017-06-28,shot,gun,,M,,Westlake,CA,True,attack,Not fleeing,True
-2718,Rodney Cole,2017-06-28,shot,screwdriver,37,M,B,Nashville,TN,False,attack,Not fleeing,False
+2716,TK TK,2017-06-28,shot,gun,,M,,Los Angeles,CA,True,attack,Not fleeing,True
+2718,Rodney L. Cole,2017-06-28,shot,screwdriver,37,M,B,Nashville,TN,False,attack,Not fleeing,False
 2717,Aaron Bailey,2017-06-29,shot,unarmed,45,M,B,Indianapolis,IN,False,other,Car,False
-2719,TK TK,2017-06-29,shot,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
+2719,Andrew Bice,2017-06-29,shot,gun,34,M,W,San Antonio,TX,False,attack,Not fleeing,False
 2720,TK TK,2017-06-29,shot,undetermined,,M,,Burbank,CA,False,undetermined,Not fleeing,False
-2723,TK TK,2017-06-29,shot,vehicle,,M,,Marietta,GA,False,other,Not fleeing,False
-2724,TK TK,2017-06-29,shot,Taser,,M,,Deltona,FL,False,other,Not fleeing,False
-2721,TK TK,2017-06-30,shot,gun,,M,,Denver,CO,False,attack,Car,False
+2723,Joel Gatu Muturi,2017-06-29,shot,vehicle,23,M,,Marietta,GA,False,other,Not fleeing,False
+2724,Jose Guillermo Flores Colon,2017-06-29,shot,Taser,37,M,,Deltona,FL,False,other,Not fleeing,False
+2721,TK TK,2017-06-30,shot,gun,,F,,Denver,CO,False,attack,Car,False
