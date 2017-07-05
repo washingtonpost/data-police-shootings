@@ -2459,3 +2459,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2739,Dana Dubose,2017-07-04,shot,knife,36,M,B,Vandalia,OH,False,attack,Not fleeing,False
 2740,Cody Ray McCray,2017-07-04,shot,vehicle,32,M,,Centerville,UT,True,undetermined,Car,False
 2741,Donald Martin,2017-07-04,shot,gun,39,M,,Belleville,IL,True,attack,Not fleeing,False
+2742,Alexander Bonds,2017-07-05,shot,gun,34,M,B,New York,NY,False,attack,Foot,False
+2743,Tiffany Potter,2017-07-05,shot,gun,29,F,W,Des Moines,IA,False,attack,Other,False
