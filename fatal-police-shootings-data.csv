@@ -2521,3 +2521,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2805,Aries Clark,2017-07-25,shot,undetermined,16,M,,Marion,AR,False,undetermined,Not fleeing,False
 2804,TK TK,2017-07-26,shot,gun,35,M,,Phoenix,AZ,False,attack,Other,False
 2806,TK TK,2017-07-26,shot,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
+2807,Susan Teel,2017-07-26,shot,knife,62,F,,Vero Beach,FL,True,attack,Not fleeing,False
+2808,Kesharn Burney,2017-07-26,shot,vehicle,25,M,B,Dayton,OH,False,attack,Car,False
+2809,Sergio Velasco-Martinez,2017-07-27,shot,blunt object,25,M,,Avenal,CA,False,attack,Not fleeing,False
+2811,TK TK,2017-07-27,shot,knife,,M,,Wenatchee,WA,False,other,Not fleeing,False
+2812,TK TK,2017-07-27,shot,undetermined,,M,,Chowcilla,CA,False,other,Not fleeing,False
+2813,TK TK,2017-07-28,shot,vehicle,,M,,Albuquerque,NM,False,attack,Car,False
