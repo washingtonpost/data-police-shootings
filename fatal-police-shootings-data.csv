@@ -2488,7 +2488,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2771,Dorsey Glenn Taulbee Jr.,2017-07-12,shot,gun,33,M,,Oklahoma City,OK,False,attack,Not fleeing,False
 2772,James Gerald Davis,2017-07-12,shot,,40,M,,Lake View,SC,False,undetermined,,False
 2773,TK TK,2017-07-12,shot,blunt object,,M,,Grover Beach,CA,False,other,Not fleeing,False
-2774,Chancey Chamblee,2017-07-13,shot,gun,55,M,,Pima,AZ,False,undetermined,,False
+2774,Chancey Chamblee,2017-07-13,shot,gun,55,M,W,Pima,AZ,False,undetermined,,False
 2775,Stephen Steele,2017-07-13,shot,knife,56,M,,Crystal Springs,FL,True,other,Not fleeing,False
 2776,Pedro Rubio,2017-07-13,shot,knife,42,M,,Goodyear,AZ,False,attack,Not fleeing,False
 2777,Ramiro Bravo Ramirez,2017-07-14,shot,gun,34,M,,Greenville,SC,False,attack,Not fleeing,True
@@ -2523,7 +2523,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2806,TK TK,2017-07-26,shot,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
 2807,Susan Teel,2017-07-26,shot,knife,62,F,,Vero Beach,FL,True,attack,Not fleeing,False
 2808,Kesharn K. Burney,2017-07-26,shot,vehicle,25,M,B,Dayton,OH,False,attack,Car,False
+2816,Jerauld Hammond II,2017-07-27,shot,gun,46,M,,Hollywood,CA,False,other,Not fleeing,False
+2820,Deltra Henderson,2017-07-27,shot,knife,39,M,B,Homer,LA,False,attack,Car,False
 2809,Sergio Velasco-Martinez,2017-07-27,shot,blunt object,25,M,,Avenal,CA,False,attack,Not fleeing,False
-2811,TK TK,2017-07-27,shot,knife,,M,,Wenatchee,WA,False,other,Not fleeing,False
-2812,TK TK,2017-07-27,shot,knife,,M,,Chowchilla,CA,False,attack,Not fleeing,False
+2811,Matthew Folden,2017-07-27,shot,knife,31,M,,Wenatchee,WA,False,other,Not fleeing,False
+2812,Alejandro Alvarado,2017-07-27,shot,knife,,M,H,Chowchilla,CA,False,attack,Not fleeing,False
+2819,Brian Skinner,2017-07-28,shot,knife,32,M,,Glenville,NY,True,attack,Not fleeing,False
+2822,TK TK,2017-07-28,shot,gun,,M,,Kansas City,MO,False,attack,Not fleeing,False
 2813,TK TK,2017-07-28,shot,vehicle,,M,,Albuquerque,NM,False,attack,Car,False
+2818,Dennis Robinson,2017-07-29,shot,gun,48,M,,Melba,ID,False,attack,Car,False
+2817,TK TK,2017-07-31,shot,undetermined,,M,,Oshkosh,WI,False,undetermined,Not fleeing,False
+2815,TK TK,2017-07-31,shot,knife,,M,,Brooklyn,NY,True,attack,Not fleeing,False
