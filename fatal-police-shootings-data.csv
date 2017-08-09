@@ -2551,11 +2551,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2838,Jeremy Gabriel,2017-08-04,shot,toy weapon,31,M,,Lauderdale County,MS,True,attack,Not fleeing,False
 2845,Melissa Wiseman,2017-08-04,shot,gun,36,F,,Marine City,MI,False,other,Not fleeing,False
 2847,Joseph Miller,2017-08-04,shot,gun,54,M,,Mead Township,PA,False,other,Not fleeing,False
-2840,Timmy Wilson,2017-08-05,shot,undetermined,24,M,,New Straitsville,OH,False,undetermined,Not fleeing,False
-2844,TK Tk,2017-08-05,shot and Tasered,knife,,M,,Santa Rosa,CA,True,attack,Not fleeing,True
+2840,Timmy Wilson,2017-08-05,shot,undetermined,24,M,,New Straitsville,OH,False,attack,Not fleeing,False
+2844,TK TK,2017-08-05,shot and Tasered,knife,,M,H,Santa Rosa,CA,True,attack,Not fleeing,True
 2839,Kyle Andrew Lankford,2017-08-06,shot,knife,,M,W,Bon Aqua,TN,False,other,Foot,False
 2842,Danatae Franklin,2017-08-06,shot,gun,28,M,B,Kansas City,MO,False,attack,Foot,False
 2841,Winston Espino Sanchez,2017-08-07,shot,knife,45,M,,North Bergen,NJ,False,attack,Not fleeing,False
 2848,Jose Ortiz,2017-08-07,shot,knife,29,M,,Wichita,KS,False,other,Not fleeing,False
-2850,TK TK,2017-08-07,shot,vehicle,,M,,Blue Summit,MO,False,other,Other,False
-2849,TK TK,2017-08-08,shot,undetermined,,M,,Junction City,KS,False,undetermined,,False
+2850,Christopher K. Sales,2017-08-07,shot,vehicle,36,M,,Blue Summit,MO,False,other,Car,False
+2849,TK TK,2017-08-08,shot,gun,23,M,,Junction City,KS,False,attack,,False
