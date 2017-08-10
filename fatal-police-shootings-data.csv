@@ -2326,7 +2326,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2582,Jaison Fitzgerald,2017-05-15,shot,gun,29,M,B,Richmond,VA,False,other,Not fleeing,False
 2583,Buford Shane Whitson,2017-05-15,shot,gun,47,M,W,Johnson City,TN,True,attack,Other,False
 2584,TK TK,2017-05-15,shot,undetermined,,M,,Long Beach,CA,False,attack,Other,False
-2585,Emmanuel Ibarra,2017-05-15,shot,knife,34,M,,Del Mar,CA,False,attack,Foot,False
+2585,Emmanuel Ibarra,2017-05-15,shot,knife,34,M,,Del Mar,CA,True,attack,Foot,False
 2589,Keith Andrew Chesser,2017-05-15,shot,crossbow,48,M,W,Wewoka,OK,False,attack,Not fleeing,False
 2586,Isabelle Duval,2017-05-16,shot,gun,41,F,W,Washington,DC,False,attack,Not fleeing,False
 2587,TK TK,2017-05-16,shot,knife,25,M,,Tempe,AZ,False,other,,False
@@ -2544,6 +2544,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2829,Preston Thornton,2017-08-02,shot,gun,29,M,B,Coushatta,LA,True,attack,Not fleeing,False
 2833,Jeffrey Barboa,2017-08-02,shot,machete,45,M,,Richmond,CA,False,attack,Car,False
 2834,Quintas Harris,2017-08-02,shot,gun,27,M,B,Atlanta,GA,False,attack,Not fleeing,False
+2854,Phillip Rhoades,2017-08-02,shot,vehicle,28,M,W,Mannington,WV,False,other,Car,False
 2846,Keith Burkholder,2017-08-03,shot,gun,57,M,,Lima,OH,False,attack,Not fleeing,False
 2835,Aaron Payne,2017-08-04,shot,gun,33,M,,Surfside Beach,SC,True,attack,Not fleeing,False
 2836,Cody Stephens,2017-08-04,shot,undetermined,35,M,,Spanish Springs,NV,False,attack,Not fleeing,False
@@ -2552,12 +2553,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2845,Melissa Wiseman,2017-08-04,shot,gun,36,F,,Marine City,MI,False,other,Not fleeing,False
 2847,Joseph Miller,2017-08-04,shot,gun,54,M,,Mead Township,PA,False,other,Not fleeing,False
 2840,Timmy Wilson,2017-08-05,shot,undetermined,24,M,,New Straitsville,OH,False,attack,Not fleeing,False
-2844,TK TK,2017-08-05,shot and Tasered,knife,,M,H,Santa Rosa,CA,True,attack,Not fleeing,True
+2844,Pablo Garcia,2017-08-05,shot and Tasered,knife,35,M,H,Santa Rosa,CA,True,attack,Not fleeing,True
 2839,Kyle Andrew Lankford,2017-08-06,shot,knife,,M,W,Bon Aqua,TN,False,other,Foot,False
 2842,Danatae Franklin,2017-08-06,shot,gun,28,M,B,Kansas City,MO,False,attack,Foot,False
 2841,Winston Espino Sanchez,2017-08-07,shot,knife,45,M,,North Bergen,NJ,False,attack,Not fleeing,False
 2848,Jose Ortiz,2017-08-07,shot,knife,29,M,,Wichita,KS,False,other,Not fleeing,False
 2850,Christopher K. Sales,2017-08-07,shot,vehicle,36,M,,Blue Summit,MO,False,other,Car,False
-2849,TK TK,2017-08-08,shot,gun,23,M,,Junction City,KS,False,attack,,False
-2852,TK TK,2017-08-08,shot,gun,17,M,,Hazel Crest,IL,False,other,Foot,False
+2849,Peter James Robbins,2017-08-08,shot,gun,23,M,W,Junction City,KS,False,attack,,False
+2852,TK TK,2017-08-08,shot,gun,17,M,,Hazel Crest,IL,False,other,Other,False
 2851,TK TK,2017-08-09,shot,vehicle,20,M,,Kent,WA,False,attack,Car,False
+2853,TK TK,2017-08-10,shot,vehicle,,M,,Dyer,IN,False,other,Car,False
