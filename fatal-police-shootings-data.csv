@@ -1504,7 +1504,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1692,Joshua Bolster,2016-07-05,shot,undetermined,29,M,W,Salem,OR,False,undetermined,,False
 1693,Sam Newby,2016-07-05,shot,undetermined,49,M,W,Temecula,CA,False,other,Car,False
 1695,Melissa Ventura,2016-07-05,shot,knife,24,F,H,Yuma,AZ,False,other,Not fleeing,False
-1694,Philando Castile,2016-07-06,shot,gun,32,M,B,Falcon Heights,MN,False,other,Not fleeing,False
+1694,Philando Castile,2016-07-06,shot,gun,32,M,B,Falcon Heights,MN,False,other,Not fleeing,True
 1696,Thomas Vandemark,2016-07-06,shot,gun,65,M,W,Rush Springs,OK,False,other,Not fleeing,True
 1697,Vinson Lee Ramos,2016-07-07,shot,knife,37,M,H,Bell,CA,False,other,Not fleeing,False
 1698,Adam Smith,2016-07-07,shot,vehicle,33,M,W,Clovis,CA,False,other,Car,False
@@ -2559,7 +2559,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2841,Winston Espino Sanchez,2017-08-07,shot,knife,45,M,,North Bergen,NJ,False,attack,Not fleeing,False
 2848,Jose Ortiz,2017-08-07,shot,knife,29,M,,Wichita,KS,False,other,Not fleeing,False
 2850,Christopher K. Sales,2017-08-07,shot,vehicle,36,M,,Blue Summit,MO,False,other,Car,False
-2849,Peter James Robbins,2017-08-08,shot,gun,23,M,W,Junction City,KS,False,attack,,False
+2849,Peter James Robbins,2017-08-08,shot,gun,23,M,W,Junction City,KS,True,attack,Not fleeing,False
 2852,TK TK,2017-08-08,shot,gun,17,M,,Hazel Crest,IL,False,other,Other,False
-2851,TK TK,2017-08-09,shot,vehicle,20,M,,Kent,WA,False,attack,Car,False
+2851,Eugene Nelson,2017-08-09,shot,vehicle,20,M,,Kent,WA,False,attack,Car,False
 2853,Mark P. Coffey,2017-08-10,shot,vehicle,33,M,,Dyer,IN,False,other,Car,False
+2855,TK TK,2017-08-11,shot,gun,,M,,Channelview,TX,False,attack,Not fleeing,False
