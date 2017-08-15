@@ -2469,7 +2469,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2744,Jesus Cervantes,2017-07-06,shot,vehicle,35,M,,Plant City,FL,False,other,Car,False
 2745,Dejuan Guillory,2017-07-06,shot,undetermined,27,M,,Mamou,LA,False,undetermined,,False
 2751,Brian Easley,2017-07-07,shot,,33,M,B,Marietta,GA,True,undetermined,Not fleeing,False
-2752,TK TK,2017-07-07,shot,gun,,M,,Huntsville,AL,False,attack,Car,False
+2752,TK TK,2017-07-07,shot,vehicle,16,M,W,Huntsville,AL,False,attack,Car,False
 2765,Kareem Ali Nadir Jones,2017-07-07,shot,gun,30,M,,Columbus,OH,False,undetermined,Not fleeing,True
 2757,Michael Anthony Rude,2017-07-08,shot,knife,22,M,,Lacey,WA,True,other,Not fleeing,False
 2758,TK TK,2017-07-08,shot,knife,,M,,Crescent City,FL,True,other,Not fleeing,False
@@ -2563,7 +2563,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2852,TK TK,2017-08-08,shot,gun,17,M,,Hazel Crest,IL,False,other,Other,False
 2851,Eugene Nelson,2017-08-09,shot,vehicle,20,M,,Kent,WA,False,attack,Car,False
 2853,Mark P. Coffey,2017-08-10,shot,vehicle,33,M,,Dyer,IN,False,other,Car,False
-2856,Eric Bogart,2017-08-10,shot,gun,49,M,,Pacific Palisades,CA,False,attack,Not fleeing,False
+2856,Eric Bogart,2017-08-10,shot,gun,49,M,,Los Angeles,CA,False,attack,Not fleeing,False
 2855,TK TK,2017-08-11,shot,gun,,M,,Channelview,TX,False,attack,Not fleeing,False
 2857,Tyrease Carlyle,2017-08-11,shot,gun,31,M,B,Philadelphia,PA,True,other,Not fleeing,False
 2858,Eduardo Navarrete,2017-08-12,shot,knife,35,M,H,Frederickstown,WA,False,attack,Not fleeing,False
