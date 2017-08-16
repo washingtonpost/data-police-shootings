@@ -2449,10 +2449,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2727,Patrick Sanchez,2017-07-01,shot,gun,23,M,H,Glendale,AZ,False,other,Not fleeing,True
 2730,Quintec Locke,2017-07-01,shot,gun,37,M,B,Lawndale,IL,False,other,Not fleeing,True
 2733,Jeremy Holmes,2017-07-01,shot,unknown weapon,19,M,,Fort Collins,CO,False,undetermined,,True
-2728,TK TK,2017-07-02,shot,gun,,M,,Norfolk,VA,False,attack,Not fleeing,False
+2728,Tyson Williams,2017-07-02,shot,gun,39,M,W,Norfolk,VA,True,attack,Not fleeing,False
 2729,Daniel Craven,2017-07-03,shot,gun,53,M,,Spokane,WA,False,other,Not fleeing,True
-2732,TK TK,2017-07-03,shot,gun,,M,,Fishers,IN,True,attack,Not fleeing,False
-2736,TK TK,2017-07-03,shot,gun,,M,,Portland,OR,False,attack,Foot,False
+2732,John Donadio,2017-07-03,shot,gun,51,M,,Fishers,IN,True,attack,Not fleeing,False
+2736,Holden Gorka,2017-07-03,shot,gun,25,M,W,Hillsboro,OR,False,attack,Foot,False
 2738,Christopher Henry Cashell,2017-07-03,shot,gun,45,M,,Bonaire,GA,False,undetermined,Not fleeing,False
 2735,TK TK,2017-07-04,shot,gun,,M,,Federal Heights,CO,False,undetermined,Not fleeing,False
 2737,Miguel Gonzales,2017-07-04,shot,gun,28,M,,Albuquerque,NM,False,undetermined,Other,False
@@ -2464,7 +2464,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2743,Tiffany Lynn Potter,2017-07-05,shot,gun,29,F,W,Des Moines,IA,False,attack,Foot,True
 2746,"Edwin ""Beanie"" Esker",2017-07-05,shot,undetermined,53,M,,Maeystown,IL,False,undetermined,Not fleeing,False
 2747,Jamie Huskey,2017-07-05,shot,gun,45,M,W,Sallisaw,OK,False,attack,Not fleeing,False
-2748,TK TK,2017-07-05,shot,undetermined,24,M,H,Vista,CA,False,undetermined,Foot,False
+2748,Jonathon Coronel,2017-07-05,shot,unarmed,24,M,H,Vista,CA,False,undetermined,Foot,False
 2749,Carroll Tuttle,2017-07-05,shot,gun,51,M,W,Madison,ME,False,attack,,False
 2744,Jesus Cervantes,2017-07-06,shot,vehicle,35,M,,Plant City,FL,False,other,Car,False
 2745,Dejuan Guillory,2017-07-06,shot,undetermined,27,M,,Mamou,LA,False,undetermined,,False
@@ -2487,7 +2487,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2770,TK TK,2017-07-11,shot,gun,,M,,Golden Valley,AZ,False,attack,Foot,False
 2771,Dorsey Glenn Taulbee Jr.,2017-07-12,shot,gun,33,M,,Oklahoma City,OK,False,attack,Not fleeing,False
 2772,James Gerald Davis,2017-07-12,shot,,40,M,,Lake View,SC,False,undetermined,,False
-2773,TK TK,2017-07-12,shot,blunt object,,M,,Grover Beach,CA,False,other,Not fleeing,False
+2773,Keith Alan Eustace,2017-07-12,shot,blunt object,58,M,W,Grover Beach,CA,False,other,Not fleeing,False
 2774,Chancey Chamblee,2017-07-13,shot,gun,55,M,W,Pima,AZ,False,undetermined,,False
 2775,Stephen Steele,2017-07-13,shot,knife,56,M,,Crystal Springs,FL,True,other,Not fleeing,False
 2776,Pedro Rubio,2017-07-13,shot,knife,42,M,,Goodyear,AZ,False,attack,Not fleeing,False
@@ -2570,5 +2570,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2859,Christopher Collins,2017-08-13,shot,gun,24,M,,Habersham,GA,False,other,Not fleeing,False
 2860,TK TK,2017-08-13,shot,gun,,M,,La Crosse,WI,False,other,Car,False
 2861,Carmen William Rongione,2017-08-13,shot,machete,41,M,W,Cosby,TN,False,attack,Foot,False
-2862,TK TK,2017-08-13,shot,undetermined,,M,B,Salt Lake City,UT,False,undetermined,Not fleeing,False
-2863,TK TK,2017-08-13,shot,sword,,M,,Kennewick,WA,False,attack,Not fleeing,False
+2862,Patrick Harmon,2017-08-13,shot,undetermined,50,M,B,Salt Lake City,UT,False,undetermined,Not fleeing,False
+2863,Hussein Hassan,2017-08-13,shot,sword,46,M,,Kennewick,WA,False,attack,Not fleeing,False
