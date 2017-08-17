@@ -819,6 +819,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 962,Jasper Levi Adams,2015-10-28,shot,gun,35,M,W,Salem,OR,False,attack,Car,False
 964,Deaunte Lamar Bell,2015-10-29,shot,gun,,M,B,Columbus,OH,False,other,Not fleeing,False
 965,Allen Quintez Swader,2015-10-29,shot,gun,18,M,W,Hohenwald,TN,False,attack,Not fleeing,False
+2871,Larry Busby,2015-10-30,shot,gun,52,M,W,Old Town,FL,False,attack,Not fleeing,False
 966,Floyd Ray Cook,2015-10-30,shot,gun,62,M,W,Burkesville,KY,False,attack,Other,False
 967,Mario Martinez,2015-10-30,shot,gun,29,M,H,Mesquite,TX,False,attack,Car,False
 968,Tony Berry,2015-10-30,shot,gun,25,M,B,Houston,TX,False,other,Foot,False
@@ -877,6 +878,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1021,Steve Dormil,2015-11-19,shot,knife,27,M,B,Fort Pierce,FL,False,attack,Not fleeing,False
 1022,Darick Napper,2015-11-19,shot,knife,34,M,B,Washington,DC,False,other,Not fleeing,False
 1024,William Tarrant,2015-11-20,shot,gun,39,M,W,Paulding County,GA,True,attack,Not fleeing,False
+2870,Martin Arturo Rivera,2015-11-20,shot,gun,50,M,,Fontana,CA,True,other,Not fleeing,False
 1023,Nathaniel Harris Pickett,2015-11-20,shot,unarmed,29,M,B,Barstow,CA,True,attack,Not fleeing,False
 1026,Chris Nichols,2015-11-21,shot,unarmed,24,M,W,Colbert,OK,False,attack,Foot,False
 1025,James Daniel Hall,2015-11-22,shot,knife,47,M,W,Fontana,CA,True,attack,Not fleeing,False
@@ -2573,5 +2575,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2862,Patrick Harmon,2017-08-13,shot,undetermined,50,M,B,Salt Lake City,UT,False,undetermined,Not fleeing,False
 2863,Hussein Hassan,2017-08-13,shot,sword,46,M,,Kennewick,WA,False,attack,Not fleeing,False
 2864,Steven James Young,2017-08-14,shot,pellet gun,45,M,W,Colorado Springs,CO,False,attack,Foot,False
-2865,Robert Bracewell,2017-08-14,shot,gun,20,M,W,Jacksonville,FL,False,attack,Not fleeing,False
+2865,Robert Emmett Bracewell Jr.,2017-08-14,shot,gun,20,M,W,Jacksonville,FL,False,attack,Not fleeing,False
 2866,Herbert Gilbert,2017-08-15,shot,undetermined,37,M,B,Thomasville,GA,False,undetermined,Not fleeing,False
