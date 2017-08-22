@@ -2582,11 +2582,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2872,TK TK,2017-08-16,shot,gun,,M,,Los Angeles,CA,False,undetermined,Foot,False
 2873,James Midkiff,2017-08-16,shot,gun,54,M,,Livermore,CA,True,attack,Not fleeing,False
 2882,Peter Daniel Grishma,2017-08-17,shot,,65,M,,Crenshaw County,AL,False,undetermined,Not fleeing,False
-2883,Edgar Ramirez Carreto,2017-08-17,shot,knife,28,M,H,Phoenix,AZ,True,other,Not fleeing,False
+2883,Edgar Ramirez Carreto,2017-08-17,shot,knife,28,M,,Phoenix,AZ,True,other,Not fleeing,False
 2874,Leroy Frank,2017-08-18,shot,knife,60,M,,Bloomfield,NJ,False,other,Not fleeing,False
 2879,Clarence Belsar III,2017-08-18,shot,gun,26,M,W,Fairchance,PA,False,attack,Not fleeing,False
 2881,Derrick Rashard Brabham,2017-08-18,shot,gun,25,M,B,Jacksonville,FL,False,attack,Not fleeing,False
 2875,Thomas Justin Walton,2017-08-19,shot,Taser,32,M,,Homewood,AL,False,attack,Not fleeing,False
-2876,TK TK,2017-08-19,shot,undetermined,,M,,Harrison,AR,False,undetermined,,False
-2877,TK TK,2017-08-20,shot,gun,,M,B,Brick,NJ,False,attack,Not fleeing,False
-2878,TK TK,2017-08-20,shot,undetermined,,M,H,Madera,CA,False,other,Foot,False
+2876,Jonathan Bolger,2017-08-20,shot,gun,44,M,,Yellville,AR,False,undetermined,Not fleeing,False
+2877,TK TK,2017-08-20,shot,gun,,M,,Brick,NJ,False,attack,Not fleeing,False
+2878,TK TK,2017-08-20,shot,undetermined,,M,,Madera,CA,False,other,Foot,False
