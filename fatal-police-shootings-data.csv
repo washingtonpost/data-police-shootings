@@ -2600,3 +2600,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2890,TK TK,2017-08-22,shot,vehicle,,M,,Albuquerque,NM,False,attack,Car,False
 2891,Robert Earl Adams,2017-08-22,shot,knife,30,M,,Orcutt,CA,False,other,Foot,False
 2893,Konstantin Morozov,2017-08-22,shot,gun,48,M,W,Los Angeles,CA,False,other,Not fleeing,False
+2894,TK TK,2017-08-23,shot,undetermined,,M,,Olathe,KS,False,undetermined,Not fleeing,False
+2895,TK TK,2017-08-24,shot,gun,28,M,,Waterford Township,MI,True,other,Not fleeing,False
+2896,TK TK,2017-08-24,shot,gun,,M,,La Mesa,CA,False,attack,Car,False
