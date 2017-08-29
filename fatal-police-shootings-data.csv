@@ -2611,3 +2611,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2902,William Wilson,2017-08-27,shot,gun,26,M,,Farmington,NM,False,attack,Not fleeing,False
 2903,Jason Hoops,2017-08-27,shot,gun,33,M,,Kettering,OH,False,other,Not fleeing,False
 2904,Dwayne Martin,2017-08-27,shot,knife,34,M,,Sharpsburg,KY,False,attack,Foot,False
+2905,TK TK,2017-08-28,shot,gun,,M,,New Milford,CT,False,attack,Foot,False
+2906,TK TK,2017-08-28,shot,gun,,M,,Newton,KS,False,attack,Car,False
+2907,TK TK,2017-08-29,shot,baseball bat,,M,,Evansville,IN,False,other,Not fleeing,False
