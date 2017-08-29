@@ -2605,7 +2605,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2896,TK TK,2017-08-24,shot,gun,,M,,La Mesa,CA,False,attack,Foot,False
 2898,TK Tk,2017-08-24,shot,gun,,M,,Orange,NJ,False,other,Foot,False
 2897,Daniel Blyler,2017-08-25,shot,gun,44,M,,Jacksonville,FL,False,other,Not fleeing,False
-2899,Kristen Ambury,2017-08-25,shot,gun,28,F,,Sunrise,FL,True,other,Not fleeing,False
+2899,Kristen Ambury,2017-08-25,shot,gun,28,F,,Sunrise,FL,True,undetermined,Not fleeing,False
 2900,Charles David Robinson,2017-08-25,shot,undetermined,47,M,,Woodville,GA,False,undetermined,Foot,False
 2901,Michael Malik Kawon Lee,2017-08-26,shot,gun,18,M,,Pine Bluff,AR,False,attack,Foot,False
 2902,William Wilson,2017-08-27,shot,gun,26,M,,Farmington,NM,False,attack,Not fleeing,False
