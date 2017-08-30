@@ -2603,7 +2603,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2894,Ciara Howard,2017-08-23,shot,undetermined,26,F,,Olathe,KS,False,other,Not fleeing,False
 2895,TK TK,2017-08-24,shot,gun,28,M,,Waterford Township,MI,True,other,Not fleeing,False
 2896,TK TK,2017-08-24,shot,gun,,M,,La Mesa,CA,False,attack,Foot,False
-2898,TK Tk,2017-08-24,shot,gun,,M,,Orange,NJ,False,other,Foot,False
+2898,Scott Mayfield,2017-08-24,shot,gun,24,M,,Orange,NJ,False,other,Foot,False
 2897,Daniel Blyler,2017-08-25,shot,gun,44,M,,Jacksonville,FL,False,other,Not fleeing,False
 2899,Kristen Ambury,2017-08-25,shot,gun,28,F,,Sunrise,FL,True,undetermined,Not fleeing,False
 2900,Charles David Robinson,2017-08-25,shot,undetermined,47,M,,Woodville,GA,False,undetermined,Foot,False
@@ -2613,4 +2613,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2904,Dwayne Martin,2017-08-27,shot,knife,34,M,,Sharpsburg,KY,False,attack,Foot,False
 2905,TK TK,2017-08-28,shot,gun,,M,,New Milford,CT,False,attack,Foot,False
 2906,William Matthew Holmes,2017-08-28,shot,,24,M,,Newton,KS,True,attack,Car,False
-2907,Ricky Ard,2017-08-29,shot,baseball bat,55,M,,Evansville,IN,False,other,Not fleeing,False
+2907,Ricky Ard,2017-08-29,shot,baseball bat,55,M,,Evansville,IN,False,other,Not fleeing,True
+2908,Larry Moore Miller,2017-08-29,shot,gun,68,M,,Jacksonville,AL,True,attack,Not fleeing,False
+2909,Joshua Cloud,2017-08-29,shot,gun,22,M,,Lincoln Parish,LA,False,attack,Not fleeing,False
+2910,Brandy Caldwell,2017-08-29,shot,gun,46,F,,Watagua,TX,False,other,Not fleeing,False
