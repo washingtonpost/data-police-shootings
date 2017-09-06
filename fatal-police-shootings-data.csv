@@ -2621,14 +2621,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2918,Thomas Daniel Littlecloud,2017-08-30,shot,gun,32,M,,Sacramento,CA,False,attack,Car,False
 2912,Issac Cervantes,2017-08-31,shot,gun,22,M,,Bakersfield,CA,False,attack,Not fleeing,False
 2913,Debi Lynn Thorkelson,2017-08-31,shot,gun,54,F,,Fort Myers,FL,False,attack,Not fleeing,False
-2914,Michael Battles,2017-09-01,shot,toy weapon,32,M,,Poultney,VT,True,other,Not fleeing,False
-2915,Roger Helgerson,2017-09-01,shot,undetermined,45,M,,Mount Hope,WI,False,other,Not fleeing,False
+2914,Michael Battles,2017-09-01,shot,gun,32,M,,Poultney,VT,True,attack,Not fleeing,False
+2915,Roger Helgerson,2017-09-01,shot,undetermined,45,M,,Mount Hope,WI,False,other,Foot,False
 2916,Daniel Gillis,2017-09-01,shot,knife,36,M,,Pittsfield,MA,True,other,Foot,False
 2917,TK TK,2017-09-02,shot,gun,,M,,Beaumont,CA,False,attack,Not fleeing,False
 2919,Antwon Springer,2017-09-03,shot,gun,37,M,B,Milwaukee,WI,False,attack,Not fleeing,False
 2920,Henry Stephen Rakoz,2017-09-03,shot,gun,47,M,,Longview,WA,False,other,Not fleeing,False
 2921,TK TK,2017-09-03,shot,undetermined,,M,,Akron,OH,False,attack,Not fleeing,False
 2922,James Fuller,2017-09-04,shot and Tasered,chair,52,M,,Columbus,GA,False,attack,Not fleeing,False
-2923,Shane Marsh,2017-09-04,shot,knife,44,M,,Toledo,OH,False,attack,Not fleeing,False
+2923,Shane Marsh,2017-09-04,shot,knife,44,M,W,Toledo,OH,False,attack,Not fleeing,False
 2924,TK TK,2017-09-05,shot,vehicle,,F,,Spring,TX,False,attack,Car,False
 2925,John Timmons,2017-09-05,shot,gun,67,M,,Hohenwald,TN,False,other,Not fleeing,False
