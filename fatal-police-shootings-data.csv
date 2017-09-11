@@ -2633,11 +2633,21 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2919,Antwon Springer,2017-09-03,shot,gun,37,M,B,Milwaukee,WI,False,attack,Not fleeing,False
 2920,Henry Stephen Rakoz,2017-09-03,shot,gun,47,M,,Longview,WA,False,other,Not fleeing,False
 2921,TK TK,2017-09-03,shot,undetermined,,M,,Akron,OH,False,attack,Not fleeing,False
+2941,Jarvis Hayes,2017-09-03,shot,vehicle,31,M,,Myrtle Beach,SC,False,attack,Car,False
 2922,James Fuller,2017-09-04,shot and Tasered,chair,52,M,,Columbus,GA,False,attack,Not fleeing,False
 2923,Shane Marsh,2017-09-04,shot,knife,44,M,W,Toledo,OH,False,attack,Not fleeing,False
 2924,TK TK,2017-09-05,shot,vehicle,,F,,Spring,TX,False,attack,Car,False
 2925,John Timmons,2017-09-05,shot,gun,67,M,,Hohenwald,TN,False,other,Not fleeing,False
 2934,TK TK,2017-09-05,shot,knife,16,M,W,Kendale Lakes,FL,False,attack,Not fleeing,False
 2931,Rueben Galindo,2017-09-06,shot,gun,29,M,H,Charlotte,NC,False,other,Not fleeing,False
-2932,TK TK,2017-09-06,shot,,42,M,,Los Angeles,CA,False,attack,Not fleeing,False
-2933,TK TK,2017-09-06,shot,knife,31,M,,New York,NY,False,other,Not fleeing,True
+2932,Timothy Elam,2017-09-06,shot,,42,M,W,Los Angeles,CA,False,attack,Not fleeing,False
+2933,Miguel Richards,2017-09-06,shot,knife,31,M,,New York,NY,False,other,Not fleeing,True
+2944,Eric Dwan Arnold,2017-09-07,shot,gun,41,M,B,Sacramento,CA,False,attack,Car,False
+2942,Billy Joe Elmore,2017-09-08,shot,gun,45,M,W,Amarillo,TX,False,attack,Not fleeing,False
+2943,TK TK,2017-09-08,shot,undetermined,,M,,Monett,MO,False,other,Not fleeing,False
+2940,TK TK,2017-09-09,shot,gun,26,M,B,Arcata,CA,False,attack,Not fleeing,False
+2935,TK Tk,2017-09-10,shot,undetermined,,M,,Youngtown,AZ,False,attack,Not fleeing,False
+2936,TK TK,2017-09-10,shot,gun,,M,,Huntersville,NC,False,attack,Not fleeing,False
+2937,TK TK,2017-09-10,shot,gun,,M,H,Tacoma,WA,False,attack,Not fleeing,False
+2938,TK TK,2017-09-10,shot,gun,,M,,Plano,TX,False,attack,Not fleeing,False
+2939,Juan Flores,2017-09-10,shot,vehicle,19,M,,Chicago,IL,False,attack,Not fleeing,False
