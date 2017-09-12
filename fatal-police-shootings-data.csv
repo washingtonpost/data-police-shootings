@@ -1539,7 +1539,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1724,BJ Medeiros,2016-07-21,shot,gun,36,M,O,Hilo,HI,True,attack,Not fleeing,False
 1725,Paul Edward Yacabitis,2016-07-22,shot,gun,50,M,W,Buckhannon,WV,False,attack,,False
 1836,Steven Alfred Longoria,2016-07-23,shot,gun,34,M,H,San Antonio,TX,False,attack,Not fleeing,False
-1726,Austin Jerry Lee Howard,2016-07-23,shot,knife,49,M,B,Milwaukee,WI,False,attack,Not fleeing,False
+1726,Austin Jerry Lee Howard,2016-07-23,shot,knife,49,M,B,Milwaukee,WI,False,attack,Not fleeing,True
 1727,Bernard Wells,2016-07-23,shot,gun,31,M,B,Chino,CA,False,attack,Foot,False
 1729,Robert Lee Lourenco,2016-07-24,shot,hatchet and gun,36,M,W,Winchester,CA,True,attack,Not fleeing,False
 1730,Alvin R. Sylversmythe,2016-07-24,shot,knife,29,M,N,Gallup,NM,True,other,Not fleeing,False
@@ -2646,8 +2646,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2942,Billy Joe Elmore,2017-09-08,shot,gun,45,M,W,Amarillo,TX,False,attack,Not fleeing,False
 2943,TK TK,2017-09-08,shot,undetermined,,M,,Monett,MO,False,other,Not fleeing,False
 2940,TK TK,2017-09-09,shot,gun,26,M,B,Arcata,CA,False,attack,Not fleeing,False
-2935,TK Tk,2017-09-10,shot,undetermined,,M,,Youngtown,AZ,False,attack,Not fleeing,False
+2935,Erick Perez,2017-09-10,shot,gun,22,M,H,Youngtown,AZ,False,attack,Not fleeing,False
 2936,TK TK,2017-09-10,shot,gun,,M,,Huntersville,NC,False,attack,Not fleeing,False
-2937,TK TK,2017-09-10,shot,gun,,M,H,Tacoma,WA,False,attack,Not fleeing,False
+2937,Frankie Santos,2017-09-10,shot,gun,58,M,H,Tacoma,WA,False,attack,Not fleeing,False
 2938,TK TK,2017-09-10,shot,gun,,M,,Plano,TX,False,attack,Not fleeing,False
 2939,Juan Flores,2017-09-10,shot,vehicle,19,M,,Chicago,IL,False,attack,Not fleeing,False
