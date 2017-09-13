@@ -2650,5 +2650,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2937,Frankie Santos,2017-09-10,shot,gun,58,M,H,Tacoma,WA,False,attack,Not fleeing,False
 2938,Spencer Hight,2017-09-10,shot,gun,32,M,W,Plano,TX,False,attack,Not fleeing,False
 2939,Juan Flores,2017-09-10,shot,vehicle,19,M,,Chicago,IL,False,attack,Not fleeing,False
-2945,TK TK,2017-09-11,shot,undetermined,,M,,Great Falls,MT,False,other,Foot,False
+2945,TK TK,2017-09-11,shot,undetermined,25,M,,Great Falls,MT,False,other,Foot,False
 2946,Brian Patrick Allen,2017-09-11,shot,gun,48,M,W,Hixson,TN,False,attack,Car,False
