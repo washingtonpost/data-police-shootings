@@ -2109,7 +2109,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2346,Kadeem Torres,2017-02-16,shot,gun,17,M,B,Brooklyn,NY,False,attack,Foot,False
 2349,Joseph Tamayo,2017-02-16,shot,gun,48,M,H,San Antonio,TX,False,attack,Not fleeing,False
 2350,Jimmy Briggs,2017-02-16,shot,gun,21,M,B,Gardena,CA,False,attack,Foot,False
-2710,Jonathon  Daniel Simmons,2017-02-16,shot,gun,22,M,,Douglas City,CA,False,other,Not fleeing,False
+2710,Jonathon  Daniel Simmons,2017-02-16,shot,gun,22,M,W,Douglas City,CA,False,other,Not fleeing,False
 2359,Joshua Henry,2017-02-17,shot,unarmed,30,M,W,Grand Prarie,TX,True,attack,Not fleeing,True
 2361,David English,2017-02-17,shot,knife,34,M,W,Tulsa,OK,True,attack,Not fleeing,False
 2363,Jean R. Valescot,2017-02-17,shot,gun,35,M,B,Big Lake,AK,False,attack,Not fleeing,False
@@ -2270,7 +2270,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2522,William D. Spates,2017-04-22,shot,vehicle,39,M,B,Portage,IN,True,other,Not fleeing,False
 2523,Michael Wilson-Salzl,2017-04-22,shot,knife,24,M,W,Hamilton,OH,True,other,Not fleeing,False
 2526,Wayne Noel Simard,2017-04-23,shot,gun,70,M,W,Prescott,AZ,False,attack,Not fleeing,False
-2714,Daezion Turner,2017-04-24,shot,gun,15,M,,Killeen,TX,False,attack,Not fleeing,False
+2714,Daezion Turner,2017-04-24,shot,gun,15,M,B,Killeen,TX,False,attack,Not fleeing,False
 2524,Robert Becker,2017-04-24,shot,gun,79,M,W,Stewartstown,PA,True,attack,Not fleeing,False
 2527,Kendell Wilson,2017-04-24,shot,gun,16,M,B,Houston,TX,False,other,Foot,True
 2531,Jacy Kevin McManus,2017-04-24,shot,unarmed,35,M,W,Wolf Creek,OR,False,attack,Not fleeing,False
@@ -2416,7 +2416,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2677,Jamie Dougan,2017-06-16,shot,undetermined,24,F,W,Water Valley,MS,False,undetermined,Car,False
 2678,Nathan Banks,2017-06-16,shot,gun,37,M,W,Antioch,CA,False,other,Foot,False
 2673,TK TK,2017-06-17,shot,vehicle,28,F,,Montebello,CA,False,other,Not fleeing,False
-2674,Joseph Paul Hogan,2017-06-17,shot,gun,48,M,,Rapid City,SD,False,attack,Not fleeing,False
+2674,Joseph Paul Hogan,2017-06-17,shot,gun,48,M,W,Rapid City,SD,False,attack,Not fleeing,False
 2672,Charleena Lyles,2017-06-18,shot,knife,30,F,B,Seattle,WA,True,other,Not fleeing,False
 2675,William Webster,2017-06-18,shot,gun,64,M,W,Waukesha,WI,True,other,Not fleeing,False
 2680,Matthew Colton Stover,2017-06-19,shot,gun,21,M,N,Fairbanks,AK,True,attack,Foot,False
@@ -2465,7 +2465,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2739,Dana Dubose,2017-07-04,shot,knife,36,M,B,Vandalia,OH,False,attack,Not fleeing,False
 2740,Cody Ray McCray,2017-07-04,shot,vehicle,32,M,H,Centerville,UT,True,undetermined,Car,False
 2741,Donald Martin,2017-07-04,shot,gun,39,M,W,Belleville,IL,True,attack,Not fleeing,False
-2750,Douglas West,2017-07-04,shot,gun,46,M,,Richland,WA,False,other,Not fleeing,False
+2750,Douglas West,2017-07-04,shot,gun,46,M,W,Richland,WA,False,other,Not fleeing,False
 2742,Alexander Bonds,2017-07-05,shot,gun,34,M,B,New York,NY,False,attack,Foot,False
 2743,Tiffany Lynn Potter,2017-07-05,shot,gun,29,F,W,Des Moines,IA,False,attack,Foot,True
 2746,"Edwin ""Beanie"" Esker",2017-07-05,shot,undetermined,53,M,W,Maeystown,IL,False,undetermined,Not fleeing,False
@@ -2483,7 +2483,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2753,Ryan A. Probst,2017-07-09,shot,gun,28,M,W,Uniontown,OH,False,attack,Not fleeing,False
 2754,Robert Yeiser,2017-07-09,shot,gun,34,M,W,Bainbridge Island,WA,False,attack,Not fleeing,False
 2755,Brayant Alvarez,2017-07-09,shot,gun,24,M,H,Chicago,IL,False,attack,Foot,False
-2761,Edward Taylor,2017-07-09,shot,gun,54,M,,Akron,OH,False,attack,Not fleeing,False
+2761,Edward Taylor,2017-07-09,shot,gun,54,M,B,Akron,OH,False,attack,Not fleeing,False
 2762,Cody Ethan Mitchell,2017-07-10,shot,vehicle,26,M,W,Mt Airy,MD,False,attack,Not fleeing,False
 2764,Gregory Shawn Thrower,2017-07-10,shot,gun,39,M,W,North Branch,MN,False,attack,Car,False
 2766,Randy Engstrom,2017-07-11,shot,gun,34,M,W,Milwaukee,WI,True,other,Car,False
@@ -2492,7 +2492,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2769,Antonio Garcia Jr.,2017-07-11,shot,undetermined,47,M,B,Leavenworth,KS,False,undetermined,Not fleeing,False
 2770,TK TK,2017-07-11,shot,gun,,M,,Golden Valley,AZ,False,attack,Foot,False
 2771,Dorsey Glenn Taulbee Jr.,2017-07-12,shot,gun,33,M,N,Oklahoma City,OK,False,attack,Not fleeing,False
-2772,James Gerald Davis,2017-07-12,shot,,40,M,,Lake View,SC,False,undetermined,,False
+2772,James Gerald Davis,2017-07-12,shot,undetermined,40,M,W,Lake View,SC,True,other,Not fleeing,False
 2773,Keith Alan Eustace,2017-07-12,shot,blunt object,58,M,W,Grover Beach,CA,False,other,Not fleeing,False
 2774,Chancey Chamblee,2017-07-13,shot,gun,55,M,W,Pima,AZ,False,undetermined,,False
 2775,Stephen Steele,2017-07-13,shot,knife,56,M,,Crystal Springs,FL,True,other,Not fleeing,False
@@ -2646,9 +2646,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2943,Michael Cullane,2017-09-08,shot,undetermined,,M,,Monett,MO,False,other,Not fleeing,False
 2940,Ervin Eugene Sweat Jr.,2017-09-09,shot,gun,26,M,B,Arcata,CA,False,attack,Not fleeing,False
 2935,Erick Perez,2017-09-10,shot,gun,22,M,H,Youngtown,AZ,False,attack,Not fleeing,False
-2936,TK TK,2017-09-10,shot,gun,,M,,Huntersville,NC,False,attack,Not fleeing,False
+2936,Joseph Charles Cook,2017-09-10,shot,gun,76,M,,Huntersville,NC,False,attack,Not fleeing,False
 2937,Frankie Santos,2017-09-10,shot,gun,58,M,H,Tacoma,WA,False,attack,Not fleeing,False
 2938,Spencer Hight,2017-09-10,shot,gun,32,M,W,Plano,TX,False,attack,Not fleeing,False
 2939,Juan Flores,2017-09-10,shot,vehicle,19,M,,Chicago,IL,False,attack,Not fleeing,False
 2945,TK TK,2017-09-11,shot,undetermined,25,M,,Great Falls,MT,False,other,Foot,False
 2946,Brian Patrick Allen,2017-09-11,shot,gun,48,M,W,Hixson,TN,False,attack,Car,False
+2947,Vincent Edward Hernandez Jr,2017-09-11,shot,toy weapon,39,M,,Bassett,CA,False,attack,Not fleeing,False
+2948,TK TK,2017-09-13,shot,gun,,M,,Quartzsite,AZ,False,attack,Foot,False
