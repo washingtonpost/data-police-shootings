@@ -2652,5 +2652,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2939,Juan Flores,2017-09-10,shot,vehicle,19,M,,Chicago,IL,False,attack,Not fleeing,False
 2945,TK TK,2017-09-11,shot,undetermined,25,M,,Great Falls,MT,False,other,Foot,False
 2946,Brian Patrick Allen,2017-09-11,shot,gun,48,M,W,Hixson,TN,False,attack,Car,False
-2947,Vincent Edward Hernandez Jr,2017-09-11,shot,toy weapon,39,M,,Bassett,CA,False,attack,Not fleeing,False
-2948,TK TK,2017-09-13,shot,gun,,M,,Quartzsite,AZ,False,attack,Foot,False
+2947,Vincent Edward Hernandez Jr,2017-09-11,shot,toy weapon,39,M,H,Bassett,CA,False,attack,Not fleeing,False
+2948,TK TK,2017-09-13,shot,gun,,M,,Quartzsite,AZ,False,attack,Car,False
