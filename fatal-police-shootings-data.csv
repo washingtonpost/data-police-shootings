@@ -2470,7 +2470,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2743,Tiffany Lynn Potter,2017-07-05,shot,gun,29,F,W,Des Moines,IA,False,attack,Foot,True
 2746,"Edwin ""Beanie"" Esker",2017-07-05,shot,undetermined,53,M,W,Maeystown,IL,False,undetermined,Not fleeing,False
 2747,Jamie Huskey,2017-07-05,shot,gun,45,M,W,Sallisaw,OK,False,attack,Not fleeing,False
-2748,Jonathon Coronel,2017-07-05,shot,unarmed,24,M,H,Vista,CA,False,undetermined,Foot,False
+2748,Jonathan Coronel,2017-07-05,shot,unarmed,24,M,H,Vista,CA,False,undetermined,Foot,False
 2749,Carroll Tuttle,2017-07-05,shot,gun,51,M,W,Madison,ME,False,attack,,False
 2744,Jesus Cervantes,2017-07-06,shot,vehicle,35,M,,Plant City,FL,False,other,Car,False
 2745,Dejuan Guillory,2017-07-06,shot,undetermined,27,M,B,Mamou,LA,False,undetermined,,False
@@ -2650,7 +2650,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2937,Frankie Santos,2017-09-10,shot,gun,58,M,H,Tacoma,WA,False,attack,Not fleeing,False
 2938,Spencer Hight,2017-09-10,shot,gun,32,M,W,Plano,TX,False,attack,Not fleeing,False
 2939,Juan Flores,2017-09-10,shot,vehicle,19,M,,Chicago,IL,False,attack,Not fleeing,False
-2945,TK TK,2017-09-11,shot,undetermined,25,M,,Great Falls,MT,False,other,Foot,False
+2945,Thomas Addison,2017-09-11,shot,undetermined,25,M,N,Great Falls,MT,False,other,Foot,False
 2946,Brian Patrick Allen,2017-09-11,shot,gun,48,M,W,Hixson,TN,False,attack,Car,False
 2947,Vincent Edward Hernandez Jr,2017-09-11,shot,toy weapon,39,M,H,Bassett,CA,False,attack,Not fleeing,False
 2948,TK TK,2017-09-13,shot,gun,,M,,Quartzsite,AZ,False,attack,Car,False
+2955,Gary Joe McCourt,2017-09-14,shot,knife,50,M,,Frametown,WV,False,attack,Not fleeing,False
+2950,TK TK,2017-09-15,shot,crowbar,15,M,,Haymarket,VA,False,other,Not fleeing,False
+2951,Howard Burton Hughes,2017-09-15,shot,gun,56,M,,Myrtle Beach,SC,False,attack,Not fleeing,False
+2952,TK TK,2017-09-15,shot,undetermined,,M,,Des Moines,WA,False,other,Other,False
+2953,TK TK,2017-09-15,shot,undetermined,,M,,Fife,WA,False,other,Other,False
+2954,TK TK,2017-09-15,shot,vehicle,,M,,Hallandale Beach,FL,False,attack,Car,False
