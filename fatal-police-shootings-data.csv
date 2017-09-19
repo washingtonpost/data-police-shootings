@@ -2439,7 +2439,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2695,Deveonte Johnson,2017-06-25,shot,gun,24,M,B,Oklahoma City,OK,False,attack,Not fleeing,True
 2696,Nicholas Johnston,2017-06-25,shot,gun,47,M,W,Phoenix,AZ,False,attack,Not fleeing,False
 2698,TK TK,2017-06-25,shot,gun,,M,,Las Vegas,NV,False,attack,Not fleeing,False
-2694,Rip Huntington,2017-06-26,shot,gun,36,M,,Rowe,NM,True,attack,Not fleeing,False
+2694,Rip Huntington,2017-06-26,shot,gun,36,M,H,Rowe,NM,True,attack,Not fleeing,False
 2705,Jason Magana Herrera,2017-06-27,shot and Tasered,gun,35,M,,Amarillo,TX,False,attack,Foot,False
 2716,TK TK,2017-06-28,shot,gun,,M,,Los Angeles,CA,True,attack,Not fleeing,True
 2718,Rodney L. Cole,2017-06-28,shot,screwdriver,37,M,B,Nashville,TN,False,attack,Not fleeing,False
@@ -2495,7 +2495,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2772,James Gerald Davis,2017-07-12,shot,undetermined,40,M,W,Lake View,SC,True,other,Not fleeing,False
 2773,Keith Alan Eustace,2017-07-12,shot,blunt object,58,M,W,Grover Beach,CA,False,other,Not fleeing,False
 2774,Chancey Chamblee,2017-07-13,shot,gun,55,M,W,Pima,AZ,False,undetermined,,False
-2775,Stephen Steele,2017-07-13,shot,knife,56,M,,Crystal Springs,FL,True,other,Not fleeing,False
+2775,Stephen Steele,2017-07-13,shot,knife,47,M,W,Crystal Springs,FL,True,other,Not fleeing,False
 2776,Pedro Rubio,2017-07-13,shot,knife,42,M,,Goodyear,AZ,False,attack,Not fleeing,False
 2777,Ramiro Bravo Ramirez,2017-07-14,shot,gun,34,M,,Greenville,SC,False,attack,Not fleeing,True
 2778,Gerber Dieguez,2017-07-15,shot,undetermined,29,M,H,Los Angeles,CA,False,undetermined,Foot,False
@@ -2630,7 +2630,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2916,Daniel Gillis,2017-09-01,shot,knife,36,M,,Pittsfield,MA,True,other,Foot,False
 2917,TK TK,2017-09-02,shot,gun,,M,,Beaumont,CA,False,attack,Not fleeing,False
 2919,Antwon Springer,2017-09-03,shot,gun,37,M,B,Milwaukee,WI,False,attack,Not fleeing,False
-2920,Henry Stephen Rakoz,2017-09-03,shot,gun,47,M,,Longview,WA,False,other,Not fleeing,False
+2920,Henry Stephen Rakoz,2017-09-03,shot,gun,47,M,W,Longview,WA,False,other,Not fleeing,False
 2921,TK TK,2017-09-03,shot,undetermined,,M,,Akron,OH,False,attack,Not fleeing,False
 2941,Jarvis Hayes,2017-09-03,shot,vehicle,31,M,B,Myrtle Beach,SC,False,attack,Car,False
 2922,James Fuller,2017-09-04,shot and Tasered,chair,52,M,,Columbus,GA,False,attack,Not fleeing,False
@@ -2661,5 +2661,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2954,TK TK,2017-09-15,shot,vehicle,,M,,Hallandale Beach,FL,False,attack,Car,False
 2957,Jacob Dominguez,2017-09-15,shot,undetermined,32,M,,San Jose,CA,False,undetermined,Car,False
 2956,Scout Schultz,2017-09-16,shot,knife,21,,W,Atlanta,GA,True,other,Not fleeing,False
-2958,TK TK,2017-09-17,shot and Tasered,knife,,M,,Boyle Heights,CA,False,other,Not fleeing,False
-2959,TK TK,2017-09-18,shot,undetermined,,M,,Piedmont,AL,False,undetermined,Not fleeing,False
+2958,Eric Alvarez,2017-09-17,shot and Tasered,knife,40,M,,Los Angeles,CA,False,other,Not fleeing,False
+2959,TK TK,2017-09-18,shot,undetermined,,M,,Piedmont,AL,False,other,Not fleeing,False
