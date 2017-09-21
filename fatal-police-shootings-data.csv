@@ -1901,7 +1901,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2115,Stephen Joshua Whitney,2016-12-09,shot,vehicle,30,M,O,Keaau,HI,False,other,Not fleeing,False
 2119,Brent Quinn,2016-12-09,shot,gun,,M,W,Leland,NC,False,attack,Not fleeing,False
 2122,Scott MacIntosh,2016-12-09,shot,machete and gun,35,M,W,Forks Township,PA,True,other,Not fleeing,False
-2113,Waltki Williams,2016-12-10,shot,gun,35,M,B,Sumter,SC,False,attack,Foot,False
+2113,Waltki Williams,2016-12-10,shot,gun,35,M,B,Sumter,SC,False,attack,Foot,True
 2116,Samson G. Varner,2016-12-10,shot,knife,36,M,W,Greenwood,IN,False,other,Not fleeing,True
 2112,Timothy Case,2016-12-11,shot and Tasered,knife,53,M,W,York,NE,True,other,Not fleeing,False
 2118,Randy Lee Cumberledge,2016-12-11,shot,vehicle,39,M,W,Fairmont,WV,False,other,Not fleeing,False
@@ -1939,7 +1939,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2168,TK TK,2016-12-23,shot,vehicle,,M,,El Monte,CA,False,other,Car,False
 2158,Daquan Antonio Westbrook,2016-12-24,shot,gun,18,M,B,Charlotte,NC,False,undetermined,Not fleeing,False
 2163,Miriam Ann Savino,2016-12-24,shot,knife,53,F,W,Lake Wales,FL,False,other,Not fleeing,False
-2164,TK TK,2016-12-24,shot,gun,,M,,Gadsden,AL,False,attack,Foot,False
+2164,Orande Kandie Hayes,2016-12-24,shot,gun,,M,,Gadsden,AL,False,attack,Foot,False
 2166,Zhonghua Li,2016-12-24,shot,scissors,48,M,A,Pico Rivera,CA,True,attack,Not fleeing,False
 2159,Gerald Hall,2016-12-25,shot,knife,29,M,B,Washington,DC,False,other,Not fleeing,True
 2160,James Tylka,2016-12-25,shot,gun,30,M,W,King City,OR,True,attack,Car,False
@@ -2662,10 +2662,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2957,Jacob Dominguez,2017-09-15,shot,undetermined,32,M,,San Jose,CA,False,undetermined,Car,False
 2956,Scout Schultz,2017-09-16,shot,knife,21,,W,Atlanta,GA,True,other,Not fleeing,False
 2958,Eric Alvarez,2017-09-17,shot and Tasered,knife,40,M,,Los Angeles,CA,False,other,Not fleeing,False
-2960,Nicholas Perkins,2017-09-17,shot,gun,37,M,,Oak Harbor,WA,True,attack,Not fleeing,False
+2960,Nicholas K. Perkins,2017-09-17,shot,gun,37,M,,Oak Harbor,WA,True,attack,Not fleeing,False
 2961,TK TK,2017-09-17,shot,gun,,M,,West Milford,WV,False,attack,Foot,False
 2959,Jesse VanSipe,2017-09-18,shot,undetermined,33,M,W,Piedmont,AL,True,other,Not fleeing,False
-2962,Joshua Stubbs,2017-09-19,shot,gun,25,M,W,Monroe,NC,False,undetermined,Car,True
+2962,Joshua Stubbs,2017-09-19,shot,gun and knife,25,M,W,Monroe,NC,False,undetermined,Car,True
 2963,Jimme Knight Smith,2017-09-19,shot,gun,55,M,,Independence,VA,True,attack,Not fleeing,False
 2964,TK TK,2017-09-19,shot,,,M,,Bernice,LA,False,undetermined,,False
-2965,Magdiel Sanchez,2017-09-20,shot,walking stick,35,M,,Oklahoma City,OK,False,undetermined,Not fleeing,False
+2965,Magdiel Sanchez,2017-09-20,shot,pipe,35,M,,Oklahoma City,OK,False,undetermined,Not fleeing,False
