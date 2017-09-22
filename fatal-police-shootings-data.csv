@@ -2669,6 +2669,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2963,Jimme Knight Smith,2017-09-19,shot,gun,55,M,,Independence,VA,True,attack,Not fleeing,False
 2964,TK TK,2017-09-19,shot,,,M,,Bernice,LA,False,undetermined,,False
 2966,TK TK,2017-09-19,shot,gun,,M,,La Porte,TX,True,attack,Not fleeing,False
-2967,David Scott,2017-09-19,shot,knife,27,M,,Chula Vista,CA,False,attack,Not fleeing,False
+2967,David Scott,2017-09-19,shot,knife,27,M,,Chula Vista,CA,True,attack,Not fleeing,False
 2965,Magdiel Sanchez,2017-09-20,shot,pipe,35,M,,Oklahoma City,OK,False,undetermined,Not fleeing,False
-2968,Eddie Russell Jr.,2017-09-20,shot,undetermined,25,M,,Peoria,IL,False,attack,Not fleeing,False
+2968,Eddie Russell Jr.,2017-09-20,shot,gun,25,M,B,Peoria,IL,True,other,Not fleeing,False
