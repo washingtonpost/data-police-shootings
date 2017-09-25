@@ -2674,7 +2674,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2968,Eddie Russell Jr.,2017-09-20,shot,gun,25,M,B,Peoria,IL,True,other,Not fleeing,False
 2969,Haraesheo Rice,2017-09-20,shot,gun,31,M,B,Huntsville,AL,True,attack,Not fleeing,False
 2970,Mack Brinkley,2017-09-21,shot,gun,70,M,,Boswell,OK,False,attack,Car,False
-2972,TK TK,2017-09-21,shot,knife,40,M,,Tacoma,WA,True,other,Not fleeing,False
+2972,Matthew Wells,2017-09-21,shot,knife,40,M,,Tacoma,WA,True,other,Not fleeing,False
 2973,Austin Dunsmore,2017-09-21,shot,undetermined,25,M,,Denver,CO,False,undetermined,,False
 2974,TK TK,2017-09-21,shot,vehicle,,M,,Rockwall,TX,False,attack,Car,False
 2971,TK TK,2017-09-22,shot,gun and knife,,M,,Oceanside,CA,False,attack,Not fleeing,False
+2977,Dillan Tabares,2017-09-22,shot,gun,27,M,,Huntington Beach,CA,True,attack,Not fleeing,False
+2979,TK TK,2017-09-22,shot,undetermined,,M,W,Denver,CO,False,other,Not fleeing,False
+2980,Scott Farnsworth,2017-09-22,shot,gun,28,M,W,Mesa,AZ,False,attack,Not fleeing,False
+2981,Bryan Wright,2017-09-22,shot,gun,40,M,,Hattiesburg,MS,False,attack,Not fleeing,False
+2982,Scott Michael Chamberlain,2017-09-22,shot,vehicle,44,M,W,Brooksville,FL,False,attack,Car,False
+2975,TK TK,2017-09-24,shot,gun,,M,,San Francisco,CA,False,other,Not fleeing,False
+2983,Jarred Burke,2017-09-24,shot,gun,24,M,,New Castle,IN,False,attack,Foot,False
+2976,Anthony Robinson,2017-09-25,shot,gun,32,M,,Palmetto,FL,False,attack,Not fleeing,False
+2978,TK TK,2017-09-25,shot,Taser,,M,,Las Vegas,NV,True,attack,Not fleeing,False
