@@ -2604,6 +2604,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2890,Henry Rivera Jr.,2017-08-22,shot,vehicle,71,M,H,Albuquerque,NM,False,attack,Car,False
 2891,Robert Earl Adams,2017-08-22,shot,knife,30,M,W,Orcutt,CA,False,other,Foot,False
 2893,Konstantin Morozov,2017-08-22,shot,gun,48,M,W,Los Angeles,CA,False,other,Not fleeing,False
+2988,Mark Jensen,2017-08-22,shot,gun,56,M,W,Durham,CA,False,attack,Not fleeing,False
 2894,Ciara Howard,2017-08-23,shot,gun,26,F,W,Olathe,KS,True,other,Not fleeing,False
 2895,Colton Puckett,2017-08-24,shot,gun,28,M,W,Waterford Township,MI,True,other,Not fleeing,False
 2896,Isaias Raziel Ochoa,2017-08-24,shot,gun,19,M,H,Lemon Grove,CA,False,attack,Foot,False
@@ -2686,4 +2687,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2975,TK TK,2017-09-24,shot,gun,,M,,San Francisco,CA,False,other,Not fleeing,False
 2983,Jarred Burke,2017-09-24,shot,gun,24,M,,New Castle,IN,False,attack,Foot,False
 2976,Anthony Robinson,2017-09-25,shot,gun,32,M,B,Palmetto,FL,False,attack,Foot,False
-2978,TK TK,2017-09-25,shot,Taser,,M,,Las Vegas,NV,True,attack,Not fleeing,False
+2978,Cody O'Bryan,2017-09-25,shot,Taser,31,M,,Las Vegas,NV,True,attack,Not fleeing,False
+2984,Jeffory Hughes,2017-09-26,shot,gun,50,M,,Fairview,TN,False,attack,Not fleeing,False
+2985,Roger Nielsen,2017-09-26,shot,gun,31,M,W,Eugene,OR,False,attack,Not fleeing,False
+2986,Craig A. Johnson,2017-09-26,shot,undetermined,50,M,,Coolin,ID,False,other,Not fleeing,False
+2987,Demilo Trayuon Hodge,2017-09-27,shot,gun,45,M,,Emeryville,CA,False,attack,Car,False
+2989,TK TK,2017-09-27,shot,gun,,M,,Spring Hill,FL,False,attack,Car,False
+2990,Guy Lynn Scott,2017-09-27,shot,gun,48,M,W,Griffin,GA,True,attack,Not fleeing,False
