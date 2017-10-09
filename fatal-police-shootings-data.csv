@@ -2702,6 +2702,25 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2997,Anthony Gallo,2017-10-01,shot,knife,34,M,W,Canton Township,PA,True,other,Not fleeing,False
 2998,Micah McComas,2017-10-01,shot,undetermined,41,M,W,Seward,AK,False,undetermined,Not fleeing,False
 3000,TK TK,2017-10-01,shot,gun,,M,,North Fort Collins,CO,False,attack,Not fleeing,False
+3022,Joshua Lanflisi,2017-10-01,shot,gun and sword,38,M,,St. Louis,MO,True,other,Not fleeing,False
 2999,Kevin Anthony Battaglia,2017-10-02,shot,gun,33,M,W,Parkton,NC,True,attack,Not fleeing,False
 3001,Marquinton T. Brooks,2017-10-02,shot,gun,22,M,W,West Ouachita,LA,False,other,Foot,False
 3002,John Loaiza,2017-10-03,shot,pipe,40,M,,Jefferson City,MO,False,attack,Not fleeing,False
+3011,Chad Cochell,2017-10-04,shot,gun,34,M,,Spokane,WA,False,other,Not fleeing,False
+3012,Sandy Guardiola,2017-10-04,shot,gun,48,F,,Canandaigua,NY,False,attack,Not fleeing,False
+3013,Jomekia Turner,2017-10-04,shot,gun,37,M,B,Thomas County,GA,False,other,Not fleeing,False
+3021,Michael Ferrell,2017-10-04,shot,gun,67,M,,Mesa,AZ,False,other,Not fleeing,False
+3009,Brandon Lee Bohanon,2017-10-05,shot,unarmed,35,M,W,Hiram,GA,False,other,Not fleeing,False
+3014,Cristino Umana-Garcia,2017-10-05,shot,knife,29,M,H,Finney County,KS,True,other,Not fleeing,False
+3015,Phumee Lee,2017-10-05,shot,gun,28,M,A,St. Paul,MN,False,attack,Not fleeing,True
+3018,Johnny Ray Leeds,2017-10-05,shot,gun,40,M,W,Leeds,AL,False,attack,,False
+3019,German Ornelas,2017-10-05,shot,knife,31,M,H,Brownsville,TX,False,attack,Not fleeing,False
+3005,TK TK,2017-10-06,shot,gun,,M,,Golden,CO,False,attack,Car,False
+3010,Garrett Hoose,2017-10-06,shot,gun,47,M,,Perryopolis,PA,True,other,Not fleeing,False
+3016,Roberto Callejas,2017-10-06,shot and Tasered,knife,35,M,,Orlando,FL,True,attack,Not fleeing,False
+3017,Ernesto Padron,2017-10-06,shot,gun,52,M,H,Miami,FL,False,other,Foot,False
+3003,TK TK,2017-10-08,shot,machete,,M,,Abingdon,VA,False,other,Foot,False
+3004,Sabrina Garcia,2017-10-08,shot,gun,34,F,,Mesa,AZ,True,attack,Foot,False
+3006,TK TK,2017-10-08,shot,knife,58,M,H,San Fernando,CA,False,other,Not fleeing,False
+3007,TK TK,2017-10-08,shot,gun,,M,,Louisville,KY,False,other,Not fleeing,False
+3008,TK TK,2017-10-08,shot,vehicle,,F,,Miami,FL,False,attack,Car,False
