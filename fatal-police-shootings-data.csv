@@ -2342,7 +2342,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2599,Shannon Edward Estill,2017-05-20,shot,toy weapon,58,M,W,Pleasanton,CA,True,attack,Not fleeing,True
 2594,Jimmie Montel Sanders,2017-05-21,shot,gun,33,M,B,Appleton,WI,False,attack,Not fleeing,False
 2595,Joseph M. Hodgin,2017-05-21,shot,gun,43,M,W,Allentown,PA,False,attack,Car,False
-2596,Ricco Devante Holden,2017-05-21,shot,undetermined,24,M,B,Converse,LA,False,other,Not fleeing,False
+2596,Ricco Devante Holden,2017-05-21,shot,unarmed,24,M,B,Converse,LA,False,attack,Not fleeing,False
 2598,Carlos Garcia Petrovich,2017-05-21,shot,unarmed,37,M,H,Orlando,FL,False,attack,Not fleeing,False
 2600,Aaron M. Thompson,2017-05-22,shot,knife,,M,W,Mountain Home,ID,False,attack,Not fleeing,False
 2601,Jorge Alberto Fuentes,2017-05-23,shot and Tasered,gun,21,M,H,Glendale,AZ,False,attack,Other,False
@@ -2397,7 +2397,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2654,TK TK,2017-06-10,shot,undetermined,,M,,Auburn,WA,False,undetermined,Car,False
 2655,Robin Blaylock,2017-06-10,shot,gun,53,M,W,North English,IA,False,other,Not fleeing,False
 2660,Emmett Edward Hall,2017-06-10,shot,knife,60,M,W,Abilene,TX,True,other,Not fleeing,False
-2661,Terry Williams,2017-06-11,shot,undetermined,19,M,B,Milwaukee,WI,False,other,Car,False
+2661,Terry Williams,2017-06-11,shot,vehicle,19,M,B,Milwaukee,WI,False,other,Car,False
 2656,Johnny Platas,2017-06-12,shot and Tasered,knife,45,M,H,Selma,CA,False,other,Not fleeing,False
 2658,Eleuterio Amaya-Torres,2017-06-12,shot,gun,63,M,H,Plano,TX,False,attack,Not fleeing,False
 2659,John Wesley Bays,2017-06-12,shot,gun,50,M,W,Trosper,KY,False,attack,Not fleeing,False
@@ -2723,7 +2723,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3007,Corey Boykin,2017-10-08,shot,gun,24,M,B,Louisville,KY,False,other,Not fleeing,True
 3008,Cariann Hithon,2017-10-08,shot,vehicle,22,F,B,Miami,FL,False,attack,Car,False
 3026,Daniel James,2017-10-10,shot,gun,55,M,,Rochester,WA,True,attack,,False
-3025,TK TK,2017-10-11,shot,vehicle,61,M,,Biloxi,MS,False,attack,Car,False
-3027,TK TK,2017-10-11,shot,gun,,M,,Marana,AZ,False,other,Not fleeing,False
-3030,TK TK,2017-10-11,shot,unarmed,,M,,Valdez,CO,False,attack,Foot,False
-3029,TK TK,2017-10-12,shot,gun,,M,B,Homewood,AL,False,attack,Foot,False
+3025,Vincent Dronet,2017-10-11,shot,vehicle,61,M,,Biloxi,MS,False,attack,Car,False
+3027,Brandon Wade Rucker,2017-10-11,shot,gun,43,M,W,Marana,AZ,False,other,Not fleeing,False
+3030,TK TK,2017-10-11,shot,,,M,,Valdez,CO,False,attack,Foot,False
+3029,John Robert Payne,2017-10-12,shot,gun,35,M,,Homewood,AL,False,attack,Foot,False
