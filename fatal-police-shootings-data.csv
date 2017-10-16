@@ -2730,3 +2730,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3029,John Robert Payne,2017-10-12,shot,gun,35,M,,Homewood,AL,False,attack,Foot,False
 3031,Sean D. Brady,2017-10-12,shot,gun,29,M,W,Flagstaff,AZ,False,attack,Not fleeing,True
 3032,Alva Gwinn,2017-10-12,shot,gun,39,M,,Bell County,TX,False,attack,Car,False
+3036,Paul Dolen,2017-10-13,shot,gun,57,M,,Wayne County,KY,False,other,Not fleeing,False
+3037,J.C. Hawkins,2017-10-13,shot,gun,42,M,,Charlottesville,VA,False,attack,Foot,False
+3035,TK TK,2017-10-14,shot,undetermined,,M,,Torrance,CA,False,other,Car,False
+3038,TK TK,2017-10-14,shot,undetermined,,,,Olivehurst,CA,False,undetermined,Not fleeing,False
+3034,TK TK,2017-10-16,shot,gun,,M,,Baltimore,MD,False,undetermined,,False
