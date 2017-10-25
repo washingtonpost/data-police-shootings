@@ -2553,8 +2553,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2833,Jeffrey Barboa,2017-08-02,shot,machete,45,M,H,Richmond,CA,False,attack,Car,False
 2834,Quintas Harris,2017-08-02,shot,gun,27,M,B,Atlanta,GA,False,attack,Not fleeing,False
 2854,Phillip Rhoades,2017-08-02,shot,vehicle,28,M,W,Mannington,WV,False,other,Car,False
-3060,Kemonte Cobbs,2017-08-02,shot,gun,15,M,,Gary,IN,False,attack,Foot,False
 2846,Keith Burkholder,2017-08-03,shot,gun,57,M,W,Lima,OH,False,attack,Not fleeing,False
+3060,Kemonte Cobbs,2017-08-03,shot,gun,15,M,,Gary,IN,False,attack,Foot,False
 2835,Aaron Payne,2017-08-04,shot,gun,33,M,W,Surfside Beach,SC,True,attack,Not fleeing,False
 2836,Cory Stephens,2017-08-04,shot,gun,35,M,W,Spanish Springs,NV,False,other,Not fleeing,False
 2837,TK TK,2017-08-04,shot,gun,47,M,B,San Diego,CA,False,other,Not fleeing,False
@@ -2745,15 +2745,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3047,Matthew Whitley,2017-10-19,shot,gun,26,M,W,Kings Mountain,NC,False,attack,Other,False
 3049,Steven Wayne Truex,2017-10-19,shot and Tasered,gun,,M,,Birmingham,AL,False,other,Not fleeing,False
 3050,Dewboy Lister,2017-10-19,shot,unarmed,55,M,B,Corpus Christi,TX,False,other,Foot,True
-3048,Jamarco McShann,2017-10-20,shot,gun,23,M,,Moraine,OH,False,attack,Not fleeing,False
-3051,TK TK,2017-10-20,shot,knife,,M,,Houston,TX,False,undetermined,Not fleeing,False
-3052,Phillip Trammell,2017-10-20,shot,knife,30,M,W,Fort Smith,OK,False,attack,Not fleeing,False
+3048,Jamarco McShann,2017-10-20,shot,gun,23,M,B,Moraine,OH,False,attack,Not fleeing,False
+3051,Jorge Cabrera,2017-10-20,shot,knife,54,M,,Houston,TX,False,other,Not fleeing,False
+3052,Phillip Joel Trammell,2017-10-20,shot,knife,30,M,W,Fort Smith,OK,False,attack,Not fleeing,False
 3053,TK TK,2017-10-21,shot,hammer,,M,,Cloverdale,CA,False,other,Not fleeing,False
-3054,TK TK,2017-10-21,shot,gun,,M,,Girard,OH,True,attack,Not fleeing,False
-3055,Nichola Pimentel,2017-10-22,shot,undetermined,27,M,,Ceres,CA,False,undetermined,Car,False
+3054,TK TK,2017-10-21,shot,gun,,M,,Girard,OH,False,attack,Not fleeing,False
+3055,Nicholas Pimentel,2017-10-22,shot,undetermined,27,M,,Ceres,CA,False,undetermined,Car,False
 3058,TK TK,2017-10-22,shot,gun,,M,,Sparks,NV,False,attack,Not fleeing,False
 3059,Samantha Hennard,2017-10-22,shot,gun,25,F,,St. Joseph,MO,False,attack,Foot,False
 3061,TK TK,2017-10-22,shot,undetermined,,M,,Crandon,WI,False,other,Not fleeing,False
-3062,Matthew David Palait,2017-10-23,shot,gun,35,M,,Lodi,CA,False,attack,Not fleeing,False
-3064,Ashleigh Bertucci,2017-10-23,shot,,31,F,,Shelbyville,KY,False,undetermined,Not fleeing,False
+3062,Matthew David Palaita,2017-10-23,shot,gun,35,M,,Lodi,CA,False,attack,Not fleeing,False
+3064,Ashleigh Bertucci,2017-10-23,shot,,31,F,,Shelbyville,KY,True,undetermined,Not fleeing,False
 3065,TK TK,2017-10-24,shot,screwdriver,,,,Houston,TX,False,other,Not fleeing,False
