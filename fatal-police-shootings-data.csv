@@ -2765,3 +2765,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3072,Charles L. Wallace,2017-10-26,shot,vehicle,46,M,,Erie,PA,False,other,Not fleeing,False
 3073,James M. Davis,2017-10-26,shot,gun,34,M,W,Horseheads,NY,False,attack,Car,False
 3071,Sanders Surber,2017-10-26,shot,gun,32,M,W,Fairhope,AL,False,attack,Other,False
+3074,Jerry Richardson,2017-10-27,shot,machete,46,M,B,Indiantown,FL,True,other,Not fleeing,False
+3075,Danny Sanchez,2017-10-28,shot,gun,40,M,H,Greeley,CO,False,attack,Car,False
+3076,TK TK,2017-10-28,shot,undetermined,17,M,,Black River Falls,WI,False,undetermined,Car,False
+3077,TK TK,2017-10-28,shot,undetermined,17,M,,Polk County,OR,False,other,Car,False
+3078,TK TK,2017-10-29,shot,gun,,M,,Tate County,MS,False,attack,Car,False
