@@ -2248,7 +2248,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2499,Erik Pamias,2017-04-13,shot,vehicle,28,M,W,Avondale,AZ,False,other,Not fleeing,False
 2500,Charles Johnston,2017-04-13,shot,gun,25,M,W,Udall,KS,False,attack,Car,False
 2501,Thomas Gezotis,2017-04-13,shot,gun,57,M,W,Suffield,CT,False,other,,False
-2502,Charles Spands,2017-04-14,shot,gun,35,M,W,Spanaway,WA,False,other,Car,False
+2502,Charles Shands,2017-04-14,shot,gun,33,M,W,Spanaway,WA,False,other,Car,False
 2503,Ivan Wilson,2017-04-14,shot,knife,24,M,N,Mandan,ND,False,other,Not fleeing,False
 2505,TK TK,2017-04-14,shot,gun,,M,,Paterson,NJ,True,attack,Not fleeing,False
 2506,Olugbalah Ridley,2017-04-15,shot,gun,33,M,B,West Memphis,AR,False,attack,,False
@@ -2674,7 +2674,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2969,Haraesheo Rice,2017-09-20,shot,gun,31,M,B,Huntsville,AL,True,attack,Not fleeing,False
 2970,Mack Brinkley,2017-09-21,shot,gun,70,M,W,Boswell,OK,False,attack,Car,False
 2972,Matthew Wells,2017-09-21,shot,knife,40,M,W,Tacoma,WA,True,other,Not fleeing,False
-2973,Austin Dunsmore,2017-09-21,shot,undetermined,25,M,O,Denver,CO,False,undetermined,,False
+2973,Austin Dunsmore,2017-09-21,shot,undetermined,25,M,O,Denver,CO,False,other,Car,False
 2974,Jose Felix Reyes,2017-09-21,shot,vehicle,38,M,H,Rockwall,TX,False,attack,Car,False
 2971,Alexander Ochoa,2017-09-22,shot,gun and knife,26,M,H,Oceanside,CA,False,attack,Not fleeing,False
 2977,Dillan Tabares,2017-09-22,shot,gun,27,M,O,Huntington Beach,CA,True,attack,Not fleeing,False
@@ -2696,7 +2696,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2992,Quentin Starke,2017-09-30,shot,gun,44,M,W,Columbua,IN,False,attack,Car,False
 2993,Tyrell Dewayne Pinkston,2017-09-30,shot,gun,28,M,B,Palatka,FL,False,other,Not fleeing,False
 2994,Lester Jesus Machado,2017-10-01,shot,vehicle,24,M,H,Hialeah,FL,False,attack,Car,False
-2995,"Marquis ""Bubba"" Jones",2017-10-01,shot,undetermined,27,M,B,West Burlington,IA,False,other,Other,True
+2995,"Marquis ""Bubba"" Jones",2017-10-01,shot,gun,27,M,B,West Burlington,IA,False,other,Other,True
 2997,Anthony Gallo,2017-10-01,shot,knife,34,M,W,Canton Township,PA,True,other,Not fleeing,False
 2998,Micah McComas,2017-10-01,shot,undetermined,41,M,W,Seward,AK,False,other,Car,False
 3000,George Randall Newman,2017-10-01,shot,gun,26,M,W,North Fort Collins,CO,False,attack,Not fleeing,False
@@ -2753,7 +2753,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3055,Nicholas Pimentel,2017-10-22,shot,undetermined,27,M,H,Ceres,CA,False,undetermined,Car,False
 3058,Johnny Bonta,2017-10-22,shot,gun,43,M,N,Sparks,NV,False,attack,Not fleeing,False
 3059,Samantha Hennard,2017-10-22,shot,gun,25,F,W,St. Joseph,MO,False,attack,Foot,False
-3061,Dexter David Anthony Baxter,2017-10-22,shot,undetermined,30,M,N,Crandon,WI,False,other,Not fleeing,False
+3061,Dexter David Anthony Baxter,2017-10-22,shot,unarmed,30,M,N,Crandon,WI,False,attack,Not fleeing,False
 3062,Matthew David Palaita,2017-10-23,shot,gun,35,M,H,Lodi,CA,False,attack,Not fleeing,False
 3064,Ashleigh Bertucci,2017-10-23,shot,unknown weapon,31,F,W,Shelbyville,KY,True,undetermined,Not fleeing,False
 3069,TK TK,2017-10-23,shot,undetermined,,M,,Standing Rock Reservation,ND,False,other,Car,False
@@ -2766,7 +2766,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3073,James M. Davis,2017-10-26,shot,gun,34,M,W,Horseheads,NY,False,attack,Car,False
 3071,Sanders Surber,2017-10-26,shot,gun,32,M,W,Fairhope,AL,False,attack,Other,False
 3074,Jerry Richardson,2017-10-27,shot,machete,46,M,B,Indiantown,FL,True,other,Not fleeing,False
-3075,Danny Sanchez,2017-10-28,shot,gun,40,M,H,Greeley,CO,False,attack,Car,False
-3076,TK TK,2017-10-28,shot,undetermined,17,M,,Black River Falls,WI,False,undetermined,Car,False
-3077,TK TK,2017-10-28,shot,undetermined,17,M,,Polk County,OR,False,other,Car,False
-3078,TK TK,2017-10-29,shot,gun,,M,,Tate County,MS,False,attack,Car,False
+3075,Danny Sanchez,2017-10-28,shot,gun and car,40,M,H,Greeley,CO,False,attack,Car,False
+3076,TK TK,2017-10-28,shot,vehicle,27,M,,Black River Falls,WI,False,other,Car,True
+3077,Baltazar Escalona-Baez,2017-10-28,shot,unknown weapon,17,M,H,Polk County,OR,False,other,Car,False
+3078,Eric Higgs,2017-10-29,shot,gun,46,M,B,Tate County,MS,False,attack,Car,False
