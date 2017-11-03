@@ -2771,4 +2771,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3077,Baltazar Escalona-Baez,2017-10-28,shot,unknown weapon,17,M,H,Polk County,OR,False,other,Car,False
 3078,Eric Higgs,2017-10-29,shot,gun,46,M,B,Tate County,MS,False,attack,Car,False
 3080,Mark Bidon,2017-10-29,shot,gun,50,M,,Centennial,CO,False,attack,Not fleeing,False
-3079,TK TK,2017-10-30,shot,gun,,M,,Federal Way,WA,False,attack,Not fleeing,False
+3079,TK TK,2017-10-30,shot,gun,33,M,,Federal Way,WA,False,attack,Not fleeing,False
