@@ -2782,3 +2782,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3090,TK TK,2017-11-02,shot,pitchfork,56,M,,Sacramento,CA,True,attack,Not fleeing,False
 3091,Jerry Roach,2017-11-02,shot,gun,71,M,W,Lakeland,FL,True,attack,Not fleeing,False
 3092,TK TK,2017-11-02,shot,gun,,M,,Inkster,MI,False,attack,Not fleeing,False
+3097,Robert Powell,2017-11-03,shot,gun,53,M,,Port Orange,FL,False,attack,Car,False
+3101,Jorge Hidalgo,2017-11-03,shot,machete,43,M,,El Paso,TX,False,other,,False
+3104,Marvin Stair,2017-11-03,shot,gun,44,M,,Batesville,AR,False,attack,Not fleeing,False
+3105,Christopher Edward Loftis,2017-11-03,shot,gun,39,M,,Ohatchee,AL,False,attack,Car,False
+3093,Nyung Kyee,2017-11-04,shot,knife,56,M,A,Clarksville,AR,False,attack,Not fleeing,False
+3096,Raymond Davis,2017-11-04,shot,gun,24,M,B,Columbus,MS,False,other,Not fleeing,True
+3099,Michael Wayne Marin,2017-11-04,shot,gun,35,M,W,Parker,CO,False,attack,,False
+3100,TK TK,2017-11-04,shot,gun,,M,,Billings,MT,False,attack,,False
+3102,TK TK,2017-11-04,shot,gun,,M,,Owen County,IN,True,attack,Not fleeing,False
+3103,Augustus Joshua Crawford,2017-11-04,shot,undetermined,20,M,,Bakersfield,CA,False,undetermined,Foot,False
+3095,TK TK,2017-11-05,shot,gun,,M,,Meridian,MS,False,attack,Not fleeing,False
