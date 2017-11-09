@@ -2767,11 +2767,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3071,Sanders Surber,2017-10-26,shot,gun,32,M,W,Fairhope,AL,False,attack,Other,False
 3074,Jerry Richardson,2017-10-27,shot,machete,46,M,B,Indiantown,FL,True,other,Not fleeing,False
 3075,Danny Sanchez,2017-10-28,shot,gun and car,40,M,H,Greeley,CO,False,attack,Car,False
-3076,TK TK,2017-10-28,shot,vehicle,27,M,,Black River Falls,WI,False,other,Car,True
+3076,Lucas DeFord,2017-10-28,shot,gun,27,M,,Black River Falls,WI,False,other,Car,True
 3077,Baltazar Escalona-Baez,2017-10-28,shot,unknown weapon,17,M,H,Polk County,OR,False,other,Car,False
 3078,Eric Higgs,2017-10-29,shot,gun,46,M,B,Tate County,MS,False,attack,Car,False
 3080,Mark Bidon,2017-10-29,shot,gun,50,M,,Centennial,CO,False,attack,Not fleeing,False
-3079,TK TK,2017-10-30,shot,gun,33,M,,Federal Way,WA,False,attack,Not fleeing,False
+3107,Brandon Lee Flowers,2017-10-29,shot,knife,41,M,W,New Castle,IN,False,attack,Not fleeing,False
+3079,Robert James Lightfeather,2017-10-30,shot,gun,33,M,,Federal Way,WA,False,attack,Not fleeing,False
 3081,Jesus Birelas-Contreras,2017-10-31,shot,knife,25,M,H,Sunnyvale,CA,False,attack,Not fleeing,False
 3082,Luvelle Kennon,2017-10-31,shot,,27,M,B,Riverside,CA,False,other,,False
 3085,TK TK,2017-10-31,shot,gun,,M,,Livingston,TN,False,attack,Not fleeing,False
@@ -2779,7 +2780,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3087,Heather Denean Bubrig,2017-10-31,shot,ax,37,F,W,Las Cruces,NM,True,other,Not fleeing,False
 3088,Jamee Almarez,2017-11-01,shot,gun,27,M,,Anniston,AL,False,attack,Not fleeing,False
 3089,Christopher Jacobs,2017-11-01,shot,vehicle,,M,,Pippa Passes,KY,False,attack,Car,False
-3090,TK TK,2017-11-02,shot,pitchfork,56,M,,Sacramento,CA,True,attack,Not fleeing,False
+3090,Wallace Jory,2017-11-02,shot,pitchfork,56,M,,Sacramento,CA,True,attack,Not fleeing,False
 3091,Jerry Roach,2017-11-02,shot,gun,71,M,W,Lakeland,FL,True,attack,Not fleeing,False
 3092,TK TK,2017-11-02,shot,gun,,M,,Inkster,MI,False,attack,Not fleeing,False
 3097,Robert Powell,2017-11-03,shot,gun and car,53,M,,Port Orange,FL,False,attack,Car,False
@@ -2789,7 +2790,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3093,Nyung Kyee,2017-11-04,shot,knife,56,M,A,Clarksville,AR,False,attack,Not fleeing,False
 3096,Raymond Davis,2017-11-04,shot,gun,24,M,B,Columbus,MS,False,other,Not fleeing,True
 3099,Michael Wayne Marin,2017-11-04,shot,gun,35,M,W,Parker,CO,False,attack,,False
-3100,TK TK,2017-11-04,shot,gun,,M,,Billings,MT,False,attack,,False
-3102,TK TK,2017-11-04,shot,gun,,M,,Owen County,IN,True,attack,Not fleeing,False
+3100,Frank Half,2017-11-04,shot,gun,30,M,N,Billings,MT,False,attack,,False
+3102,Mason Johnson,2017-11-04,shot,gun,31,M,,Owen County,IN,True,attack,Not fleeing,False
 3103,Augustus Joshua Crawford,2017-11-04,shot,undetermined,20,M,,Bakersfield,CA,False,undetermined,Foot,False
 3095,TK TK,2017-11-05,shot,gun,,M,W,Meridian,MS,False,attack,Not fleeing,False
+3108,Marylsa Sanchez,2017-11-05,shot,vehicle,31,F,,Rudioso,NM,False,attack,Not fleeing,False
+3111,Eddie Lee Patterson,2017-11-05,shot,undetermined,49,M,B,Rockford,IL,False,undetermined,Car,False
+3109,Pamela Webber,2017-11-06,shot,knife,54,F,W,Lynchburg,VA,True,other,Not fleeing,False
+3112,TK TK,2017-11-06,shot,gun,48,M,,Barstow,CA,False,attack,Car,False
+3106,TK TK,2017-11-07,shot,gun,32,F,,Marietta,GA,True,other,Not fleeing,False
+3110,TK TK,2017-11-07,shot,gun,,M,,Las Vegas,NV,False,attack,Not fleeing,False
+3113,James Jacob Bailey,2017-11-08,shot,gun,30,M,W,Forest Park,GA,False,attack,Car,False
