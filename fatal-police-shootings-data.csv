@@ -2804,3 +2804,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3114,Roger Raymond York,2017-11-08,shot,gun,32,M,W,Clinton,TN,False,attack,Foot,False
 3115,Victor Demetrius Bray,2017-11-08,shot,gun,31,M,,Roanoke,VA,False,other,Not fleeing,False
 3117,Jason Ike Pero,2017-11-08,shot,knife,14,M,N,Odanah,WI,False,other,,False
+3118,Paul Jones,2017-11-09,shot,gun,35,M,,Salisbury,NC,False,attack,Car,False
+3119,Joseph Santos,2017-11-09,shot,vehicle,32,M,W,Providence,RI,False,attack,Car,True
+3120,Charles Edwin Nickels,2017-11-09,shot,gun,35,M,,Neshoba County,MS,False,attack,Not fleeing,False
+3127,Kiser Sturgell,2017-11-09,shot,gun,27,M,W,Flatwoods,KY,False,other,Car,False
+3128,Ashley Jenkins,2017-11-09,shot,unknown weapon,23,M,,Flatwoods,KY,False,undetermined,Car,False
+3125,Terry A. Dubois,2017-11-10,shot,gun,55,M,W,Gibson,LA,True,attack,Not fleeing,False
+3126,Thomas Aikens,2017-11-10,shot,knife,43,M,,Phoenix,AZ,False,attack,Not fleeing,False
+3129,Ronald L. Klitzka,2017-11-10,shot,gun,,M,W,Crystal,MN,True,attack,Not fleeing,False
+3130,TK TK,2017-11-10,shot,undetermined,,M,,Denver,CO,False,other,Foot,False
+3131,TK TK,2017-11-10,shot,vehicle,,M,,Hinds County,MS,False,other,Not fleeing,False
+3133,TK TK,2017-11-10,shot,undetermined,,M,,Albuquerque,NM,False,other,Not fleeing,False
+3122,Shane Jensen,2017-11-11,shot,gun,19,M,W,Dakota City,IA,True,attack,Other,False
+3123,TK TK,2017-11-11,shot,gun,,M,,Las Vegas,NV,False,attack,Not fleeing,False
+3132,Eddy Longoria,2017-11-11,shot,gun,55,M,,St. Tammany Parish,LA,False,attack,Not fleeing,False
+3121,TK TK,2017-11-13,shot,undetermined,19,M,,Fall River,MA,False,undetermined,,False
