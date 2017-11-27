@@ -2833,7 +2833,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3146,TK TK,2017-11-17,shot,undetermined,,,,Albuquerque,NM,False,undetermined,Car,False
 3152,Shady Bell,2017-11-17,shot,gun,46,M,B,West Monroe,LA,False,attack,Not fleeing,False
 3149,Lawrence Hawkins,2017-11-18,shot,undetermined,56,M,,Prichard,AL,False,undetermined,Car,False
-3150,TK TK,2017-11-18,shot,vehicle,24,M,N,Billings,MT,False,attack,Car,False
+3150,Preston Bell,2017-11-18,shot,vehicle,24,M,N,Billings,MT,False,attack,Car,False
 3151,Brian Calvert,2017-11-18,shot,vehicle,18,M,,Warren County,KY,False,attack,Car,False
 3147,Geronimo Vicente Santos,2017-11-19,shot,gun,34,M,,Lompoc,CA,False,attack,,False
 3148,Jacob McCarty,2017-11-19,shot,gun,27,M,,Greenville County,SC,False,attack,Car,False
+3153,Matthew Tobin,2017-11-19,shot,gun,26,M,,Davenport,IA,False,attack,Not fleeing,False
+3154,TK TK,2017-11-20,shot,gun,,M,,Gulfport,MS,False,attack,Not fleeing,False
+3155,TK TK,2017-11-23,shot,unknown weapon,,M,,Klamath Falls,OR,False,undetermined,Foot,False
+3161,Nikolas Wanner,2017-11-23,shot,gun,32,M,,Lebanon,MO,True,attack,Not fleeing,False
+3162,TK TK,2017-11-23,shot,gun,,M,,North St. Louis,MO,False,attack,,False
+3163,Jackie Germaine Ragland,2017-11-23,shot,gun,32,M,,Pell City,AL,False,attack,Not fleeing,False
+3160,Rocky Miles West,2017-11-24,shot,gun,26,M,W,Wimberley,TX,True,attack,Not fleeing,False
+3159,TK TK,2017-11-25,shot,gun,38,M,,Penasco,NM,False,attack,Not fleeing,False
+3156,Johnny Castro,2017-11-26,shot,gun,,M,,Lemoore,CA,False,attack,Car,False
+3157,William Freddy Carter Jr.,2017-11-26,shot,gun,31,M,,Huntsville,AL,False,attack,Not fleeing,False
+3158,TK TK,2017-11-26,shot,knife,22,M,,Covina,CA,False,undetermined,Not fleeing,False
