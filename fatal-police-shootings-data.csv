@@ -2198,7 +2198,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2442,Alteria Woods,2017-03-19,shot,unarmed,21,F,B,Gifford,FL,False,other,Not fleeing,False
 2443,Trevor Allen Brice Gingras,2017-03-19,shot,gun,19,M,W,Cape Canaveral,FL,False,attack,Foot,False
 2444,Mario Simoes,2017-03-19,shot,gun,45,M,H,DeLand,FL,True,other,Car,False
-2445,TK Tk,2017-03-19,shot,knife,,M,,Desert Edge,CA,False,attack,Not fleeing,False
+2445,TK Tk,2017-03-19,shot,knife,,M,,Desert Hot Springs,CA,False,attack,Not fleeing,False
 2448,Charles Harris,2017-03-22,shot,knife,42,M,W,Booneville,KY,False,other,Not fleeing,False
 2450,Don Johnson,2017-03-22,shot,gun,27,M,B,Crowley,LA,False,attack,Not fleeing,False
 2477,Nengmy Vang,2017-03-22,shot,gun,45,M,A,Weston,WI,False,attack,,False
@@ -2379,7 +2379,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2632,Charles Edgar Mullins,2017-06-05,shot,gun,45,M,W,Bardstown,KY,False,attack,Car,False
 2635,John Spaulding,2017-06-05,shot,gun,47,M,B,Miami,FL,False,other,,False
 2637,Quentin Louis Case,2017-06-05,shot,gun,34,M,W,Lakes Wales,FL,False,attack,Other,False
-2638,Adrian Maurice Hardeman,2017-06-05,shot,gun,37,M,B,San Antonio,TX,False,other,,False
+2638,Adrian Maurice Hardeman,2017-06-05,shot,gun,37,M,B,Gonzales County,TX,False,other,,False
 2640,Mark Ellis,2017-06-06,shot,gun,54,M,W,Orrington,ME,False,attack,Not fleeing,False
 2641,David W. Hamilton,2017-06-06,shot,gun,50,M,,Vancouver,WA,False,attack,Car,False
 2639,Salvadro Alfredo Pablo Lopez,2017-06-07,shot,gun,21,M,H,Fresno,CA,False,attack,,True
@@ -2829,10 +2829,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3142,Oscar Anaya,2017-11-15,shot,gun,22,M,,Van Nuys,CA,False,attack,Car,False
 3143,TK TK,2017-11-15,shot,knife,,M,B,Jackson,MS,False,other,Not fleeing,False
 3144,Phillip Van Cise,2017-11-15,shot,gun,59,M,W,Elmira,NY,True,attack,Not fleeing,False
-3145,TK TK,2017-11-17,shot,undetermined,,,,Albuquerque,NM,False,other,Car,False
-3146,TK TK,2017-11-17,shot,undetermined,,,,Albuquerque,NM,False,undetermined,Car,False
+3145,Martin Jim,2017-11-17,shot,undetermined,25,M,W,Albuquerque,NM,False,other,Car,False
+3146,Isaac Padilla,2017-11-17,shot,undetermined,23,M,H,Albuquerque,NM,False,undetermined,Car,False
 3152,Shady Bell,2017-11-17,shot,gun,46,M,B,West Monroe,LA,False,attack,Not fleeing,False
-3167,Bijan C. Ghaisar,2017-11-17,shot,undetermined,25,M,A,Fairfax,VA,False,undetermined,Car,False
+3167,Bijan C. Ghaisar,2017-11-17,shot,undetermined,25,M,W,Fairfax,VA,False,undetermined,Car,False
 3149,Lawrence Hawkins,2017-11-18,shot,undetermined,56,M,,Prichard,AL,False,undetermined,Car,False
 3150,Preston Bell,2017-11-18,shot,vehicle,24,M,N,Billings,MT,False,attack,Car,False
 3151,Brian Calvert,2017-11-18,shot,vehicle,18,M,,Warren County,KY,False,attack,Car,False
@@ -2850,8 +2850,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3156,Johnny Castro,2017-11-26,shot,gun,,M,,Lemoore,CA,False,attack,Car,False
 3157,William Freddy Carter Jr.,2017-11-26,shot,gun,31,M,W,Huntsville,AL,False,attack,Not fleeing,False
 3158,Daniel Navarro,2017-11-26,shot,knife,22,M,,Covina,CA,False,undetermined,Not fleeing,False
-3164,TK TK,2017-11-27,shot,gun,,M,,Yakima,WA,False,attack,Car,False
+3164,Christopher Escobedo,2017-11-27,shot,gun,26,M,,Yakima,WA,False,attack,Car,False
 3165,Christian Chavez,2017-11-27,shot,gun,40,M,H,South Gate,CA,True,attack,Not fleeing,False
-3168,TK TK,2017-11-28,shot,vehicle,,M,,Eaton County,MI,False,attack,Car,False
-3169,TK TK,2017-11-28,shot,gun,,M,,Reno,NV,False,attack,Not fleeing,False
-3170,TK TK,2017-11-28,shot,gun,,M,,Hillyard,WA,False,attack,Foot,False
+3168,Robert Claude Smith,2017-11-28,shot,vehicle,64,M,W,Eaton County,MI,False,attack,Car,False
+3169,Lucas Stone,2017-11-28,shot,gun,30,M,,Reno,NV,False,attack,Not fleeing,False
+3170,James C. Danforth,2017-11-28,shot,gun,59,M,W,Hillyard,WA,False,attack,Foot,False
