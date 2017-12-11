@@ -2745,9 +2745,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3047,Matthew Whitley,2017-10-19,shot,gun,26,M,W,Kings Mountain,NC,False,attack,Other,False
 3049,Steven Wayne Truex,2017-10-19,shot and Tasered,gun,38,M,W,Birmingham,AL,False,other,Not fleeing,False
 3050,Dewboy Lister,2017-10-19,shot,unarmed,55,M,B,Corpus Christi,TX,False,other,Foot,True
-3048,Jamarco McShann,2017-10-20,shot,gun,23,M,B,Moraine,OH,False,attack,Not fleeing,False
+3048,Jamarco McShann,2017-10-20,shot,gun,23,M,B,Moraine,OH,True,attack,Not fleeing,False
 3051,Jorge Cabrera,2017-10-20,shot,knife,54,M,,Houston,TX,False,other,Not fleeing,False
-3052,Phillip Joel Trammell,2017-10-20,shot,knife,30,M,W,Fort Smith,OK,False,attack,Not fleeing,False
+3052,Phillip Joel Trammell,2017-10-20,shot,knife,30,M,W,Fort Smith,OK,False,attack,Not fleeing,True
 3053,Victor Gonzalez,2017-10-21,shot,hammer,,M,,Cloverdale,CA,False,other,Not fleeing,False
 3054,Jason Marble,2017-10-21,shot,gun,,M,W,Girard,OH,False,attack,Not fleeing,False
 3055,Nicholas Pimentel,2017-10-22,shot,unarmed,27,M,H,Ceres,CA,False,undetermined,Car,False
@@ -2862,15 +2862,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3173,Trent Fondren,2017-12-01,shot,undetermined,33,M,,York,SC,False,undetermined,,True
 3176,Keita O'Neil,2017-12-01,shot,unarmed,42,M,,San Francisco,CA,False,other,Car,True
 3177,Mario Guevara,2017-12-02,shot,knife,37,M,,Colton,CA,True,other,Not fleeing,False
-3180,TK TK,2017-12-02,shot,gun,,M,,Colorado Springs,CO,False,attack,Not fleeing,False
+3180,Christopher Louis Willard,2017-12-02,shot,gun,33,M,W,Colorado Springs,CO,False,attack,Not fleeing,False
 3178,Gregory Ray Ham,2017-12-03,shot,sword,62,M,W,La Marque,TX,False,attack,Not fleeing,False
 3181,Jeffrey Scott Cantrell,2017-12-04,shot,gun,46,M,,Monticello,GA,False,attack,Not fleeing,False
 3182,TK TK,2017-12-05,shot,machete,,M,,Bronx,NY,False,other,Not fleeing,False
-3183,TK TK,2017-12-05,shot,gun,,M,,Bassett,VA,False,attack,Not fleeing,False
+3183,Johnny D. Carter,2017-12-05,shot,gun,24,M,,Bassett,VA,False,attack,Not fleeing,False
 3184,Jean Pedro Pierre,2017-12-06,shot,unarmed,42,M,B,Lauderdale Lakes,FL,True,attack,Not fleeing,True
 3185,Robert Page,2017-12-06,shot,gun,71,M,,Coral Springs,FL,True,undetermined,Not fleeing,False
 3186,Scott Addison,2017-12-06,shot,gun,49,M,W,Cheyenne,WY,False,attack,Not fleeing,False
-3187,TK TK,2017-12-07,shot,gun,,M,W,Peshtigo,WI,False,attack,Car,False
-3188,Tk TK,2017-12-07,shot,undetermined,,M,,Denver,CO,False,undetermined,Foot,False
+3187,Jesse Cole Shuping,2017-12-07,shot,gun,35,M,W,Peshtigo,WI,False,attack,Car,False
+3188,TK TK,2017-12-07,shot,undetermined,,M,,Denver,CO,False,undetermined,Foot,False
 3189,John Souder,2017-12-07,shot,gun,40,M,,Old Forge,PA,False,attack,Car,False
-3190,TK TK,2017-12-07,shot,vehicle,,M,B,Tucson,AZ,False,other,Car,False
+3190,Frederick Douglas Wilburn,2017-12-07,shot,vehicle,34,M,B,Tucson,AZ,False,attack,Car,False
