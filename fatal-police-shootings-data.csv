@@ -2153,7 +2153,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2395,John Hall,2017-03-02,shot,gun,33,M,W,Rib Mountain,WI,True,attack,Not fleeing,False
 2396,Isidro Bazan Jr,2017-03-02,shot,baseball bat,34,M,H,San Marcos,CA,False,other,Not fleeing,False
 2397,Michael Cisneros,2017-03-02,shot,toy weapon,27,M,H,Phoenix,AZ,False,attack,Not fleeing,False
-2398,Rafael Navarro-Garcia,2017-03-02,shot,undetermined,25,M,H,Reno,NV,False,undetermined,,False
+2398,Rafael Navarro-Garcia,2017-03-02,shot,gun,25,M,H,Reno,NV,False,attack,Not fleeing,False
 2435,Ramon Andrade,2017-03-02,shot,knife,37,M,H,Paterson,NJ,True,other,Not fleeing,False
 2401,Michael Kocher,2017-03-03,shot,gun,32,M,W,Englewood,CO,True,other,Not fleeing,False
 2403,Dave Phoenix,2017-03-03,shot,toy weapon,25,M,N,Lemoore,CA,False,attack,Not fleeing,False
@@ -2304,7 +2304,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2557,Jacob Peterson,2017-05-06,shot,toy weapon,15,M,W,San Diego,CA,True,attack,Not fleeing,True
 2560,Steven Price,2017-05-07,shot,ax,62,M,W,Las Vegas,NV,True,other,Not fleeing,False
 2562,Landon Nobles,2017-05-07,shot,gun,24,M,B,Austin,TX,False,attack,Foot,False
-2558,Cedric Jamal Mifflin,2017-05-07,shot,undetermined,27,M,B,Phenix City,AL,False,undetermined,Other,False
+2558,Cedric Jamal Mifflin,2017-05-07,shot,undetermined,27,M,B,Phenix City,AL,False,undetermined,Other,True
 2559,Jose Hernandez-Rossy,2017-05-07,shot,unarmed,26,M,H,Buffalo,NY,False,attack,Foot,False
 2567,Mikel Laney McIntyre,2017-05-08,shot,rock,32,M,B,Rancho Cordova,CA,True,attack,Foot,False
 2568,Anthony David Soderberg,2017-05-08,shot,gun,29,M,W,Los Angeles,CA,False,attack,Not fleeing,False
@@ -2489,7 +2489,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2766,Randy Engstrom,2017-07-11,shot,gun,34,M,W,Milwaukee,WI,True,other,Car,False
 2767,Caleb Edward Blaylock,2017-07-11,shot,knife,27,M,W,Las Vegas,NV,True,undetermined,,True
 2768,Steve Scott,2017-07-11,shot,gun,48,M,W,Poplar Bluff,MO,False,other,Not fleeing,False
-2769,Antonio Garcia Jr.,2017-07-11,shot,undetermined,47,M,B,Leavenworth,KS,False,undetermined,Not fleeing,False
+2769,Antonio Garcia Jr.,2017-07-11,shot,knife,47,M,B,Leavenworth,KS,False,undetermined,Not fleeing,False
 2770,Silas Andrew Smith,2017-07-11,shot,gun,54,M,W,Golden Valley,AZ,False,attack,Foot,False
 2771,Dorsey Glenn Taulbee Jr.,2017-07-12,shot,gun,33,M,N,Oklahoma City,OK,False,attack,Not fleeing,False
 2772,James Gerald Davis,2017-07-12,shot,undetermined,40,M,W,Lake View,SC,True,other,Not fleeing,False
@@ -2638,7 +2638,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2923,Shane Marsh,2017-09-04,shot,knife,44,M,W,Toledo,OH,False,attack,Not fleeing,False
 2924,TK TK,2017-09-05,shot,vehicle,,F,,Spring,TX,False,attack,Car,False
 2925,John Timmons,2017-09-05,shot,gun,67,M,,Hohenwald,TN,False,other,Not fleeing,False
-2934,TK TK,2017-09-05,shot,knife,16,M,W,Kendale Lakes,FL,False,attack,Not fleeing,False
+2934,Daniel Wheelock,2017-09-05,shot,knife,16,M,W,Kendale Lakes,FL,False,attack,Not fleeing,False
 2931,Rueben Galindo,2017-09-06,shot,gun,29,M,H,Charlotte,NC,False,other,Not fleeing,False
 2932,Timothy Elam,2017-09-06,shot,unarmed,42,M,W,Los Angeles,CA,False,attack,Not fleeing,False
 2933,Miguel Richards,2017-09-06,shot,knife,31,M,B,New York,NY,True,other,Not fleeing,True
@@ -2720,14 +2720,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3023,Samuel David Lanham,2017-10-07,shot,gun,25,M,W,Charleston,WV,True,attack,Car,False
 3003,Roberto Avendano,2017-10-08,shot,machete,,M,H,Abingdon,VA,False,other,Foot,False
 3004,Sabrina Ann Garcia,2017-10-08,shot,gun,34,F,H,Mesa,AZ,True,undetermined,Foot,False
-3006,TK TK,2017-10-08,shot,knife,58,M,H,San Fernando,CA,False,other,Not fleeing,False
+3006,Albert Garcia,2017-10-08,shot,knife,58,M,H,San Fernando,CA,False,other,Not fleeing,False
 3007,Corey Boykin,2017-10-08,shot,gun,24,M,B,Louisville,KY,False,other,Not fleeing,True
 3008,Cariann Hithon,2017-10-08,shot,vehicle,22,F,B,Miami,FL,False,attack,Car,False
 3033,Glenn Southwood Jr.,2017-10-08,shot,gun,46,M,W,Pinetop-Lakeside,AZ,False,attack,Not fleeing,False
 3026,Daniel James,2017-10-10,shot,gun,55,M,,Rochester,WA,True,attack,,False
 3025,Vincent Dronet,2017-10-11,shot,vehicle,61,M,W,Biloxi,MS,False,attack,Car,False
 3027,Brandon Wade Rucker,2017-10-11,shot,gun,43,M,W,Marana,AZ,False,other,Not fleeing,False
-3030,TK TK,2017-10-11,shot,unarmed,,M,,Valdez,CO,False,attack,Foot,False
+3030,Kristian Martinez,2017-10-11,shot,unarmed,44,M,,Valdez,CO,False,attack,Foot,False
 3029,John Robert Payne,2017-10-12,shot,gun,35,M,B,Homewood,AL,True,attack,Foot,False
 3031,Sean D. Brady,2017-10-12,shot,gun,29,M,W,Flagstaff,AZ,True,attack,Not fleeing,True
 3036,Paul Dolen,2017-10-13,shot,gun,57,M,W,Wayne County,KY,False,attack,Not fleeing,False
@@ -2755,8 +2755,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3059,Samantha Hennard,2017-10-22,shot,gun,25,F,W,St. Joseph,MO,False,attack,Foot,False
 3061,Dexter David Anthony Baxter,2017-10-22,shot,unarmed,30,M,N,Crandon,WI,False,attack,Not fleeing,False
 3062,Matthew David Palaita,2017-10-23,shot,gun,35,M,H,Lodi,CA,False,attack,Not fleeing,False
-3064,Ashleigh Bertucci,2017-10-23,shot,unknown weapon,31,F,W,Shelbyville,KY,True,undetermined,Not fleeing,False
-3069,TK TK,2017-10-23,shot,undetermined,,M,,Standing Rock Reservation,ND,False,other,Car,False
+3064,Ashleigh Bertucci,2017-10-23,shot,gun,31,F,W,Shelbyville,KY,True,other,Not fleeing,True
+3069,George Gipp,2017-10-23,shot,undetermined,35,M,,Standing Rock Reservation,ND,False,other,Car,False
 3065,David Campos,2017-10-24,shot and Tasered,screwdriver,34,M,H,Houston,TX,False,other,Not fleeing,False
 3066,Sean Bohinski,2017-10-24,shot,unarmed,37,M,W,Plymouth Township,PA,False,other,Not fleeing,False
 3067,Brandon Uzialko,2017-10-24,shot,gun,25,M,W,Norwich,CT,False,attack,Foot,False
@@ -2768,7 +2768,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3074,Jerry Richardson,2017-10-27,shot,machete,46,M,B,Indiantown,FL,True,other,Not fleeing,False
 3075,Danny Sanchez,2017-10-28,shot,gun and car,40,M,H,Greeley,CO,False,attack,Car,False
 3076,Lucas DeFord,2017-10-28,shot,gun,27,M,N,Black River Falls,WI,False,other,Car,True
-3077,Baltazar Escalona-Baez,2017-10-28,shot,unknown weapon,17,M,H,Polk County,OR,False,other,Car,False
+3077,Baltazar Escalona-Baez,2017-10-28,shot,knife,17,M,H,Polk County,OR,False,other,Car,False
 3078,Eric Higgs,2017-10-29,shot,gun,46,M,B,Tate County,MS,False,attack,Car,False
 3080,Mark Bidon,2017-10-29,shot,gun,50,M,W,Centennial,CO,False,attack,Not fleeing,False
 3107,Brandon Lee Flowers,2017-10-29,shot,knife,41,M,W,New Castle,IN,False,attack,Not fleeing,False
@@ -2792,10 +2792,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3099,Michael Wayne Marin,2017-11-04,shot,gun,35,M,W,Parker,CO,False,attack,,False
 3100,Frank Half,2017-11-04,shot,gun,30,M,N,Billings,MT,False,attack,,False
 3102,Mason Johnson,2017-11-04,shot,gun,31,M,W,Owen County,IN,True,attack,Not fleeing,False
-3103,Augustus Joshua Crawford,2017-11-04,shot,undetermined,20,M,,Bakersfield,CA,False,undetermined,Foot,False
-3095,TK TK,2017-11-05,shot,gun,,M,W,Meridian,MS,False,attack,Not fleeing,False
+3103,Augustus Joshua Crawford,2017-11-04,shot,gun,20,M,,Bakersfield,CA,False,undetermined,Foot,False
+3095,John Quincy Grady,2017-11-05,shot,gun,35,M,W,Meridian,MS,False,attack,Not fleeing,False
 3108,Marylsa Sanchez,2017-11-05,shot,vehicle,31,F,,Rudioso,NM,False,attack,Not fleeing,False
-3111,Eddie Lee Patterson,2017-11-05,shot,undetermined,49,M,B,Rockford,IL,False,undetermined,Car,False
+3111,Eddie Lee Patterson,2017-11-05,shot,vehicle,49,M,B,Rockford,IL,False,undetermined,Car,False
 3109,Pamela Webber,2017-11-06,shot,knife,54,F,W,Lynchburg,VA,True,other,Not fleeing,False
 3112,TK TK,2017-11-06,shot,gun,48,M,W,Barstow,CA,False,attack,Car,False
 3106,Talathia Brooks,2017-11-07,shot,gun,32,F,W,Marietta,GA,True,attack,Not fleeing,False
@@ -2814,7 +2814,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3129,Ronald L. Klitzka,2017-11-10,shot,gun,,M,W,Crystal,MN,True,attack,Not fleeing,False
 3130,John Bazemore III,2017-11-10,shot,gun,25,M,B,Denver,CO,False,other,Foot,False
 3131,TK TK,2017-11-10,shot,vehicle,,M,B,Hinds County,MS,False,other,Not fleeing,False
-3133,TK TK,2017-11-10,shot,gun,,M,,Albuquerque,NM,False,attack,Not fleeing,False
+3133,Matthew Joseph Scudero,2017-11-10,shot,gun,50,M,W,Albuquerque,NM,False,attack,Not fleeing,False
 3122,Shane Jensen,2017-11-11,shot,gun,19,M,W,Dakota City,IA,True,attack,Other,False
 3123,Phillip Pitts,2017-11-11,shot,gun,41,M,B,Las Vegas,NV,False,attack,Not fleeing,False
 3132,Eddy Longoria,2017-11-11,shot,gun,55,M,W,St. Tammany Parish,LA,False,attack,Not fleeing,False
@@ -2859,18 +2859,27 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3174,Aquoness Cathery,2017-11-29,shot,gun,24,M,B,Chicago,IL,False,other,,True
 3172,Rufus Cedric Baker,2017-11-30,shot,gun,32,M,,Hendersonville,NC,False,other,Foot,False
 3175,Juan Andres Barillas,2017-11-30,shot,gun,37,M,H,North Hollywood,CA,False,other,Car,False
-3173,Trent Fondren,2017-12-01,shot,undetermined,33,M,,York,SC,False,undetermined,,True
+3173,Trent Fondren,2017-12-01,shot,knife,33,M,,York,SC,False,undetermined,,True
 3176,Keita O'Neil,2017-12-01,shot,unarmed,42,M,,San Francisco,CA,False,other,Car,True
 3177,Mario Guevara,2017-12-02,shot,knife,37,M,,Colton,CA,True,other,Not fleeing,False
 3180,Christopher Louis Willard,2017-12-02,shot,gun,33,M,W,Colorado Springs,CO,False,attack,Not fleeing,False
 3178,Gregory Ray Ham,2017-12-03,shot,sword,62,M,W,La Marque,TX,False,attack,Not fleeing,False
 3181,Jeffrey Scott Cantrell,2017-12-04,shot,gun,46,M,,Monticello,GA,False,attack,Not fleeing,False
-3182,TK TK,2017-12-05,shot,machete,,M,,Bronx,NY,False,other,Not fleeing,False
+3182,Marco Sanabria,2017-12-05,shot,machete,69,M,,Bronx,NY,False,other,Not fleeing,False
 3183,Johnny D. Carter,2017-12-05,shot,gun,24,M,,Bassett,VA,False,attack,Not fleeing,False
 3184,Jean Pedro Pierre,2017-12-06,shot,unarmed,42,M,B,Lauderdale Lakes,FL,True,attack,Not fleeing,True
 3185,Robert Page,2017-12-06,shot,gun,71,M,,Coral Springs,FL,True,undetermined,Not fleeing,False
 3186,Scott Addison,2017-12-06,shot,gun,49,M,W,Cheyenne,WY,False,attack,Not fleeing,False
 3187,Jesse Cole Shuping,2017-12-07,shot,gun,35,M,W,Peshtigo,WI,False,attack,Car,False
-3188,TK TK,2017-12-07,shot,undetermined,,M,,Denver,CO,False,undetermined,Foot,False
+3188,Kyler Grabbingbear,2017-12-07,shot,undetermined,19,M,N,Denver,CO,False,undetermined,Foot,False
 3189,John Souder,2017-12-07,shot,gun,40,M,,Old Forge,PA,False,attack,Car,False
 3190,Frederick Douglas Wilburn,2017-12-07,shot,vehicle,34,M,B,Tucson,AZ,False,attack,Car,False
+3193,Vernchoy Saechao,2017-12-08,shot,gun,22,M,,Redding,CA,False,attack,Not fleeing,False
+3191,Juliun Pitcher,2017-12-09,shot,gun,16,M,,Dover,DE,False,attack,Not fleeing,False
+3197,James Newman,2017-12-09,shot,gun,69,M,W,Rose Bud,AR,False,attack,Not fleeing,False
+3192,Kyle Zahacefski,2017-12-10,shot,knife,24,M,W,Point Loma,CA,False,undetermined,,False
+3194,Anthony Mihecoby,2017-12-10,shot,Taser,28,M,,Oklahoma City,OK,False,undetermined,Not fleeing,False
+3195,TK TK,2017-12-10,shot and Tasered,knife,49,M,,Artesia,CA,False,attack,Not fleeing,False
+3196,Ira Crawford,2017-12-10,shot,knife,26,M,,Mobile,AL,False,attack,Not fleeing,False
+3198,TK TK,2017-12-11,shot,gun,,M,,Seattle,WA,False,attack,Car,False
+3199,TK TK,2017-12-11,shot,unknown weapon,,M,,Great Falls,MT,False,other,,False
