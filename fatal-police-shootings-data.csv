@@ -2581,7 +2581,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2861,Carmen William Rongione,2017-08-13,shot,machete,41,M,W,Cosby,TN,False,attack,Foot,False
 2862,Patrick Harmon,2017-08-13,shot,knife,50,M,B,Salt Lake City,UT,False,other,Foot,True
 2863,Hussein Hassan,2017-08-13,shot,sword,46,M,B,Kennewick,WA,True,attack,Not fleeing,False
-2864,Steven James Young,2017-08-14,shot,pellet gun,45,M,W,Colorado Springs,CO,False,attack,Foot,False
+2864,Steven James Young,2017-08-14,shot,toy weapon,45,M,W,Colorado Springs,CO,False,attack,Foot,False
 2865,Robert Emmett Bracewell Jr.,2017-08-14,shot,gun,20,M,W,Jacksonville,FL,False,attack,Not fleeing,False
 2866,Herbert Gilbert,2017-08-15,shot,undetermined,37,M,B,Thomasville,GA,False,undetermined,Not fleeing,True
 2872,Kenneth Lewis,2017-08-16,shot,gun,34,M,B,Los Angeles,CA,False,undetermined,Foot,False
@@ -2877,8 +2877,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3193,Vernchoy Saechao,2017-12-08,shot,gun,22,M,,Redding,CA,False,attack,Not fleeing,False
 3191,Juliun Pitcher,2017-12-09,shot,gun,16,M,,Dover,DE,False,attack,Not fleeing,False
 3197,James Newman,2017-12-09,shot,gun,69,M,W,Rose Bud,AR,False,attack,Not fleeing,False
-3192,Kyle Zahacefski,2017-12-10,shot,knife,24,M,W,Point Loma,CA,False,undetermined,,False
-3194,Anthony Mihecoby,2017-12-10,shot,Taser,28,M,,Oklahoma City,OK,False,undetermined,Not fleeing,False
+3192,Kyle Zahacefski,2017-12-10,shot,knife,24,M,W,Point Loma,CA,False,other,,False
+3194,Kyle Anthony Mihecoby,2017-12-10,shot,Taser,28,M,,Oklahoma City,OK,False,attack,Not fleeing,False
 3195,TK TK,2017-12-10,shot and Tasered,knife,49,M,,Artesia,CA,False,attack,Not fleeing,False
 3196,Ira Crawford,2017-12-10,shot,knife,26,M,,Mobile,AL,False,attack,Not fleeing,False
 3198,TK TK,2017-12-11,shot,gun,,M,,Seattle,WA,False,attack,Car,False
