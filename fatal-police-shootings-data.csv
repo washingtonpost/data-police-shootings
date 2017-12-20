@@ -2288,7 +2288,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2538,Jordan Edwards,2017-04-29,shot,unarmed,15,M,B,Balch Springs,TX,False,undetermined,Not fleeing,True
 2539,Gene Bernhardt,2017-04-29,shot,crossbow,59,M,W,Papaaloa,HI,False,other,Not fleeing,False
 2543,Caleb Jackson,2017-04-29,shot,gun,35,M,B,Newport News,VA,False,attack,Not fleeing,False
-2546,Andrew James Lucero,2017-04-29,shot,vehicle,33,M,H,Eldorado,NM,False,attack,Not fleeing,False
+2546,Andrew James Lucero,2017-04-29,shot,vehicle,33,M,H,Eldorado,NM,False,attack,Not fleeing,True
 2540,Devin Hawkins,2017-04-30,shot,gun,32,M,W,Tom,OK,True,attack,Not fleeing,False
 2544,Peter Raymond Selis,2017-04-30,shot,gun,49,M,W,University City,CA,False,attack,Not fleeing,False
 2545,James Edward Ray,2017-04-30,shot,gun,46,M,B,Detroit,MI,False,attack,Not fleeing,False
@@ -2894,3 +2894,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3211,TK TK,2017-12-13,shot,unknown weapon,,M,,Hamilton,AL,False,other,Not fleeing,False
 3213,TK TK,2017-12-14,shot,vehicle,,M,,New Britain,CT,False,other,Car,False
 3212,Clifford Keller,2017-12-15,shot,gun,34,M,W,McMinnville,TN,False,attack,Not fleeing,False
+3214,Robert Allen Morrison,2017-12-15,shot,gun,57,M,,Lexington,VA,False,attack,Foot,False
+3218,Eric Campbell,2017-12-15,shot,gun,,M,,Yonkers,NY,False,other,Car,False
+3219,Adam Radcliffe,2017-12-15,shot,vehicle,30,M,,Wilmington,DE,False,other,Car,False
+3215,Michael Wilson,2017-12-17,shot,unarmed,27,M,,Hallandale Beach,FL,False,other,Car,False
+3216,TK TK,2017-12-17,shot,unknown weapon,,M,,Charleston,TN,False,other,Foot,False
+3217,Willy Floyd McCord,2017-12-17,shot,gun,52,M,,Bremerton,WA,False,attack,Not fleeing,False
+3220,Spencer Crumbley,2017-12-17,shot,shovel,52,M,,Valley Head,WV,False,attack,Not fleeing,False
+3221,TK TK,2017-12-18,shot,hatchet,48,M,,Oak Park,MI,False,other,Not fleeing,False
