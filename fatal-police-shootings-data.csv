@@ -2068,7 +2068,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2286,Shelly Porter,2017-02-05,shot,gun,41,M,B,Englewood,OH,True,attack,Not fleeing,True
 2300,Andrew Byrd,2017-02-05,shot,vehicle,33,M,H,Pueblo,CO,False,other,Not fleeing,True
 2305,Jerome Allen,2017-02-06,shot,toy weapon,22,M,B,Jacksonville,FL,False,attack,Not fleeing,False
-2306,Cole Wooley,2017-02-06,shot,gun,50,M,B,Commerce City,CO,False,other,Not fleeing,False
+2306,Cole Wooley,2017-02-06,shot,gun,50,M,B,Commerce City,CO,True,attack,Not fleeing,False
 2287,Gerardo Vasquez,2017-02-06,shot and Tasered,knife,52,M,H,Santa Monica,CA,True,attack,Foot,False
 2308,Alex Christopher Davis,2017-02-07,shot and Tasered,piece of wood,18,M,W,Jackson County,AL,False,other,Not fleeing,False
 2309,Bradley Nelson,2017-02-07,shot,gun,35,M,W,Mt. Pleasant,TN,True,attack,Car,False
@@ -2138,7 +2138,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2386,Michael T. Stoudt,2017-02-24,shot,gun,62,M,W,Reading,PA,False,attack,Not fleeing,False
 2388,Joey Isgrigg,2017-02-24,shot,gun,30,M,W,London,KY,True,attack,Not fleeing,False
 2390,Jacqueline Cheyanne Johnson,2017-02-24,shot,gun,33,F,W,Lake Jackson,TX,False,attack,Car,False
-2383,Lorenzo Antoine Cruz,2017-02-25,shot,toy weapon,23,M,B,Rocklin,CA,False,attack,Foot,False
+2383,Lorenzo Antoine Cruz,2017-02-25,shot,toy weapon,23,M,B,Rocklin,CA,True,attack,Foot,False
 2384,William Dwayne Darby,2017-02-25,shot,gun,39,M,W,Lumpkin,GA,False,attack,Car,False
 2379,Jacob Taulbee,2017-02-26,shot,knife,41,M,W,Englewood,FL,False,other,Not fleeing,False
 2380,Evin Sanna Olsen,2017-02-26,shot,vehicle,46,F,W,Ripon,CA,False,other,Car,False
@@ -2604,7 +2604,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2890,Henry Rivera Jr.,2017-08-22,shot,vehicle,71,M,H,Albuquerque,NM,False,attack,Car,False
 2891,Robert Earl Adams,2017-08-22,shot,knife,30,M,W,Orcutt,CA,False,other,Foot,False
 2893,Konstantin Morozov,2017-08-22,shot,gun,48,M,W,Los Angeles,CA,False,other,Not fleeing,False
-2988,Mark Aaron Jensen,2017-08-22,shot,gun,56,M,W,Durham,CA,False,attack,Not fleeing,False
+2988,Mark Aaron Jensen,2017-08-22,shot,gun,56,M,W,Durham,CA,True,attack,Not fleeing,False
 2894,Ciara Howard,2017-08-23,shot,gun,26,F,W,Olathe,KS,True,other,Not fleeing,False
 2895,Colton Puckett,2017-08-24,shot,gun,28,M,W,Waterford Township,MI,True,other,Not fleeing,False
 2896,Isaias Raziel Ochoa,2017-08-24,shot,gun,19,M,H,Lemon Grove,CA,False,attack,Foot,False
@@ -2664,12 +2664,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2960,Nicholas K. Perkins,2017-09-17,shot,gun,37,M,W,Oak Harbor,WA,True,attack,Not fleeing,False
 2961,Brian Ziro,2017-09-17,shot,gun,21,M,B,West Milford,WV,False,attack,Foot,False
 2959,Jesse VanSipe,2017-09-18,shot,gun,33,M,W,Piedmont,AL,True,other,Not fleeing,False
-2962,Joshua Stubbs,2017-09-19,shot,gun and knife,25,M,W,Monroe,NC,False,undetermined,Car,True
+2962,Joshua Stubbs,2017-09-19,shot,gun and knife,25,M,W,Monroe,NC,False,attack,Car,True
 2963,Jimme Knight Smith,2017-09-19,shot,gun,55,M,W,Independence,VA,True,attack,Not fleeing,False
 2964,Randall Ross,2017-09-19,shot,undetermined,53,M,W,Bernice,LA,False,undetermined,,False
 2966,TK TK,2017-09-19,shot,gun,,M,,La Porte,TX,True,attack,Not fleeing,False
 2967,David Scott,2017-09-19,shot,knife,27,M,W,Chula Vista,CA,True,attack,Not fleeing,False
-2965,Magdiel Sanchez,2017-09-20,shot,pipe,35,M,H,Oklahoma City,OK,False,undetermined,Not fleeing,False
+2965,Magdiel Sanchez,2017-09-20,shot,pipe,35,M,H,Oklahoma City,OK,False,other,Not fleeing,False
 2968,Eddie Russell Jr.,2017-09-20,shot,gun,25,M,B,Peoria,IL,True,other,Not fleeing,False
 2969,Haraesheo Rice,2017-09-20,shot,gun,31,M,B,Huntsville,AL,True,attack,Not fleeing,False
 2970,Mack Brinkley,2017-09-21,shot,gun,70,M,W,Boswell,OK,False,attack,Car,False
@@ -2809,7 +2809,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3117,Jason Ike Pero,2017-11-08,shot,knife,14,M,N,Odanah,WI,False,other,,False
 3118,Paul Jones,2017-11-09,shot,gun,25,M,B,Salisbury,NC,False,attack,Car,False
 3119,Joseph Santos,2017-11-09,shot,vehicle,32,M,W,Providence,RI,False,attack,Car,True
-3120,Charles Edwin Nickels,2017-11-09,shot,gun,35,M,W,Neshoba County,MS,False,attack,Not fleeing,False
+3120,Charles Edwin Nickels,2017-11-09,shot,gun,35,M,W,Neshoba County,MS,True,attack,Not fleeing,False
 3127,Kiser L. Sturgell,2017-11-09,shot,gun,27,M,W,Flatwoods,KY,False,other,Car,False
 3128,Ashley Jenkins,2017-11-09,shot,unarmed,23,F,W,Flatwoods,KY,False,undetermined,Car,False
 3125,Terry A. Dubois,2017-11-10,shot,gun,55,M,W,Gibson,LA,True,attack,Not fleeing,False
@@ -2909,3 +2909,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3226,Charles McBride,2017-12-20,shot,gun,56,M,,Anchorage,AK,False,attack,Not fleeing,False
 3227,Frankie Anchondo,2017-12-20,shot,vehicle,35,M,,Farmington,NM,False,other,Not fleeing,False
 3228,TK TK,2017-12-20,shot,gun,,M,,Oceanside,CA,False,undetermined,Foot,False
+3229,Kameron Prescott,2017-12-21,shot,unarmed,6,M,,Schertz,TX,False,other,Not fleeing,False
+3230,Amanda Lenee Jones,2017-12-21,shot,pipe,30,F,,Schertz,TX,False,other,Foot,False
+3239,Jose Aguero,2017-12-21,shot,gun,,M,,Greeley,CO,False,other,Foot,False
+3236,Ahmed Aminamin El-Mofty,2017-12-22,shot,gun,51,M,,Harrisburg,PA,False,attack,Foot,False
+3237,Jeffrey Golnick,2017-12-22,shot,gun,40,M,W,Gilbert,MN,False,attack,Foot,False
+3238,Lawrence McClellon,2017-12-22,shot,gun,62,M,,Pocatello,ID,False,other,Not fleeing,False
+3234,TK TK,2017-12-23,shot,machete,,M,,Los Angeles,CA,False,other,Foot,False
+3235,Jesse Champney,2017-12-23,shot,undetermined,26,M,,Canaan,NH,False,undetermined,Not fleeing,False
+3240,TK Tk,2017-12-24,shot,machete,,M,,Progreso,TX,False,other,Not fleeing,False
+3231,TK TK,2017-12-25,shot,gun,,M,,Tulsa,OK,False,attack,Not fleeing,False
+3232,TK TK,2017-12-25,shot,gun,28,M,,Yakima,WA,True,attack,Not fleeing,False
+3233,TK TK,2017-12-26,shot,gun,,M,,Spokane,WA,False,other,Foot,False
