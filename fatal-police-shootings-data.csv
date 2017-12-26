@@ -2571,7 +2571,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2849,Peter James Robbins,2017-08-08,shot,gun,23,M,W,Junction City,KS,True,attack,Not fleeing,False
 2852,Darreon Neal,2017-08-08,shot,gun,17,M,B,Dalton,IL,False,other,Other,False
 2851,Eugene Nelson,2017-08-09,shot,vehicle,20,M,B,Kent,WA,False,attack,Car,False
-2853,Mark P. Coffey,2017-08-10,shot,vehicle,33,M,W,Dyer,IN,False,other,Car,False
+2853,Mark P. Coffey,2017-08-10,shot,gun,33,M,W,Dyer,IN,False,attack,,False
 2856,Eric Bogart,2017-08-10,shot,gun,49,M,W,Los Angeles,CA,False,attack,Not fleeing,False
 2855,TK TK,2017-08-11,shot,gun,,M,,Channelview,TX,False,attack,Not fleeing,False
 2857,Tyrease Carlyle,2017-08-11,shot,gun,31,M,B,Philadelphia,PA,True,other,Not fleeing,False
@@ -2650,14 +2650,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2936,Joseph Charles Cook,2017-09-10,shot,gun,76,M,W,Huntersville,NC,False,attack,Not fleeing,False
 2937,Frankie Santos,2017-09-10,shot,gun,58,M,H,Tacoma,WA,False,attack,Not fleeing,False
 2938,Spencer Hight,2017-09-10,shot,gun,32,M,W,Plano,TX,False,attack,Not fleeing,False
-2939,Juan Flores,2017-09-10,shot,vehicle,19,M,H,Chicago,IL,False,attack,Not fleeing,False
+2939,Juan Flores,2017-09-10,shot,vehicle,19,M,H,Chicago,IL,False,attack,Not fleeing,True
 2945,Thomas Addison,2017-09-11,shot,unknown weapon,25,M,N,Great Falls,MT,False,other,Foot,False
 2946,Brian Patrick Allen,2017-09-11,shot,gun,48,M,W,Hixson,TN,False,attack,Car,False
 2947,Vincent Edward Hernandez Jr,2017-09-11,shot,toy weapon,39,M,H,Bassett,CA,False,attack,Not fleeing,False
 2948,Rodolfo Ballardo,2017-09-13,shot,gun,31,M,H,Quartzsite,AZ,False,attack,Car,False
 2955,Gary Joe McCourt,2017-09-14,shot,knife,50,M,W,Frametown,WV,False,attack,Not fleeing,False
 2950,Ruben Urbina,2017-09-15,shot,crowbar,15,M,H,Haymarket,VA,False,other,Not fleeing,False
-2954,Matthew Michael McTague,2017-09-15,shot,vehicle,48,M,W,Hallandale Beach,FL,False,attack,Car,False
+2954,Matthew Michael McTague,2017-09-15,shot,vehicle,48,M,W,Hallandale Beach,FL,True,attack,Car,False
 2957,Jacob Dominguez,2017-09-15,shot,unarmed,32,M,H,San Jose,CA,False,other,Car,False
 2956,Scout Schultz,2017-09-16,shot,knife,21,,W,Atlanta,GA,True,other,Not fleeing,False
 2958,Eric Alvarez,2017-09-17,shot and Tasered,knife,40,M,H,Los Angeles,CA,False,other,Not fleeing,False
@@ -2681,7 +2681,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2979,TK TK,2017-09-22,shot,undetermined,,M,W,Denver,CO,False,other,Not fleeing,False
 2980,Scott Farnsworth,2017-09-22,shot,gun,28,M,W,Mesa,AZ,True,attack,Not fleeing,False
 2981,Bryan Wright,2017-09-22,shot,gun,40,M,W,Hattiesburg,MS,False,attack,Not fleeing,False
-2982,Scott Michael Chamberlain,2017-09-22,shot,vehicle,44,M,W,Brooksville,FL,False,attack,Car,False
+2982,Scott Michael Chamberlain,2017-09-22,shot,undetermined,44,M,W,Brooksville,FL,True,attack,Car,False
 2975,Damien Murray,2017-09-24,shot,gun,39,M,B,San Francisco,CA,False,other,Not fleeing,False
 2983,Jarred Burke,2017-09-24,shot,gun,24,M,W,New Castle,IN,False,attack,Foot,False
 2976,Anthony Robinson,2017-09-25,shot,gun,32,M,B,Palmetto,FL,False,attack,Foot,False
@@ -2903,9 +2903,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3220,Spencer Crumbley,2017-12-17,shot,shovel,52,M,,Valley Head,WV,False,attack,Not fleeing,False
 3221,Todd A. Stone,2017-12-18,shot,hatchet,48,M,B,Oak Park,MI,False,other,Not fleeing,False
 3223,Tom Heath,2017-12-19,shot,knife,56,M,,Mulberry,AR,True,other,Foot,False
-3224,TK TK,2017-12-19,shot,knife,,M,,The Colony,TX,False,other,Not fleeing,False
+3224,TK TK,2017-12-19,shot,knife,24,M,,The Colony,TX,False,other,Not fleeing,False
 3225,TK TK,2017-12-19,shot,gun,,M,,Kirkland,WA,False,other,Not fleeing,False
-3222,Robert Edwards,2017-12-20,shot,toy weapon,33,M,,Miami Township,OH,True,other,Not fleeing,False
-3226,TK Tk,2017-12-20,shot,gun,,M,,Anchorage,AK,False,attack,Not fleeing,False
-3227,TK TK,2017-12-20,shot,undetermined,,M,,Farmington,NM,False,undetermined,Not fleeing,False
+3222,Robert Edwards,2017-12-20,shot,toy weapon,33,M,W,Miami Township,OH,True,other,Not fleeing,False
+3226,Charles McBride,2017-12-20,shot,gun,56,M,,Anchorage,AK,False,attack,Not fleeing,False
+3227,Frankie Anchondo,2017-12-20,shot,vehicle,35,M,,Farmington,NM,False,other,Not fleeing,False
 3228,TK TK,2017-12-20,shot,gun,,M,,Oceanside,CA,False,undetermined,Foot,False
