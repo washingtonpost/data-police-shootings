@@ -2911,13 +2911,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3228,TK TK,2017-12-20,shot,gun,,M,,Oceanside,CA,False,undetermined,Foot,False
 3229,Kameron Prescott,2017-12-21,shot,unarmed,6,M,,Schertz,TX,False,other,Not fleeing,False
 3230,Amanda Lenee Jones,2017-12-21,shot,pipe,30,F,,Schertz,TX,False,other,Foot,False
-3239,Jose Aguero,2017-12-21,shot,gun,,M,,Greeley,CO,False,other,Foot,False
+3239,Jose Aguero,2017-12-21,shot,gun,26,M,H,Greeley,CO,True,other,Foot,False
 3236,Ahmed Aminamin El-Mofty,2017-12-22,shot,gun,51,M,,Harrisburg,PA,False,attack,Foot,False
-3237,Jeffrey Golnick,2017-12-22,shot,gun,40,M,W,Gilbert,MN,False,attack,Foot,False
+3237,Jeffrey John Golnick,2017-12-22,shot,gun,40,M,W,Gilbert,MN,False,attack,Foot,False
 3238,Lawrence McClellon,2017-12-22,shot,gun,62,M,,Pocatello,ID,False,other,Not fleeing,False
-3234,TK TK,2017-12-23,shot,machete,,M,,Los Angeles,CA,False,other,Foot,False
+3234,Jesse Murillo,2017-12-23,shot,metal object,32,M,,Los Angeles,CA,False,other,Foot,False
 3235,Jesse Champney,2017-12-23,shot,undetermined,26,M,,Canaan,NH,False,undetermined,Not fleeing,False
-3240,TK Tk,2017-12-24,shot,machete,,M,,Progreso,TX,False,other,Not fleeing,False
-3231,TK TK,2017-12-25,shot,gun,,M,,Tulsa,OK,False,attack,Not fleeing,False
-3232,TK TK,2017-12-25,shot,gun,28,M,,Yakima,WA,True,attack,Not fleeing,False
+3240,TK TK,2017-12-24,shot,machete,,M,,Progreso,TX,False,other,Not fleeing,False
+3231,Jacob Craig,2017-12-25,shot,gun,,M,,Tulsa,OK,False,attack,Not fleeing,False
+3232,Adrian Escobar,2017-12-25,shot,gun,28,M,,Yakima,WA,False,attack,Not fleeing,False
 3233,TK TK,2017-12-26,shot,gun,,M,,Spokane,WA,False,other,Foot,False
