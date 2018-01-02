@@ -2922,14 +2922,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3232,Adrian Escobar,2017-12-25,shot,gun,28,M,,Yakima,WA,False,attack,Not fleeing,False
 3233,TK TK,2017-12-26,shot,gun,,M,,Spokane,WA,False,other,Foot,False
 3241,Jose Garcia,2017-12-26,shot,undetermined,31,M,,Yakima,WA,True,undetermined,Not fleeing,False
-3242,Juan Delgado,2017-12-26,shot,gun,35,M,,Tulare,CA,False,attack,Car,False
+3242,Juan Delgado,2017-12-26,shot,gun,40,M,,Tulare,CA,False,attack,Car,False
 3243,James Alan Berrones,2017-12-26,shot,gun,46,M,,Roswell,NM,False,attack,,False
-3244,Jesse Scarsbrook,2017-12-26,shot,gun,28,M,,Lawrence,IN,False,attack,Car,False
-3245,TK TK,2017-12-26,shot,gun,30,M,W,Desert Hot Springs,CA,False,attack,Car,False
-3246,Brooke Amelia Camacho,2017-12-26,shot,gun,38,F,H,Farmers Branch,TX,False,attack,Not fleeing,False
+3244,Jesse Scarsbrook,2017-12-26,shot,gun,28,M,B,Lawrence,IN,False,attack,Car,False
+3245,Robo Raikoglo,2017-12-26,shot,gun,30,M,W,Desert Hot Springs,CA,False,attack,Car,False
+3246,Brooke Amelia Camacho,2017-12-26,shot,gun,38,F,,Farmers Branch,TX,False,attack,Not fleeing,False
 3247,Salvador Byassee,2017-12-26,shot,knife,34,M,,300 block of State Line Road,TN,False,other,Other,False
-3249,Dennis Plowden,2017-12-27,shot,unarmed,25,M,B,Philadelphia,PA,False,other,Car,False
+3249,Dennis Plowden,2017-12-27,shot,vehicle,25,M,B,Philadelphia,PA,False,attack,Car,False
 3250,Andrew Finch,2017-12-27,shot,unarmed,28,M,W,Wichita,KS,False,other,Not fleeing,False
 3248,Isaiah Christian Green,2017-12-28,shot,gun,20,M,,Dover Township,PA,False,undetermined,Not fleeing,False
-3251,TK TK,2017-12-28,shot,gun,,M,,South Gate,CA,False,attack,Not fleeing,False
-3252,Christopher Baird,2017-12-28,shot,gun,37,M,W,Birmingham,AL,False,attack,Not fleeing,False
+3251,TK TK,2017-12-28,shot,gun,,M,,South Gate,CA,False,attack,Foot,False
+3252,Christopher Baird,2017-12-28,shot,gun,37,M,,Birmingham,AL,False,attack,Not fleeing,False
