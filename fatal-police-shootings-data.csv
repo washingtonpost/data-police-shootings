@@ -2933,7 +2933,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3263,Joshua Paul Spottedhorse,2017-12-26,shot,gun,36,M,N,Spokane,WA,False,attack,Foot,True
 3249,Dennis Plowden,2017-12-27,shot,vehicle,25,M,B,Philadelphia,PA,False,attack,Car,False
 3250,Andrew Finch,2017-12-27,shot,unarmed,28,M,W,Wichita,KS,False,other,Not fleeing,False
-3267,Kenneth Perna-Rusky,2017-12-27,shot,gun,38,M,W,Chester,VA,True,attack,Not fleeing,False
+3267,Kenneth J. Perna-Rutsky,2017-12-27,shot,gun,38,M,W,Chester,VA,True,attack,Not fleeing,False
 3248,Isaiah Christian Green,2017-12-28,shot,gun,20,M,,Dover Township,PA,False,undetermined,Not fleeing,False
 3251,TK TK,2017-12-28,shot,gun,,M,,South Gate,CA,False,attack,Foot,False
 3252,Christopher Baird,2017-12-28,shot,gun,37,M,,Birmingham,AL,False,attack,Not fleeing,False
