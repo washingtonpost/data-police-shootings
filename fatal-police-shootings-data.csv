@@ -2944,27 +2944,27 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3260,Oscar Sandoval,2017-12-30,shot,gun,39,M,,Los Angeles,CA,False,other,Not fleeing,False
 3254,Matthew Riehl,2017-12-31,shot,gun,37,M,,Highlands Ranch,CO,True,attack,Not fleeing,False
 3261,TK TK,2017-12-31,shot,vehicle,,M,,Delano,CA,False,other,Car,False
-3275,Mark Steven Parkinson,2018-01-01,shot,gun,65,M,,Rossville,GA,True,attack,Not fleeing,False
-3289,Gary Johns,2018-01-01,shot,gun,65,M,,Edgewater,FL,True,attack,Not fleeing,True
-3288,Archie Lawhon III,2018-01-02,shot,gun,42,M,,Romance,AR,False,attack,Not fleeing,False
-3291,Shana Musquiz,2018-01-02,shot,gun,30,F,,Camp Wood,TX,False,attack,Not fleeing,False
+3275,Mark Steven Parkinson,2018-01-01,shot,gun,65,M,W,Rossville,GA,True,attack,Not fleeing,False
+3288,Archie Lawhon III,2018-01-01,shot,gun,42,M,,Romance,AR,False,attack,Not fleeing,False
+3289,Gary Johns,2018-01-01,shot,gun,65,M,,Edgewater,FL,False,attack,Not fleeing,True
+3291,Shana Diane Musquiz,2018-01-02,shot,gun,30,F,W,Camp Wood,TX,False,attack,Not fleeing,False
 3292,Ronald Elliot,2018-01-02,shot,gun,49,M,W,Ozark,AR,True,attack,Not fleeing,False
-3286,TK TK,2018-01-03,shot,gun,,M,,Oakland,CA,False,attack,Not fleeing,False
+3286,Shaleem Tindle,2018-01-03,shot,gun,28,M,B,Oakland,CA,False,attack,Not fleeing,False
 3287,Robert Hansen,2018-01-04,shot,gun,27,M,,Boise,ID,False,attack,Not fleeing,False
-3278,William Oleson,2018-01-05,shot,gun,46,M,,Springfield,MO,False,attack,Not fleeing,False
-3283,TK TK,2018-01-05,shot,gun,28,M,,Whitehall,OH,False,attack,Not fleeing,False
-3293,Andy Vo,2018-01-05,shot,gun,35,M,,Long Beach,CA,False,attack,Not fleeing,False
+3278,William B. Oleson,2018-01-05,shot,gun,46,M,W,Springfield,MO,False,attack,Not fleeing,False
+3283,Ledarren D. Mixon,2018-01-05,shot,gun,28,M,,Whitehall,OH,False,attack,Not fleeing,False
+3293,Andy Vo,2018-01-05,shot,gun,35,M,,Long Beach,CA,False,other,Not fleeing,False
 3268,TK TK,2018-01-06,shot,unknown weapon,,M,,Albuquerque,NM,False,other,Not fleeing,False
 3271,Charles Smith Jr.,2018-01-06,shot,gun,17,M,B,Little Rock,AR,False,attack,Not fleeing,False
 3272,Jonathan William Leroy,2018-01-06,shot,baseball bat,39,M,W,McLoud,OK,False,other,Not fleeing,False
 3274,Richard Rangel,2018-01-06,shot,gun,21,M,,Round Rock,TX,False,attack,Not fleeing,False
 3280,TK TK,2018-01-06,shot,knife,,M,,Sparta,WI,False,other,Not fleeing,False
-3281,TK TK,2018-01-06,shot,gun,,,,San Carlos Park,FL,False,attack,Not fleeing,False
-3282,John Bailon,2018-01-06,shot,undetermined,40,M,,Los Lunas,NM,False,undetermined,,False
-3285,Gregory Stough,2018-01-06,shot,vehicle,27,M,,Manchester Township,PA,False,other,Car,False
+3281,Guillermo Mendoza,2018-01-06,shot,gun,57,M,,San Carlos Park,FL,False,attack,Not fleeing,False
+3282,John Bailon,2018-01-06,shot,undetermined,40,M,B,Los Lunas,NM,False,undetermined,,False
+3285,Gregory Stough,2018-01-06,shot,vehicle,27,M,W,Manchester Township,PA,False,other,Car,False
 3269,TK TK,2018-01-07,shot,gun,,M,,Lauderhill,FL,False,other,Foot,False
 3270,TK TK,2018-01-07,shot,knife,,M,,Santa Maria,CA,True,other,Not fleeing,False
 3276,Richard R. Towler,2018-01-07,shot,gun,54,M,,Danville,VA,False,attack,Not fleeing,False
-3277,Tyler Miller,2018-01-07,shot,unarmed,51,M,,Sedona,AZ,False,other,Not fleeing,False
+3277,Tyler Miller,2018-01-07,shot,unarmed,51,M,W,Sedona,AZ,False,undetermined,Not fleeing,False
 3290,TK TK,2018-01-07,shot,gun,27,M,,Tacoma,WA,False,attack,Not fleeing,False
 3273,TK TK,2018-01-08,shot,gun,,M,,Horn Lake,MS,False,attack,Car,False
