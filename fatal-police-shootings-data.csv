@@ -2949,8 +2949,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3289,Gary Johns,2018-01-01,shot,gun,65,M,,Edgewater,FL,False,attack,Not fleeing,True
 3291,Shana Diane Musquiz,2018-01-02,shot,gun,30,F,W,Camp Wood,TX,False,attack,Not fleeing,False
 3292,Ronald Elliot,2018-01-02,shot,gun,49,M,W,Ozark,AR,True,attack,Not fleeing,False
+3294,Louis C. Miller,2018-01-02,shot,knife,66,M,,Joplin,MO,False,attack,Not fleeing,False
 3286,Shaleem Tindle,2018-01-03,shot,gun,28,M,B,Oakland,CA,False,attack,Not fleeing,False
 3287,Robert Hansen,2018-01-04,shot,gun,27,M,,Boise,ID,False,attack,Not fleeing,False
+3295,Brandon O. Cude,2018-01-04,shot,gun,31,M,,Crandon,WI,False,attack,Not fleeing,False
 3278,William B. Oleson,2018-01-05,shot,gun,46,M,W,Springfield,MO,False,attack,Not fleeing,False
 3283,Ledarren D. Mixon,2018-01-05,shot,gun,28,M,,Whitehall,OH,False,attack,Not fleeing,False
 3293,Andy Vo,2018-01-05,shot,gun,35,M,,Long Beach,CA,False,other,Not fleeing,False
@@ -2963,8 +2965,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3282,John Bailon,2018-01-06,shot,undetermined,40,M,B,Los Lunas,NM,False,undetermined,,False
 3285,Gregory Stough,2018-01-06,shot,vehicle,27,M,W,Manchester Township,PA,False,other,Car,False
 3269,TK TK,2018-01-07,shot,gun,,M,,Lauderhill,FL,False,other,Foot,False
-3270,TK TK,2018-01-07,shot,knife,,M,,Santa Maria,CA,True,other,Not fleeing,False
+3270,Alejandro Valdez,2018-01-07,shot,knife,27,M,,Santa Maria,CA,True,other,Not fleeing,False
 3276,Richard R. Towler,2018-01-07,shot,gun,54,M,,Danville,VA,False,attack,Not fleeing,False
 3277,Tyler Miller,2018-01-07,shot,unarmed,51,M,W,Sedona,AZ,False,undetermined,Not fleeing,False
 3290,TK TK,2018-01-07,shot,gun,27,M,,Tacoma,WA,False,attack,Not fleeing,False
 3273,TK TK,2018-01-08,shot,gun,,M,,Horn Lake,MS,False,attack,Car,False
+3297,Eugene Loftis,2018-01-08,shot,gun,25,M,W,Church Hill,TN,False,other,Not fleeing,False
+3298,TK TK,2018-01-08,shot and Tasered,gun,,M,,Kansas City,MO,False,attack,Foot,False
+3299,TK TK,2018-01-08,shot,gun,,M,,Los Angeles,CA,False,other,,False
