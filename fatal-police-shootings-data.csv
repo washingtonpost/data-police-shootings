@@ -2942,7 +2942,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3255,Marco Antonio Carlos,2017-12-30,shot,gun,31,M,H,Redwood City,CA,False,attack,Not fleeing,False
 3257,Heath Wayne Hodges,2017-12-30,shot,undetermined,36,M,W,Crowell,TX,False,undetermined,,False
 3260,Oscar Sandoval,2017-12-30,shot,gun,39,M,,Los Angeles,CA,False,other,Not fleeing,False
-3254,Matthew Riehl,2017-12-31,shot,gun,37,M,,Highlands Ranch,CO,True,attack,Not fleeing,False
+3254,Matthew Riehl,2017-12-31,shot,gun,37,M,,Highlands Ranch,CO,True,attack,Not fleeing,True
 3261,TK TK,2017-12-31,shot,vehicle,,M,,Delano,CA,False,other,Car,False
 3275,Mark Steven Parkinson,2018-01-01,shot,gun,65,M,W,Rossville,GA,True,attack,Not fleeing,False
 3288,Archie Lawhon III,2018-01-01,shot,gun,42,M,,Romance,AR,False,attack,Not fleeing,False
@@ -2973,3 +2973,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3297,Eugene Loftis,2018-01-08,shot,gun,25,M,W,Church Hill,TN,False,other,Not fleeing,False
 3298,TK TK,2018-01-08,shot and Tasered,gun,,M,,Kansas City,MO,False,attack,Foot,False
 3299,TK TK,2018-01-08,shot,gun,,M,,Los Angeles,CA,False,other,,False
+3300,TK TK,2018-01-09,shot,ax,,M,,San Jose,CA,False,other,Not fleeing,False
