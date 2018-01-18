@@ -2988,3 +2988,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3305,Nathan Giffin,2018-01-16,shot,gun,32,M,W,Montpelier,VT,False,undetermined,Foot,False
 3306,TK TK,2018-01-16,shot,undetermined,,M,,Bedford,TX,False,other,Not fleeing,False
 3318,TK TK,2018-01-16,shot and Tasered,unarmed,,M,,Adams County,CO,False,attack,Not fleeing,False
+3323,TK TK,2018-01-16,shot,gun,,F,,Gooding,ID,False,attack,Not fleeing,False
+3319,Geraldine Townsend,2018-01-17,shot,toy weapon,72,F,,Tulsa,OK,False,attack,Not fleeing,False
+3320,TK TK,2018-01-17,shot,gun,,M,,Nashua,IA,True,attack,Car,False
+3321,Bryan Gregory,2018-01-17,shot,gun,34,M,,Memphis,TN,False,other,Car,False
+3322,TK TK,2018-01-17,shot,gun,,M,,Racine,WI,False,attack,Foot,False
