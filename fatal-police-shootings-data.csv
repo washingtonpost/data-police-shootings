@@ -2982,6 +2982,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3314,Jason D. Whittemore,2018-01-12,shot,unknown weapon,39,M,W,Scottsville,KY,False,other,Not fleeing,False
 3315,Remi Sabbe,2018-01-12,shot,gun,54,M,W,Sherwood,OR,False,attack,Car,False
 3316,Amanuel Dagebo,2018-01-12,shot,gun,22,M,B,Columbus,OH,False,other,Not fleeing,False
+3317,TK TK,2018-01-12,shot,gun,,M,,Puyallup,WA,False,attack,Car,False
 3307,Joseph Hilton,2018-01-13,shot,undetermined,42,M,W,Huntersville,NC,False,other,Not fleeing,False
 3311,TK TK,2018-01-14,shot,gun,,M,,El Sereno,CA,False,other,Not fleeing,False
 3309,Robert Martinez,2018-01-15,shot,gun,42,M,,Eugene,OR,False,other,Not fleeing,False
@@ -2993,3 +2994,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3320,Jihad Merrick,2018-01-17,shot,gun,29,M,,Nashua,IA,True,attack,Car,False
 3321,Bryan Gregory,2018-01-17,shot,gun,34,M,,Memphis,TN,False,other,Car,False
 3322,Donte D. Shannon,2018-01-17,shot,gun,26,M,B,Racine,WI,False,attack,Foot,False
+3324,Kevin Sturgis,2018-01-18,shot,gun,31,M,B,Harrisburg,PA,False,attack,Not fleeing,False
+3325,Marshall Coleman,2018-01-19,shot,knife,58,M,W,Boonville,IN,True,attack,Not fleeing,False
+3328,Shannon Cables,2018-01-20,shot,gun,46,M,W,Lake Wales,FL,False,attack,Not fleeing,False
+3329,Arthur McAfee Jr.,2018-01-20,shot,unarmed,61,M,,Longview,TX,True,other,Not fleeing,False
+3330,John Albers,2018-01-20,shot,vehicle,17,M,,Overland Park,KS,True,other,Car,False
+3326,TK TK,2018-01-20,shot,knife,23,M,,Fairmont,MN,False,other,Not fleeing,False
+3327,Jason Lappe,2018-01-20,shot,undetermined,44,M,,Dunwoody,GA,False,other,Not fleeing,False
+3331,TK TK,2018-01-21,shot,vehicle,,M,,Rockledge,FL,False,other,Car,False
+3332,TK TK,2018-01-21,shot,unknown weapon,35,M,,Ebey Island,WA,True,other,Not fleeing,False
+3333,TK TK,2018-01-22,shot,gun,27,M,,Battle Creek,MI,True,other,Not fleeing,False
+3334,TK TK,2018-01-22,shot,vehicle,,M,,Irving,TX,False,other,Car,False
+3335,Jonathan Duane Atchley,2018-01-22,shot,unarmed,37,M,W,Sallisaw,OK,False,other,Not fleeing,False
