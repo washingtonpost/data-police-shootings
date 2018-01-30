@@ -3006,7 +3006,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3333,Joshua Dale Prough,2018-01-22,shot,gun,36,M,W,Battle Creek,MI,True,other,Not fleeing,False
 3334,Aaron Olivarez Candanoza,2018-01-22,shot,vehicle,28,M,H,Irving,TX,False,other,Car,False
 3335,Jonathan Duane Atchley,2018-01-22,shot,unarmed,37,M,W,Sallisaw,OK,False,other,Not fleeing,False
-3336,Edward Gandy,2018-01-22,shot,unarmed,47,M,W,Millville,NJ,True,undetermined,,False
+3336,Edward C. Gandy,2018-01-22,shot,claimed to be armed,47,M,,Millville,NJ,False,other,,False
 3337,Joe Delira-Alires,2018-01-22,shot,gun,35,M,H,Pueblo,CO,False,attack,Other,True
 3339,Joseph E. Knight,2018-01-22,shot,gun,40,M,W,Tulsa,OK,False,other,Car,False
 3341,Scott Senior,2018-01-22,shot,unknown weapon,38,M,,Crescent City,CA,False,attack,,False
@@ -3017,16 +3017,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3346,Humberto Vera-Munoz,2018-01-24,shot,unknown weapon,27,M,,Sparks,NV,False,other,Foot,False
 3351,David Byron Kidney,2018-01-24,shot,gun,62,M,,Union Township,MI,False,attack,Not fleeing,False
 3348,William Charles Mackenzie,2018-01-25,shot,gun,66,M,,Little Orleans,MD,False,attack,Not fleeing,False
-3349,Ulises Valladares,2018-01-25,shot,unarmed,,M,,Houston,TX,False,other,Not fleeing,False
+3349,Ulises Valladares,2018-01-25,shot,unarmed,47,M,H,Houston,TX,False,other,Not fleeing,False
 3352,TK TK,2018-01-25,shot,knife,19,M,,San Antonio,TX,False,attack,Other,False
 3353,Steven Hutchins,2018-01-25,shot,gun,27,M,,Buford,GA,True,attack,Not fleeing,False
-3345,Tk TK,2018-01-26,shot,gun,,M,,Austin,TX,False,attack,Car,False
-3347,TK TK,2018-01-26,shot,,,M,,Las Vegas,NV,False,undetermined,,False
-3358,Nathaniel Edwards,2018-01-26,shot,vehicle,43,M,B,Rock Falls,IL,False,undetermined,Car,False
-3361,TK TK,2018-01-26,shot,knife,42,M,W,Alton,IL,False,attack,Not fleeing,False
+3345,TK TK,2018-01-26,shot,gun,,M,,Austin,TX,False,attack,Car,False
+3347,TK TK,2018-01-26,shot,gun,,M,,Las Vegas,NV,False,other,,False
+3358,Nathaniel T. Edwards,2018-01-26,shot,vehicle,43,M,B,Rock Falls,IL,False,attack,Car,False
+3361,Matthew Zimmerman,2018-01-26,shot,knife,42,M,W,Alton,IL,False,attack,Not fleeing,False
 3357,William Pollard,2018-01-27,shot,knife,45,M,,Walton,IN,True,other,Not fleeing,False
 3359,Crystalline Barnes,2018-01-27,shot,vehicle,21,F,B,Jackson,MS,False,attack,Car,False
-3360,Kirsten Kloppe,2018-01-27,shot,gun,43,F,,San Antonio,TX,True,attack,Not fleeing,False
-3354,Anthony McDaniel,2018-01-28,shot,gun,45,M,,London,KY,False,attack,Not fleeing,False
-3355,TK TK,2018-01-28,shot,gun,33,M,,Baltimore,MD,False,other,Other,False
+3360,Kirsten Kloppe,2018-01-27,shot,gun,43,F,W,San Antonio,TX,True,attack,Not fleeing,False
+3354,Anthony S. McDaniel,2018-01-28,shot,gun,45,M,,London,KY,False,attack,Not fleeing,False
+3355,Billy Lewis Rucker,2018-01-28,shot,gun,33,M,B,Baltimore,MD,False,attack,Foot,True
 3356,TK TK,2018-01-28,shot,gun,,M,,Chamblee,GA,False,attack,Foot,False
