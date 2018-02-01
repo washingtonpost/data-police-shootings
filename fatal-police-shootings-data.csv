@@ -3018,7 +3018,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3351,David Byron Kidney,2018-01-24,shot,gun,62,M,,Union Township,MI,False,attack,Not fleeing,False
 3348,William Charles Mackenzie,2018-01-25,shot,gun,66,M,,Little Orleans,MD,False,attack,Not fleeing,False
 3349,Ulises Valladares,2018-01-25,shot,unarmed,47,M,H,Houston,TX,False,other,Not fleeing,False
-3352,TK TK,2018-01-25,shot,knife,19,M,,San Antonio,TX,False,attack,Other,False
+3352,Dustin Gonzales Castillo,2018-01-25,shot,knife,19,M,H,San Antonio,TX,False,attack,Other,False
 3353,Steven Hutchins,2018-01-25,shot,gun,27,M,,Buford,GA,True,attack,Not fleeing,False
 3345,TK TK,2018-01-26,shot,gun,,M,,Austin,TX,False,attack,Car,False
 3347,TK TK,2018-01-26,shot,gun,,M,,Las Vegas,NV,False,other,,False
@@ -3033,3 +3033,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3362,Gregory Kocian,2018-01-28,shot,gun,33,M,W,Conroe,TX,False,attack,Car,False
 3364,TK TK,2018-01-29,shot,knife,46,M,H,Houston,TX,False,attack,Car,False
 3365,Michael Hansford,2018-01-29,shot,knife,52,M,,Bronx,NY,False,other,Foot,True
+3366,Ricky Leon Rusche,2018-01-30,shot,undetermined,40,M,W,Pink,OK,False,undetermined,Not fleeing,False
+3367,Gilbert Salas,2018-01-31,shot,knife,20,M,,St. James,MN,False,other,Foot,False
+3368,TK TK,2018-01-31,shot,knife,,M,,Arvada,CO,False,other,Not fleeing,False
+3369,TK TK,2018-02-01,shot,undetermined,,M,,Waverly,OH,False,undetermined,Not fleeing,False
+3370,TK TK,2018-02-01,shot,undetermined,,M,,Harrisburg,PA,False,undetermined,Not fleeing,False
+3371,Tk TK,2018-02-01,shot,gun,,M,,Peoria,IL,False,attack,Foot,False
+3372,William Young,2018-02-01,shot,gun,56,M,,Oklahoma City,OK,False,attack,Not fleeing,False
