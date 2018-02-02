@@ -18,7 +18,7 @@ The FBI and the Centers for Disease Control and Prevention log fatal shootings b
 
 # About the data
 
-Race:
+**race**:
 - W: White, non-Hispanic
 - B: Black, non-Hispanic
 - A: Asian
@@ -28,14 +28,17 @@ Race:
 - None: unknown
 
 
-Gender:
+**gender**:
 - M: Male
 - F: Female
 - None: unknown
 
-The threat level column was used to flag incidents for the story by Amy Brittain in October 2015. http://www.washingtonpost.com/sf/investigative/2015/10/24/on-duty-under-fire/ As described in the story, the general criteria for the attack label was that there was the most direct and immediate threat to life. That would include incidents where officers or others were shot at, threatened with a gun, attacked with other weapons or physical force, etc. The attack category is meant to flag the highest level of threat. The other and undetermined categories represent all remaining cases. Other includes many incidents where officers or others faced significant threats. 
- 
+The **threat_level** column was used to flag incidents for the story by Amy Brittain in October 2015. http://www.washingtonpost.com/sf/investigative/2015/10/24/on-duty-under-fire/ As described in the story, the general criteria for the attack label was that there was the most direct and immediate threat to life. That would include incidents where officers or others were shot at, threatened with a gun, attacked with other weapons or physical force, etc. The attack category is meant to flag the highest level of threat. The other and undetermined categories represent all remaining cases. Other includes many incidents where officers or others faced significant threats. 
+
+
 The threat column and the fleeing column are not necessarily related. For example, there is an incident in which the suspect is moving away from officers (fleeing) and at the same time turns to fire at gun at the officer. Also, attacks represent a status immediately before fatal shots by police; while fleeing could begin slightly earlier and involve a chase.
+
+**body_camera**: News reports have indicated an officer was wearing a body camera and it may have recorded some portion of the incident.
 
 # Credits:
 
