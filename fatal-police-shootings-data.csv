@@ -3040,7 +3040,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3370,Albert E. Morton,2018-02-01,shot,vehicle,31,M,B,Harrisburg,PA,False,attack,Not fleeing,False
 3371,Daniel O. El,2018-02-01,shot,gun,32,M,,Peoria,IL,False,attack,Foot,False
 3372,William Young,2018-02-01,shot,gun,56,M,,Oklahoma City,OK,False,attack,Not fleeing,False
-3373,Anthony Williams,2018-02-01,shot,gun,,M,,Houston,TX,False,attack,Foot,False
-3374,TK TK,2018-02-01,shot,gun,,M,,Louisville,KY,False,attack,Not fleeing,False
-3375,TK TK,2018-02-01,shot,knife,,M,,Clayton,GA,False,other,Other,False
-3376,TK TK,2018-02-01,shot,gun,,M,,Helena,MT,True,undetermined,,False
+3373,Anthony Joe Williams,2018-02-01,shot,gun,,M,B,Houston,TX,False,attack,Foot,False
+3374,Alexander W. Simpson,2018-02-01,shot,gun,32,M,W,Louisville,KY,False,attack,Not fleeing,False
+3375,Brett Dontae Bush,2018-02-01,shot,knife,28,M,,Clayton,GA,False,other,Other,False
+3376,TK TK,2018-02-01,shot,gun,,M,,Helena,MT,True,other,,False
