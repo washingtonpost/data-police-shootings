@@ -3044,3 +3044,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3374,Alexander W. Simpson,2018-02-01,shot,gun,32,M,W,Louisville,KY,False,attack,Not fleeing,False
 3375,Brett Dontae Bush,2018-02-01,shot,knife,28,M,,Clayton,GA,False,other,Other,False
 3376,TK TK,2018-02-01,shot,gun,,M,,Helena,MT,True,other,,False
+3377,Charlie Shoupe,2018-02-02,shot,knife,27,M,W,Charlotte,NC,True,other,Not fleeing,False
+3380,TK TK,2018-02-02,shot,gun,,M,,Winters,TX,True,attack,Not fleeing,False
+3379,TK TK,2018-02-03,shot,toy weapon,,M,,Atlanta,GA,False,attack,Foot,False
+3383,Ernie Lizana,2018-02-03,shot,gun,49,M,W,Gulfport,MS,False,attack,Foot,False
