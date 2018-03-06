@@ -3043,8 +3043,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3373,Anthony Joe Williams,2018-02-01,shot,gun,,M,B,Houston,TX,False,attack,Foot,False
 3374,Alexander W. Simpson,2018-02-01,shot,gun,32,M,W,Louisville,KY,False,attack,Not fleeing,False
 3375,Brett Dontae Bush,2018-02-01,shot,knife,28,M,,Clayton,GA,False,other,Other,False
-3376,TK TK,2018-02-01,shot,gun,,M,,Helena,MT,True,other,,False
-3377,Charlie Shoupe,2018-02-02,shot,knife,27,M,W,Charlotte,NC,True,other,Not fleeing,False
+3376,Taylor Schnortz,2018-02-01,shot,gun,26,M,,Helena,MT,True,other,,False
+3377,Charlie Shoupe,2018-02-02,shot,knife,27,M,W,Charlotte,NC,True,other,Not fleeing,True
 3380,TK TK,2018-02-02,shot,gun,,M,,Winters,TX,True,attack,Not fleeing,False
 3379,TK TK,2018-02-03,shot,toy weapon,,M,,Atlanta,GA,False,attack,Foot,False
 3381,Alan Greenough,2018-02-03,shot,undetermined,43,M,,Reading,MA,False,undetermined,Foot,False
@@ -3099,7 +3099,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3431,Joshua D. Babb,2018-02-22,shot,gun,26,M,,Church Hill,TN,False,other,,False
 3432,Jacob Uptain,2018-02-22,shot,gun,27,M,,Phoenix,AZ,False,other,Foot,False
 3434,Mario Dantoni Bass,2018-02-23,shot,physical attack,37,M,,Woodbridge,VA,False,other,Foot,False
-3435,Douglas Kemp,2018-02-23,shot,gun,58,M,,Evansville,IN,False,other,Not fleeing,False
+3435,Douglas Kemp,2018-02-23,shot,toy weapon,58,M,,Evansville,IN,False,other,Not fleeing,False
 3442,Haydon Taylor,2018-02-25,shot,knife,25,M,B,Oklahoma City,OK,False,attack,Not fleeing,False
 3444,Douglas Oneyear,2018-02-25,shot,sword,36,M,,Casper,WY,False,other,Foot,False
 3445,TK TK,2018-02-25,shot,gun,,M,H,Los Angeles,CA,False,attack,Not fleeing,False
@@ -3113,3 +3113,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3449,Curtis Bradley Ware,2018-02-27,shot,gun,,M,W,Coeur d'Alene,ID,False,attack,Not fleeing,False
 3450,Qawi A. Muhammad,2018-02-28,shot,gun,48,M,B,Orlando,FL,False,attack,Not fleeing,False
 3451,Timothy M. Gray,2018-03-01,shot,machete,40,M,,Henrico,VA,False,other,Car,False
+3453,TK TK,2018-03-02,shot,unknown weapon,,M,,Bristol Township,PA,False,other,Not fleeing,False
+3454,Stephen Hudak,2018-03-02,shot,gun,44,M,W,Glendale,AZ,False,attack,Foot,False
+3458,Christopher Race,2018-03-02,shot,knife,36,M,,Mesa,AZ,False,other,Not fleeing,False
+3459,TK TK,2018-03-02,shot,undetermined,31,M,,Santa Ana,CA,False,undetermined,Not fleeing,False
+3460,TK TK,2018-03-02,shot,gun,,M,,Scottsdale,AZ,False,other,Not fleeing,False
+3455,Amanda Alvarez,2018-03-03,shot,piece of wood,38,F,,Pima County,AZ,False,other,Not fleeing,False
+3457,Michael McEntee,2018-03-03,shot,gun,70,M,,Johnson County,MO,False,attack,Not fleeing,False
+3452,TK TK,2018-03-05,shot,gun,,M,,Sandpoint,ID,False,attack,Not fleeing,False
