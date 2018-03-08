@@ -3120,7 +3120,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3459,TK TK,2018-03-02,shot,undetermined,31,M,,Santa Ana,CA,False,undetermined,Not fleeing,False
 3460,Erik Dunham,2018-03-02,shot,gun,48,M,W,Scottsdale,AZ,False,other,Not fleeing,False
 3465,TK TK,2018-03-02,shot,undetermined,,M,,Clarksville,TX,False,undetermined,Not fleeing,False
-3468,TK TK,2018-03-02,shot,undetermined,31,M,,Santa Ana,CA,False,undetermined,Not fleeing,False
 3455,Amanda Alvarez,2018-03-03,shot,piece of wood,38,F,,Pima County,AZ,False,other,Not fleeing,False
 3457,Michael McEntee,2018-03-03,shot,gun,70,M,,Johnson County,MO,False,attack,Not fleeing,False
 3467,Marvin McMillian,2018-03-03,shot,gun,41,M,B,Gulfport,MS,False,attack,Not fleeing,False
@@ -3132,7 +3131,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3469,TK TK,2018-03-05,shot,gun,,M,,Kansas City,MO,False,attack,,False
 3472,Steven Dalton,2018-03-05,shot,gun,,M,,Oil Springs,KY,True,attack,Not fleeing,False
 3474,Andrew Rossi,2018-03-05,shot,knife,,M,,Farmington,NM,False,other,Not fleeing,False
-3475,Michael Kline,2018-03-06,shot,undetermined,40,M,,North Manchester,IN,False,other,Not fleeing,True
-3476,TK TK,2018-03-06,shot,gun,,M,,Terre Haute,IN,True,attack,Not fleeing,False
-3477,Steven Peters,2018-03-06,shot,gun,55,M,,Pueblo,CO,False,attack,Not fleeing,False
-3478,TK TK,2018-03-06,shot,undetermined,,M,,San Francisco,CA,False,undetermined,Not fleeing,False
+3475,Michael Kline,2018-03-06,shot,undetermined,40,M,W,North Manchester,IN,False,other,Not fleeing,True
+3476,Michael Reynolds,2018-03-06,shot,gun,,M,W,Terre Haute,IN,True,attack,Not fleeing,False
+3477,Steven Peters,2018-03-06,shot,gun,55,M,,Pueblo,CO,False,attack,Foot,False
+3478,Jesus Delgado-Duarte,2018-03-06,shot,gun,19,M,H,San Francisco,CA,False,attack,Not fleeing,False
