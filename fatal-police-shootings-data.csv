@@ -3119,23 +3119,26 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3458,Christopher Race,2018-03-02,shot,knife,36,M,,Mesa,AZ,False,other,Not fleeing,False
 3459,TK TK,2018-03-02,shot,undetermined,31,M,,Santa Ana,CA,False,undetermined,Not fleeing,False
 3460,Erik Dunham,2018-03-02,shot,gun,48,M,W,Scottsdale,AZ,False,other,Not fleeing,False
-3465,TK TK,2018-03-02,shot,undetermined,,M,,Clarksville,TX,False,undetermined,Not fleeing,False
+3465,TK TK,2018-03-02,shot,unknown weapon,,M,,Clarksville,TX,False,attack,Not fleeing,True
 3455,Amanda Alvarez,2018-03-03,shot,piece of wood,38,F,,Pima County,AZ,False,other,Not fleeing,False
 3457,Michael McEntee,2018-03-03,shot,gun,70,M,,Johnson County,MO,False,attack,Not fleeing,False
 3467,Marvin McMillian,2018-03-03,shot,gun,41,M,B,Gulfport,MS,False,attack,Not fleeing,False
 3462,TK TK,2018-03-04,shot,gun,,M,,Abington Township,PA,False,other,Not fleeing,False
 3452,Brandon Kuhlman,2018-03-05,shot,gun,28,M,W,Sandpoint,ID,True,attack,Not fleeing,False
-3461,David Willoughby,2018-03-05,shot,toy weapon,33,M,,Carroll County,GA,False,other,Not fleeing,False
-3463,Ryan L. Smith,2018-03-05,shot,knife,44,M,W,Lakeland,FL,True,undetermined,Other,False
-3464,Robert Yates,2018-03-05,shot,gun,65,M,W,Barnwell,AL,False,attack,Not fleeing,False
+3461,David Willoughby,2018-03-05,shot,toy weapon,33,M,W,Carroll County,GA,False,attack,Not fleeing,False
+3463,Ryan L. Smith,2018-03-05,shot,knife,44,M,W,Lakeland,FL,True,other,Foot,False
+3464,Robert Lewis Yates,2018-03-05,shot,gun,65,M,W,Barnwell,AL,False,attack,Not fleeing,False
 3469,TK TK,2018-03-05,shot,gun,,M,,Kansas City,MO,False,attack,,False
-3472,Steven Dalton,2018-03-05,shot,gun,,M,,Oil Springs,KY,True,attack,Not fleeing,False
-3474,Andrew Rossi,2018-03-05,shot,knife,,M,,Farmington,NM,False,other,Not fleeing,False
+3472,Steven Dalton,2018-03-05,shot,gun,35,M,W,Oil Springs,KY,True,attack,Not fleeing,False
+3474,Andrew Rossi,2018-03-05,shot,knife,25,M,,Farmington,NM,False,other,Not fleeing,False
 3475,Michael Kline,2018-03-06,shot,undetermined,40,M,W,North Manchester,IN,False,other,Not fleeing,True
 3476,Michael Reynolds,2018-03-06,shot,gun,,M,W,Terre Haute,IN,True,attack,Not fleeing,False
 3477,Steven Peters,2018-03-06,shot,gun,55,M,,Pueblo,CO,False,attack,Foot,False
 3478,Jesus Delgado-Duarte,2018-03-06,shot,gun,19,M,H,San Francisco,CA,False,attack,Not fleeing,False
-3480,Louis Troy Risinger,2018-03-06,shot,gun,70,M,,Shelbyville,TX,False,other,Not fleeing,False
+3480,Louis Troy Risinger,2018-03-06,shot,gun,70,M,W,Shelbyville,TX,False,other,Not fleeing,False
 3481,James E. Waters,2018-03-06,shot,gun,37,M,B,Clinton,MO,True,attack,Not fleeing,False
-3479,TK TK,2018-03-07,shot,gun,,M,W,Long Beach,CA,False,other,Not fleeing,False
+3479,Donald McFarlane,2018-03-07,shot,gun,53,M,W,Long Beach,CA,False,attack,Not fleeing,False
 3482,Victor Ancira,2018-03-07,shot and Tasered,pick-axe,46,M,H,Austin,TX,True,other,Not fleeing,False
+3483,Jamil Harvey,2018-03-08,shot,gun,,M,,Spotsylvania,VA,False,attack,Other,False
+3484,TK TK,2018-03-08,shot,undetermined,,,,Jurupa Valley,CA,False,undetermined,Not fleeing,False
+3485,Alkeeta Allena Walker,2018-03-09,shot,knife,32,F,,Tarpon Springs,FL,False,other,Not fleeing,False
