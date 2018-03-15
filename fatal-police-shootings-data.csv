@@ -2700,7 +2700,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2995,"Marquis ""Bubba"" Jones",2017-10-01,shot,gun,27,M,B,West Burlington,IA,False,other,Other,True
 2997,Anthony Gallo,2017-10-01,shot,knife,34,M,W,Canton Township,PA,True,other,Not fleeing,False
 2998,Micah McComas,2017-10-01,shot,unarmed,41,M,W,Seward,AK,False,other,Car,True
-3000,George Randall Newman,2017-10-01,shot,gun,26,M,W,North Fort Collins,CO,False,attack,Not fleeing,False
+3000,George Randall Newman,2017-10-01,shot,gun,26,M,W,North Fort Collins,CO,False,attack,Not fleeing,True
 3022,Joshua Lanflisi,2017-10-01,shot,gun and sword,38,M,W,St. Louis,MO,True,other,Not fleeing,False
 2999,Kevin Anthony Battaglia,2017-10-02,shot,gun,33,M,W,Parkton,NC,True,attack,Not fleeing,False
 3001,Marquinton T. Brooks,2017-10-02,shot,gun,22,M,W,West Ouachita,LA,False,other,Foot,False
@@ -3141,4 +3141,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3482,Victor Ancira,2018-03-07,shot and Tasered,pick-axe,46,M,H,Austin,TX,True,other,Not fleeing,False
 3483,Jamil Harvey,2018-03-08,shot,gun,,M,,Spotsylvania,VA,False,attack,Other,False
 3484,TK TK,2018-03-08,shot,undetermined,,,,Jurupa Valley,CA,False,undetermined,Not fleeing,False
+3493,TK TK,2018-03-08,shot,toy weapon,,M,,Pottstown,PA,True,undetermined,Not fleeing,False
+3494,Dwight Heckman,2018-03-08,shot,gun,27,M,,Pilot Station,AK,False,attack,Foot,False
 3485,Alkeeta Allena Walker,2018-03-09,shot,knife,32,F,,Tarpon Springs,FL,False,other,Not fleeing,False
+3492,David Gardea,2018-03-09,shot,gun,27,M,,Phoenix,AZ,False,attack,Foot,False
+3486,TK TK,2018-03-10,shot,gun,,M,,Oakland,CA,True,attack,Not fleeing,False
+3488,TK TK,2018-03-10,shot,gun,,M,,Hillsboro,OR,False,attack,Not fleeing,False
+3491,TK TK,2018-03-10,shot,gun,,M,,Fontana,CA,False,attack,Not fleeing,False
+3499,Juan Garcia Alvarez,2018-03-11,shot,gun,57,M,,Midland,TX,False,attack,Not fleeing,False
+3487,Decynthia Clements,2018-03-12,shot,knife,34,F,B,Elgin,IL,False,other,Not fleeing,True
+3489,TK TK,2018-03-12,shot,gun,16,M,,Midland,MI,False,attack,Foot,False
+3490,Kenneth Townley,2018-03-12,shot,gun,47,M,,Blackman Township,MI,False,attack,Foot,False
+3495,Brisco Tim Woodel,2018-03-12,shot,gun,61,M,W,Lexington,NC,False,attack,Not fleeing,False
+3496,TK TK,2018-03-12,shot,unarmed,,M,,West Fargo,ND,False,other,Not fleeing,False
+3497,TK TK,2018-03-12,shot and Tasered,baseball bat,,M,,Manhasset,NY,False,attack,Not fleeing,False
+3498,Andy Lucero,2018-03-12,shot,gun,48,M,,Fort Sumner,NM,False,attack,Car,False
