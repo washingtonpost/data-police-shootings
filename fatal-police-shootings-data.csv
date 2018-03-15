@@ -3145,14 +3145,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3494,Dwight Heckman,2018-03-08,shot,gun,27,M,,Pilot Station,AK,False,attack,Foot,False
 3485,Alkeeta Allena Walker,2018-03-09,shot,knife,32,F,,Tarpon Springs,FL,False,other,Not fleeing,False
 3492,David Gardea,2018-03-09,shot,gun,27,M,,Phoenix,AZ,False,attack,Foot,False
-3486,TK TK,2018-03-10,shot,gun,,M,,Oakland,CA,True,attack,Not fleeing,False
-3488,TK TK,2018-03-10,shot,gun,,M,,Hillsboro,OR,False,attack,Not fleeing,False
+3488,Daniel Stacey Reynolds,2018-03-10,shot,gun,20,M,,Hillsboro,OR,True,attack,Not fleeing,False
 3491,TK TK,2018-03-10,shot,gun,,M,,Fontana,CA,False,attack,Not fleeing,False
-3499,Juan Garcia Alvarez,2018-03-11,shot,gun,57,M,,Midland,TX,False,attack,Not fleeing,False
-3487,Decynthia Clements,2018-03-12,shot,knife,34,F,B,Elgin,IL,False,other,Not fleeing,True
-3489,TK TK,2018-03-12,shot,gun,16,M,,Midland,MI,False,attack,Foot,False
-3490,Kenneth Townley,2018-03-12,shot,gun,47,M,,Blackman Township,MI,False,attack,Foot,False
-3495,Brisco Tim Woodel,2018-03-12,shot,gun,61,M,W,Lexington,NC,False,attack,Not fleeing,False
-3496,TK TK,2018-03-12,shot,unarmed,,M,,West Fargo,ND,False,other,Not fleeing,False
-3497,TK TK,2018-03-12,shot and Tasered,baseball bat,,M,,Manhasset,NY,False,attack,Not fleeing,False
-3498,Andy Lucero,2018-03-12,shot,gun,48,M,,Fort Sumner,NM,False,attack,Car,False
+3486,Joshua Pawlik,2018-03-11,shot,gun,32,M,,Oakland,CA,True,attack,Not fleeing,False
+3498,Andy Lucero,2018-03-11,shot,,48,M,W,Fort Sumner,NM,False,other,,False
+3499,Juan Garcia Alvarez,2018-03-11,shot,gun,57,M,H,Midland,TX,False,attack,Not fleeing,False
+3487,Decynthia Clements,2018-03-12,shot,knife,34,F,B,Elgin,IL,False,other,Car,True
+3489,Jaden Marsh,2018-03-12,shot,gun,16,M,W,Midland,MI,True,attack,Foot,False
+3490,Kenneth Scott Townley,2018-03-12,shot,gun,47,M,,Blackman Township,MI,False,attack,Foot,False
+3495,Brisco Tim Woodell,2018-03-12,shot,gun,61,M,W,Lexington,NC,False,attack,Not fleeing,False
+3496,Justin Lee Dietrich,2018-03-12,shot,vehicle,32,M,W,West Fargo,ND,False,attack,Car,False
+3497,Michael Ward,2018-03-12,shot and Tasered,baseball bat,46,M,B,Manhasset,NY,False,attack,Not fleeing,False
