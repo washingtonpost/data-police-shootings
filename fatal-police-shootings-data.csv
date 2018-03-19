@@ -3156,3 +3156,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3495,Brisco Tim Woodell,2018-03-12,shot,gun,61,M,W,Lexington,NC,False,attack,Not fleeing,False
 3496,Justin Lee Dietrich,2018-03-12,shot,vehicle,32,M,W,West Fargo,ND,False,attack,Car,False
 3497,Michael Ward,2018-03-12,shot and Tasered,baseball bat,46,M,B,Manhasset,NY,False,attack,Not fleeing,False
+3503,Jontell Reedom,2018-03-12,shot and Tasered,baton,27,M,B,Tulare,CA,True,attack,Foot,False
+3501,Bryan Liles,2018-03-13,shot,gun,31,M,W,Sandy,UT,False,other,Not fleeing,False
+3500,Ryan Chapman,2018-03-14,shot,undetermined,26,M,,Keizer,OR,False,other,Other,False
+3511,Shermichael Ezeff,2018-03-14,shot,unarmed,31,M,B,East Baton Rouge,LA,True,attack,Not fleeing,False
+3513,TK TK,2018-03-14,shot,unknown weapon,,M,,Parmelee,SD,False,other,,False
+3514,Cameron Hall,2018-03-15,shot and Tasered,unarmed,27,M,,Casa Grande,AZ,False,attack,Not fleeing,False
+3507,James Vaughn,2018-03-16,shot,gun,49,M,,Clarksville,TN,False,attack,Not fleeing,False
+3508,"Mark Harrell, Jr.",2018-03-16,shot,knife,26,M,,Jonesborough,TN,True,other,Foot,False
+3510,William Langfitt,2018-03-16,shot,knife,28,M,,Elk Plain,WA,True,other,Not fleeing,False
+3512,TK TK,2018-03-16,shot,ax,,M,,Burnsville,NC,False,other,,False
+3504,TK TK,2018-03-17,shot,gun,,M,,Valley View,CA,False,other,Car,False
+3502,TK TK,2018-03-18,shot,vehicle,,M,,Lancaster,TX,False,attack,Car,False
+3506,TK TK,2018-03-18,shot,undetermined,,M,,Sacramento,CA,False,undetermined,,False
+3509,TK TK,2018-03-18,shot,knife,,M,,South El Monte,CA,False,other,Foot,False
