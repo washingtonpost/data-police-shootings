@@ -3170,9 +3170,21 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3502,TK TK,2018-03-18,shot,vehicle,,M,,Lancaster,TX,False,attack,Car,False
 3506,Stephon Clark,2018-03-18,shot,unarmed,23,M,B,Sacramento,CA,False,other,Foot,True
 3509,TK TK,2018-03-18,shot,knife,40,M,,South El Monte,CA,False,other,Foot,False
-3515,Jermaine Massey,2018-03-19,shot,knife,35,M,,Greenville,SC,False,other,Not fleeing,False
+3515,Jermaine Massey,2018-03-19,shot and Tasered,knife,35,M,,Greenville,SC,False,other,Not fleeing,False
 3516,TK TK,2018-03-19,shot,gun,,M,,Utica,KY,False,attack,Other,False
 3517,Michael Lavelle Holliman,2018-03-19,shot,crossbow,50,M,W,Lone Rock,AR,False,other,Not fleeing,False
 3520,TK TK,2018-03-19,shot,undetermined,,M,,Denver,CO,False,undetermined,Car,False
 3518,Joel Pflum,2018-03-20,shot,gun,32,M,,Scott County,KY,False,attack,Not fleeing,False
-3519,TK TK,2018-03-20,shot,gun,,M,,Timberlake,NC,True,other,,False
+3519,Kent Earl Pittman,2018-03-20,shot,gun,56,M,,Timberlake,NC,True,attack,Not fleeing,False
+3528,Chance Christopher Haegele,2018-03-20,shot,gun,20,M,W,Winter Haven,FL,True,attack,Not fleeing,False
+3533,Scott Mielentz,2018-03-20,shot,gun,56,M,,Princeton,NJ,False,other,Not fleeing,False
+3523,Duane Preciado,2018-03-21,shot,gun,39,M,,Owasso,OK,True,attack,Not fleeing,True
+3524,Mark Lunn,2018-03-21,shot,knife,47,M,W,Mannford,OK,True,other,Not fleeing,False
+3525,Jason Raffaeli,2018-03-21,shot,gun,25,M,W,Amelia Island,FL,True,other,Not fleeing,False
+3532,Angel Uolla,2018-03-21,shot,knife,18,M,,Littlefield,TX,False,attack,Not fleeing,False
+3534,Jehad Eid,2018-03-21,shot,gun,21,M,,San Francisco,CA,False,attack,Not fleeing,False
+3521,Santiago Calderon,2018-03-22,shot,gun,36,M,,Aurora,IL,False,attack,Not fleeing,False
+3529,Danny Thomas,2018-03-22,shot,undetermined,35,M,,Greenspoint,TX,True,undetermined,Not fleeing,False
+3522,Tk TK,2018-03-23,shot,gun,,M,,Abilene,TX,False,attack,Not fleeing,False
+3526,TK TK,2018-03-23,shot,undetermined,,M,,Bogalusa,LA,False,attack,Not fleeing,False
+3527,TK TK,2018-03-23,shot,gun,,M,,Childress,TX,False,attack,Other,False
