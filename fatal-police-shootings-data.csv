@@ -3183,8 +3183,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3525,Jason M. Raffaeli,2018-03-21,shot,gun,25,M,W,Amelia Island,FL,True,attack,Not fleeing,False
 3532,Angel Uolla,2018-03-21,shot,knife,18,M,,Littlefield,TX,False,attack,Not fleeing,False
 3534,Jehad Eid,2018-03-21,shot,gun,21,M,,San Francisco,CA,False,attack,Not fleeing,False
-3521,Santiago Calderon,2018-03-22,shot,gun,36,M,,Aurora,IL,False,attack,Not fleeing,False
-3529,Danny Thomas,2018-03-22,shot,undetermined,35,M,,Greenspoint,TX,True,undetermined,Not fleeing,False
-3522,Tk TK,2018-03-23,shot,gun,,M,,Abilene,TX,False,attack,Not fleeing,False
-3526,TK TK,2018-03-23,shot,undetermined,,M,,Bogalusa,LA,False,attack,Not fleeing,False
-3527,TK TK,2018-03-23,shot,gun,,M,,Childress,TX,False,attack,Other,False
+3521,Santiago Calderon,2018-03-22,shot,gun,36,M,,Aurora,IL,False,attack,Foot,False
+3529,Danny Thomas,2018-03-22,shot,unarmed,35,M,,Greenspoint,TX,True,attack,Not fleeing,False
+3522,Michael Leroy McGinnis,2018-03-23,shot,gun,29,M,W,Abilene,TX,False,attack,Not fleeing,False
+3526,Daniel Allen Young,2018-03-23,shot,undetermined,32,M,,Bogalusa,LA,False,attack,Not fleeing,False
+3527,TK TK,2018-03-23,shot,gun,,M,,Childress,TX,False,attack,Foot,False
