@@ -3203,8 +3203,21 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3553,Holly Knighton,2018-03-27,shot,vehicle,,F,,Montgomery,AL,False,attack,Car,False
 3554,Jose Aaron Gonzalez,2018-03-27,shot,gun,44,M,,Phoenix,AZ,False,attack,Not fleeing,False
 3544,TK TK,2018-03-28,shot,gun and knife,,M,W,Stillwater,OK,True,other,Not fleeing,False
-3545,TK TK,2018-03-28,shot,gun,,M,,Lower Macungie Township,PA,False,attack,Foot,False
+3545,Aaron Ibrahem,2018-03-28,shot,gun,26,M,,Lower Macungie Township,PA,False,attack,Foot,False
 3546,Jesse Kilgus,2018-03-28,shot,gun,51,M,W,Elizabethtown,KY,False,attack,Not fleeing,False
 3547,Gerald Richard Johns,2018-03-28,shot,vehicle,64,M,,Sylacauga,AL,False,attack,Car,False
 3549,Robert B. Shaw,2018-03-28,shot,gun,29,M,W,Swansea,SC,True,other,Car,False
 3550,George Pappas,2018-03-28,shot,knife,61,M,W,Surprise,AZ,False,other,Not fleeing,False
+3555,TK TK,2018-03-29,shot,gun,,M,,Pasadena,TX,False,attack,Other,True
+3556,Rodney Toler,2018-03-29,shot,gun,39,M,,Charleston,WV,False,attack,Car,False
+3557,TK TK,2018-03-29,shot,knife,,M,,Las Vegas,NV,False,other,Not fleeing,False
+3559,James Decoursey,2018-03-29,shot,undetermined,35,M,W,Clarksville,TN,False,undetermined,Other,False
+3560,Edward Van McCrae,2018-03-30,shot,gun,60,M,B,Winston-Salem,NC,False,other,Not fleeing,False
+3568,TK TK,2018-03-30,shot,gun,,M,,Atwater,CA,False,other,Not fleeing,False
+3567,Jason Birt,2018-03-31,shot,machete,27,M,W,Guthrie,OK,False,attack,Not fleeing,False
+3561,TK TK,2018-04-01,shot,gun,,M,,San Antonio,TX,False,other,Not fleeing,False
+3562,Bobby Hinton,2018-04-01,shot,gun,60,M,,New Llano,LA,False,attack,Not fleeing,False
+3563,Joseph Walden Johnson,2018-04-01,shot,gun,24,M,,Goodbee,LA,False,attack,Car,False
+3564,Timothy Wyatt,2018-04-01,shot,gun,41,M,,Tampa,FL,False,attack,Car,False
+3565,TK TK,2018-04-01,shot,knife,,M,,Greenville,NC,False,other,Not fleeing,False
+3566,Christopher Hall,2018-04-01,shot,gun,34,M,,Jackson,MI,True,attack,Not fleeing,False
