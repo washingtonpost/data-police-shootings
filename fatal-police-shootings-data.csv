@@ -3192,6 +3192,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3540,Kevin Robles,2018-03-23,shot and Tasered,knife,23,M,,Phoenix,AZ,False,attack,Not fleeing,False
 3541,Kevin Hall,2018-03-23,shot,unknown weapon,40,M,W,Genesee Township,MI,False,other,Car,False
 3542,Robert Vega,2018-03-23,shot,incendiary device,48,M,H,Douglas,AZ,False,other,Not fleeing,False
+3569,TK TK,2018-03-23,shot,unknown weapon,,M,,Scottsdale,AZ,False,other,Not fleeing,False
 3537,Nikolai Yakunin,2018-03-24,shot,undetermined,42,M,W,Nikolaevsk,AK,False,attack,Not fleeing,False
 3538,Zander M. Clark,2018-03-24,shot,knife,20,M,,Anchorage,AK,False,other,Foot,False
 3539,Kaitlin Marie Demeo,2018-03-24,shot,gun,25,F,W,Columbus,OH,False,attack,Not fleeing,False
@@ -3213,11 +3214,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3557,Christopher Gatewood,2018-03-29,shot and Tasered,knife,39,M,W,Las Vegas,NV,False,other,Not fleeing,True
 3559,James Decoursey,2018-03-29,shot,undetermined,35,M,W,Clarksville,TN,False,undetermined,Other,False
 3560,Edward Van McCrae,2018-03-30,shot,gun,60,M,B,Winston-Salem,NC,False,other,Not fleeing,False
-3568,TK TK,2018-03-30,shot,gun,,M,,Atwater,CA,False,other,Not fleeing,False
+3568,Timothy Breckenridge,2018-03-30,shot,toy weapon,42,M,W,Atwater,CA,False,other,Not fleeing,False
 3567,Jason Birt,2018-03-31,shot,machete,27,M,W,Guthrie,OK,False,attack,Not fleeing,False
-3561,TK TK,2018-04-01,shot,gun,,M,,San Antonio,TX,False,other,Not fleeing,False
+3576,Nicolas Sedano,2018-03-31,shot,undetermined,21,M,,Reno,NV,False,undetermined,Not fleeing,False
+3561,Cresencio Rodriguez,2018-04-01,shot,gun,33,M,,San Antonio,TX,False,other,Not fleeing,False
 3562,Bobby Hinton,2018-04-01,shot,gun,60,M,,New Llano,LA,False,attack,Not fleeing,False
 3563,Joseph Walden Johnson,2018-04-01,shot,gun,24,M,,Goodbee,LA,False,attack,Car,False
 3564,Timothy Wyatt,2018-04-01,shot,gun,41,M,,Tampa,FL,False,attack,Car,False
 3565,Brian Bellamy,2018-04-01,shot,knife,41,M,,Greenville,NC,False,other,Not fleeing,False
 3566,Christopher Hall,2018-04-01,shot,gun,34,M,,Jackson,MI,True,attack,Not fleeing,False
+3571,John Wussler,2018-04-01,shot,gun,58,M,W,Phoenix,AZ,False,attack,Foot,False
+3572,Luis Yair Alvarez,2018-04-01,shot,knife,23,M,H,Brownsville,TX,True,other,Not fleeing,False
+3573,TK TK,2018-04-01,shot,knife,,M,,Belton,MO,False,other,,False
+3574,TK TK,2018-04-04,shot,knife,,M,,Okmulgee,OK,True,other,Not fleeing,False
+3575,TK TK,2018-04-04,shot,gun,,M,,Corpus Christi,TX,False,other,Foot,False
