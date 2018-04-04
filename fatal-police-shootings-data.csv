@@ -3208,7 +3208,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3547,Gerald Richard Johns,2018-03-28,shot,vehicle,64,M,,Sylacauga,AL,False,attack,Car,False
 3549,Robert B. Shaw,2018-03-28,shot,gun,29,M,W,Swansea,SC,True,other,Car,False
 3550,George Pappas,2018-03-28,shot,knife,61,M,W,Surprise,AZ,False,other,Not fleeing,False
-3555,TK TK,2018-03-29,shot,gun,,M,,Pasadena,TX,False,attack,Other,True
+3555,Marco Antonio Saavedra,2018-03-29,shot,gun,44,M,,Pasadena,TX,True,attack,Other,True
 3556,Rodney Toler,2018-03-29,shot,gun,39,M,B,Charleston,WV,True,attack,Car,False
 3557,Christopher Gatewood,2018-03-29,shot and Tasered,knife,39,M,W,Las Vegas,NV,False,other,Not fleeing,True
 3559,James Decoursey,2018-03-29,shot,undetermined,35,M,W,Clarksville,TN,False,undetermined,Other,False
@@ -3219,5 +3219,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3562,Bobby Hinton,2018-04-01,shot,gun,60,M,,New Llano,LA,False,attack,Not fleeing,False
 3563,Joseph Walden Johnson,2018-04-01,shot,gun,24,M,,Goodbee,LA,False,attack,Car,False
 3564,Timothy Wyatt,2018-04-01,shot,gun,41,M,,Tampa,FL,False,attack,Car,False
-3565,TK TK,2018-04-01,shot,knife,,M,,Greenville,NC,False,other,Not fleeing,False
+3565,Brian Bellamy,2018-04-01,shot,knife,41,M,,Greenville,NC,False,other,Not fleeing,False
 3566,Christopher Hall,2018-04-01,shot,gun,34,M,,Jackson,MI,True,attack,Not fleeing,False
