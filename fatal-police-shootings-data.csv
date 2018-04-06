@@ -3227,10 +3227,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3572,Luis Yair Alvarez,2018-04-01,shot,knife,23,M,H,Brownsville,TX,True,other,Not fleeing,False
 3573,TK TK,2018-04-01,shot,knife,38,M,,Belton,MO,False,other,,False
 3579,Jeffrey Louis Parker,2018-04-03,shot,gun,49,M,,Huntsville,AL,True,undetermined,Not fleeing,True
+3584,Kevin Baldwin,2018-04-04,shot,gun,30,M,,Mesa,AZ,False,attack,Not fleeing,False
 3574,TK TK,2018-04-04,shot,knife,,M,,Okmulgee,OK,True,other,Not fleeing,False
 3575,Adan Rene Marrero,2018-04-04,shot,gun,34,M,,Corpus Christi,TX,False,other,Foot,False
 3577,Saheed Vassell,2018-04-04,shot,metal pipe,34,M,B,New York,NY,True,attack,Not fleeing,False
 3580,Grady Parks,2018-04-04,shot,gun,70,M,,Molena,GA,False,attack,Not fleeing,False
 3581,Alexis Stinson,2018-04-04,shot,gun,44,F,,Phoenix,AZ,False,attack,Not fleeing,False
 3586,TK TK,2018-04-05,shot,vehicle,,M,,Barstow,CA,False,attack,Not fleeing,False
+3587,TK TK,2018-04-05,shot,gun,,M,,Fremont,CA,False,attack,Other,False
 3578,Robert Litolff,2018-04-05,shot,gun,81,M,,Greece,NY,False,attack,Not fleeing,False
+3582,William Frazier III,2018-04-05,shot,gun,40,M,,Volant,PA,False,attack,Car,False
+3583,TK TK,2018-04-05,shot,knife,,M,,South Bend,IN,False,other,Not fleeing,False
