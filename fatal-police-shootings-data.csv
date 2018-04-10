@@ -3141,7 +3141,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3482,Victor Ancira,2018-03-07,shot and Tasered,pick-axe,46,M,H,Austin,TX,True,other,Not fleeing,False
 3483,Jamil Harvey,2018-03-08,shot,gun,29,M,B,Spotsylvania,VA,False,attack,Other,False
 3484,TK TK,2018-03-08,shot,undetermined,,,,Jurupa Valley,CA,False,undetermined,Not fleeing,False
-3493,TK TK,2018-03-08,shot,toy weapon,,M,,Pottstown,PA,True,undetermined,Not fleeing,False
+3493,TK TK,2018-03-08,shot,toy weapon,,M,,Pottstown,PA,True,other,Not fleeing,False
 3494,Dwight Heckman,2018-03-08,shot,gun,27,M,N,Pilot Station,AK,False,attack,Foot,False
 3485,Alkeeta Allena Walker,2018-03-09,shot,knife,32,F,W,Tarpon Springs,FL,False,other,Not fleeing,False
 3492,David Gardea,2018-03-09,shot,gun,27,M,H,Phoenix,AZ,False,attack,Foot,False
@@ -3237,14 +3237,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3587,TK TK,2018-04-05,shot,gun,,M,,Fremont,CA,False,attack,Foot,False
 3578,Robert Litolff,2018-04-05,shot,gun,81,M,,Greece,NY,False,attack,Not fleeing,False
 3582,William Frazier,2018-04-05,shot,gun,40,M,,Volant,PA,False,attack,Not fleeing,False
-3583,TK TK,2018-04-05,shot,knife,,M,,South Bend,IN,False,other,Not fleeing,False
+3583,Terrance Eppenger,2018-04-05,shot,knife,27,M,,South Bend,IN,False,other,Not fleeing,False
 3588,Jonathan Erick Alexander,2018-04-06,shot,gun,26,M,,Marysville,CA,False,attack,Car,False
-3589,TK TK,2018-04-06,shot,gun,,M,,Las Vegas,NV,False,attack,Not fleeing,False
+3589,Antonio Aquino,2018-04-06,shot,gun,34,M,A,Las Vegas,NV,False,attack,Not fleeing,False
 3590,Daniel Allen Yielding,2018-04-06,shot,knife,23,M,,Searcy County,AR,False,attack,Foot,False
-3591,John Elifritz,2018-04-07,shot,knife,48,M,,Portland,OR,True,other,Other,False
+3591,John A. Elifritz,2018-04-07,shot,knife,48,M,W,Portland,OR,True,other,Other,False
 3592,Larry Siordia,2018-04-07,shot,gun,33,M,,Oroville,CA,False,attack,Not fleeing,False
 3593,TK TK,2018-04-08,shot,toy weapon,,M,,Cathedral City,CA,False,attack,Not fleeing,False
 3594,Juan Markee Jones,2018-04-08,shot,undetermined,25,M,,Danville,VA,False,other,Other,False
-3595,TK TK,2018-04-08,shot,undetermined,,M,,West Valley City,UT,False,other,Foot,False
-3596,TK TK,2018-04-08,shot,undetermined,,M,,Louisville,KY,False,other,Not fleeing,True
-3597,TK TK,2018-04-09,shot and Tasered,knife,23,M,,Troy,MI,True,attack,Not fleeing,False
+3595,Elijah James Smith,2018-04-08,shot,undetermined,20,M,B,West Valley City,UT,False,other,Foot,True
+3596,Russell Bowman,2018-04-08,shot,screwdriver,45,M,W,Louisville,KY,False,other,Not fleeing,True
+3597,TK TK,2018-04-09,shot and Tasered,knife,23,M,,Troy,MI,False,attack,Not fleeing,False
