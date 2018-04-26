@@ -3291,4 +3291,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3639,Miguel Escalona Vivas,2018-04-22,shot,gun,37,M,,Louisville,KY,False,attack,Foot,False
 3640,TK TK,2018-04-24,shot,gun,,M,,San Antonio,TX,False,other,Foot,False
 3642,Demonjhea Jordan,2018-04-24,shot,gun,27,M,B,Louisville,KY,False,attack,,True
+3645,TK TK,2018-04-24,shot,gun,,M,,Harmony,TX,False,attack,Not fleeing,False
 3641,TK TK,2018-04-25,shot,gun,,M,,Colorado Springs,CO,False,attack,Foot,False
+3643,Isaac Jackson,2018-04-25,shot,knife,42,M,,Louisville,KY,False,attack,Not fleeing,False
+3644,TK TK,2018-04-25,shot,gun,,M,,Denver,CO,False,other,Car,False
