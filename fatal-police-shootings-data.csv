@@ -1828,7 +1828,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2034,Daniel Erickson,2016-11-09,shot,gun,36,M,W,Show Low,AZ,False,attack,Not fleeing,False
 2036,George Delacruz,2016-11-10,shot,gun,41,M,H,San Angelo,TX,False,undetermined,,False
 2038,John Pacuicrk,2016-11-10,shot,gun,53,M,W,Lakeland,FL,False,attack,Not fleeing,False
-2037,TK TK,2016-11-11,shot and Tasered,unarmed,,M,,East Point,GA,False,attack,Foot,False
+2037,Andrew Depeiza,2016-11-11,shot and Tasered,unarmed,,M,B,East Point,GA,False,attack,Foot,False
 2039,Brian Gaither,2016-11-11,shot,vehicle,24,M,W,Grand Junction,CO,False,attack,Car,False
 2043,Marco Romero,2016-11-11,shot,gun,,M,H,Boise,ID,False,attack,Other,False
 2046,William Ray Score,2016-11-11,shot,gun,47,M,,Montrose County,CO,False,attack,Not fleeing,False
@@ -3291,7 +3291,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3639,Miguel Escalona Vivas,2018-04-22,shot,gun,37,M,,Louisville,KY,False,attack,Foot,False
 3640,TK TK,2018-04-24,shot,gun,,M,,San Antonio,TX,False,other,Foot,False
 3642,Demonjhea Jordan,2018-04-24,shot,gun,27,M,B,Louisville,KY,False,attack,,True
-3645,TK TK,2018-04-24,shot,gun,,M,,Harmony,TX,False,attack,Not fleeing,False
-3641,TK TK,2018-04-25,shot,gun,,M,,Colorado Springs,CO,False,attack,Foot,False
+3645,TK TK,2018-04-24,shot,gun,,M,,Harmony,TX,True,attack,Not fleeing,False
+3641,Jese Paul Schlegel,2018-04-25,shot,gun,41,M,W,Colorado Springs,CO,False,attack,Foot,False
 3643,Isaac Jackson,2018-04-25,shot,knife,42,M,,Louisville,KY,False,attack,Not fleeing,False
-3644,TK TK,2018-04-25,shot,gun,,M,,Denver,CO,False,other,Car,False
+3644,Charles Boeh,2018-04-25,shot,gun,36,M,,Denver,CO,False,other,Car,False
