@@ -3306,3 +3306,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3655,Joshua Lee Ewing,2018-04-29,shot,gun,26,M,,Moorland,IA,False,attack,Not fleeing,False
 3656,TK TK,2018-04-30,shot and Tasered,knife,,M,,Columbus,OH,False,undetermined,,False
 3657,TK TK,2018-05-01,shot,gun,,M,,San Antonio,TX,False,attack,Car,False
+3658,TK TK,2018-05-01,shot,gun,,M,,Quartzsite,AZ,False,attack,Other,False
+3659,TK TK,2018-05-02,shot,undetermined,44,M,,Box Elder,SD,False,undetermined,,False
