@@ -3314,7 +3314,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3663,Damion Collier,2018-05-02,shot,gun,24,M,,Columbus,GA,False,other,Car,False
 3664,Anthony Trujillo,2018-05-03,shot,machete,26,M,H,Orosi,CA,True,attack,Not fleeing,False
 3666,Sean Louis Justin,2018-05-03,shot,knife,28,M,,Sandia,TX,False,attack,Not fleeing,False
-3670,Mitchell Simmons,2018-05-05,shot,gun,24,M,,Kettering,OH,False,attack,Not fleeing,False
+3670,Mitchell Simmons,2018-05-05,shot,gun,24,M,W,Kettering,OH,False,attack,Not fleeing,False
 3671,Stephen Charles Arthur,2018-05-05,shot,gun,51,M,,Scottsdale,AZ,False,attack,Foot,False
 3667,Dwight Dearth,2018-05-06,shot,gun,73,M,,Fairview,OH,True,attack,Not fleeing,False
 3668,Franklin Robert Vaughn,2018-05-06,shot,gun,39,M,,Prague,OK,False,attack,Car,False
@@ -3331,3 +3331,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3682,Elliott Reed,2018-05-09,shot,gun,33,M,,Jackson,MS,False,attack,Not fleeing,False
 3683,Kenneth Carter,2018-05-10,shot,vehicle,46,M,,Morristown,TN,False,attack,Not fleeing,False
 3684,Michael E. Hutchman,2018-05-10,shot,gun,33,M,,Lower Burrell,PA,False,other,Not fleeing,False
+3692,TK TK,2018-05-11,shot,gun,,M,,York,WI,False,attack,Car,False
+3693,Darrell J. Bruffy,2018-05-12,shot,gun,55,M,W,Columbus,OH,False,attack,Car,False
+3686,Willie Rogers Marable,2018-05-13,shot,undetermined,28,M,B,Portsmouth,VA,False,undetermined,Not fleeing,False
+3689,Philip Steven McMichael,2018-05-13,shot,gun,36,M,,Amite,LA,False,undetermined,,False
+3690,James Kay,2018-05-13,shot,gun,54,M,,Carnesville,GA,False,attack,Not fleeing,False
+3691,TK TK,2018-05-13,shot,gun,,M,,Dearborn Heighs,MI,False,other,Not fleeing,False
+3685,TK TK,2018-05-14,shot,gun,,M,,Clinton,MD,False,attack,Not fleeing,False
+3687,Cody Reynolds,2018-05-14,shot,knife,20,M,W,Royal Oak,MI,False,attack,Not fleeing,False
+3688,William Derick,2018-05-14,shot,gun,54,M,,Wales,ME,False,attack,Not fleeing,False
