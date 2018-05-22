@@ -3345,10 +3345,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3696,Marcus-David L. Peters,2018-05-14,shot and Tasered,unarmed,24,M,B,Richmond,VA,False,attack,Car,False
 3698,David M. Romansky,2018-05-15,shot,gun,34,M,,Lake Mary,FL,False,other,Car,False
 3705,Kevin Nickle,2018-05-16,shot,knife,59,M,,Martins Ferry,OH,False,other,Not fleeing,False
-3703,TK TK,2018-05-18,shot,gun,,M,,Plymouth Township,MI,True,other,Other,False
+3703,TK TK,2018-05-18,shot,gun,,M,,Plymouth Township,MI,True,attack,Foot,False
 3704,TK TK,2018-05-18,shot,unknown weapon,,M,,Laredo,TX,False,other,,False
 3706,TK TK,2018-05-18,shot,unknown weapon,,M,,Gresham,OR,False,other,Car,False
 3700,Jimmy Alan Moss,2018-05-19,shot,vehicle,77,M,,Sunridge,NV,False,attack,,False
-3701,Corey Cordova,2018-05-19,shot,gun,30,M,,Columbus,OH,False,other,Not fleeing,False
+3701,Corey Cordova,2018-05-19,shot,gun,30,M,,Columbus,OH,False,attack,Not fleeing,False
 3702,TK TK,2018-05-19,shot,gun,,M,,Pueblo,CO,False,attack,Not fleeing,False
 3699,Bradley J. Grant,2018-05-20,shot,gun,36,M,,Baxter,KY,False,other,Foot,False
