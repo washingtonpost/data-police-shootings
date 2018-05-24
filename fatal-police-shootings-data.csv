@@ -3010,7 +3010,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3337,Joe Delira-Alires,2018-01-22,shot,gun,35,M,H,Pueblo,CO,False,attack,Other,True
 3339,Joseph E. Knight,2018-01-22,shot,gun,40,M,W,Tulsa,OK,False,other,Car,False
 3341,Scott Senior,2018-01-22,shot,unknown weapon,38,M,,Crescent City,CA,False,attack,,False
-3342,Ricky Jerome Boyd,2018-01-23,shot,gun,24,M,B,Chatham County,GA,False,attack,,False
+3342,Ricky Jerome Boyd,2018-01-23,shot,BB gun,24,M,B,Chatham County,GA,False,attack,,True
 3343,Alvaro Herrera,2018-01-23,shot,pipe,18,M,H,League City,TX,False,attack,Foot,False
 3344,Corey Mobley,2018-01-23,shot,,38,M,B,Bradenton,FL,True,other,Car,False
 3350,Shane McVey,2018-01-23,shot,unknown weapon,54,M,W,Idaho Falls,ID,False,other,Foot,False
@@ -3302,7 +3302,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3653,Nolberto Hernandez Leon,2018-04-28,shot,gun,26,M,,Elk Grove,CA,False,attack,Not fleeing,False
 3650,Brandon Busher,2018-04-29,shot,unarmed,38,M,W,Shreveport,LA,False,attack,Foot,False
 3651,TK TK,2018-04-29,shot,undetermined,,M,,Redlands,CA,False,undetermined,Not fleeing,False
-3654,TK TK,2018-04-29,shot,gun,,M,,Franklin,NC,False,attack,Not fleeing,False
+3654,Michael Scott Knibbs,2018-04-29,shot,gun,47,M,W,Franklin,NC,False,attack,Not fleeing,False
 3655,Joshua Lee Ewing,2018-04-29,shot,gun,26,M,,Moorland,IA,False,attack,Not fleeing,False
 3656,Vigil Wolford,2018-04-30,shot and Tasered,knife,59,M,,Columbus,OH,False,undetermined,,False
 3657,TK TK,2018-05-01,shot,gun,,M,,San Antonio,TX,False,attack,Car,False
@@ -3345,10 +3345,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3696,Marcus-David L. Peters,2018-05-14,shot and Tasered,unarmed,24,M,B,Richmond,VA,False,attack,Car,False
 3698,David M. Romansky,2018-05-15,shot,gun,34,M,,Lake Mary,FL,False,other,Car,False
 3705,Kevin Nickle,2018-05-16,shot,knife,59,M,,Martins Ferry,OH,False,other,Not fleeing,False
+3708,Daniel Johnson,2018-05-17,shot,gun,34,M,W,Norman,OK,False,attack,Not fleeing,False
 3703,TK TK,2018-05-18,shot,gun,,M,,Plymouth Township,MI,True,attack,Foot,False
 3704,TK TK,2018-05-18,shot,unknown weapon,,M,,Laredo,TX,False,other,,False
-3706,TK TK,2018-05-18,shot,unknown weapon,,M,,Gresham,OR,False,other,Car,False
+3706,Dmitri Bullard,2018-05-18,shot,hatchet,24,M,W,Gresham,OR,False,other,Car,False
 3700,Jimmy Alan Moss,2018-05-19,shot,vehicle,77,M,,Sunridge,NV,False,attack,,False
 3701,Corey Cordova,2018-05-19,shot,gun,30,M,,Columbus,OH,False,attack,Not fleeing,False
-3702,TK TK,2018-05-19,shot,gun,,M,,Pueblo,CO,False,attack,Not fleeing,False
+3702,Santiago Evans-Valencia,2018-05-19,shot,gun,36,M,H,Pueblo,CO,False,attack,Not fleeing,False
 3699,Bradley J. Grant,2018-05-20,shot,gun,36,M,,Baxter,KY,False,other,Foot,False
+3707,Ray Wyatt,2018-05-21,shot,gun,58,M,,Joshua Tree,CA,True,attack,Foot,False
+3709,TK TK,2018-05-22,shot,knife,,M,,Mathis,TX,False,other,Not fleeing,False
+3710,TK TK,2018-05-23,shot,gun,,F,,Gurnee,IL,False,attack,Other,False
