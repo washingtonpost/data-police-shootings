@@ -3324,7 +3324,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3674,Albert Odom,2018-05-07,shot,gun,26,M,W,Tulsa,OK,False,other,Not fleeing,True
 3675,Kimberly McCann,2018-05-07,shot,gun,55,F,W,Floyd County,GA,False,attack,Car,False
 3676,Milledge Hall,2018-05-07,shot,gun,63,M,,Johnston,SC,False,attack,Car,False
-3680,David J. Robinson,2018-05-07,shot,gun,50,M,W,Appleton,WI,False,other,Not fleeing,False
+3680,David J. Robinson,2018-05-07,shot,gun,50,M,W,Appleton,WI,True,other,Not fleeing,True
 3677,John Simson,2018-05-08,shot,gun,65,M,W,Lancaster,PA,False,attack,Not fleeing,False
 3678,Charles Hutchison,2018-05-08,shot,knife,37,M,,Tucson,AZ,False,other,Foot,False
 3679,Phillip Cameron Gibson,2018-05-08,shot,toy weapon,37,M,W,Glade Spring,VA,False,other,Other,False
@@ -3342,7 +3342,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3688,William N. Derick,2018-05-14,shot,gun,54,M,,Wales,ME,False,attack,Not fleeing,False
 3694,Rollie J. Davis,2018-05-14,shot,gun,53,M,W,Quincy,IL,False,other,Not fleeing,False
 3695,Bob Browning Cruz,2018-05-14,shot,gun,36,M,,San Antonio,TX,False,attack,Not fleeing,False
-3696,Marcus-David L. Peters,2018-05-14,shot and Tasered,unarmed,24,M,B,Richmond,VA,False,attack,Car,False
+3696,Marcus-David L. Peters,2018-05-14,shot and Tasered,unarmed,24,M,B,Richmond,VA,False,attack,Car,True
 3698,David M. Romansky,2018-05-15,shot,gun,34,M,,Lake Mary,FL,False,other,Car,False
 3705,Kevin Nickle,2018-05-16,shot,knife,59,M,,Martins Ferry,OH,False,other,Not fleeing,False
 3708,Daniel Timothy Johnson,2018-05-17,shot,gun,34,M,W,Norman,OK,False,attack,Not fleeing,False
@@ -3354,5 +3354,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3702,Santiago Evans-Valencia,2018-05-19,shot,gun,36,M,H,Pueblo,CO,False,attack,Not fleeing,False
 3699,Bradley J. Grant,2018-05-20,shot,gun,36,M,,Baxter,KY,False,other,Foot,False
 3707,Ray Wyatt,2018-05-21,shot,gun,58,M,,Joshua Tree,CA,True,attack,Foot,False
+3719,"Ronald Clinton, Jr.",2018-05-21,shot,vehicle,47,M,,West Memphis,AR,False,other,Car,False
 3709,Martin Sandejo,2018-05-22,shot,knife,49,M,,Mathis,TX,False,other,Not fleeing,False
 3710,Makell Meyerin,2018-05-23,shot,gun,31,F,W,Gurnee,IL,False,attack,Foot,False
+3720,TK TK,2018-05-23,shot,unarmed,,F,,Rio Bravo,TX,False,attack,Not fleeing,False
+3717,Dustin Odom,2018-05-24,shot,unarmed,30,M,W,Citra,FL,False,attack,Foot,False
+3718,Joshua Gomoll,2018-05-24,shot,knife,25,M,,Fox Crossing,WI,True,other,Not fleeing,False
+3715,Augustine Oliva,2018-05-25,shot,vehicle,29,M,,Dumas,TX,False,attack,Not fleeing,False
+3716,TK TK,2018-05-25,shot,knife,,M,,Mountain Home,ID,False,attack,Car,False
+3714,"Homer Woodroe Tyler, Jr.",2018-05-26,shot,gun,51,M,,Silsbee,TX,False,attack,Not fleeing,False
+3712,TK TK,2018-05-27,shot,knife,,M,,San Diego,CA,True,other,Not fleeing,False
+3713,TK TK,2018-05-27,shot,gun,,M,,Grand Junction,CO,False,attack,Not fleeing,False
+3711,Michael Glad,2018-05-28,shot,gun,23,M,W,West Jordan,UT,False,attack,Car,False
+3722,TK TK,2018-05-29,shot,gun,,M,,Phoenix,AZ,False,other,Not fleeing,False
+3724,Armando Osuna,2018-05-29,shot,metal pipe,51,M,,Riverbank,CA,False,attack,Not fleeing,False
+3721,TK TK,2018-05-30,shot,pick-axe,,M,,Los Angeles,CA,False,attack,Foot,False
