@@ -3354,18 +3354,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3702,Santiago Evans-Valencia,2018-05-19,shot,gun,36,M,H,Pueblo,CO,False,attack,Not fleeing,False
 3699,Bradley J. Grant,2018-05-20,shot,gun,36,M,,Baxter,KY,False,other,Foot,False
 3707,Ray Wyatt,2018-05-21,shot,gun,58,M,,Joshua Tree,CA,True,attack,Foot,False
-3719,"Ronald Clinton, Jr.",2018-05-21,shot,vehicle,47,M,,West Memphis,AR,False,other,Car,False
+3719,Ronald Clinton,2018-05-21,shot,vehicle,47,M,,West Memphis,AR,False,attack,Car,False
 3709,Martin Sandejo,2018-05-22,shot,knife,49,M,,Mathis,TX,False,other,Not fleeing,False
 3710,Makell Meyerin,2018-05-23,shot,gun,31,F,W,Gurnee,IL,False,attack,Foot,False
-3720,TK TK,2018-05-23,shot,unarmed,,F,,Rio Bravo,TX,False,attack,Not fleeing,False
-3717,Dustin Odom,2018-05-24,shot,unarmed,30,M,W,Citra,FL,False,attack,Foot,False
-3718,Joshua Gomoll,2018-05-24,shot,knife,25,M,,Fox Crossing,WI,True,other,Not fleeing,False
-3715,Augustine Oliva,2018-05-25,shot,vehicle,29,M,,Dumas,TX,False,attack,Not fleeing,False
-3716,TK TK,2018-05-25,shot,knife,,M,,Mountain Home,ID,False,attack,Car,False
-3714,"Homer Woodroe Tyler, Jr.",2018-05-26,shot,gun,51,M,,Silsbee,TX,False,attack,Not fleeing,False
-3712,TK TK,2018-05-27,shot,knife,,M,,San Diego,CA,True,other,Not fleeing,False
-3713,TK TK,2018-05-27,shot,gun,,M,,Grand Junction,CO,False,attack,Not fleeing,False
+3718,Joshua M. Gomoll,2018-05-23,shot,knife,25,M,,Fox Crossing,WI,True,other,Not fleeing,False
+3720,Claudia Patricia Gomez Gonzalez,2018-05-23,shot,unarmed,,F,H,Rio Bravo,TX,False,attack,Not fleeing,False
+3717,Dustin D. Odom,2018-05-24,shot,unarmed,30,M,W,Citra,FL,False,attack,Foot,True
+3715,Augustine Oliva,2018-05-25,shot,vehicle,29,M,W,Dumas,TX,False,attack,Not fleeing,False
+3716,TK TK,2018-05-25,shot,knife,,M,,Mountain Home,ID,False,other,Car,False
+3714,Homer Woodroe Tyler,2018-05-26,shot,gun,51,M,,Silsbee,TX,False,other,Not fleeing,False
+3712,Raul Rivera,2018-05-27,shot,knife,42,M,,San Diego,CA,True,other,Not fleeing,True
+3713,Eugene Baylis,2018-05-27,shot,gun,67,M,,Grand Junction,CO,False,attack,Not fleeing,False
 3711,Michael Glad,2018-05-28,shot,gun,23,M,W,West Jordan,UT,False,attack,Car,False
-3722,TK TK,2018-05-29,shot,gun,,M,,Phoenix,AZ,False,other,Not fleeing,False
+3722,Rabi Brown,2018-05-29,shot,gun,34,M,,Phoenix,AZ,False,other,Not fleeing,False
 3724,Armando Osuna,2018-05-29,shot,metal pipe,51,M,,Riverbank,CA,False,attack,Not fleeing,False
 3721,TK TK,2018-05-30,shot,pick-axe,,M,,Los Angeles,CA,False,attack,Foot,False
