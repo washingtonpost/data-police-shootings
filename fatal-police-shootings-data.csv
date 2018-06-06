@@ -3300,6 +3300,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3649,Shukri Ali Said,2018-04-28,shot,knife,36,F,A,Johns Creek,GA,True,other,Not fleeing,False
 3652,TK TK,2018-04-28,shot,gun,,M,,Northglenn,CO,False,other,Not fleeing,False
 3653,Nolberto Hernandez Leon,2018-04-28,shot,gun,26,M,,Elk Grove,CA,False,attack,Not fleeing,False
+3750,Joseph Hoffman,2018-04-28,shot,gun,41,M,,Casselberry,FL,False,attack,Not fleeing,False
 3650,Brandon Busher,2018-04-29,shot,unarmed,38,M,W,Shreveport,LA,False,attack,Foot,False
 3651,TK TK,2018-04-29,shot,undetermined,,M,,Redlands,CA,False,undetermined,Not fleeing,False
 3654,Michael Scott Knibbs,2018-04-29,shot,gun,47,M,W,Franklin,NC,False,attack,Not fleeing,False
@@ -3314,8 +3315,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3663,Damion Collier,2018-05-02,shot,gun,24,M,B,Columbus,GA,False,other,Car,False
 3664,Anthony Trujillo,2018-05-03,shot,machete,26,M,H,Orosi,CA,True,attack,Not fleeing,False
 3666,Sean Louis Justin,2018-05-03,shot,knife,28,M,W,Sandia,TX,False,attack,Not fleeing,False
+3742,Christopher Wolfe,2018-05-04,shot,gun,21,M,W,Terre Haute,IN,False,attack,Car,False
+3744,John Corneil,2018-05-04,shot,toy weapon,54,M,,Oakfield,ME,False,other,Not fleeing,False
 3670,Mitchell Simmons,2018-05-05,shot,gun,24,M,W,Kettering,OH,False,attack,Not fleeing,False
 3671,Stephen Charles Arthur,2018-05-05,shot,gun,51,M,,Scottsdale,AZ,False,attack,Foot,False
+3743,Matthew Mathison,2018-05-05,shot,gun,59,M,,Bexar County,TX,True,attack,Foot,False
+3745,Savannah Hill,2018-05-05,shot,vehicle,21,F,W,Aurora,MO,False,attack,Car,False
 3667,Dwight Dearth,2018-05-06,shot,gun,73,M,,Fairview,OH,True,attack,Not fleeing,False
 3668,Franklin Robert Vaughn,2018-05-06,shot,gun,39,M,W,Prague,OK,False,attack,Car,False
 3669,Terence Leslie,2018-05-06,shot,Taser,32,M,B,East Point,GA,False,attack,Car,False
@@ -3325,6 +3330,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3675,Kimberly McCann,2018-05-07,shot,gun,55,F,W,Floyd County,GA,False,attack,Car,False
 3676,Milledge Hall,2018-05-07,shot,gun,63,M,,Johnston,SC,False,attack,Car,False
 3680,David J. Robinson,2018-05-07,shot,gun,50,M,W,Appleton,WI,True,other,Not fleeing,True
+3747,Lisa Rivera,2018-05-07,shot,gun,49,F,H,Yuma,AZ,False,other,Not fleeing,False
+3748,Peter Boden,2018-05-07,shot,gun,48,M,W,Hackett,AR,False,attack,Not fleeing,False
 3677,John Simson,2018-05-08,shot,gun,65,M,W,Lancaster,PA,False,attack,Not fleeing,False
 3678,Charles Hutchison,2018-05-08,shot,knife,37,M,,Tucson,AZ,False,other,Foot,False
 3679,Phillip Cameron Gibson,2018-05-08,shot,toy weapon,37,M,W,Glade Spring,VA,False,other,Other,False
@@ -3332,6 +3339,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3683,Kenneth Carter,2018-05-10,shot,vehicle,46,M,,Morristown,TN,False,attack,Not fleeing,False
 3684,Michael E. Hutchman,2018-05-10,shot,gun,33,M,W,Lower Burrell,PA,False,other,Not fleeing,False
 3692,TK TK,2018-05-11,shot,gun,,M,,York,WI,False,attack,Car,False
+3746,Kelly Abbott,2018-05-11,shot,gun,51,M,,Clark County,WI,False,attack,Not fleeing,False
+3749,Benjamin Lee Sellers,2018-05-11,shot,knife,33,M,,Haughton,LA,True,other,Not fleeing,False
+3751,Barry Freeman,2018-05-11,shot,gun,51,M,,Evansville,IN,False,attack,Foot,False
+3752,Bradley Webster,2018-05-11,shot,gun,,M,,Talihina,OK,False,attack,Not fleeing,False
+3753,Jacob Eldridge,2018-05-11,shot,knife,24,M,,Blackfoot,ID,False,attack,Not fleeing,False
 3693,Darrell J. Bruffy,2018-05-12,shot,gun,55,M,W,Columbus,OH,False,attack,Car,False
 3686,Willie Rogers Marable,2018-05-13,shot,unknown weapon,28,M,B,Portsmouth,VA,False,other,Not fleeing,False
 3689,Philip Steven McMichael,2018-05-13,shot,gun,36,M,,Amite,LA,False,undetermined,,False
@@ -3382,4 +3394,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3730,TK TK,2018-06-02,shot,vehicle,,M,,Chicago,IL,False,attack,Car,False
 3728,Julio Eduardo Hernandez Mata,2018-06-03,shot,undetermined,32,M,H,Chickasha,OK,False,other,Car,False
 3729,TK TK,2018-06-03,shot,ax,,M,,Mecca,CA,False,other,Not fleeing,False
+3741,Rudy Molina,2018-06-03,shot,undetermined,34,M,,Jurupa Valley,CA,False,undetermined,Car,False
 3738,Joshua S. Stanford,2018-06-04,shot,gun,40,M,,Springfield,MO,False,attack,Foot,False
+3739,Able Guzman,2018-06-05,shot,gun,55,M,,Pearland,TX,True,attack,Not fleeing,False
+3740,Joshua Nash Bryant,2018-06-05,shot,unknown weapon,20,M,W,Wilmington,NC,True,other,Not fleeing,False
