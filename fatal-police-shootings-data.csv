@@ -3300,7 +3300,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3649,Shukri Ali Said,2018-04-28,shot,knife,36,F,A,Johns Creek,GA,True,other,Not fleeing,False
 3652,TK TK,2018-04-28,shot,gun,,M,,Northglenn,CO,False,other,Not fleeing,False
 3653,Nolberto Hernandez Leon,2018-04-28,shot,gun,26,M,,Elk Grove,CA,False,attack,Not fleeing,False
-3750,Joseph Hoffman,2018-04-28,shot,gun,41,M,,Casselberry,FL,False,attack,Not fleeing,False
+3750,Joseph L. Hoffman,2018-04-28,shot,gun,41,M,,Casselberry,FL,False,attack,Not fleeing,False
 3650,Brandon Busher,2018-04-29,shot,unarmed,38,M,W,Shreveport,LA,False,attack,Foot,False
 3651,TK TK,2018-04-29,shot,undetermined,,M,,Redlands,CA,False,undetermined,Not fleeing,False
 3654,Michael Scott Knibbs,2018-04-29,shot,gun,47,M,W,Franklin,NC,False,attack,Not fleeing,False
@@ -3315,7 +3315,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3663,Damion Collier,2018-05-02,shot,gun,24,M,B,Columbus,GA,False,other,Car,False
 3664,Anthony Trujillo,2018-05-03,shot,machete,26,M,H,Orosi,CA,True,attack,Not fleeing,False
 3666,Sean Louis Justin,2018-05-03,shot,knife,28,M,W,Sandia,TX,False,attack,Not fleeing,False
-3742,Christopher Wolfe,2018-05-04,shot,gun,21,M,W,Terre Haute,IN,False,attack,Car,False
+3742,Christopher A. Wolfe,2018-05-04,shot,gun,21,M,W,Terre Haute,IN,False,attack,Car,False
 3744,John Corneil,2018-05-04,shot,toy weapon,54,M,,Oakfield,ME,False,other,Not fleeing,False
 3670,Mitchell Simmons,2018-05-05,shot,gun,24,M,W,Kettering,OH,False,attack,Not fleeing,False
 3671,Stephen Charles Arthur,2018-05-05,shot,gun,51,M,,Scottsdale,AZ,False,attack,Foot,False
