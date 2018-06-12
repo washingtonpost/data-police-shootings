@@ -3339,8 +3339,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3683,Kenneth Carter,2018-05-10,shot,vehicle,46,M,,Morristown,TN,False,attack,Not fleeing,False
 3684,Michael E. Hutchman,2018-05-10,shot,gun,33,M,W,Lower Burrell,PA,False,other,Not fleeing,False
 3692,TK TK,2018-05-11,shot,gun,,M,,York,WI,False,attack,Car,False
-3746,Kelly Abbott,2018-05-11,shot,gun,51,M,,Clark County,WI,False,attack,Not fleeing,False
-3749,Benjamin Lee Sellers,2018-05-11,shot,knife,33,M,,Haughton,LA,True,other,Not fleeing,False
+3746,Kelly G. Abbott,2018-05-11,shot,gun,51,M,,Clark County,WI,False,attack,Car,False
+3749,Benjamin Lee Sellers,2018-05-11,shot,knife,33,M,W,Haughton,LA,False,other,Not fleeing,False
 3751,Barry Freeman,2018-05-11,shot,gun,51,M,,Evansville,IN,False,attack,Foot,False
 3752,Bradley Daniel Webster,2018-05-11,shot,gun,52,M,W,Talihina,OK,False,attack,Not fleeing,False
 3753,Jacob T. Eldridge,2018-05-11,shot,knife,24,M,,Blackfoot,ID,False,attack,Not fleeing,False
@@ -3394,10 +3394,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3730,TK TK,2018-06-02,shot,vehicle,,M,,Chicago,IL,False,attack,Car,False
 3728,Julio Eduardo Hernandez Mata,2018-06-03,shot,undetermined,32,M,H,Chickasha,OK,False,other,Car,False
 3729,TK TK,2018-06-03,shot,ax,,M,,Mecca,CA,False,other,Not fleeing,False
-3741,Rudy Molina,2018-06-03,shot,undetermined,34,M,,Jurupa Valley,CA,False,undetermined,Car,False
+3741,Rudy Molina,2018-06-03,shot,gun,34,M,,Jurupa Valley,CA,False,attack,Car,False
 3738,Joshua S. Stanford,2018-06-04,shot,gun,40,M,,Springfield,MO,False,attack,Foot,False
-3739,Able Guzman,2018-06-05,shot,gun,55,M,,Pearland,TX,True,attack,Not fleeing,False
-3740,Joshua Nash Bryant,2018-06-05,shot,unknown weapon,20,M,W,Wilmington,NC,True,other,Not fleeing,False
+3739,Abel Guzman,2018-06-05,shot,gun,55,M,,Pearland,TX,True,attack,Not fleeing,False
+3740,Joshua Nash Bryant,2018-06-05,shot,gun,20,M,W,Wilmington,NC,True,other,Not fleeing,False
 3755,Maurice Granton,2018-06-06,shot,gun,24,M,B,Chicago,IL,False,other,,False
 3757,Alan Goyano,2018-06-06,shot,undetermined,43,M,,Merrick,NY,False,undetermined,,False
 3758,Roger Dale Sims,2018-06-06,shot,gun,56,M,,LaGrange,GA,True,attack,Not fleeing,False
