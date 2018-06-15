@@ -3420,3 +3420,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3770,TK TK,2018-06-14,shot,gun,,F,,Denver,CO,False,attack,Not fleeing,False
 3772,Joseph Villanueva,2018-06-14,shot,gun,29,M,,Hall County,GA,False,attack,Foot,False
 3773,TK TK,2018-06-14,shot,gun and car,,M,,Las Vegas,NV,False,attack,Car,False
+3776,TK TK,2018-06-14,shot,gun,,M,,Kansas City,MO,False,attack,Not fleeing,False
+3778,TK TK,2018-06-14,shot,sword,,F,,Kansas City,MO,True,other,Not fleeing,False
+3779,TK TK,2018-06-14,shot,gun,,M,,Kansas City,MO,False,other,Not fleeing,False
+3780,TK TK,2018-06-14,shot,gun,,M,,Kirkland,WA,False,other,Not fleeing,False
