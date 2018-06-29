@@ -3448,5 +3448,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3804,TK TK,2018-06-23,shot,gun,,M,,Centennial,CO,False,attack,Car,False
 3798,Luis Argueta,2018-06-25,shot,unknown weapon,18,M,,Galveston,TX,False,undetermined,,False
 3803,TK TK,2018-06-25,shot,undetermined,,M,,Garland,TX,False,attack,Car,False
+3812,TK Tk,2018-06-25,shot,vehicle,,M,,Grenada,MS,False,other,Car,False
 3806,TK TK,2018-06-26,shot,undetermined,36,M,,Bend,OR,False,undetermined,,False
 3807,TK TK,2018-06-27,shot,gun,,M,,Aurora,CO,False,attack,Foot,False
+3808,TK TK,2018-06-29,shot,undetermined,,M,,Aurora,CO,False,undetermined,Not fleeing,False
+3809,Joshua Cartwright,2018-06-29,shot,gun,36,M,,Russellville,AR,False,attack,Not fleeing,False
+3810,TK TK,2018-06-29,shot,gun,,M,,Portland,OR,False,other,Not fleeing,False
+3811,James Palmquist,2018-06-29,shot,gun,54,M,,Dade City,FL,True,attack,Not fleeing,False
