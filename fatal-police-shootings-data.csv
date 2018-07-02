@@ -3436,22 +3436,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3788,TK TK,2018-06-19,shot,gun,,M,,Stone Mountain,GA,False,attack,Not fleeing,False
 3789,Antwon Rose,2018-06-19,shot,unarmed,17,M,B,Pittsburgh,PA,False,undetermined,Foot,False
 3791,Robert Roybal,2018-06-19,shot,knife,55,M,,Tucumcari,NM,False,attack,Not fleeing,False
-3792,Anthony Marcell Green,2018-06-20,shot,unarmed,33,M,B,Kingsland,GA,False,attack,Other,False
+3792,Anthony Marcell Green,2018-06-20,shot,unarmed,33,M,B,Kingsland,GA,False,attack,Foot,True
 3793,Jonathan Legg,2018-06-20,shot,gun,29,M,,Parma,OH,False,attack,Not fleeing,False
 3794,Jesse Wade Powell,2018-06-20,shot,undetermined,44,M,W,Bend,OR,False,undetermined,,False
 3795,TK TK,2018-06-22,shot,knife,,M,,Fairfield,OH,False,attack,Not fleeing,False
-3796,Thurman Blevins,2018-06-23,shot,undetermined,30,M,B,Minneapolis,MN,False,undetermined,Foot,True
-3797,Detandel Pickens Devon,2018-06-23,shot,knife,25,M,,Monroe,LA,False,attack,Not fleeing,False
+3796,Thurman Blevins,2018-06-23,shot,gun,30,M,B,Minneapolis,MN,False,attack,Foot,True
+3797,Detandel Pickens Devon,2018-06-23,shot,knife,25,M,B,Monroe,LA,False,attack,Not fleeing,False
 3800,TK TK,2018-06-23,shot,gun,,M,,San Diego,CA,False,attack,Not fleeing,False
 3801,Eric Sweet,2018-06-23,shot,gun,,M,,Coos Bay,OR,False,attack,Not fleeing,False
 3802,Robert L. Barton,2018-06-23,shot,gun and knife,48,M,,Meridian,ID,False,other,Not fleeing,False
 3804,TK TK,2018-06-23,shot,gun,,M,,Centennial,CO,False,attack,Car,False
 3798,Luis Argueta,2018-06-25,shot,unknown weapon,18,M,,Galveston,TX,False,undetermined,,False
-3803,TK TK,2018-06-25,shot,undetermined,,M,,Garland,TX,False,attack,Car,False
-3812,TK Tk,2018-06-25,shot,vehicle,,M,,Grenada,MS,False,other,Car,False
-3806,TK TK,2018-06-26,shot,undetermined,36,M,,Bend,OR,False,undetermined,,False
+3803,Bobby Blade,2018-06-25,shot,gun,29,M,,Garland,TX,False,attack,Car,False
 3807,TK TK,2018-06-27,shot,gun,,M,,Aurora,CO,False,attack,Foot,False
-3808,TK TK,2018-06-29,shot,undetermined,,M,,Aurora,CO,False,undetermined,Not fleeing,False
+3808,TK TK,2018-06-29,shot,undetermined,,M,,Aurora,CO,False,undetermined,Car,False
 3809,Joshua Cartwright,2018-06-29,shot,gun,36,M,,Russellville,AR,False,attack,Not fleeing,False
-3810,TK TK,2018-06-29,shot,gun,,M,,Portland,OR,False,other,Not fleeing,False
 3811,James Palmquist,2018-06-29,shot,gun,54,M,,Dade City,FL,True,attack,Not fleeing,False
