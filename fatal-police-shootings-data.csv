@@ -3448,7 +3448,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3798,Luis Argueta,2018-06-25,shot,unknown weapon,18,M,H,Galveston,TX,False,undetermined,,False
 3803,Bobby Blade,2018-06-25,shot,gun,29,M,,Garland,TX,False,attack,Car,False
 3807,TK TK,2018-06-27,shot,gun,,M,,Aurora,CO,False,attack,Foot,False
-3808,TK TK,2018-06-29,shot,undetermined,,M,,Aurora,CO,False,undetermined,Car,False
+3808,Anthony Sanchez,2018-06-29,shot,undetermined,36,M,,Aurora,CO,False,undetermined,Car,True
 3809,Joshua Cartwright,2018-06-29,shot,gun,36,M,,Russellville,AR,False,attack,Not fleeing,False
 3811,James Palmquist,2018-06-29,shot,gun,54,M,,Dade City,FL,True,attack,Not fleeing,False
 3813,TK TK,2018-06-29,shot,unknown weapon,,M,,Pomona,CA,False,undetermined,Car,False
@@ -3456,6 +3456,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3818,Chukwumankpam Mbegbu,2018-06-29,shot,gun,19,M,,Phoenix,AZ,False,attack,Not fleeing,False
 3819,Garry Glenn Lawrence,2018-06-29,shot,ax,36,M,,North Pole,AK,False,other,,False
 3820,Randy Thomas Groom,2018-06-29,shot,knife,33,M,,Lawrenceburg,TN,False,other,Foot,False
+3836,Steve Ballard,2018-06-29,shot,gun,56,M,,Waterford Township,MI,True,attack,Car,False
 3814,TK TK,2018-07-01,shot,metal object,,M,,Santa Ana,CA,False,undetermined,Not fleeing,False
 3816,TK TK,2018-07-01,shot,gun,,M,,Boise,ID,False,attack,Foot,False
 3817,Larry San Nicolas,2018-07-01,shot,sword,60,M,A,Grandview,MO,False,other,Not fleeing,False
@@ -3463,3 +3464,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3824,Frank Dripps,2018-07-03,shot,gun,52,M,,South Elgin,IL,False,attack,Not fleeing,False
 3821,Ryan Force,2018-07-04,shot,gun,35,M,,Spalding County,GA,True,attack,Not fleeing,True
 3822,TK TK,2018-07-04,shot,undetermined,,M,,Pueblo,CO,False,attack,,False
+3834,Abraham Noe Flores,2018-07-04,shot,gun,34,M,,Red Bluff,CA,True,other,Not fleeing,False
+3825,Daniel Fuller,2018-07-05,shot,unarmed,26,M,,Devil's Lake,ND,False,attack,Not fleeing,False
+3826,TK TK,2018-07-05,shot,knife,,M,,Louisville,KY,False,other,Not fleeing,False
+3827,TK TK,2018-07-05,shot,gun,,F,,Tempe,AZ,False,attack,Other,False
+3828,Charles Webb,2018-07-06,shot,gun,43,M,B,Overland Park,KS,False,attack,Not fleeing,False
+3830,Kelly Kenneth Sutton,2018-07-07,shot,undetermined,27,M,W,Amity,OR,False,undetermined,Foot,False
+3832,Harold Kraii,2018-07-07,shot,knife,52,M,W,Jacksonville,FL,True,attack,Not fleeing,False
+3835,TK TK,2018-07-07,shot,unknown weapon,,M,,Adams County,CO,False,attack,Other,False
+3829,TK TK,2018-07-08,shot,gun,,M,,Westminster,CA,False,other,Other,False
+3831,Craig Yelton,2018-07-08,shot,gun,34,M,,Tucson,AZ,False,other,Not fleeing,False
+3833,TK TK,2018-07-08,shot,gun,,M,,Grand Forks,ND,True,other,Not fleeing,False
