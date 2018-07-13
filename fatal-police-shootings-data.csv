@@ -3365,7 +3365,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3702,Santiago Evans-Valencia,2018-05-19,shot,gun,36,M,H,Pueblo,CO,False,attack,Not fleeing,False
 3699,Bradley J. Grant,2018-05-20,shot,gun,36,M,W,Baxter,KY,False,other,Foot,False
 3707,Ray Wyatt,2018-05-21,shot,gun,58,M,W,Joshua Tree,CA,True,attack,Foot,False
-3719,Ronald Clinton,2018-05-21,shot,vehicle,47,M,,West Memphis,AR,False,attack,Car,False
+3719,Ronald Clinton,2018-05-21,shot,vehicle,47,M,B,West Memphis,AR,False,attack,Car,False
 3709,Martin Sandejo,2018-05-22,shot,knife,49,M,H,Mathis,TX,False,other,Not fleeing,False
 3710,Makell Meyerin,2018-05-23,shot,gun,31,F,W,Gurnee,IL,False,attack,Foot,False
 3718,Joshua M. Gomoll,2018-05-23,shot,knife,25,M,W,Fox Crossing,WI,True,other,Not fleeing,False
@@ -3375,9 +3375,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3715,Augustine Oliva,2018-05-25,shot,vehicle,29,M,W,Dumas,TX,False,attack,Not fleeing,False
 3716,TK TK,2018-05-25,shot,knife,,M,,Mountain Home,ID,False,other,Car,False
 3736,Dustin Montano,2018-05-25,shot,undetermined,31,M,W,Fort Morgan,CO,True,other,Not fleeing,False
-3714,Homer Woodroe Tyler,2018-05-26,shot,gun,51,M,,Silsbee,TX,False,other,Not fleeing,False
-3712,Raul Rivera,2018-05-27,shot,knife,42,M,,San Diego,CA,True,other,Not fleeing,True
-3713,Eugene Baylis,2018-05-27,shot,gun,67,M,,Grand Junction,CO,False,attack,Not fleeing,False
+3714,Homer Woodroe Tyler,2018-05-26,shot,gun,51,M,W,Silsbee,TX,False,other,Not fleeing,False
+3712,Raul Rivera,2018-05-27,shot,knife,42,M,H,San Diego,CA,True,other,Not fleeing,True
+3713,Eugene Baylis,2018-05-27,shot,gun,67,M,W,Grand Junction,CO,False,attack,Not fleeing,False
 3735,TK TK,2018-05-27,shot,knife,,M,,Everton,MO,True,other,Not fleeing,False
 3711,Michael Glad,2018-05-28,shot,gun,23,M,W,West Jordan,UT,False,attack,Car,False
 3722,Rabi Brown,2018-05-29,shot,gun,34,M,N,Phoenix,AZ,False,other,Not fleeing,False
@@ -3487,3 +3487,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3829,TK TK,2018-07-08,shot,gun,,M,,Westminster,CA,False,other,Other,False
 3831,Craig Yelton,2018-07-08,shot,gun,34,M,W,Tucson,AZ,False,other,Not fleeing,False
 3833,TK TK,2018-07-08,shot,gun,,M,,Grand Forks,ND,True,other,Not fleeing,False
+3855,TK TK,2018-07-10,shot,knife,,M,,Garland,TX,False,attack,Not fleeing,False
+3856,Leonardo Cano,2018-07-10,shot,gun,53,M,H,Miami,FL,False,attack,Car,False
+3852,TK TK,2018-07-11,shot,knife,,F,,Willis,TX,False,other,Not fleeing,False
+3853,TK TK,2018-07-11,shot,toy weapon,,M,,Los Banos,CA,False,other,Not fleeing,False
+3854,TK TK,2018-07-11,shot,gun,,M,,Las Vegas,NV,False,attack,Car,False
