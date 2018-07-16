@@ -3402,7 +3402,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3758,Roger Dale Sims,2018-06-06,shot,gun,56,M,W,LaGrange,GA,True,attack,Not fleeing,False
 3805,Brian Puskas,2018-06-06,shot,gun,47,M,W,Delaware,OH,True,other,Not fleeing,False
 3850,Raymond Truitt,2018-06-07,shot,gun,28,M,,Gary,IN,False,attack,Not fleeing,False
-3851,Douglas Conner,2018-06-07,shot,gun,50,M,W,Benton City,WA,False,attack,Not fleeing,False
+3851,Douglas Conner,2018-06-07,shot,gun,50,M,W,Benton City,WA,False,other,Not fleeing,False
 3754,Wes Allen,2018-06-07,shot,gun,33,M,W,Albuquerque,NM,False,attack,Car,False
 3756,Leslie Yolanda Salazar,2018-06-07,shot,knife,20,F,,Austin,TX,False,other,,True
 3849,Todd Gregory,2018-06-08,shot,gun,47,M,W,Hardwick,NJ,False,attack,Car,False
@@ -3417,7 +3417,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3767,Marqueese Alston,2018-06-12,shot,gun,22,M,B,Washington,DC,False,attack,Not fleeing,False
 3768,Chavius Hollis,2018-06-12,shot,gun,26,M,B,Monroe,GA,True,attack,,False
 3769,Stephen Cogelia,2018-06-12,shot,knife,32,M,W,Hardwick,NJ,False,other,Not fleeing,False
-3848,Dillan Ezell,2018-06-13,shot,toy weapon,21,M,W,Eustis,FL,True,attack,Not fleeing,False
+3848,Dillan Shane Ezell,2018-06-13,shot,toy weapon,21,M,W,Eustis,FL,True,attack,Not fleeing,False
 3771,TK TK,2018-06-13,shot,gun,,M,,Denver,CO,False,attack,Foot,False
 3774,David Arthur,2018-06-13,shot,gun,44,M,W,Pike County,OH,False,attack,Not fleeing,False
 3775,TK TK,2018-06-13,shot,undetermined,,M,,Pike County,OH,False,undetermined,Not fleeing,False
@@ -3428,7 +3428,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3778,Ashley Dean Fulkerson,2018-06-14,shot,sword,28,F,W,Kansas City,MO,False,undetermined,Not fleeing,False
 3779,Robert A. White,2018-06-14,shot,gun,,M,W,Kansas City,MO,True,other,Not fleeing,False
 3780,Marcelo Castellano,2018-06-14,shot,gun,40,M,H,Kirkland,WA,False,other,Not fleeing,False
-3846,David Hicks,2018-06-15,shot,undetermined,40,M,,Nokomis,IL,False,undetermined,Foot,False
+3846,David L. Hicks,2018-06-15,shot,undetermined,40,M,,Nokomis,IL,False,other,Foot,False
 3781,Michael D. Fletcher,2018-06-16,shot,toy weapon,53,M,,Mesa,AZ,False,attack,Not fleeing,False
 3782,Dwayne Clyburn,2018-06-16,shot,knife,37,M,,Warwick,NY,False,other,Not fleeing,False
 3783,Richard Rivera,2018-06-16,shot,unarmed,47,M,H,Albuquerque,NM,False,attack,Car,False
@@ -3443,12 +3443,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3792,Anthony Marcell Green,2018-06-20,shot,unarmed,33,M,B,Kingsland,GA,False,attack,Foot,True
 3793,Jonathan Legg,2018-06-20,shot,gun,29,M,,Parma,OH,False,attack,Not fleeing,False
 3794,Jesse Wade Powell,2018-06-20,shot,undetermined,44,M,W,Bend,OR,False,undetermined,,False
-3842,Timothy Deal,2018-06-22,shot,knife,32,M,B,Atlantic City,NJ,False,attack,Not fleeing,True
-3843,Thomas Beall,2018-06-22,shot,knife,31,M,W,Harrisonburg,VA,False,attack,Not fleeing,False
+3842,Timothy Deal,2018-06-22,shot,knife,32,M,,Atlantic City,NJ,False,attack,Not fleeing,True
+3843,Thomas Albun Beall,2018-06-22,shot,knife,31,M,W,Harrisonburg,VA,False,attack,Not fleeing,False
 3844,TK TK,2018-06-22,shot,toy weapon,,M,,Inglewood,CA,True,attack,Not fleeing,False
-3845,Schuyler Lake,2018-06-22,shot,knife,20,M,W,Albany,NY,True,attack,Not fleeing,True
+3845,Schuyler Lake,2018-06-22,shot,knife,20,M,,Albany,NY,True,attack,Not fleeing,False
 3795,Logan Williamson,2018-06-22,shot,knife,37,M,W,Fairfield,OH,False,attack,Not fleeing,False
-3841,TK TK,2018-06-23,shot,bow and arrow,32,,,North Shore,HI,True,attack,Not fleeing,False
+3841,TK TK,2018-06-23,shot,bow and arrow,32,M,,North Shore,HI,True,attack,Not fleeing,False
 3796,Thurman Blevins,2018-06-23,shot,gun,30,M,B,Minneapolis,MN,False,attack,Foot,True
 3797,Detandel Pickens Devon,2018-06-23,shot,knife,25,M,B,Monroe,LA,False,attack,Not fleeing,False
 3800,TK TK,2018-06-23,shot,gun,,M,,San Diego,CA,False,attack,Not fleeing,False
@@ -3458,7 +3458,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3840,James Sorrentino,2018-06-25,shot,gun,36,M,,Prompton,PA,True,attack,Not fleeing,False
 3798,Luis Argueta,2018-06-25,shot,unknown weapon,18,M,H,Galveston,TX,False,undetermined,,False
 3803,Bobby Blade,2018-06-25,shot,gun,29,M,W,Garland,TX,False,attack,Car,False
-3838,William Shawn Mann,2018-06-25,shot,vehicle,,M,W,Grenada,MS,False,other,Car,False
+3838,William Shawn Mann,2018-06-25,shot,vehicle,30,M,W,Grenada,MS,False,other,Car,False
 3807,Joey Bronson,2018-06-27,shot,gun,39,M,W,Aurora,CO,False,attack,Foot,False
 3808,Anthony Sanchez,2018-06-29,shot,undetermined,36,M,,Aurora,CO,False,undetermined,Car,True
 3809,Joshua Cartwright,2018-06-29,shot,gun,36,M,W,Russellville,AR,False,attack,Not fleeing,False
@@ -3476,10 +3476,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3824,Frank Dripps,2018-07-03,shot,gun,52,M,,South Elgin,IL,False,attack,Not fleeing,False
 3821,Ryan Force,2018-07-04,shot,gun,35,M,,Spalding County,GA,True,attack,Not fleeing,True
 3822,TK TK,2018-07-04,shot,undetermined,,M,,Pueblo,CO,False,attack,,False
-3834,Abraham Noe Flores,2018-07-04,shot,gun,34,M,H,Red Bluff,CA,True,other,Not fleeing,False
+3834,Abraham Noe Flores,2018-07-04,shot,gun,34,M,H,Red Bluff,CA,True,attack,Not fleeing,False
 3825,Daniel Fuller,2018-07-05,shot,unarmed,26,M,,Devil's Lake,ND,False,attack,Not fleeing,False
-3826,TK TK,2018-07-05,shot,knife,,M,,Louisville,KY,False,other,Not fleeing,False
-3827,TK TK,2018-07-05,shot,gun,,F,,Tempe,AZ,False,attack,Other,False
+3826,Raad Fakhri Salman,2018-07-05,shot,knife,62,M,,Louisville,KY,False,other,Not fleeing,False
+3827,Sylvia Marie Bejarano,2018-07-05,shot,gun,33,F,,Tempe,AZ,False,attack,Other,False
 3828,Charles Webb,2018-07-06,shot,gun,43,M,B,Overland Park,KS,False,attack,Not fleeing,False
 3830,Kelly Kenneth Sutton,2018-07-07,shot,undetermined,27,M,W,Amity,OR,False,undetermined,Foot,False
 3832,Harold Kraii,2018-07-07,shot,knife,52,M,W,Jacksonville,FL,True,attack,Not fleeing,False
