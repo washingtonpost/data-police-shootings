@@ -3492,3 +3492,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3852,TK TK,2018-07-11,shot,knife,,F,,Willis,TX,False,other,Not fleeing,False
 3853,TK TK,2018-07-11,shot,toy weapon,,M,,Los Banos,CA,False,other,Not fleeing,False
 3854,TK TK,2018-07-11,shot,gun,,M,,Las Vegas,NV,False,attack,Car,False
+3861,Archer Amorosi,2018-07-13,shot,knife,16,M,,Chanhassen,MN,False,attack,Not fleeing,False
+3862,TK TK,2018-07-13,shot,gun,,M,H,Dilley,TX,False,attack,Not fleeing,True
+3857,Harith Augustus,2018-07-14,shot,gun,37,M,B,Chicago,IL,False,other,Foot,True
+3858,TK TK,2018-07-14,shot,gun,,M,B,Florence,SC,False,attack,Not fleeing,False
+3859,TK TK,2018-07-15,shot,gun,,M,,Kansas City,MO,False,attack,Not fleeing,False
+3860,TK TK,2018-07-15,shot,gun,,M,,Alvin,TX,True,attack,Not fleeing,False
+3863,TK TK,2018-07-15,shot,gun,,M,,Albuquerque,NM,False,other,Not fleeing,False
