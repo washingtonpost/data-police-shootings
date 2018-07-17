@@ -3477,25 +3477,24 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3821,Ryan Force,2018-07-04,shot,gun,35,M,,Spalding County,GA,True,attack,Not fleeing,True
 3822,TK TK,2018-07-04,shot,undetermined,,M,,Pueblo,CO,False,attack,,False
 3834,Abraham Noe Flores,2018-07-04,shot,gun,34,M,H,Red Bluff,CA,True,attack,Not fleeing,False
-3825,Daniel Fuller,2018-07-05,shot,unarmed,26,M,,Devil's Lake,ND,False,attack,Not fleeing,False
+3825,Daniel A. Fuller,2018-07-05,shot,unarmed,26,M,,Devil's Lake,ND,False,attack,Not fleeing,False
 3826,Raad Fakhri Salman,2018-07-05,shot,knife,62,M,,Louisville,KY,False,other,Not fleeing,False
 3827,Sylvia Marie Bejarano,2018-07-05,shot,gun,33,F,,Tempe,AZ,False,attack,Other,False
 3828,Charles Webb,2018-07-06,shot,gun,43,M,B,Overland Park,KS,False,attack,Not fleeing,False
 3830,Kelly Kenneth Sutton,2018-07-07,shot,undetermined,27,M,W,Amity,OR,False,undetermined,Foot,False
-3832,Harold Kraii,2018-07-07,shot,knife,52,M,W,Jacksonville,FL,True,attack,Not fleeing,False
+3832,Harold Kraai,2018-07-07,shot,knife,52,M,W,Jacksonville,FL,True,attack,Not fleeing,False
 3835,TK TK,2018-07-07,shot,unknown weapon,,M,,Adams County,CO,False,attack,Other,False
 3829,TK TK,2018-07-08,shot,gun,,M,,Westminster,CA,False,other,Other,False
-3831,Craig Yelton,2018-07-08,shot,gun,34,M,W,Tucson,AZ,False,other,Not fleeing,False
+3831,Craig Yelton,2018-07-08,shot,gun,34,M,,Tucson,AZ,False,other,Not fleeing,False
 3833,TK TK,2018-07-08,shot,gun,,M,,Grand Forks,ND,True,other,Not fleeing,False
 3855,TK TK,2018-07-10,shot,knife,,M,,Garland,TX,False,attack,Not fleeing,False
 3856,Leonardo Cano,2018-07-10,shot,gun,53,M,H,Miami,FL,False,attack,Car,False
 3852,TK TK,2018-07-11,shot,knife,,F,,Willis,TX,False,other,Not fleeing,False
 3853,TK TK,2018-07-11,shot,toy weapon,,M,,Los Banos,CA,False,other,Not fleeing,False
 3854,TK TK,2018-07-11,shot,gun,,M,,Las Vegas,NV,False,attack,Car,False
-3861,Archer Amorosi,2018-07-13,shot,knife,16,M,,Chanhassen,MN,False,attack,Not fleeing,False
+3861,Archer Amorosi,2018-07-13,shot and Tasered,knife,16,M,W,Chanhassen,MN,True,attack,Not fleeing,False
 3862,TK TK,2018-07-13,shot,gun,,M,H,Dilley,TX,False,attack,Not fleeing,True
 3857,Harith Augustus,2018-07-14,shot,gun,37,M,B,Chicago,IL,False,other,Foot,True
 3858,TK TK,2018-07-14,shot,gun,,M,B,Florence,SC,False,attack,Not fleeing,False
 3859,TK TK,2018-07-15,shot,gun,,M,,Kansas City,MO,False,attack,Not fleeing,False
 3860,TK TK,2018-07-15,shot,gun,,M,,Alvin,TX,True,attack,Not fleeing,False
-3863,TK TK,2018-07-15,shot,gun,,M,,Albuquerque,NM,False,other,Not fleeing,False
