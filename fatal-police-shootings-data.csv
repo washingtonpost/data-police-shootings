@@ -3481,6 +3481,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3826,Raad Fakhri Salman,2018-07-05,shot,knife,62,M,,Louisville,KY,False,other,Not fleeing,False
 3827,Sylvia Marie Bejarano,2018-07-05,shot,gun,33,F,,Tempe,AZ,False,attack,Other,False
 3828,Charles Webb,2018-07-06,shot,gun,43,M,B,Overland Park,KS,False,attack,Not fleeing,False
+3865,Rashaun Washington,2018-07-07,shot,unarmed,37,M,,Vineland,NJ,False,undetermined,,False
 3830,Kelly Kenneth Sutton,2018-07-07,shot,undetermined,27,M,W,Amity,OR,False,undetermined,Foot,False
 3832,Harold Kraai,2018-07-07,shot,knife,52,M,W,Jacksonville,FL,True,attack,Not fleeing,False
 3835,TK TK,2018-07-07,shot,unknown weapon,,M,,Adams County,CO,False,attack,Other,False
@@ -3498,3 +3499,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3858,TK TK,2018-07-14,shot,gun,,M,B,Florence,SC,False,attack,Not fleeing,False
 3859,TK TK,2018-07-15,shot,gun,,M,,Kansas City,MO,False,attack,Not fleeing,False
 3860,TK TK,2018-07-15,shot,gun,,M,,Alvin,TX,True,attack,Not fleeing,False
+3864,TK TK,2018-07-17,shot,undetermined,,M,,Altoona,IA,False,undetermined,Car,False
+3867,TK TK,2018-07-17,shot,gun,,M,,Sparks,NV,False,other,,False
+3868,TK TK,2018-07-17,shot,gun,,M,,Tucson,AZ,False,attack,Car,False
+3866,Arthur Lujan,2018-07-18,shot,gun,30,M,,Albuquerque,NM,False,attack,Not fleeing,False
