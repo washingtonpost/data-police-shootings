@@ -3383,7 +3383,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3722,Rabi Brown,2018-05-29,shot,gun,34,M,N,Phoenix,AZ,False,other,Not fleeing,False
 3724,Armando Osuna,2018-05-29,shot,metal pipe,51,M,H,Riverbank,CA,False,attack,Not fleeing,False
 3733,Zane Anthony James,2018-05-29,shot,,19,M,W,Cottonwood Heights,UT,False,undetermined,Car,False
-3721,TK TK,2018-05-30,shot,pick-axe,,M,,Los Angeles,CA,False,attack,Foot,False
+3721,Bryan Rodriguez,2018-05-30,shot,pick-axe,29,M,H,Los Angeles,CA,False,attack,Foot,True
 3734,Juvan Simon,2018-05-30,shot,gun,23,M,B,Florida City,FL,False,other,Not fleeing,False
 3725,Katherine Brazeau,2018-05-31,shot,knife,46,F,W,Fullerton,CA,True,other,Not fleeing,False
 3726,Jerick Rasheem Gray,2018-05-31,shot,knife,42,M,B,Thomasville,NC,False,attack,Car,False
@@ -3499,7 +3499,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3858,TK TK,2018-07-14,shot,gun,,M,B,Florence,SC,False,attack,Not fleeing,False
 3859,TK TK,2018-07-15,shot,gun,,M,,Kansas City,MO,False,attack,Not fleeing,False
 3860,TK TK,2018-07-15,shot,gun,,M,,Alvin,TX,True,attack,Not fleeing,False
-3864,TK TK,2018-07-17,shot,undetermined,,M,,Altoona,IA,False,other,Car,False
+3864,Isaiah Hayes,2018-07-17,shot,undetermined,25,M,,Altoona,IA,False,other,Car,False
 3867,Rolando Brizuela,2018-07-17,shot,gun,57,M,,Sparks,NV,False,other,,False
 3868,Juan Manuel Correa-Leyva,2018-07-17,shot,gun,27,M,H,Tucson,AZ,False,attack,Car,False
 3866,Arthur Lujan,2018-07-18,shot,gun,30,M,,Albuquerque,NM,False,attack,Not fleeing,False
+3869,Wesley Shelton,2018-07-18,shot,gun,33,M,W,Fletcher,NC,False,other,Not fleeing,False
+3872,Mickey Coy,2018-07-18,shot,gun,,M,W,Pattison,TX,False,other,Not fleeing,False
+3870,Luis Cruz,2018-07-19,shot,gun,19,M,,Peoria,IL,False,other,Other,False
+3871,Carmen Pizarro,2018-07-19,shot,gun,22,M,,Pico Rivera,CA,False,other,Other,False
