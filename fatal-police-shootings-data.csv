@@ -3503,7 +3503,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3867,Rolando Brizuela,2018-07-17,shot,gun,57,M,,Sparks,NV,False,other,,False
 3868,Juan Manuel Correa-Leyva,2018-07-17,shot,gun,27,M,H,Tucson,AZ,False,attack,Car,False
 3866,Arthur Lujan,2018-07-18,shot,gun,30,M,,Albuquerque,NM,False,attack,Not fleeing,False
-3869,Wesley Shelton,2018-07-18,shot,gun,33,M,W,Fletcher,NC,False,other,Not fleeing,False
-3872,Mickey Coy,2018-07-18,shot,gun,,M,W,Pattison,TX,False,other,Not fleeing,False
-3870,Luis Cruz,2018-07-19,shot,gun,19,M,,Peoria,IL,False,other,Other,False
+3869,Wesley Shelton,2018-07-18,shot,gun,33,M,W,Fletcher,NC,False,attack,Not fleeing,False
+3872,Mickey Coy,2018-07-18,shot,gun,,M,W,Pattison,TX,False,attack,Not fleeing,False
+3870,Luis Cruz,2018-07-19,shot,gun,19,M,,Peoria,IL,False,other,Foot,False
 3871,Carmen Pizarro,2018-07-19,shot,gun,22,M,,Pico Rivera,CA,False,other,Other,False
