@@ -3514,3 +3514,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3879,Dale Slocum,2018-07-21,shot,knife,56,M,W,Toledo,OH,False,attack,Not fleeing,False
 3873,TK TK,2018-07-22,shot,vehicle,,M,,Bixby,OK,False,attack,Car,False
 3875,TK TK,2018-07-22,shot,gun,,M,,Colorado Springs,CO,False,attack,Not fleeing,False
+3881,TK TK,2018-07-23,shot,machete,,M,,Burlington,VT,True,other,Not fleeing,False
+3883,Paul Meade,2018-07-23,shot,gun,71,M,,Bristol,VA,True,attack,Not fleeing,False
+3882,TK TK,2018-07-24,shot,vehicle,,F,,Soddy-Daisy,TN,False,attack,Car,False
+3886,Devaughdre Delsha Rogers,2018-07-24,shot,gun,20,M,B,Starke,FL,False,other,Car,False
+3887,TK TK,2018-07-24,shot,undetermined,,M,,Seaside,OR,False,undetermined,Not fleeing,False
+3885,TK TK,2018-07-25,shot,vehicle,,M,,Spokane,WA,False,attack,Car,False
