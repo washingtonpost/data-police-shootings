@@ -3530,6 +3530,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3892,Kenneth Edwin Martell,2018-07-26,shot,gun,36,M,W,Lakemoor,IL,False,other,Not fleeing,False
 3901,Sergio Acosta,2018-07-26,shot,toy weapon,24,M,,Redondo Beach,CA,False,undetermined,Not fleeing,False
 3905,Iman Joseph Buford,2018-07-26,shot,gun,30,M,,Springdale,AR,False,attack,Not fleeing,False
+3906,William Bacorn,2018-07-26,shot,gun,18,M,,Hanover,CO,False,attack,Not fleeing,False
 3898,Cynthia Fields,2018-07-27,shot,unarmed,60,F,,Savannah,GA,False,other,,False
 3896,Lamar C. Richardson,2018-07-28,shot,gun,25,M,B,Toledo,OH,False,other,Foot,False
 3897,Joseph Santos,2018-07-28,shot,undetermined,44,M,,South Whitehall Township,PA,False,undetermined,Not fleeing,False
@@ -3537,3 +3538,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3904,Arthur Kenzie Garner,2018-07-28,shot,gun,33,M,W,Aberdeen,NC,False,attack,Not fleeing,False
 3900,TK TK,2018-07-29,shot,vehicle,,M,,Adams County,CO,False,attack,Car,False
 3899,Richard Gary Black,2018-07-30,shot,gun,,M,,Aurora,CO,False,other,Not fleeing,False
+3908,James Edward Blackmon,2018-07-31,shot,gun,35,M,,Mississippi County,AR,False,attack,Foot,False
+3907,TK TK,2018-08-01,shot,unknown weapon,,M,,Oxon Hill,MD,False,other,Foot,False
+3909,David Judge,2018-08-01,shot,gun,53,M,,Tucson,AZ,False,other,Not fleeing,False
+3910,TK TK,2018-08-01,shot,gun,35,M,,Hereford,TX,False,attack,Not fleeing,False
+3911,TK TK,2018-08-01,shot,gun,42,M,,Sussex County,VA,False,attack,Car,False
