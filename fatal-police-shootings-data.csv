@@ -3531,7 +3531,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3901,Sergio Acosta,2018-07-26,shot,toy weapon,24,M,,Redondo Beach,CA,False,undetermined,Not fleeing,False
 3905,Iman Joseph Buford,2018-07-26,shot,gun,30,M,,Springdale,AR,False,attack,Not fleeing,False
 3906,William Bacorn,2018-07-26,shot,gun,18,M,,Hanover,CO,False,attack,Not fleeing,False
-3898,Cynthia Fields,2018-07-27,shot,unarmed,60,F,,Savannah,GA,False,other,,False
+3898,Cynthia Fields,2018-07-27,shot,unarmed,60,F,B,Savannah,GA,False,other,,False
 3896,Lamar C. Richardson,2018-07-28,shot,gun,25,M,B,Toledo,OH,False,other,Foot,False
 3897,Joseph Santos,2018-07-28,shot,undetermined,44,M,,South Whitehall Township,PA,False,undetermined,Not fleeing,False
 3902,Michael Neal,2018-07-28,shot,undetermined,32,M,,Pineville,LA,False,undetermined,Car,False
@@ -3543,3 +3543,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3909,David Judge,2018-08-01,shot,gun,53,M,,Tucson,AZ,False,other,Not fleeing,False
 3910,Jonathan Joey Mendoza,2018-08-01,shot,gun,35,M,,Hereford,TX,False,attack,Not fleeing,False
 3911,Tramaine Marquese Poole,2018-08-01,shot,gun,41,M,,Sussex County,VA,False,attack,Car,False
+3924,Michael Gonzalez,2018-08-02,shot,vehicle,57,M,,Westminster,CO,False,attack,Car,False
+3925,TK TK,2018-08-02,shot,toy weapon,18,M,,Apopka,FL,False,attack,Not fleeing,False
+3919,Danny Lee,2018-08-03,shot,gun,34,M,,Pine Bluff,AR,False,attack,Not fleeing,False
+3920,Johnny Kelley,2018-08-03,shot,gun,49,M,W,Trumann,AR,True,attack,Not fleeing,False
+3923,TK TK,2018-08-03,shot,gun,,M,,Deer Park,WA,True,attack,Not fleeing,False
+3926,Emmanuel Alquisiras,2018-08-03,shot,Taser,29,M,B,Seville,FL,False,other,Not fleeing,True
+3921,Eric Richards,2018-08-04,shot,gun,33,M,,Liberty,MO,True,attack,Not fleeing,False
+3922,John Randolph,2018-08-04,shot,gun,38,M,,Delray Beach,FL,True,other,Not fleeing,False
+3913,TK TK,2018-08-05,shot,gun,,M,,St. Paul,MN,False,other,Not fleeing,True
+3914,Kevin Rhinehart,2018-08-05,shot,gun,,M,,Hesperia,CA,False,other,Not fleeing,False
+3916,James Bishop,2018-08-05,shot,undetermined,29,M,,Las Cruces,NM,True,undetermined,Not fleeing,False
+3918,Johnny Fisher,2018-08-05,shot,gun,68,M,,Van Buren,AR,False,attack,Not fleeing,False
+3912,TK TK,2018-08-06,shot,undetermined,,M,,Las Vegas,NV,True,undetermined,Not fleeing,False
+3927,Levester Taylor,2018-08-06,shot,metal pipe,39,M,B,Atlanta,GA,False,attack,Not fleeing,False
