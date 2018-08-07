@@ -3470,12 +3470,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3820,Randy Thomas Groom,2018-06-29,shot,knife,33,M,W,Lawrenceburg,TN,False,other,Foot,False
 3836,Steve Ballard,2018-06-29,shot,gun,56,M,W,Waterford Township,MI,True,attack,Car,False
 3814,TK TK,2018-07-01,shot,metal object,,M,,Santa Ana,CA,False,undetermined,Not fleeing,False
-3816,TK TK,2018-07-01,shot,gun,,M,,Boise,ID,False,attack,Foot,False
+3816,Daniel Norris,2018-07-01,shot,gun,33,M,,Boise,ID,False,attack,Foot,False
 3817,Larry San Nicolas,2018-07-01,shot,sword,60,M,A,Grandview,MO,False,other,Not fleeing,False
 3823,Joshua B. Reed,2018-07-01,shot,knife,26,M,,Panora,IA,False,other,Not fleeing,False
 3824,Frank Dripps,2018-07-03,shot,gun,52,M,,South Elgin,IL,False,attack,Not fleeing,False
 3821,Ryan Force,2018-07-04,shot,gun,35,M,,Spalding County,GA,True,attack,Not fleeing,True
-3822,TK TK,2018-07-04,shot,undetermined,,M,,Pueblo,CO,False,attack,,False
+3822,Emmanuel Bitsuie,2018-07-04,shot,undetermined,32,M,,Pueblo,CO,False,attack,,False
 3834,Abraham Noe Flores,2018-07-04,shot,gun,34,M,H,Red Bluff,CA,True,attack,Not fleeing,False
 3825,Daniel A. Fuller,2018-07-05,shot,unarmed,26,M,,Devil's Lake,ND,False,attack,Not fleeing,False
 3826,Raad Fakhri Salman,2018-07-05,shot,knife,62,M,,Louisville,KY,False,other,Not fleeing,False
@@ -3487,18 +3487,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3835,TK TK,2018-07-07,shot,unknown weapon,,M,,Adams County,CO,False,attack,Other,False
 3829,TK TK,2018-07-08,shot,gun,,M,,Westminster,CA,False,other,Other,False
 3831,Craig Yelton,2018-07-08,shot,gun,34,M,,Tucson,AZ,False,other,Not fleeing,False
-3833,TK TK,2018-07-08,shot,gun,,M,,Grand Forks,ND,True,other,Not fleeing,False
-3855,TK TK,2018-07-10,shot,knife,,M,,Garland,TX,False,attack,Not fleeing,False
+3833,John Francis Murphy,2018-07-08,shot,gun,41,M,,Grand Forks,ND,True,other,Not fleeing,False
+3855,Shaun Gates,2018-07-10,shot,knife,40,M,,Garland,TX,False,attack,Not fleeing,False
 3856,Leonardo Cano,2018-07-10,shot,gun,53,M,H,Miami,FL,False,attack,Car,False
 3852,TK TK,2018-07-11,shot,knife,,F,,Willis,TX,False,other,Not fleeing,False
-3853,TK TK,2018-07-11,shot,toy weapon,,M,,Los Banos,CA,False,other,Not fleeing,False
-3854,TK TK,2018-07-11,shot,gun,,M,,Las Vegas,NV,False,attack,Car,False
+3853,Salome Ramirez,2018-07-11,shot,toy weapon,34,M,,Los Banos,CA,False,other,Not fleeing,False
+3854,Fidel Miranda,2018-07-11,shot,gun,22,M,H,Las Vegas,NV,False,attack,Car,False
 3861,Archer Amorosi,2018-07-13,shot and Tasered,knife,16,M,W,Chanhassen,MN,True,attack,Not fleeing,False
-3862,TK TK,2018-07-13,shot,gun,,M,H,Dilley,TX,False,attack,Not fleeing,True
+3862,Juan Luna,2018-07-13,shot,gun,25,M,H,Dilley,TX,False,attack,Not fleeing,True
 3857,Harith Augustus,2018-07-14,shot,gun,37,M,B,Chicago,IL,False,other,Foot,True
-3858,TK TK,2018-07-14,shot,gun,,M,B,Florence,SC,False,attack,Not fleeing,False
-3859,TK TK,2018-07-15,shot,gun,,M,,Kansas City,MO,False,attack,Not fleeing,False
-3860,TK TK,2018-07-15,shot,gun,,M,,Alvin,TX,True,attack,Not fleeing,False
+3858,Jethro Benjamin,2018-07-14,shot,gun,68,M,B,Florence,SC,False,attack,Not fleeing,False
+3859,Marlin Mack,2018-07-15,shot,gun,25,M,,Kansas City,MO,False,attack,Not fleeing,False
+3860,Isaac Chapa,2018-07-15,shot,gun,34,M,,Alvin,TX,True,attack,Not fleeing,False
 3864,Isaiah Hayes,2018-07-17,shot,undetermined,25,M,,Altoona,IA,False,other,Car,False
 3867,Rolando Brizuela,2018-07-17,shot,gun,57,M,,Sparks,NV,False,other,,False
 3868,Juan Manuel Correa-Leyva,2018-07-17,shot,gun,27,M,H,Tucson,AZ,False,attack,Car,False
@@ -3544,16 +3544,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3910,Jonathan Joey Mendoza,2018-08-01,shot,gun,35,M,,Hereford,TX,False,attack,Not fleeing,False
 3911,Tramaine Marquese Poole,2018-08-01,shot,gun,41,M,,Sussex County,VA,False,attack,Car,False
 3924,Michael Gonzalez,2018-08-02,shot,vehicle,57,M,,Westminster,CO,False,attack,Car,False
-3925,TK TK,2018-08-02,shot,toy weapon,18,M,,Apopka,FL,False,attack,Not fleeing,False
+3925,Landon Christopher Wooten,2018-08-02,shot,toy weapon,18,M,,Apopka,FL,False,attack,Not fleeing,False
 3919,Danny Lee,2018-08-03,shot,gun,34,M,,Pine Bluff,AR,False,attack,Not fleeing,False
 3920,Johnny Kelley,2018-08-03,shot,gun,49,M,W,Trumann,AR,True,attack,Not fleeing,False
 3923,TK TK,2018-08-03,shot,gun,,M,,Deer Park,WA,True,attack,Not fleeing,False
-3926,Emmanuel Alquisiras,2018-08-03,shot,Taser,29,M,B,Seville,FL,False,other,Not fleeing,True
-3921,Eric Richards,2018-08-04,shot,gun,33,M,,Liberty,MO,True,attack,Not fleeing,False
+3926,Emmanuel Alquisiras,2018-08-03,shot,Taser,29,M,H,Seville,FL,False,other,Not fleeing,True
+3921,Eric Benjamen Richards,2018-08-04,shot,gun,33,M,,Liberty,MO,True,attack,Not fleeing,False
 3922,John Randolph,2018-08-04,shot,gun,38,M,,Delray Beach,FL,True,other,Not fleeing,False
-3913,TK TK,2018-08-05,shot,gun,,M,,St. Paul,MN,False,other,Not fleeing,True
-3914,Kevin Rhinehart,2018-08-05,shot,gun,,M,,Hesperia,CA,False,other,Not fleeing,False
+3913,"William ""Billy"" James Hughes",2018-08-05,shot,gun,43,M,N,St. Paul,MN,False,other,Not fleeing,True
+3914,Kevin Rhinehart,2018-08-05,shot,gun,58,M,,Hesperia,CA,False,other,Not fleeing,False
 3916,James Bishop,2018-08-05,shot,undetermined,29,M,,Las Cruces,NM,True,undetermined,Not fleeing,False
 3918,Johnny Fisher,2018-08-05,shot,gun,68,M,,Van Buren,AR,False,attack,Not fleeing,False
-3912,TK TK,2018-08-06,shot,undetermined,,M,,Las Vegas,NV,True,undetermined,Not fleeing,False
-3927,Levester Taylor,2018-08-06,shot,metal pipe,39,M,B,Atlanta,GA,False,attack,Not fleeing,False
+3912,TK TK,2018-08-06,shot,knife,,M,,Las Vegas,NV,True,attack,Not fleeing,False
+3927,Levester Taylor,2018-08-06,shot,metal pipe,39,M,,Atlanta,GA,False,attack,Not fleeing,False
