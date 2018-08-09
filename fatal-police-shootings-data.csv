@@ -3473,6 +3473,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3816,Daniel Norris,2018-07-01,shot,gun,33,M,,Boise,ID,False,attack,Foot,False
 3817,Larry San Nicolas,2018-07-01,shot,sword,60,M,A,Grandview,MO,False,other,Not fleeing,False
 3823,Joshua B. Reed,2018-07-01,shot,knife,26,M,,Panora,IA,False,other,Not fleeing,False
+3930,Lemuel Bunn,2018-07-03,shot,knife,40,M,,Fayetteville,NC,False,attack,Not fleeing,False
 3824,Frank Dripps,2018-07-03,shot,gun,52,M,,South Elgin,IL,False,attack,Not fleeing,False
 3821,Ryan Force,2018-07-04,shot,gun,35,M,,Spalding County,GA,True,attack,Not fleeing,True
 3822,Emmanuel Bitsuie,2018-07-04,shot,undetermined,32,M,,Pueblo,CO,False,attack,,False
@@ -3524,7 +3525,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3889,Gavalynn Mahuka,2018-07-25,shot,gun,53,M,O,Nanakuli,HI,False,attack,Not fleeing,False
 3893,DMario Perkins,2018-07-25,shot,gun,29,M,B,Memphis,TN,True,attack,Not fleeing,True
 3894,Jose Luis Rodriguez,2018-07-25,shot,gun,,M,H,Amarillo,TX,False,other,Not fleeing,False
-3888,Daniel Hambrick,2018-07-26,shot,gun,25,M,B,Nashville,TN,False,other,Car,False
+3888,Daniel Hambrick,2018-07-26,shot,gun,25,M,B,Nashville,TN,False,other,Car,True
 3890,William Earnest Brooks,2018-07-26,shot,gun,43,M,,Walton County,GA,False,attack,Foot,False
 3891,Jesus Hernandez Murillo,2018-07-26,shot,gun,18,M,H,Kent Station,WA,False,other,Not fleeing,False
 3892,Kenneth Edwin Martell,2018-07-26,shot,gun,36,M,W,Lakemoor,IL,False,other,Not fleeing,False
@@ -3548,7 +3549,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3919,Danny Lee,2018-08-03,shot,gun,34,M,,Pine Bluff,AR,False,attack,Not fleeing,False
 3920,Johnny Kelley,2018-08-03,shot,gun,49,M,W,Trumann,AR,True,attack,Not fleeing,False
 3923,TK TK,2018-08-03,shot,gun,,M,,Deer Park,WA,True,attack,Not fleeing,False
-3926,Emmanuel Alquisiras,2018-08-03,shot,Taser,29,M,H,Seville,FL,False,other,Not fleeing,True
+3926,Emmanuel Alquisiras,2018-08-03,shot,Taser,29,M,H,Seville,FL,True,other,Not fleeing,True
 3921,Eric Benjamen Richards,2018-08-04,shot,gun,33,M,,Liberty,MO,True,attack,Not fleeing,False
 3922,John Randolph,2018-08-04,shot,gun,38,M,,Delray Beach,FL,True,other,Not fleeing,False
 3913,"William ""Billy"" James Hughes",2018-08-05,shot,gun,43,M,N,St. Paul,MN,False,other,Not fleeing,True
@@ -3557,3 +3558,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3918,Johnny Fisher,2018-08-05,shot,gun,68,M,,Van Buren,AR,False,attack,Not fleeing,False
 3912,TK TK,2018-08-06,shot,knife,,M,,Las Vegas,NV,True,attack,Not fleeing,False
 3927,Levester Taylor,2018-08-06,shot,metal pipe,39,M,,Atlanta,GA,False,attack,Not fleeing,False
+3928,Ricardo Giddings,2018-08-06,shot,gun,59,M,,Philadelphia,PA,False,attack,Not fleeing,False
+3929,TK TK,2018-08-07,shot,gun,,M,,Monroe County,IN,False,other,Not fleeing,False
+3932,TK TK,2018-08-07,shot,gun,70,M,,Los Angeles,CA,False,other,,False
+3933,TK TK,2018-08-07,shot,undetermined,,M,,Salt River Reservation,AZ,False,undetermined,Other,False
+3934,Michael Ducote,2018-08-07,shot,vehicle,26,M,W,Shreveport,LA,False,other,Car,False
+3931,Joseph Robbins,2018-08-08,shot,vehicle,24,M,,Carthage,TN,False,attack,Not fleeing,False
+3936,TK TK,2018-08-08,shot,machete,,M,,San Diego,CA,False,attack,Not fleeing,False
+3938,TK TK,2018-08-08,shot,knife,,M,,Las Vegas,NV,True,attack,Not fleeing,True
+3939,Daniel Boyer,2018-08-08,shot,gun,24,M,W,Bloomington,IN,False,attack,Not fleeing,True
+3940,TK TK,2018-08-08,shot,knife,,M,,Omaha,NE,False,attack,Not fleeing,False
+3935,TK TK,2018-08-09,shot,gun,48,M,,Philadelphia,PA,False,attack,Foot,False
+3937,TK TK,2018-08-09,shot,gun,,M,,Durham,NC,True,attack,Not fleeing,False
