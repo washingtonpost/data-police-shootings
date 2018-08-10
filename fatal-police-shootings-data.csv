@@ -3514,8 +3514,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3878,Anthony C. Lopez,2018-07-21,shot,,21,M,H,Mesa,AZ,False,attack,Not fleeing,False
 3879,Dale Slocum,2018-07-21,shot,knife,56,M,W,Toledo,OH,False,attack,Not fleeing,False
 3895,Melyda Marciela Corado,2018-07-21,shot,unarmed,27,F,H,Los Angeles,CA,False,other,Foot,True
-3873,TK TK,2018-07-22,shot,vehicle,,M,,Bixby,OK,False,attack,Car,False
-3875,TK TK,2018-07-22,shot,gun,,M,,Colorado Springs,CO,False,attack,Not fleeing,False
+3873,Logan Simpson,2018-07-22,shot,vehicle,16,M,,Bixby,OK,False,attack,Car,False
+3906,William Bacorn,2018-07-22,shot,gun,18,M,,Hanover,CO,False,attack,Not fleeing,False
 3881,Rosalio Hernandez Ortega,2018-07-23,shot,machete,33,M,H,Burlington,NC,True,other,Not fleeing,False
 3883,Paul Meade,2018-07-23,shot,gun,71,M,,Bristol,VA,True,attack,Not fleeing,False
 3882,Donna Lynn Allen,2018-07-24,shot,vehicle,39,F,,Soddy-Daisy,TN,False,attack,Car,False
@@ -3531,7 +3531,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3892,Kenneth Edwin Martell,2018-07-26,shot,gun,36,M,W,Lakemoor,IL,False,other,Not fleeing,False
 3901,Sergio Acosta,2018-07-26,shot,toy weapon,24,M,,Redondo Beach,CA,False,undetermined,Not fleeing,False
 3905,Iman Joseph Buford,2018-07-26,shot,gun,30,M,,Springdale,AR,False,attack,Not fleeing,False
-3906,William Bacorn,2018-07-26,shot,gun,18,M,,Hanover,CO,False,attack,Not fleeing,False
 3898,Cynthia Fields,2018-07-27,shot,unarmed,60,F,B,Savannah,GA,False,other,,False
 3896,Lamar C. Richardson,2018-07-28,shot,gun,25,M,B,Toledo,OH,False,other,Foot,False
 3897,Joseph Santos,2018-07-28,shot,undetermined,44,M,,South Whitehall Township,PA,False,undetermined,Not fleeing,False
@@ -3559,14 +3558,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3912,TK TK,2018-08-06,shot,knife,,M,,Las Vegas,NV,True,attack,Not fleeing,False
 3927,Levester Taylor,2018-08-06,shot,metal pipe,39,M,,Atlanta,GA,False,attack,Not fleeing,False
 3928,Ricardo Giddings,2018-08-06,shot,gun,59,M,,Philadelphia,PA,False,attack,Not fleeing,False
-3929,TK TK,2018-08-07,shot,gun,,M,,Monroe County,IN,False,other,Not fleeing,False
+3929,Daniel Boyer,2018-08-07,shot,gun,24,M,W,Monroe County,IN,False,attack,Not fleeing,False
 3932,TK TK,2018-08-07,shot,gun,70,M,,Los Angeles,CA,False,other,,False
-3933,TK TK,2018-08-07,shot,undetermined,,M,,Salt River Reservation,AZ,False,undetermined,Other,False
+3933,Pedro Lucero,2018-08-07,shot,undetermined,42,M,H,Salt River Reservation,AZ,False,undetermined,Other,False
 3934,Michael Ducote,2018-08-07,shot,vehicle,26,M,W,Shreveport,LA,False,other,Car,False
 3931,Joseph Robbins,2018-08-08,shot,vehicle,24,M,,Carthage,TN,False,attack,Not fleeing,False
-3936,TK TK,2018-08-08,shot,machete,,M,,San Diego,CA,False,attack,Not fleeing,False
+3936,TK TK,2018-08-08,shot,chain,,M,,San Diego,CA,False,attack,Not fleeing,False
 3938,TK TK,2018-08-08,shot,knife,,M,,Las Vegas,NV,True,attack,Not fleeing,True
 3939,Daniel Boyer,2018-08-08,shot,gun,24,M,W,Bloomington,IN,False,attack,Not fleeing,True
-3940,TK TK,2018-08-08,shot,knife,,M,,Omaha,NE,False,attack,Not fleeing,False
-3935,TK TK,2018-08-09,shot,gun,48,M,,Philadelphia,PA,False,attack,Foot,False
-3937,TK TK,2018-08-09,shot,gun,,M,,Durham,NC,True,attack,Not fleeing,False
+3940,Stephen L. Caldwell,2018-08-08,shot,knife,54,M,,Omaha,NE,False,attack,Not fleeing,False
+3935,Charles Meadows,2018-08-09,shot,gun,48,M,,Philadelphia,PA,False,attack,Foot,False
+3937,Shaun Jeffery Christy,2018-08-09,shot,gun,37,M,,Durham,NC,True,attack,Not fleeing,False
