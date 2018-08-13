@@ -3500,9 +3500,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3858,Jethro Benjamin,2018-07-14,shot,gun,68,M,B,Florence,SC,False,attack,Not fleeing,False
 3859,Marlin Mack,2018-07-15,shot,gun,25,M,,Kansas City,MO,False,attack,Not fleeing,False
 3860,Isaac Chapa,2018-07-15,shot,gun,34,M,,Alvin,TX,True,attack,Not fleeing,False
+3941,Jonathan Molina,2018-07-15,shot,gun,23,M,,Albuquerque,NM,False,attack,Not fleeing,False
 3864,Isaiah Hayes,2018-07-17,shot,undetermined,25,M,,Altoona,IA,False,other,Car,False
 3867,Rolando Brizuela,2018-07-17,shot,gun,57,M,,Sparks,NV,False,other,,False
 3868,Juan Manuel Correa-Leyva,2018-07-17,shot,gun,27,M,H,Tucson,AZ,False,attack,Car,False
+3942,Kerry Townsend,2018-07-17,shot,gun,51,M,W,Lenoir,NC,False,attack,Not fleeing,False
+3943,Rolando Brizuela,2018-07-17,shot,gun,57,M,,Sparks,NV,False,attack,Not fleeing,False
 3866,Arthur Lujan,2018-07-18,shot,gun,30,M,,Albuquerque,NM,False,attack,Not fleeing,False
 3869,Wesley Shelton,2018-07-18,shot,gun,33,M,W,Fletcher,NC,False,attack,Not fleeing,False
 3872,Mickey Coy,2018-07-18,shot,gun,,M,W,Pattison,TX,False,attack,Not fleeing,False
@@ -3510,10 +3513,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3871,Carmen Pizarro,2018-07-19,shot,gun,22,M,,Pico Rivera,CA,False,other,Other,False
 3877,Ruben Maya,2018-07-20,shot,toy weapon,37,M,,Fresno,CA,False,attack,Not fleeing,False
 3880,Javier Lopez,2018-07-20,shot,gun,19,M,W,San Antonio,TX,False,attack,Foot,False
+3944,Justin Waiki,2018-07-20,shot,gun,33,M,O,Puna,HI,False,attack,Car,False
+3945,Anthony Coleman,2018-07-20,shot,gun,38,M,W,Lady Lake,FL,False,attack,Not fleeing,False
+3946,"Arthur Levario, Jr.",2018-07-20,shot,gun,45,M,,Riverside,CA,False,attack,Car,False
 3874,Vincent James Ewer,2018-07-21,shot,gun and car,39,M,W,Tucson,AZ,False,attack,Foot,False
 3878,Anthony C. Lopez,2018-07-21,shot,,21,M,H,Mesa,AZ,False,attack,Not fleeing,False
 3879,Dale Slocum,2018-07-21,shot,knife,56,M,W,Toledo,OH,False,attack,Not fleeing,False
 3895,Melyda Marciela Corado,2018-07-21,shot,unarmed,27,F,H,Los Angeles,CA,False,other,Foot,True
+3947,Eliuth Nava,2018-07-21,shot,toy weapon,50,M,,Anaheim,CA,True,other,Foot,False
 3873,Logan Simpson,2018-07-22,shot,vehicle,16,M,,Bixby,OK,False,attack,Car,False
 3906,William Bacorn,2018-07-22,shot,gun,18,M,,Hanover,CO,False,attack,Not fleeing,False
 3881,Rosalio Hernandez Ortega,2018-07-23,shot,machete,33,M,H,Burlington,NC,True,other,Not fleeing,False
@@ -3563,9 +3570,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3933,Pedro Lucero,2018-08-07,shot,undetermined,42,M,H,Salt River Reservation,AZ,False,undetermined,Other,False
 3934,Michael Ducote,2018-08-07,shot,vehicle,26,M,W,Shreveport,LA,False,other,Car,False
 3931,Joseph Robbins,2018-08-08,shot,vehicle,24,M,,Carthage,TN,False,attack,Not fleeing,False
-3936,TK TK,2018-08-08,shot,chain,,M,,San Diego,CA,False,attack,Not fleeing,False
+3936,Vaughn Denham,2018-08-08,shot,chain,48,M,B,San Diego,CA,False,attack,Not fleeing,False
 3938,TK TK,2018-08-08,shot,knife,,M,,Las Vegas,NV,True,attack,Not fleeing,True
 3939,Daniel Boyer,2018-08-08,shot,gun,24,M,W,Bloomington,IN,False,attack,Not fleeing,True
 3940,Stephen L. Caldwell,2018-08-08,shot,knife,54,M,,Omaha,NE,False,attack,Not fleeing,False
 3935,Charles Meadows,2018-08-09,shot,gun,48,M,,Philadelphia,PA,False,attack,Foot,False
 3937,Shaun Jeffery Christy,2018-08-09,shot,gun,37,M,,Durham,NC,True,attack,Not fleeing,False
+3950,TK TK,2018-08-09,shot,gun,,M,,Landover,MD,False,other,Foot,False
+3951,TK TK,2018-08-09,shot,gun,28,M,,Columbus,OH,False,attack,Not fleeing,False
+3948,TK TK,2018-08-10,shot,gun,,M,,Denham Springs,LA,False,attack,,False
+3952,TK TK,2018-08-11,shot,gun,,M,,Akron,OH,True,attack,Foot,False
+3954,TK TK,2018-08-12,shot,undetermined,,M,,Hawkins,WI,False,undetermined,Not fleeing,False
+3955,Anthony Vargas,2018-08-12,shot,undetermined,21,M,,Los Angeles,CA,False,undetermined,Foot,False
+3956,Anthony Hutchinson,2018-08-12,shot,gun,40,M,B,Waynesboro,VA,False,attack,Car,False
+3953,Chris Stone,2018-08-13,shot,gun,32,M,B,Oklahoma City,OK,False,attack,Foot,False
