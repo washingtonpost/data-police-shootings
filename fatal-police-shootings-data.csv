@@ -3496,6 +3496,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3833,John Francis Murphy,2018-07-08,shot,gun,41,M,W,Grand Forks,ND,True,other,Not fleeing,False
 3855,Shaun Gates,2018-07-10,shot,knife,40,M,W,Garland,TX,False,attack,Not fleeing,False
 3856,Leonardo Cano,2018-07-10,shot,gun,53,M,H,Miami,FL,False,attack,Car,False
+3976,William T. McCollum,2018-07-10,shot,gun,21,M,,Casper,WY,False,attack,Car,False
 3852,TK TK,2018-07-11,shot,knife,,F,,Willis,TX,False,other,Not fleeing,False
 3853,Salome Ramirez,2018-07-11,shot,toy weapon,34,M,,Los Banos,CA,False,other,Not fleeing,False
 3854,Fidel Miranda,2018-07-11,shot,gun,22,M,H,Las Vegas,NV,False,attack,Car,False
