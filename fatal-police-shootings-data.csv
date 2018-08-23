@@ -3610,3 +3610,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3980,TK TK,2018-08-19,shot,gun,,M,,Spokane,WA,True,attack,Not fleeing,False
 3981,Jeremiah Purdue,2018-08-19,shot,gun,33,M,,Atlanta,GA,False,other,,False
 3983,TK TK,2018-08-19,shot,gun,,M,,Great Falls,MT,False,other,Not fleeing,False
+3985,Jeffrey Dennia,2018-08-20,shot,vehicle,36,M,B,Philadelphia,PA,False,attack,Car,False
+3986,Douglas Heath,2018-08-20,shot,gun,38,M,W,Gonic,NH,False,attack,Not fleeing,False
