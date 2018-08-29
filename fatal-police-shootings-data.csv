@@ -2909,7 +2909,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3226,Charles McBride,2017-12-20,shot,gun,56,M,,Anchorage,AK,False,attack,Not fleeing,False
 3227,Frankie Anchondo,2017-12-20,shot,,35,M,,Farmington,NM,False,other,Not fleeing,False
 3228,TK TK,2017-12-20,shot,gun,,M,,Oceanside,CA,False,undetermined,Foot,False
-3229,Kameron Prescott,2017-12-21,shot,unarmed,6,M,,Schertz,TX,False,other,Not fleeing,False
+3229,Kameron Prescott,2017-12-21,shot,unarmed,6,M,W,Schertz,TX,False,other,Not fleeing,False
 3230,Amanda Lenee Jones,2017-12-21,shot,pipe,30,F,,Schertz,TX,False,other,Foot,False
 3239,Jose Aguero,2017-12-21,shot,gun,26,M,H,Greeley,CO,True,other,Foot,False
 3236,Ahmed Aminamin El-Mofty,2017-12-22,shot,gun,51,M,,Harrisburg,PA,False,attack,Foot,False
