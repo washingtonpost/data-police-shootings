@@ -3577,14 +3577,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3912,TK TK,2018-08-06,shot,knife,,M,,Las Vegas,NV,True,attack,Not fleeing,False
 3927,Levester Taylor,2018-08-06,shot,metal pipe,39,M,,Atlanta,GA,False,attack,Not fleeing,False
 3928,Ricardo Giddings,2018-08-06,shot,gun,59,M,,Philadelphia,PA,False,attack,Not fleeing,False
-3929,Daniel Boyer,2018-08-07,shot,gun,24,M,W,Monroe County,IN,False,attack,Not fleeing,False
+3929,Daniel Boyer,2018-08-07,shot,gun,24,M,W,Monroe County,IN,False,attack,Not fleeing,True
 3932,TK TK,2018-08-07,shot,gun,70,M,,Los Angeles,CA,False,other,,False
 3933,Pedro Lucero,2018-08-07,shot,undetermined,42,M,H,Salt River Reservation,AZ,False,undetermined,Other,False
 3934,Michael Ducote,2018-08-07,shot,vehicle,26,M,W,Shreveport,LA,False,other,Car,False
 3931,Joseph Robbins,2018-08-08,shot,vehicle,24,M,,Carthage,TN,False,attack,Not fleeing,False
 3936,Vaughn Denham,2018-08-08,shot,chain,48,M,B,San Diego,CA,False,attack,Not fleeing,False
 3938,TK TK,2018-08-08,shot,knife,,M,,Las Vegas,NV,True,attack,Not fleeing,True
-3939,Daniel Boyer,2018-08-08,shot,gun,24,M,W,Bloomington,IN,False,attack,Not fleeing,True
 3940,Stephen L. Caldwell,2018-08-08,shot,knife,54,M,,Omaha,NE,False,attack,Not fleeing,False
 3935,Charles Meadows,2018-08-09,shot,gun,48,M,,Philadelphia,PA,False,attack,Foot,False
 3937,Shaun Jeffery Christy,2018-08-09,shot,gun,37,M,,Durham,NC,True,attack,Not fleeing,True
@@ -3612,14 +3611,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3983,TK TK,2018-08-19,shot,gun,,M,,Great Falls,MT,False,other,Not fleeing,False
 3985,Jeffrey Dennis,2018-08-20,shot,vehicle,36,M,B,Philadelphia,PA,False,attack,Car,False
 3986,Douglas Heath,2018-08-20,shot,gun,38,M,W,Gonic,NH,False,attack,Not fleeing,False
-3988,TK TK,2018-08-23,shot,undetermined,,M,,Los Lunas,NM,False,undetermined,Not fleeing,False
-3993,Donna Castleberry,2018-08-23,shot,sharp object,23,F,,Columbus,OH,False,attack,Not fleeing,False
-3987,TK TK,2018-08-24,shot,crossbow,,M,,Enoree,SC,True,other,Not fleeing,False
+3988,Virginia Romero,2018-08-23,shot,vehicle,34,F,,Los Lunas,NM,False,other,Not fleeing,False
+3993,Donna Castleberry,2018-08-23,shot,sharp object,23,F,W,Columbus,OH,False,attack,Not fleeing,False
+3987,Jeffery Paul Fabio,2018-08-24,shot,crossbow,44,M,,Enoree,SC,True,attack,Not fleeing,False
 3989,TK TK,2018-08-24,shot,gun,,M,,Cincinnati,OH,False,attack,Not fleeing,False
-3992,TK TK,2018-08-24,shot,knife,,M,,Bakersfield,CA,False,other,,False
-3994,Taylor K.E. Tincher,2018-08-25,shot,gun,18,M,,Montgomery County,VA,False,other,Not fleeing,False
-3995,Logan Montgomery,2018-08-25,shot,gun,29,M,,Manchester Township,PA,False,attack,Not fleeing,False
-3998,TK TK,2018-08-25,shot,gun,,F,,Alamosa,CO,False,attack,Car,False
-3996,Stephanie Owens,2018-08-26,shot,gun,41,F,W,Blacksburg,SC,True,undetermined,Not fleeing,False
-3990,TK TK,2018-08-27,shot,unknown weapon,,M,,Phoenix,AZ,False,other,Car,False
-3991,TK TK,2018-08-27,shot,gun,,M,,Phoenix,AZ,False,attack,Not fleeing,False
+3992,Felipe Perez Casas,2018-08-24,shot,knife,41,M,H,Bakersfield,CA,False,other,,False
+3994,Taylor K.E. Tincher,2018-08-25,shot,gun,18,M,W,Montgomery County,VA,True,other,Not fleeing,False
+3995,Logan Montgomery,2018-08-25,shot,gun,29,M,W,Manchester Township,PA,False,attack,Not fleeing,False
+3998,Jennifer Sharp,2018-08-25,shot,gun,37,F,,Alamosa,CO,False,attack,Car,False
+3996,Stephanie B. Owens,2018-08-26,shot,gun,41,F,,Blacksburg,SC,True,attack,Not fleeing,False
+3990,Fabian Ortiz Adame Adame,2018-08-27,shot,gun and vehicle,25,M,,Phoenix,AZ,False,attack,Car,False
+3991,Bryce Schenkenberg,2018-08-27,shot,gun,20,M,,Phoenix,AZ,False,attack,Not fleeing,False
+4004,Eric Jay Hames,2018-08-27,shot,knife,34,M,W,Redding,CA,True,other,Not fleeing,False
+3999,Sebastian Siney Chamale,2018-08-28,shot,undetermined,37,M,,Tarboro,NC,False,other,Not fleeing,False
+4002,Tyler Hodge,2018-08-28,shot,gun,18,M,,Redlands,CA,True,attack,Not fleeing,False
+4000,TK TK,2018-08-29,shot,gun,,M,,Washington Court House,OH,False,other,Not fleeing,False
+4001,TK TK,2018-08-29,shot,vehicle,,M,,Houston,TX,False,attack,Car,False
+4005,Jessica Cribbs,2018-08-30,shot,gun,45,F,W,Beverly Hills,FL,False,attack,Not fleeing,False
