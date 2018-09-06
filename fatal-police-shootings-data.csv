@@ -3628,10 +3628,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4000,TK TK,2018-08-29,shot,gun,,M,,Washington Court House,OH,False,other,Not fleeing,False
 4001,TK TK,2018-08-29,shot,vehicle,,M,,Houston,TX,False,attack,Car,False
 4005,Jessica Cribbs,2018-08-30,shot,gun,45,F,W,Beverly Hills,FL,False,attack,Not fleeing,False
-4006,Vanessa Marquez,2018-08-30,shot,toy weapon,49,F,H,Pasadena,CA,False,other,Not fleeing,False
-4010,TK TK,2018-08-31,shot,gun,,M,,Floral City,FL,True,attack,Not fleeing,False
+4006,Vanessa Marquez,2018-08-30,shot,toy weapon,49,F,H,Pasadena,CA,True,other,Not fleeing,False
+4010,TK TK,2018-08-31,shot,gun,,M,,Floral City,FL,True,undetermined,Not fleeing,False
 4012,Chase Sullivan,2018-08-31,shot,knife,36,M,,Fairview,TN,True,other,Not fleeing,False
 4011,Oshae Terry,2018-09-01,shot,vehicle,24,M,,Arlington,TX,False,attack,Car,False
-4007,TK TK,2018-09-03,shot,undetermined,,M,,Bernalillo,NM,False,undetermined,,False
-4008,TK TK,2018-09-03,shot,knife,,M,,Cheney,WA,False,other,Not fleeing,False
+4007,"Fernand ""Fred"" Lete",2018-09-03,shot,gun,70,M,,Bernalillo,NM,False,other,,False
+4008,Steve L. Anderson,2018-09-03,shot,knife,40,M,W,Cheney,WA,False,other,Not fleeing,False
 4009,Aaron Demonta Fleming,2018-09-03,shot,gun,21,M,,Covington,GA,False,attack,Foot,False
+4015,TK TK,2018-09-04,shot,knife,,M,,Westminster,CO,False,attack,Not fleeing,False
+4013,James Leatherwood,2018-09-05,shot,undetermined,23,M,,Hollywood,FL,False,undetermined,,False
+4014,Mitchell Owen Buel,2018-09-05,shot,undetermined,33,M,W,Morris,AL,False,undetermined,Car,False
