@@ -3608,7 +3608,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3978,Christopher Alexander Okamoto,2018-08-19,shot,toy weapon,21,M,,Bakersfield,CA,False,other,Not fleeing,False
 3980,TK TK,2018-08-19,shot,gun,,M,,Spokane,WA,True,attack,Not fleeing,False
 3981,Jeremiah Purdue,2018-08-19,shot,gun,33,M,,Atlanta,GA,False,other,,False
-3983,TK TK,2018-08-19,shot,gun,,M,,Great Falls,MT,False,other,Not fleeing,False
+3983,Charles Marcotte,2018-08-19,shot,gun,,M,W,Great Falls,MT,False,other,Not fleeing,False
 3985,Jeffrey Dennis,2018-08-20,shot,vehicle,36,M,B,Philadelphia,PA,False,attack,Car,False
 3986,Douglas Heath,2018-08-20,shot,gun,38,M,W,Gonic,NH,False,attack,Not fleeing,False
 3988,Virginia Romero,2018-08-23,shot,vehicle,34,F,,Los Lunas,NM,False,other,Not fleeing,False
@@ -3625,11 +3625,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4004,Eric Jay Hames,2018-08-27,shot,knife,34,M,W,Redding,CA,True,other,Not fleeing,False
 3999,Sebastian Siney Chamale,2018-08-28,shot,undetermined,37,M,,Tarboro,NC,False,other,Not fleeing,False
 4002,Tyler Hodge,2018-08-28,shot,gun,18,M,,Redlands,CA,True,attack,Not fleeing,False
-4000,TK TK,2018-08-29,shot,gun,,M,,Washington Court House,OH,False,other,Not fleeing,False
+4000,Randall McKenzie,2018-08-29,shot,gun,72,M,W,Washington Court House,OH,False,other,Not fleeing,False
 4001,TK TK,2018-08-29,shot,vehicle,,M,,Houston,TX,False,attack,Car,False
 4005,Jessica Cribbs,2018-08-30,shot,gun,45,F,W,Beverly Hills,FL,False,attack,Not fleeing,False
 4006,Vanessa Marquez,2018-08-30,shot,toy weapon,49,F,H,Pasadena,CA,True,other,Not fleeing,False
-4010,TK TK,2018-08-31,shot,gun,,M,,Floral City,FL,True,undetermined,Not fleeing,False
+4010,Dennis Ray Blalock,2018-08-31,shot,gun,64,M,,Floral City,FL,True,attack,Not fleeing,False
 4012,Chase Sullivan,2018-08-31,shot,knife,36,M,,Fairview,TN,True,other,Not fleeing,False
 4011,Oshae Terry,2018-09-01,shot,vehicle,24,M,,Arlington,TX,False,attack,Car,False
 4007,"Fernand ""Fred"" Lete",2018-09-03,shot,gun,70,M,,Bernalillo,NM,False,other,,False
@@ -3638,3 +3638,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4015,TK TK,2018-09-04,shot,knife,,M,,Westminster,CO,False,attack,Not fleeing,False
 4013,James Leatherwood,2018-09-05,shot,undetermined,23,M,,Hollywood,FL,False,undetermined,,False
 4014,Mitchell Owen Buel,2018-09-05,shot,undetermined,33,M,W,Morris,AL,False,undetermined,Car,False
+4018,TK TK,2018-09-05,shot,gun,,M,,Jonesville,NC,False,attack,Not fleeing,False
+4017,Darell Richards,2018-09-06,shot,toy weapon,19,M,B,Sacramento,CA,False,attack,Foot,False
+4016,DaShawn Cole,2018-09-07,shot,gun,28,M,B,Pawtucket,RI,False,attack,Not fleeing,False
