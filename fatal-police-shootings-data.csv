@@ -3474,7 +3474,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3817,Larry San Nicolas,2018-07-01,shot,sword,60,M,A,Grandview,MO,False,other,Not fleeing,False
 3823,Joshua B. Reed,2018-07-01,shot,knife,26,M,W,Panora,IA,False,other,Not fleeing,False
 3930,Lemuel Bunn,2018-07-03,shot,knife,40,M,B,Fayetteville,NC,False,attack,Not fleeing,False
-3969,Millard Clark,2018-07-03,shot and Tasered,knife,41,M,,Lawton,OK,False,attack,Not fleeing,False
+3969,Millard Clark,2018-07-03,shot and Tasered,knife,41,M,W,Lawton,OK,False,attack,Not fleeing,False
 3970,Terrell Eason,2018-07-03,shot,gun,33,M,,Chicago,IL,False,other,Foot,False
 3824,Frank Dripps,2018-07-03,shot,gun,52,M,W,South Elgin,IL,False,attack,Not fleeing,False
 3821,Ryan Force,2018-07-04,shot,gun,35,M,,Spalding County,GA,True,attack,Not fleeing,True
@@ -3485,7 +3485,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3825,Daniel A. Fuller,2018-07-05,shot,unarmed,26,M,W,Devil's Lake,ND,False,attack,Foot,True
 3826,Raad Fakhri Salman,2018-07-05,shot,knife,62,M,,Louisville,KY,False,other,Not fleeing,False
 3827,Sylvia Marie Bejarano,2018-07-05,shot,gun,33,F,H,Tempe,AZ,False,attack,Other,False
-3973,Eric Hash,2018-07-06,shot,incendiary device,38,M,,Copper Center,AK,False,other,,False
+3973,Eric Hash,2018-07-06,shot,incendiary device,38,M,A,Copper Center,AK,False,other,,True
 3828,Charles Webb,2018-07-06,shot,gun,43,M,B,Overland Park,KS,False,attack,Not fleeing,False
 3865,Rashaun Washington,2018-07-07,shot,unarmed,37,M,B,Vineland,NJ,False,undetermined,,False
 3830,Kelly Kenneth Sutton,2018-07-07,shot,undetermined,27,M,W,Amity,OR,False,undetermined,Foot,False
@@ -3496,7 +3496,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3833,John Francis Murphy,2018-07-08,shot,gun,41,M,W,Grand Forks,ND,True,other,Not fleeing,False
 3855,Shaun Gates,2018-07-10,shot,knife,40,M,W,Garland,TX,False,attack,Not fleeing,False
 3856,Leonardo Cano,2018-07-10,shot,gun,53,M,H,Miami,FL,False,attack,Car,False
-3976,William T. McCollum,2018-07-10,shot,gun,21,M,,Casper,WY,False,other,Car,False
+3976,William T. McCollum,2018-07-10,shot,gun,21,M,W,Casper,WY,True,other,Car,False
 3852,TK TK,2018-07-11,shot,knife,,F,,Willis,TX,False,other,Not fleeing,False
 3853,Salome Ramirez,2018-07-11,shot,toy weapon,34,M,,Los Banos,CA,False,other,Not fleeing,False
 3854,Fidel Miranda,2018-07-11,shot,gun,22,M,H,Las Vegas,NV,False,attack,Car,False
@@ -3563,7 +3563,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3910,Jonathan Joey Mendoza,2018-08-01,shot,gun,35,M,,Hereford,TX,False,attack,Not fleeing,False
 3911,Tramaine Marquese Poole,2018-08-01,shot,gun,41,M,B,Sussex County,VA,False,attack,Car,False
 3924,Michael Gonzalez,2018-08-02,shot,vehicle,57,M,,Westminster,CO,False,attack,Car,False
-3925,Landon Christopher Wooten,2018-08-02,shot,toy weapon,18,M,,Apopka,FL,False,attack,Not fleeing,False
+3925,Landon Christopher Wooten,2018-08-02,shot,toy weapon,18,M,W,Apopka,FL,False,attack,Not fleeing,False
 3919,Danny Lee,2018-08-03,shot,gun,34,M,,Pine Bluff,AR,False,attack,Not fleeing,False
 3920,Johnny Kelley,2018-08-03,shot,gun,49,M,W,Trumann,AR,True,attack,Not fleeing,False
 3923,TK TK,2018-08-03,shot,gun,,M,,Deer Park,WA,True,attack,Not fleeing,False
@@ -3642,8 +3642,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4017,Darell Richards,2018-09-06,shot,toy weapon,19,M,B,Sacramento,CA,False,attack,Foot,False
 4016,DaShawn Cole,2018-09-07,shot,gun,28,M,B,Pawtucket,RI,False,attack,Not fleeing,False
 4023,DaShawn Cole,2018-09-07,shot,gun,28,M,B,Pawtucket,RI,False,other,,False
-4024,Ulman Jerald Roberts,2018-09-07,shot,gun,63,M,,Citronelle,AL,False,attack,Not fleeing,False
-4020,Dereshia Blackwell,2018-09-09,shot and Tasered,gun and knife,39,F,,Missouri City,TX,False,attack,Not fleeing,False
-4021,Brandon Joyner,2018-09-09,shot,gun,,M,,Greenville,NC,False,undetermined,Not fleeing,False
+4024,Elman Jerald Roberts,2018-09-08,shot,gun,63,M,,Citronelle,AL,False,attack,Not fleeing,False
+4020,Dereshia Blackwell,2018-09-09,shot and Tasered,gun and knife,39,F,,Missouri City,TX,False,other,Not fleeing,False
+4021,Brandon Joyner,2018-09-09,shot,gun,,M,B,Greenville,NC,False,attack,Not fleeing,False
 4022,TK TK,2018-09-09,shot,unknown weapon,,M,,Stanwood,WA,False,other,Not fleeing,False
-4019,TK TK,2018-09-10,shot,gun,,M,,Spanaway,WA,False,attack,Foot,False
+4019,TK TK,2018-09-10,shot,gun,,M,W,Spanaway,WA,False,other,Foot,False
