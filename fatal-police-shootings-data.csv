@@ -3640,10 +3640,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4014,Mitchell Owen Buel,2018-09-05,shot,undetermined,33,M,W,Morris,AL,False,undetermined,Car,False
 4018,TK TK,2018-09-05,shot,gun,,M,,Jonesville,NC,False,attack,Not fleeing,False
 4017,Darell Richards,2018-09-06,shot,toy weapon,19,M,B,Sacramento,CA,False,attack,Foot,False
-4016,DaShawn Cole,2018-09-07,shot,gun,28,M,B,Pawtucket,RI,False,attack,Not fleeing,False
 4023,DaShawn Cole,2018-09-07,shot,gun,28,M,B,Pawtucket,RI,False,other,,False
 4024,Elman Jerald Roberts,2018-09-08,shot,gun,63,M,,Citronelle,AL,False,attack,Not fleeing,False
 4020,Dereshia Blackwell,2018-09-09,shot and Tasered,gun and knife,39,F,,Missouri City,TX,False,other,Not fleeing,False
 4021,Brandon Joyner,2018-09-09,shot,gun,,M,B,Greenville,NC,False,attack,Not fleeing,False
 4022,TK TK,2018-09-09,shot,unknown weapon,,M,,Stanwood,WA,False,other,Not fleeing,False
 4019,TK TK,2018-09-10,shot,gun,,M,W,Spanaway,WA,False,other,Foot,False
+4025,TK TK,2018-09-10,shot,knife,,M,,Tucson,AZ,True,other,Not fleeing,False
+4027,Edward Reynolds,2018-09-11,shot,gun,57,M,,Georgetown,KY,False,attack,,False
+4026,TK TK,2018-09-12,shot,gun,,M,,Buffalo,NY,False,attack,Not fleeing,False
+4029,Thomas Watkins,2018-09-12,shot,gun,38,M,,Gary,IN,False,attack,Not fleeing,False
+4028,TK TK,2018-09-13,shot,box cutter,,M,,Henderson,NV,False,attack,Not fleeing,False
