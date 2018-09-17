@@ -3550,6 +3550,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3905,Iman Joseph Buford,2018-07-26,shot,gun,30,M,,Springdale,AR,False,attack,Not fleeing,False
 3962,Gavalynn Mahuka,2018-07-26,shot,gun,53,M,,Nanakuli,HI,False,attack,Not fleeing,False
 3898,Cynthia Fields,2018-07-27,shot,unarmed,60,F,B,Savannah,GA,False,other,,False
+4031,Richard Mendoza,2018-07-27,shot,gun,32,M,,Los Angeles,CA,False,attack,Not fleeing,True
 3896,Lamar C. Richardson,2018-07-28,shot,gun,25,M,B,Toledo,OH,False,other,Foot,False
 3897,Joseph Santos,2018-07-28,shot,undetermined,44,M,H,South Whitehall Township,PA,False,undetermined,Not fleeing,False
 3902,Michael Neal,2018-07-28,shot,undetermined,32,M,,Pineville,LA,False,undetermined,Car,False
@@ -3651,3 +3652,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4026,TK TK,2018-09-12,shot,gun,,M,,Buffalo,NY,False,attack,Not fleeing,False
 4029,Thomas Watkins,2018-09-12,shot,gun,38,M,,Gary,IN,False,attack,Not fleeing,False
 4028,TK TK,2018-09-13,shot,box cutter,,M,,Henderson,NV,False,attack,Not fleeing,True
+4030,TK TK,2018-09-14,shot,gun,46,M,,Detroit,MI,False,attack,Not fleeing,False
+4032,Garrett Mitchell,2018-09-14,shot,gun,31,M,,Cumming,GA,False,attack,Not fleeing,False
