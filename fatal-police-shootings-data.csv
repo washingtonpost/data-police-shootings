@@ -3646,8 +3646,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4021,Brandon Joyner,2018-09-09,shot,gun,,M,B,Greenville,NC,False,attack,Not fleeing,False
 4022,TK TK,2018-09-09,shot,unknown weapon,,M,,Stanwood,WA,False,other,Not fleeing,False
 4019,TK TK,2018-09-10,shot,gun,,M,W,Spanaway,WA,False,other,Foot,False
-4025,TK TK,2018-09-10,shot,knife,,M,,Tucson,AZ,True,other,Not fleeing,False
-4027,Edward Reynolds,2018-09-11,shot,gun,57,M,,Georgetown,KY,False,attack,,False
+4025,Joel R. Andrade,2018-09-10,shot,gun and knife,53,M,,Tucson,AZ,True,other,Not fleeing,False
+4027,Edward Reynolds,2018-09-11,shot,gun,57,M,W,Georgetown,KY,False,attack,,False
 4026,TK TK,2018-09-12,shot,gun,,M,,Buffalo,NY,False,attack,Not fleeing,False
 4029,Thomas Watkins,2018-09-12,shot,gun,38,M,,Gary,IN,False,attack,Not fleeing,False
-4028,TK TK,2018-09-13,shot,box cutter,,M,,Henderson,NV,False,attack,Not fleeing,False
+4028,TK TK,2018-09-13,shot,box cutter,,M,,Henderson,NV,False,attack,Not fleeing,True
