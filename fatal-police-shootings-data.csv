@@ -3576,7 +3576,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3916,James Bishop,2018-08-05,shot,undetermined,29,M,,Las Cruces,NM,True,undetermined,Not fleeing,False
 3918,Johnny Fisher,2018-08-05,shot,gun,68,M,,Van Buren,AR,False,attack,Not fleeing,False
 3912,TK TK,2018-08-06,shot,knife,,M,,Las Vegas,NV,True,attack,Not fleeing,False
-3927,Levester Taylor,2018-08-06,shot,metal pipe,39,M,,Atlanta,GA,False,attack,Not fleeing,False
+3927,Levester Taylor,2018-08-06,shot,metal pipe,39,M,B,Atlanta,GA,False,attack,Not fleeing,False
 3928,Ricardo Giddings,2018-08-06,shot,gun,59,M,,Philadelphia,PA,False,attack,Not fleeing,False
 3929,Daniel Boyer,2018-08-07,shot,gun,24,M,W,Monroe County,IN,False,attack,Not fleeing,True
 3932,TK TK,2018-08-07,shot,gun,70,M,,Los Angeles,CA,False,other,,False
@@ -3632,6 +3632,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4006,Vanessa Marquez,2018-08-30,shot,toy weapon,49,F,H,Pasadena,CA,True,other,Not fleeing,False
 4010,Dennis Ray Blalock,2018-08-31,shot,gun,64,M,W,Floral City,FL,True,attack,Not fleeing,False
 4012,Chase Sullivan,2018-08-31,shot,knife,36,M,W,Fairview,TN,True,other,Not fleeing,False
+4044,Paul Askins,2018-08-31,shot,gun,61,M,W,Sedalia,CO,False,attack,Not fleeing,True
 4011,Oshae Terry,2018-09-01,shot,vehicle,24,M,B,Arlington,TX,False,attack,Car,False
 4007,"Fernand ""Fred"" Lete",2018-09-03,shot,gun,70,M,,Bernalillo,NM,False,other,,False
 4008,Steve L. Anderson,2018-09-03,shot,knife,40,M,W,Cheney,WA,False,other,Not fleeing,False
@@ -3639,7 +3640,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4015,TK TK,2018-09-04,shot,knife,,M,,Westminster,CO,False,attack,Not fleeing,False
 4013,James Leatherwood,2018-09-05,shot,undetermined,23,M,,Hollywood,FL,False,undetermined,,False
 4014,Mitchell Owen Buel,2018-09-05,shot,undetermined,33,M,W,Morris,AL,False,undetermined,Car,False
-4018,TK TK,2018-09-05,shot,gun,,M,,Jonesville,NC,False,attack,Not fleeing,False
+4018,Christopher Sage,2018-09-05,shot,gun,45,M,,Jonesville,NC,False,attack,Not fleeing,False
 4017,Darell Richards,2018-09-06,shot,toy weapon,19,M,B,Sacramento,CA,False,attack,Foot,False
 4023,DaShawn Cole,2018-09-07,shot,gun,28,M,B,Pawtucket,RI,False,other,,False
 4024,Elman Jerald Roberts,2018-09-08,shot,gun,63,M,,Citronelle,AL,False,attack,Not fleeing,False
@@ -3649,8 +3650,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4019,TK TK,2018-09-10,shot,gun,,M,W,Spanaway,WA,False,other,Foot,False
 4025,Joel R. Andrade,2018-09-10,shot,gun and knife,53,M,,Tucson,AZ,True,other,Not fleeing,False
 4027,Edward Reynolds,2018-09-11,shot,gun,57,M,W,Georgetown,KY,False,attack,,False
-4026,TK TK,2018-09-12,shot,gun,,M,,Buffalo,NY,False,attack,Not fleeing,False
+4026,Rafael Rivera,2018-09-12,shot,gun,32,M,,Buffalo,NY,False,attack,Not fleeing,True
 4029,Thomas Watkins,2018-09-12,shot,gun,38,M,,Gary,IN,False,attack,Not fleeing,False
 4028,TK TK,2018-09-13,shot,box cutter,,M,,Henderson,NV,False,attack,Not fleeing,True
 4030,TK TK,2018-09-14,shot,gun,46,M,,Detroit,MI,False,attack,Not fleeing,False
 4032,Garrett Mitchell,2018-09-14,shot,gun,31,M,,Cumming,GA,False,attack,Not fleeing,False
+4041,David Huffines,2018-09-14,shot,gun,40,M,W,Mesa,AZ,True,attack,Not fleeing,False
+4034,Christopher Leonard,2018-09-15,shot,gun,31,M,,Ankeny,IA,False,attack,Not fleeing,True
+4042,Steven Dove,2018-09-15,shot,knife,50,M,,Jacksonville,AR,False,attack,Not fleeing,False
+4035,Ricardo Avenia,2018-09-16,shot,gun,29,M,H,Lancaster,PA,False,attack,Not fleeing,False
+4036,Christopher Borland,2018-09-16,shot,gun,40,M,,Walla Walla,WA,True,other,Not fleeing,False
+4037,TK TK,2018-09-16,shot,undetermined,,M,,Manitowoc,WI,False,other,Not fleeing,False
+4043,Jerry Foster,2018-09-16,shot,gun,31,M,,Shreveport,LA,False,other,Not fleeing,False
+4038,Jose Alvarez,2018-09-17,shot,gun,23,M,H,Temple Hills,MD,False,other,Foot,False
+4039,Susan Muller,2018-09-17,shot,knife,54,F,,Maspeth,NY,True,attack,Not fleeing,True
+4040,TK TK,2018-09-17,shot,vehicle,,M,,Christian County,KY,False,attack,Car,False
+4033,TK TK,2018-09-18,shot,gun,,M,,Virginia Beach,VA,False,attack,Foot,False
