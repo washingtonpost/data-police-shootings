@@ -3692,5 +3692,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4070,Keagan Johnson,2018-10-01,shot,knife,23,M,W,Hastings,MN,False,attack,Foot,True
 4073,Brian Baker,2018-10-01,shot,unarmed,33,M,W,Orlando,FL,True,other,Not fleeing,False
 4072,"James ""Cody"" Martin",2018-10-02,shot,gun,26,M,W,Mableton,GA,True,attack,Not fleeing,False
-4074,LaJuana Philips,2018-10-02,shot,vehicle,36,F,,Victorville,CA,False,other,Not fleeing,False
-4071,Toby Bailey,2018-10-03,shot,gun,,M,,Bartlett,TN,True,attack,Not fleeing,False
+4074,LaJuana Philips,2018-10-02,shot,vehicle,36,F,B,Victorville,CA,False,attack,Not fleeing,False
+4071,Toby Bailey,2018-10-03,shot,gun,38,M,,Bartlett,TN,True,attack,Not fleeing,False
