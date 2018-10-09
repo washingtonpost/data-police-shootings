@@ -3697,6 +3697,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4080,TK TK,2018-10-05,shot,gun,,M,,Hayti,MO,False,attack,Not fleeing,False
 4076,TK TK,2018-10-07,shot,machete,,M,,Honolulu,HI,False,attack,Not fleeing,True
 4077,TK TK,2018-10-07,shot,gun,,M,,Auburn,CA,True,attack,Not fleeing,False
-4078,Anthony Lee Hodges,2018-10-07,shot,gun,39,M,,Lawtey,FL,True,attack,Not fleeing,False
-4075,TK TK,2018-10-08,shot,undetermined,,M,,Clovis,NM,False,undetermined,Not fleeing,False
+4078,Anthony Lee Hodges,2018-10-07,shot,gun,39,M,W,Lawtey,FL,True,attack,Not fleeing,False
+4075,Aaron Joseph Chavez,2018-10-08,shot,undetermined,22,M,,Clovis,NM,False,other,Foot,False
 4079,TK TK,2018-10-08,shot,vehicle,,M,,Okarche,OK,False,attack,Car,False
