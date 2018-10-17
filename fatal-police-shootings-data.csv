@@ -3689,6 +3689,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4059,Justin Snelson,2018-09-29,shot,undetermined,54,M,,Okmulgee,OK,False,undetermined,Car,False
 4060,Thomas Howard Luedtke,2018-09-29,shot,crossbow,58,M,,Nampa,ID,False,attack,,False
 4062,Walter Welch,2018-09-29,shot,gun,40,M,W,Epping,NH,False,undetermined,Not fleeing,False
+4103,Brian Lee Rogers,2018-09-30,shot,ax,40,M,,Greenback,TN,True,other,Not fleeing,False
 4058,Patrick K. Kimmons,2018-09-30,shot,gun,27,M,B,Portland,OR,False,attack,,False
 4070,Keagan Johnson,2018-10-01,shot,knife,23,M,W,Hastings,MN,False,attack,Foot,True
 4073,Brian Baker,2018-10-01,shot,unarmed,33,M,W,Orlando,FL,True,other,Not fleeing,False
@@ -3699,6 +3700,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4076,TK TK,2018-10-07,shot,machete,,M,,Honolulu,HI,False,attack,Not fleeing,True
 4077,TK TK,2018-10-07,shot,gun,,M,,Auburn,CA,True,attack,Not fleeing,False
 4078,Anthony Lee Hodges,2018-10-07,shot,gun,39,M,W,Lawtey,FL,True,attack,Not fleeing,False
+4097,"Travis Craven, Jr.",2018-10-08,shot,gun,25,M,,Larimer County,CO,False,other,Car,False
 4075,Aaron Joseph Chavez,2018-10-08,shot,undetermined,22,M,,Clovis,NM,False,other,Foot,False
 4079,Alexander G. Lindahl,2018-10-08,shot,vehicle,24,M,W,Okarche,OK,False,attack,Car,False
 4081,Isaiah Ramirez,2018-10-08,shot,vehicle,36,M,,Oak Ridge,TN,False,attack,Car,False
@@ -3707,6 +3709,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4086,Terrell Blake,2018-10-10,shot,gun,39,M,B,Rochester,NY,False,attack,Car,False
 4087,Michael Johnson,2018-10-10,shot,knife,26,M,,Thousand Oaks,CA,True,other,Not fleeing,True
 4090,Leslie Shayne Miller,2018-10-10,shot,gun,49,F,,Sullivan,IN,False,attack,Not fleeing,False
+4092,"Kenneth Ryan Busse, Jr.",2018-10-10,shot,gun,21,M,W,Las Vegas,NV,False,attack,Foot,True
 4084,TK TK,2018-10-11,shot,gun,,M,,Huntington Beach,CA,False,other,Car,False
 4089,Diamonte Riviore,2018-10-11,shot,knife,22,M,,West Jordan,UT,False,other,,False
+4096,Jacob Albrethsen,2018-10-12,shot,knife,17,M,,Orem,OR,False,other,Not fleeing,False
+4098,Samuel Morris,2018-10-12,shot,knife,27,M,,Fort Smith,AR,False,other,Not fleeing,False
+4099,Ashley Elisna Grammer,2018-10-12,shot,vehicle,26,F,O,Puna,HI,False,attack,Not fleeing,False
+4100,Kay Kenniker,2018-10-12,shot,gun,84,M,,Chandler,AZ,True,attack,Not fleeing,False
 4088,Matthew Chambers,2018-10-12,shot,gun,34,M,,Cobb County,GA,False,attack,,False
+4101,TK TK,2018-10-14,shot,gun,,M,,Jeffersonville,OH,False,attack,Not fleeing,False
+4102,TK TK,2018-10-14,shot,gun,,M,,Hall County,GA,False,attack,Not fleeing,False
+4091,Umberto Sanchez Ramoz,2018-10-14,shot,knife,17,M,H,Woodville,CA,True,attack,Not fleeing,False
+4093,Gregory Allen Tilly,2018-10-14,shot,gun,55,M,,Alamogordo,NM,False,attack,Not fleeing,False
+4094,Antonia Davila,2018-10-15,shot,undetermined,53,M,,Columbus,OH,False,undetermined,Not fleeing,False
