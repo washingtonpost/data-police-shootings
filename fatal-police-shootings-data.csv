@@ -3695,30 +3695,42 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4073,Brian Baker,2018-10-01,shot,unarmed,33,M,W,Orlando,FL,True,other,Not fleeing,False
 4072,"James ""Cody"" Martin",2018-10-02,shot,gun,26,M,W,Mableton,GA,True,attack,Not fleeing,False
 4074,LaJuana Philips,2018-10-02,shot,vehicle,36,F,B,Victorville,CA,False,attack,Not fleeing,False
-4071,Toby Bailey,2018-10-03,shot,gun,38,M,,Bartlett,TN,True,attack,Not fleeing,False
+4071,Toby Bailey,2018-10-03,shot,gun,38,M,B,Bartlett,TN,True,attack,Not fleeing,False
 4080,TK TK,2018-10-05,shot,gun,,M,,Hayti,MO,False,attack,Not fleeing,False
 4076,TK TK,2018-10-07,shot,machete,,M,,Honolulu,HI,False,attack,Not fleeing,True
 4077,TK TK,2018-10-07,shot,gun,,M,,Auburn,CA,True,attack,Not fleeing,False
 4078,Anthony Lee Hodges,2018-10-07,shot,gun,39,M,W,Lawtey,FL,True,attack,Not fleeing,False
-4097,"Travis Craven, Jr.",2018-10-08,shot,gun,25,M,,Larimer County,CO,False,other,Car,False
-4075,Aaron Joseph Chavez,2018-10-08,shot,undetermined,22,M,,Clovis,NM,False,other,Foot,False
+4097,Travis N. Craven,2018-10-08,shot,gun,25,M,W,Larimer County,CO,False,other,Car,False
+4075,Aaron Joseph Chavez,2018-10-08,shot,knife,22,M,H,Clovis,NM,False,other,Foot,False
 4079,Alexander G. Lindahl,2018-10-08,shot,vehicle,24,M,W,Okarche,OK,False,attack,Car,False
-4081,Isaiah Ramirez,2018-10-08,shot,vehicle,36,M,,Oak Ridge,TN,False,attack,Car,False
+4081,Isaiah Ramirez,2018-10-08,shot,vehicle,36,M,W,Oak Ridge,TN,False,attack,Car,False
 4083,Samuel E. Rice,2018-10-10,shot,knife,30,M,W,Portland,OR,False,other,Not fleeing,False
 4085,Richard Palafox,2018-10-10,shot,gun,76,M,,El Paso,TX,False,attack,Not fleeing,False
 4086,Terrell Blake,2018-10-10,shot,gun,39,M,B,Rochester,NY,False,attack,Car,False
 4087,Michael Johnson,2018-10-10,shot,knife,26,M,,Thousand Oaks,CA,True,other,Not fleeing,True
-4090,Leslie Shayne Miller,2018-10-10,shot,gun,49,F,,Sullivan,IN,False,attack,Not fleeing,False
-4092,"Kenneth Ryan Busse, Jr.",2018-10-10,shot,gun,21,M,W,Las Vegas,NV,False,attack,Foot,True
+4090,Leslie Shayne Miller,2018-10-10,shot,gun,49,F,W,Sullivan,IN,False,attack,Not fleeing,False
+4092,Kenneth Ryan Busse,2018-10-10,shot,gun,21,M,W,Las Vegas,NV,True,attack,Foot,True
 4084,TK TK,2018-10-11,shot,gun,,M,,Huntington Beach,CA,False,other,Car,False
 4089,Diamonte Riviore,2018-10-11,shot,knife,22,M,,West Jordan,UT,False,other,,False
-4096,Jacob Albrethsen,2018-10-12,shot,knife,17,M,,Orem,OR,False,other,Not fleeing,False
+4096,Jacob E. Albrethsen,2018-10-12,shot and Tasered,knife,17,M,,Orem,OR,False,other,Not fleeing,False
 4098,Samuel Morris,2018-10-12,shot,knife,27,M,,Fort Smith,AR,False,other,Not fleeing,False
 4099,Ashley Elisna Grammer,2018-10-12,shot,vehicle,26,F,O,Puna,HI,False,attack,Not fleeing,False
 4100,Kay Kenniker,2018-10-12,shot,gun,84,M,,Chandler,AZ,True,attack,Not fleeing,False
 4088,Matthew Chambers,2018-10-12,shot,gun,34,M,,Cobb County,GA,False,attack,,False
+4110,Samuel Morris,2018-10-13,shot,knife,27,M,,Fort Smith,AR,False,other,Not fleeing,False
 4101,TK TK,2018-10-14,shot,gun,,M,,Jeffersonville,OH,False,attack,Not fleeing,False
 4102,TK TK,2018-10-14,shot,gun,,M,,Hall County,GA,False,attack,Not fleeing,False
 4091,Umberto Sanchez Ramoz,2018-10-14,shot,knife,17,M,H,Woodville,CA,True,attack,Not fleeing,False
-4093,Gregory Allen Tilly,2018-10-14,shot,gun,55,M,,Alamogordo,NM,False,attack,Not fleeing,False
+4093,Gregory Allen Tilly,2018-10-14,shot,gun,55,M,,Alamogordo,NM,False,other,Not fleeing,False
+4108,Antonio Davila,2018-10-15,shot,undetermined,53,M,,Hilltop,OH,False,undetermined,,False
 4094,Antonia Davila,2018-10-15,shot,undetermined,53,M,,Columbus,OH,False,undetermined,Not fleeing,False
+4107,Donald Judd,2018-10-16,shot,vehicle,45,M,,Tacoma,WA,False,attack,Not fleeing,False
+4104,TK TK,2018-10-17,shot,gun,,M,,Longview,WA,False,attack,Foot,False
+4105,Keyshon Parham,2018-10-17,shot,gun,19,M,,Memphis,TN,False,attack,,False
+4106,Charles Roundtree,2018-10-17,shot,unarmed,18,M,B,San Antonio,TX,False,other,Not fleeing,False
+4112,TK TK,2018-10-17,shot,knife,,M,,Quinlan,TX,False,other,Not fleeing,False
+4113,TK TK,2018-10-18,shot,undetermined,,M,,Arvada,CO,False,undetermined,Other,False
+4114,TK TK,2018-10-18,shot,undetermined,,M,,Salt Lake City,UT,False,undetermined,Car,False
+4115,TK TK,2018-10-18,shot,vehicle,,M,,Elkhorn,WI,False,other,,False
+4117,Jacob Servais,2018-10-18,shot,unarmed,19,M,,Vineland,NJ,False,other,Not fleeing,False
+4116,TK TK,2018-10-19,shot,vehicle,,M,,Miami,FL,False,undetermined,Car,False
