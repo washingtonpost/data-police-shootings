@@ -3731,14 +3731,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4113,Bailey Greek,2018-10-18,shot,undetermined,18,M,,Arvada,CO,False,attack,Other,False
 4114,Andrey Tkachenko,2018-10-18,shot,undetermined,23,M,W,Salt Lake City,UT,False,other,Car,False
 4115,TK TK,2018-10-18,shot,vehicle,,M,,Elkhorn,WI,False,attack,Car,False
-4117,Jacob Servais,2018-10-18,shot,undetermined,19,M,,Vineland,NJ,False,other,Not fleeing,False
+4117,Jacob Servais,2018-10-18,shot,undetermined,19,M,B,Vineland,NJ,False,other,Not fleeing,False
 4116,TK TK,2018-10-19,shot,vehicle,,M,,Miami,FL,False,attack,Car,False
 4124,Christopher Calabro,2018-10-19,shot,knife,25,M,W,Brockton,MA,True,other,Not fleeing,False
 4122,Edward Paul Zumski,2018-10-20,shot,gun,35,M,W,Paris,TX,False,attack,Not fleeing,False
 4126,Robert Smith,2018-10-20,shot,gun,50,M,,Spanaway,WA,False,other,Not fleeing,False
+4132,Kimberly Norris,2018-10-20,shot,gun,34,F,,Darlington County,SC,False,attack,Not fleeing,False
 4118,Cedric Pritchard,2018-10-21,shot,gun,,M,B,Washington,NC,False,other,Not fleeing,True
 4119,TK TK,2018-10-21,shot,undetermined,,M,,Quincy,FL,False,undetermined,Car,False
 4120,Tafahree Maynard,2018-10-22,shot and Tasered,lawn mower blade,18,M,B,Snellville,GA,False,other,Not fleeing,False
 4121,Jason Whittle,2018-10-22,shot,knife,26,M,W,Riverton,UT,False,attack,Not fleeing,False
 4123,William David Williamson,2018-10-22,shot,unknown weapon,61,M,W,Newport,TN,False,attack,Not fleeing,False
 4127,Shaunday Mullins,2018-10-23,shot,gun,37,M,,Tulsa,OK,False,attack,Not fleeing,False
+4130,TK TK,2018-10-23,shot,undetermined,,M,,Bothell,WA,False,undetermined,Car,False
+4131,Robert Mitchell,2018-10-23,shot,undetermined,23,M,,Davenport,IA,False,undetermined,Car,False
+4133,TK TK,2018-10-23,shot,undetermined,,M,,Alderwood Manor,WA,False,undetermined,Car,False
