@@ -3637,7 +3637,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4007,"Fernand ""Fred"" Lete",2018-09-03,shot,gun,70,M,,Bernalillo,NM,False,other,,False
 4008,Steve L. Anderson,2018-09-03,shot,knife,40,M,W,Cheney,WA,False,other,Not fleeing,False
 4009,Aaron Demonta Fleming,2018-09-03,shot,gun,21,M,B,Covington,GA,False,attack,Foot,False
-4015,TK TK,2018-09-04,shot,knife,,M,,Westminster,CO,False,attack,Not fleeing,False
+4015,Timmy Henley,2018-09-04,shot,knife,27,M,W,Westminster,CO,False,attack,Not fleeing,False
 4013,James Leatherwood,2018-09-05,shot,undetermined,23,M,B,Hollywood,FL,False,undetermined,,False
 4014,Mitchell Owen Buel,2018-09-05,shot,undetermined,33,M,W,Morris,AL,False,undetermined,Car,False
 4018,Christopher Sage,2018-09-05,shot,gun,45,M,,Jonesville,NC,False,attack,Not fleeing,False
@@ -3752,7 +3752,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4131,Robert Mitchell,2018-10-23,shot,undetermined,27,M,,Davenport,IA,False,undetermined,Car,False
 4133,Nickolas Michael Peters,2018-10-23,shot,undetermined,24,M,,Alderwood Manor,WA,False,attack,Car,False
 4162,Salvador Morales,2018-10-23,shot,gun,37,M,H,Pittsburg,CA,False,attack,Car,True
-4142,TK TK,2018-10-24,shot,gun,43,M,,Detroit,MI,False,other,Not fleeing,True
+4142,TK TK,2018-10-24,shot,gun and knife,45,M,,Detroit,MI,False,other,Not fleeing,True
 4141,Armond Beckwith-Bell,2018-10-25,shot,vehicle,28,M,B,St. Louis,MO,False,other,Not fleeing,False
 4135,Lloyd Napouk,2018-10-27,shot,unknown weapon,44,M,A,Las Vegas,NV,True,attack,Not fleeing,True
 4140,Christopher Carroll,2018-10-27,shot,gun,30,M,,Houston,TX,True,attack,Not fleeing,False
