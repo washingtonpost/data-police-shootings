@@ -3753,8 +3753,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4133,Nickolas Michael Peters,2018-10-23,shot,undetermined,24,M,,Alderwood Manor,WA,False,attack,Car,False
 4162,Salvador Morales,2018-10-23,shot,gun,37,M,H,Pittsburg,CA,False,attack,Car,True
 4142,TK TK,2018-10-24,shot,gun and knife,45,M,,Detroit,MI,False,other,Not fleeing,True
-4141,Armond Beckwith-Bell,2018-10-25,shot,vehicle,28,M,B,St. Louis,MO,False,other,Not fleeing,False
-4135,Lloyd Napouk,2018-10-27,shot,unknown weapon,44,M,A,Las Vegas,NV,True,attack,Not fleeing,True
+4141,Armond Beckwith-Bell,2018-10-25,shot,vehicle and gun,28,M,B,St. Louis,MO,False,attack,Not fleeing,False
+4135,Lloyd Gerald Napouk,2018-10-27,shot,unknown weapon,44,M,A,Las Vegas,NV,True,other,Not fleeing,True
 4140,Christopher Carroll,2018-10-27,shot,gun,30,M,,Houston,TX,True,attack,Not fleeing,False
 4134,TK TK,2018-10-29,shot,Taser,,M,,Hollywood,CA,False,attack,Not fleeing,False
 4136,Billy Jo Johnson,2018-10-29,shot,gun,34,M,W,Meyers,CA,False,attack,Car,False
@@ -3764,13 +3764,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4143,John Wurms,2018-10-31,shot,gun,32,M,W,Port Orange,FL,True,attack,Not fleeing,False
 4144,TK TK,2018-10-31,shot,gun,,M,,Jacksonville,FL,False,other,Foot,False
 4145,TK TK,2018-10-31,shot,toy weapon,17,M,,Houston,TX,False,other,Car,False
-4146,TK TK,2018-10-31,shot,vehicle,,M,,North Las Vegas,NV,False,attack,Car,False
+4146,Gonzalo Rico-Jimenez,2018-10-31,shot,vehicle,26,M,H,North Las Vegas,NV,False,attack,Car,False
 4158,TK TK,2018-11-02,shot,unarmed,,M,,Idaho Falls,ID,False,attack,Foot,False
 4159,Andrew Moore,2018-11-02,shot,knife,25,M,,Charleston,WV,False,attack,Not fleeing,False
-4147,Charles Foster,2018-11-03,shot,gun,65,M,,Bandon,OR,True,attack,Not fleeing,False
+4147,Charles Foster,2018-11-03,shot,gun,65,M,W,Bandon,OR,True,attack,Not fleeing,False
 4150,Laudemer Arboleda,2018-11-03,shot,vehicle,,M,A,Danville,CA,False,other,Not fleeing,False
-4148,Theoddeus Gray,2018-11-04,shot,gun,29,M,,St. Clair Shores,MI,False,attack,Foot,False
+4148,Theoddeus Gray,2018-11-04,shot,gun,29,M,B,St. Clair Shores,MI,False,attack,Foot,False
 4154,TK TK,2018-11-04,shot,gun,,M,,Albuquerque,NM,False,other,Not fleeing,False
 4149,Gary J. Willis,2018-11-05,shot,gun,,M,,Glen Burnie,MD,False,attack,Not fleeing,False
 4152,Henry Gregory Stroud,2018-11-05,shot,gun,36,M,,Cocke County,TN,False,other,,False
-4155,TK TK,2018-11-05,shot,unknown weapon,,M,,Port Charlotte,FL,False,other,Not fleeing,False
+4155,George Smith,2018-11-05,shot,unknown weapon,72,M,W,Port Charlotte,FL,True,other,Not fleeing,False
