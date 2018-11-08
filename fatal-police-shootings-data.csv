@@ -3321,7 +3321,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3671,Stephen Charles Arthur,2018-05-05,shot,gun,51,M,,Scottsdale,AZ,False,attack,Foot,False
 3743,Matthew Mathison,2018-05-05,shot,gun,59,M,,Bexar County,TX,True,attack,Foot,False
 3745,Savannah Hill,2018-05-05,shot,,21,F,W,Aurora,MO,False,attack,Car,False
-3667,Dwight Dearth,2018-05-06,shot,gun,73,M,,Fairview,OH,True,attack,Not fleeing,False
+3667,Dwight Dearth,2018-05-06,shot,gun,73,M,W,Fairview,OH,True,attack,Not fleeing,False
 3668,Franklin Robert Vaughn,2018-05-06,shot,gun,39,M,W,Prague,OK,False,attack,Car,False
 3669,Terence Leslie,2018-05-06,shot,Taser,32,M,B,East Point,GA,False,attack,Car,False
 3673,David P. Wolosin,2018-05-06,shot,gun,38,M,W,Casper,WY,False,attack,Not fleeing,False
@@ -3697,7 +3697,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4151,Arthur Harbison,2018-10-04,shot,knife,25,M,W,Greenville,MS,False,attack,,False
 4153,William Cox,2018-10-04,shot,gun,45,M,,Scarbo,WV,False,attack,Not fleeing,False
 4156,Sershawn Martez Dillon,2018-10-05,shot,gun,31,M,B,Nashville,TN,False,attack,Not fleeing,False
-4157,Phillip Samuel Moskios,2018-10-05,shot,undetermined,48,M,,Klamath Falls,OR,False,attack,Foot,False
+4157,Phillip Samuel Moskios,2018-10-05,shot,undetermined,48,M,W,Klamath Falls,OR,False,attack,Foot,False
 4160,Venson Kee Yazzie,2018-10-05,shot,knife,43,M,N,Chinle,AZ,False,other,Not fleeing,False
 4080,TK TK,2018-10-05,shot,gun,,M,,Hayti,MO,False,attack,Not fleeing,False
 4076,Tison Dinney,2018-10-07,shot,machete,51,M,,Honolulu,HI,False,attack,Not fleeing,True
@@ -3707,7 +3707,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4075,Aaron Joseph Chavez,2018-10-08,shot,knife,22,M,H,Clovis,NM,False,other,Foot,False
 4079,Alexander G. Lindahl,2018-10-08,shot,vehicle,24,M,W,Okarche,OK,False,attack,Car,False
 4081,Isaiah Ramirez,2018-10-08,shot,vehicle,36,M,W,Oak Ridge,TN,False,attack,Car,False
-4125,Alonzo L. Smith,2018-10-10,shot,gun,31,M,,Milwaukee,WI,False,attack,Not fleeing,True
+4125,Alonzo L. Smith,2018-10-10,shot,gun,31,M,B,Milwaukee,WI,False,attack,Not fleeing,True
 4083,Samuel E. Rice,2018-10-10,shot,knife,30,M,W,Portland,OR,False,other,Not fleeing,False
 4085,Richard Palafox,2018-10-10,shot,gun,76,M,,El Paso,TX,False,attack,Not fleeing,False
 4086,Terrell Blake,2018-10-10,shot,gun,39,M,B,Rochester,NY,False,attack,Car,False
@@ -3716,59 +3716,59 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4092,Kenneth Ryan Busse,2018-10-10,shot,gun,21,M,W,Las Vegas,NV,True,attack,Foot,True
 4084,TK TK,2018-10-11,shot,gun,,M,,Huntington Beach,CA,False,other,Car,False
 4089,Diamonte Riviore,2018-10-11,shot,knife,22,M,B,West Jordan,UT,False,other,,False
-4096,Jacob E. Albrethsen,2018-10-12,shot and Tasered,knife,17,M,,Orem,OR,False,other,Not fleeing,False
+4096,Jacob E. Albrethsen,2018-10-12,shot and Tasered,knife,17,M,W,Orem,OR,False,other,Not fleeing,False
 4098,Samuel Morris,2018-10-12,shot,knife,27,M,B,Fort Smith,AR,False,other,Not fleeing,False
 4099,Ashley Elisna Grammer,2018-10-12,shot,vehicle,26,F,O,Puna,HI,False,attack,Not fleeing,False
 4100,Kay Kenniker,2018-10-12,shot,gun,84,M,,Chandler,AZ,True,attack,Not fleeing,False
 4088,Matthew Chambers,2018-10-12,shot,gun,34,M,,Cobb County,GA,False,attack,,False
-4110,Samuel Morris,2018-10-13,shot,knife,27,M,,Fort Smith,AR,False,other,Not fleeing,False
-4101,Eric Jamar Lupain Stromer,2018-10-14,shot,gun,22,M,,Jeffersonville,OH,False,attack,Not fleeing,False
-4102,James Christopher Manus,2018-10-14,shot,gun,41,M,,Hall County,GA,False,attack,Not fleeing,False
+4110,Samuel Morris,2018-10-13,shot,knife,27,M,B,Fort Smith,AR,False,other,Not fleeing,False
+4101,Eric Jamar Lupain Stromer,2018-10-14,shot,gun,22,M,B,Jeffersonville,OH,False,attack,Not fleeing,False
+4102,James Christopher Manus,2018-10-14,shot,gun,41,M,W,Hall County,GA,False,attack,Not fleeing,False
 4091,Umberto Sanchez Ramoz,2018-10-14,shot,knife,17,M,H,Woodville,CA,True,attack,Not fleeing,False
 4093,Gregory Allen Tilly,2018-10-14,shot,gun,55,M,,Alamogordo,NM,False,other,Not fleeing,False
 4108,Hustes Davila,2018-10-15,shot,gun,58,M,H,Hilltop,OH,False,attack,,False
 4107,Donald Judd,2018-10-16,shot,vehicle,45,M,,Tacoma,WA,False,attack,Not fleeing,False
-4104,Weston Willow Well Cole,2018-10-17,shot,gun,29,M,,Longview,WA,False,attack,Foot,False
+4104,Weston Willow Well Cole,2018-10-17,shot,gun,29,M,W,Longview,WA,False,attack,Foot,False
 4105,Keyshon Parham,2018-10-17,shot,gun,19,M,B,Memphis,TN,False,attack,Foot,False
 4106,Charles Roundtree,2018-10-17,shot,unarmed,18,M,B,San Antonio,TX,False,other,Not fleeing,False
 4112,TK TK,2018-10-17,shot,knife,,M,,Quinlan,TX,False,other,Not fleeing,False
 4129,James Lyle Kuehn,2018-10-17,shot and Tasered,knife,61,M,W,Kearns,UT,False,other,,False
-4113,Bailey Greek,2018-10-18,shot,undetermined,18,M,,Arvada,CO,False,attack,Other,False
+4113,Bailey Greek,2018-10-18,shot,undetermined,18,M,W,Arvada,CO,False,attack,Other,False
 4114,Andrey Tkachenko,2018-10-18,shot,undetermined,23,M,W,Salt Lake City,UT,False,other,Car,False
 4115,Sean Dutcher,2018-10-18,shot,vehicle,38,M,W,Elkhorn,WI,False,attack,Car,False
 4117,Jacob Servais,2018-10-18,shot,undetermined,19,M,B,Vineland,NJ,False,other,Not fleeing,False
-4161,Mahlon Edward Summerour,2018-10-18,shot,toy weapon,63,M,,Monroe,GA,True,attack,Not fleeing,False
+4161,Mahlon Edward Summerour,2018-10-18,shot,toy weapon,63,M,B,Monroe,GA,True,attack,Not fleeing,False
 4116,"Neico Crooks, Jr",2018-10-19,shot,vehicle,21,M,B,Miami,FL,False,attack,Car,False
 4124,Christopher Calabro,2018-10-19,shot,knife,25,M,W,Brockton,MA,True,other,Not fleeing,False
 4122,Edward Paul Zumski,2018-10-20,shot,gun,35,M,W,Paris,TX,False,attack,Not fleeing,False
 4126,Robert Smith,2018-10-20,shot,gun,50,M,,Spanaway,WA,False,other,Not fleeing,False
-4132,Kimberly Norris,2018-10-20,shot,gun,34,F,,Darlington County,SC,False,attack,Not fleeing,False
+4132,Kimberly Norris,2018-10-20,shot,gun,34,F,W,Darlington County,SC,False,attack,Not fleeing,False
 4118,Cedric Pritchard,2018-10-21,shot,gun,,M,B,Washington,NC,False,other,Not fleeing,True
 4119,TK TK,2018-10-21,shot,undetermined,,M,,Quincy,FL,False,undetermined,Car,False
 4120,Tafahree Maynard,2018-10-22,shot and Tasered,lawn mower blade,18,M,B,Snellville,GA,False,other,Not fleeing,False
 4121,Jason Whittle,2018-10-22,shot,knife,26,M,W,Riverton,UT,False,attack,Not fleeing,False
 4123,William David Williamson,2018-10-22,shot,unknown weapon,61,M,W,Newport,TN,False,attack,Not fleeing,False
-4127,Shaunday Mullins,2018-10-23,shot,gun,37,M,,Tulsa,OK,False,attack,Not fleeing,False
-4131,Robert Mitchell,2018-10-23,shot,undetermined,27,M,,Davenport,IA,False,undetermined,Car,False
-4133,Nickolas Michael Peters,2018-10-23,shot,undetermined,24,M,,Alderwood Manor,WA,False,attack,Car,False
+4127,Shaunday Mullins,2018-10-23,shot,gun,37,M,N,Tulsa,OK,False,attack,Not fleeing,False
+4131,Robert Mitchell,2018-10-23,shot,undetermined,27,M,W,Davenport,IA,False,undetermined,Car,False
+4133,Nickolas Michael Peters,2018-10-23,shot,undetermined,24,M,W,Alderwood Manor,WA,False,attack,Car,False
 4162,Salvador Morales,2018-10-23,shot,gun,37,M,H,Pittsburg,CA,False,attack,Car,True
 4142,TK TK,2018-10-24,shot,gun and knife,45,M,,Detroit,MI,False,other,Not fleeing,True
 4141,Armond Beckwith-Bell,2018-10-25,shot,vehicle and gun,28,M,B,St. Louis,MO,False,attack,Not fleeing,False
 4135,Lloyd Gerald Napouk,2018-10-27,shot,unknown weapon,44,M,A,Las Vegas,NV,True,other,Not fleeing,True
-4140,Christopher Carroll,2018-10-27,shot,gun,30,M,,Houston,TX,True,attack,Not fleeing,False
-4134,TK TK,2018-10-29,shot,Taser,,M,,Hollywood,CA,False,attack,Not fleeing,False
-4136,Billy Jo Johnson,2018-10-29,shot,gun,34,M,W,Meyers,CA,False,attack,Car,False
-4137,Arnaldo Caraveo,2018-10-29,shot,gun,27,M,,Phoenix,AZ,False,attack,Car,False
+4140,Christopher Carroll,2018-10-27,shot,gun,30,M,B,Houston,TX,True,attack,Not fleeing,False
+4134,Albert Ramon Dorsey,2018-10-29,shot,Taser,30,M,B,Hollywood,CA,False,other,Not fleeing,False
+4136,Billy Jo Johnson,2018-10-29,shot,gun,34,M,W,South Lake Tahoe,CA,False,attack,Car,False
+4137,Arnaldo Caraveo,2018-10-29,shot,gun,27,M,H,Phoenix,AZ,False,attack,Car,False
 4138,Derrick Alexander Sellman,2018-10-29,shot,vehicle,28,M,,Parkville,MD,False,attack,Car,False
 4139,Ida Christy Stiles,2018-10-29,shot,toy weapon,42,F,W,Jackson,GA,True,attack,Not fleeing,False
-4143,John Wurms,2018-10-31,shot,gun,32,M,W,Port Orange,FL,True,attack,Not fleeing,False
-4144,TK TK,2018-10-31,shot,gun,,M,,Jacksonville,FL,False,other,Foot,False
-4145,TK TK,2018-10-31,shot,toy weapon,17,M,,Houston,TX,False,other,Car,False
+4143,John Wurms,2018-10-31,shot,gun,32,M,W,Port Orange,FL,False,attack,Not fleeing,True
+4144,Tony Bernard Smith,2018-10-31,shot,gun,24,M,B,Jacksonville,FL,False,other,Foot,False
+4145,Jose Centeno,2018-10-31,shot,toy weapon,17,M,H,Houston,TX,False,other,Car,False
 4146,Gonzalo Rico-Jimenez,2018-10-31,shot,vehicle,26,M,H,North Las Vegas,NV,False,attack,Car,False
-4158,TK TK,2018-11-02,shot,unarmed,,M,,Idaho Falls,ID,False,attack,Foot,False
-4159,Andrew Moore,2018-11-02,shot,knife,25,M,,Charleston,WV,False,attack,Not fleeing,False
-4147,Charles Foster,2018-11-03,shot,gun,65,M,W,Bandon,OR,True,attack,Not fleeing,False
-4150,Laudemer Arboleda,2018-11-03,shot,vehicle,,M,A,Danville,CA,False,other,Not fleeing,False
+4158,Jesse J. Quinton,2018-11-02,shot,unarmed,35,M,,Idaho Falls,ID,False,attack,Foot,False
+4159,Andrew Moore,2018-11-02,shot,knife,25,M,W,Charleston,WV,False,attack,Not fleeing,False
+4147,Robert Charles Foster,2018-11-03,shot,gun,65,M,,Bandon,OR,True,attack,Not fleeing,False
+4150,Laudemer Arboleda,2018-11-03,shot,vehicle,33,M,,Danville,CA,False,other,Not fleeing,False
 4148,Theoddeus Gray,2018-11-04,shot,gun,29,M,B,St. Clair Shores,MI,False,attack,Foot,False
 4154,TK TK,2018-11-04,shot,gun,,M,,Albuquerque,NM,False,other,Not fleeing,False
 4149,Gary J. Willis,2018-11-05,shot,gun,,M,,Glen Burnie,MD,False,attack,Not fleeing,False
