@@ -3769,19 +3769,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4159,Andrew Moore,2018-11-02,shot,knife,25,M,W,Charleston,WV,False,attack,Not fleeing,False
 4147,Robert Charles Foster,2018-11-03,shot,gun,65,M,,Bandon,OR,True,attack,Not fleeing,False
 4150,Laudemer Arboleda,2018-11-03,shot,vehicle,33,M,,Danville,CA,False,other,Not fleeing,False
-4164,Ryan Milsap,2018-11-03,shot,vehicle,19,M,W,Clear Creek Canyon,CO,False,attack,Car,False
 4148,Theoddeus Gray,2018-11-04,shot,gun,29,M,B,St. Clair Shores,MI,False,attack,Foot,False
 4154,Anthony David Chavez,2018-11-04,shot,gun,18,M,,Albuquerque,NM,False,other,Not fleeing,False
+4164,Ryan Millsap,2018-11-04,shot,vehicle,19,M,W,Clear Creek Canyon,CO,False,attack,Car,False
 4149,Gary J. Willis,2018-11-05,shot,gun,61,M,,Glen Burnie,MD,False,attack,Not fleeing,False
 4152,Henry Gregory Stroud,2018-11-05,shot,gun,36,M,W,Cocke County,TN,True,attack,Not fleeing,False
 4155,George Smith,2018-11-05,shot,gun,72,M,W,Port Charlotte,FL,True,attack,Not fleeing,False
 4163,Anovath Troy Kongvongxay,2018-11-05,shot,ax,48,M,A,Camp Croft,SC,True,attack,Not fleeing,False
-4165,TK TK,2018-11-07,shot,gun,,M,,Corona,CA,False,other,Not fleeing,False
-4166,Charles Roundtree,2018-11-07,shot and Tasered,unarmed,18,M,B,San Antonio,TX,False,attack,Not fleeing,False
+4165,TK TK,2018-11-07,shot,gun,,M,,Corona,CA,False,attack,Not fleeing,False
+4166, ,2018-11-07,shot and Tasered,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
 4168,Travis Jordan,2018-11-09,shot,,36,M,,Minneapolis,MN,True,undetermined,,False
 4170,Christopher William Parrish,2018-11-09,shot,rock,33,M,W,Ogden,UT,False,attack,Car,False
-4171,Cody Belgard,2018-11-09,shot,undetermined,30,M,W,Salt Lake City,UT,False,undetermined,Not fleeing,False
-4173,James Hanchett,2018-11-09,shot,gun,,M,,Shakopee,MN,False,attack,Not fleeing,False
-4167,Patrick Bryant,2018-11-10,shot,gun,41,M,,Clarksdale,MS,False,attack,Not fleeing,False
-4169,Elisha Edward Kelley,2018-11-11,shot,unarmed,52,M,,Wagoner,OK,False,other,Not fleeing,False
+4171,Cody Paris Belgard,2018-11-09,shot,undetermined,30,M,W,Salt Lake City,UT,False,undetermined,Not fleeing,False
+4173,James Hanchett,2018-11-09,shot,gun,61,M,W,Shakopee,MN,False,attack,Not fleeing,False
+4167,Patrick Bryant,2018-11-10,shot,gun,41,M,B,Clarksdale,MS,False,attack,Not fleeing,False
+4169,Elisha Edward Kelley,2018-11-11,shot,unarmed,52,M,W,Wagoner,OK,False,other,Not fleeing,False
 4172,Jemel Roberson,2018-11-11,shot,gun,26,M,B,Robbins,IL,False,undetermined,Not fleeing,False
