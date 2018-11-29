@@ -2970,7 +2970,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3276,Richard R. Towler,2018-01-07,shot,gun,54,M,B,Danville,VA,False,attack,Not fleeing,False
 3277,Tyler Miller,2018-01-07,shot and Tasered,unarmed,51,M,W,Sedona,AZ,True,other,Not fleeing,False
 3290,Michael Bender,2018-01-07,shot,gun,27,M,W,Tacoma,WA,False,attack,Not fleeing,False
-4208,Travis Griffin,2018-01-08,shot,gun,20,M,B,Kansas City,MO,False,attack,Foot,False
+4208,Travis Griffin,2018-01-08,shot,gun,20,M,,Kansas City,MO,False,attack,Foot,False
 3273,TK TK,2018-01-08,shot,gun,,M,,Horn Lake,MS,False,attack,Car,False
 3297,Eugene Loftis,2018-01-08,shot,gun,25,M,W,Church Hill,TN,False,other,Not fleeing,False
 3298,Frank William Pawul,2018-01-08,shot and Tasered,gun,32,M,W,Kansas City,MO,False,attack,Foot,False
@@ -3778,7 +3778,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4155,George Smith,2018-11-05,shot,gun,72,M,W,Port Charlotte,FL,True,attack,Not fleeing,False
 4163,Anovath Troy Kongvongxay,2018-11-05,shot,ax,48,M,A,Camp Croft,SC,True,attack,Not fleeing,False
 4165,TK TK,2018-11-07,shot,gun,,M,,Corona,CA,False,attack,Not fleeing,False
-4166, ,2018-11-07,shot and Tasered,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
+4166,TK TK,2018-11-07,shot and Tasered,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
 4168,Travis Jordan,2018-11-09,shot,,36,M,B,Minneapolis,MN,True,undetermined,,False
 4170,Christopher William Parrish,2018-11-09,shot,rock,33,M,W,Ogden,UT,False,attack,Car,False
 4171,Cody Paris Belgard,2018-11-09,shot,undetermined,30,M,W,Salt Lake City,UT,False,undetermined,Not fleeing,False
@@ -3794,11 +3794,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4175,Timothy Leon,2018-11-13,shot,unknown weapon,24,M,B,Phoenix,AZ,False,attack,Car,False
 4196,Rene Prieto,2018-11-13,shot,gun,38,M,,Pratt,KS,True,attack,Not fleeing,False
 4174,TK TK,2018-11-14,shot,gun,,M,,Wythe County,VA,False,attack,Not fleeing,False
+4213,Joseph Loughery,2018-11-14,shot,gun,59,M,,Auburn,MA,False,attack,Not fleeing,False
 4186,Allen Fanning,2018-11-15,shot,gun,18,M,,Centennial,CO,False,other,Not fleeing,False
 4187,Agustin Gonsalez,2018-11-15,shot,straight edge razor,29,M,H,Hayward,CA,True,other,Not fleeing,False
 4189,Jack Fields,2018-11-15,shot,knife,25,M,,Augusta,GA,False,attack,Not fleeing,False
 4190,GD Hendrix,2018-11-15,shot,metal pipe,48,M,,Paradise,CA,False,other,Car,False
-4213,Joseph Loughery,2018-11-15,shot,gun,59,M,,Auburn,MA,False,attack,Not fleeing,False
 4191,TK TK,2018-11-16,shot,gun,,M,,Houston,TX,False,attack,Not fleeing,False
 4182,Jenessa M. Cooper,2018-11-17,shot,gun,49,F,,Missoula,MT,False,attack,Not fleeing,False
 4185,Rio Antwuan Thomas,2018-11-17,shot,vehicle,27,M,B,Fort Pierce,FL,False,attack,Car,False
@@ -3811,12 +3811,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4197,Robert William Reid,2018-11-21,shot,undetermined,42,M,,Lincoln Township,MI,False,undetermined,Not fleeing,False
 4211,TK TK,2018-11-21,shot,gun,,M,,Talladega,AL,False,attack,Not fleeing,False
 4212,TK TK,2018-11-21,shot,gun,,M,,Talladega,AL,False,attack,Not fleeing,False
-4214,TK TK,2018-11-21,shot,knife,24,M,,Bell Gardens,CA,False,attack,Not fleeing,False
+4214,Martin Lopez,2018-11-21,shot,knife,24,M,H,Bell Gardens,CA,False,attack,Not fleeing,False
 4199,Emantic Fitzgerald Bradford,2018-11-22,shot,gun,21,M,B,Hoover,AL,False,other,Not fleeing,False
 4201,Cameron McCarthy,2018-11-22,shot,machete,20,M,W,Palmer,AK,False,other,Foot,False
 4205,Patrick Michael Langhoff,2018-11-22,shot,gun,59,M,,Gunnison County,CO,False,attack,Not fleeing,False
 4203,Christopher L. Anderson,2018-11-23,shot,gun,46,M,,Bremen,KY,False,attack,Not fleeing,False
 4202,Felix Anthony Calata,2018-11-24,shot,vehicle,32,M,,South Salt Lake,UT,True,attack,Car,False
-4206,TK TK,2018-11-27,shot,gun,,M,,Denver,CO,False,attack,Car,False
+4206,Nicholas Charles Ryan,2018-11-27,shot,gun,19,M,W,Denver,CO,False,attack,Car,False
 4209,TK TK,2018-11-27,shot,gun,,M,,Clinton,UT,True,attack,Not fleeing,False
 4210,Jarmane Logan,2018-11-27,shot,vehicle,35,M,B,Topeka,KS,False,attack,Car,False
