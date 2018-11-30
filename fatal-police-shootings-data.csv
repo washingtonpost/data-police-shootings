@@ -3779,9 +3779,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4163,Anovath Troy Kongvongxay,2018-11-05,shot,ax,48,M,A,Camp Croft,SC,True,attack,Not fleeing,False
 4165,TK TK,2018-11-07,shot,gun,,M,,Corona,CA,False,attack,Not fleeing,False
 4166,TK TK,2018-11-07,shot and Tasered,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
-4168,Travis Jordan,2018-11-09,shot,,36,M,B,Minneapolis,MN,True,undetermined,,False
+4168,Travis Jordan,2018-11-09,shot,unknown weapon,36,M,B,Minneapolis,MN,True,undetermined,Not fleeing,True
 4170,Christopher William Parrish,2018-11-09,shot,rock,33,M,W,Ogden,UT,False,attack,Car,False
-4171,Cody Paris Belgard,2018-11-09,shot,undetermined,30,M,W,Salt Lake City,UT,False,undetermined,Not fleeing,False
+4171,Cody Paris Belgard,2018-11-09,shot,undetermined,30,M,W,Salt Lake City,UT,False,undetermined,Not fleeing,True
 4173,James Hanchett,2018-11-09,shot,gun,61,M,W,Shakopee,MN,False,attack,Not fleeing,False
 4167,Patrick Bryant,2018-11-10,shot,gun,41,M,B,Clarksdale,MS,False,attack,Not fleeing,False
 4169,Elisha Edward Kelley,2018-11-11,shot,unarmed,52,M,W,Wagoner,OK,False,other,Not fleeing,False
@@ -3791,6 +3791,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4179,Andrew Kana,2018-11-12,shot,gun,36,M,A,Catoosa,OK,False,other,Not fleeing,False
 4180,Tony Mathis,2018-11-12,shot,gun,47,M,B,Oklahoma City,OK,False,undetermined,Other,False
 4181,Danny Ayala,2018-11-12,shot,knife,,M,H,Alpine,CA,False,other,Not fleeing,False
+4224,Cesar Alehandro Ramos,2018-11-12,shot,gun,25,M,H,Chattanooga,TN,False,attack,Not fleeing,False
+4226,Andrew Kana,2018-11-12,shot,gun,,M,,Muskogee,OK,False,attack,Not fleeing,True
 4175,Timothy Leon,2018-11-13,shot,unknown weapon,24,M,B,Phoenix,AZ,False,attack,Car,False
 4196,Rene Prieto,2018-11-13,shot,gun,38,M,,Pratt,KS,True,attack,Not fleeing,False
 4174,TK TK,2018-11-14,shot,gun,,M,,Wythe County,VA,False,attack,Not fleeing,False
@@ -3809,14 +3811,24 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4193,Keaton James Larson,2018-11-21,shot,knife,22,M,W,Stillwater,MN,True,other,Not fleeing,True
 4194,Billy G. Heeter,2018-11-21,shot,gun,52,M,,Franklinton,OH,True,other,Not fleeing,False
 4197,Robert William Reid,2018-11-21,shot,undetermined,42,M,,Lincoln Township,MI,False,undetermined,Not fleeing,False
-4211,TK TK,2018-11-21,shot,gun,,M,,Talladega,AL,False,attack,Not fleeing,False
-4212,TK TK,2018-11-21,shot,gun,,M,,Talladega,AL,False,attack,Not fleeing,False
+4211,Brianna Nicole Post,2018-11-21,shot,undetermined,24,F,,Talladega,AL,False,undetermined,Not fleeing,False
+4212,Eugene Benjamin Weathers,2018-11-21,shot,gun,48,M,,Talladega,AL,False,attack,Not fleeing,False
 4214,Martin Lopez,2018-11-21,shot,knife,24,M,H,Bell Gardens,CA,False,attack,Not fleeing,False
 4199,Emantic Fitzgerald Bradford,2018-11-22,shot,gun,21,M,B,Hoover,AL,False,other,Not fleeing,False
 4201,Cameron McCarthy,2018-11-22,shot,machete,20,M,W,Palmer,AK,False,other,Foot,False
 4205,Patrick Michael Langhoff,2018-11-22,shot,gun,59,M,,Gunnison County,CO,False,attack,Not fleeing,False
 4203,Christopher L. Anderson,2018-11-23,shot,gun,46,M,,Bremen,KY,False,attack,Not fleeing,False
+4225,TK TK,2018-11-23,shot,undetermined,,M,,Detroit,MI,False,undetermined,Not fleeing,False
 4202,Felix Anthony Calata,2018-11-24,shot,vehicle,32,M,,South Salt Lake,UT,True,attack,Car,False
+4223,Sierra McCauley,2018-11-26,shot,knife,23,F,,South Knoxville,TN,True,attack,Not fleeing,False
 4206,Nicholas Charles Ryan,2018-11-27,shot,gun,19,M,W,Denver,CO,False,attack,Car,False
-4209,TK TK,2018-11-27,shot,gun,,M,,Clinton,UT,True,attack,Not fleeing,False
+4209,Allen Scott Culpepper,2018-11-27,shot,gun,64,M,,Clinton,UT,True,attack,Not fleeing,False
 4210,Jarmane Logan,2018-11-27,shot,vehicle,35,M,B,Topeka,KS,False,attack,Car,False
+4216,J Scot Alan Widmark,2018-11-27,shot,knife,41,M,,Virginia,MN,False,undetermined,,False
+4220,Bert E. Mercado,2018-11-27,shot,gun,42,M,,Honolulu,HI,True,attack,Not fleeing,False
+4217,TK TK,2018-11-28,shot,gun,,M,,Lakewood,CO,False,attack,Foot,False
+4219,TK TK,2018-11-28,shot,gun,,M,,Louisville,KY,False,attack,,False
+4221,David Villagran,2018-11-28,shot,vehicle,33,M,,Vancouver,WA,False,attack,Car,False
+4218,TK TK,2018-11-29,shot,gun,,M,,Bemidji,MN,False,other,Not fleeing,True
+4222,Adrian Bunker,2018-11-29,shot,undetermined,37,M,,Old Town,ME,False,undetermined,Not fleeing,False
+4227,TK TK,2018-11-30,shot,gun,,M,,Phoenix,AZ,False,attack,Not fleeing,False
