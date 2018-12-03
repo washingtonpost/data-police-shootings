@@ -3048,7 +3048,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3376,Taylor Schnortz,2018-02-01,shot,gun,26,M,W,Helena,MT,True,other,,False
 3377,Charlie Shoupe,2018-02-02,shot,knife,27,M,W,Charlotte,NC,True,other,Not fleeing,True
 3380,TK TK,2018-02-02,shot,gun,,M,,Winters,TX,True,attack,Not fleeing,False
-3379,TK TK,2018-02-03,shot,toy weapon,,M,,Atlanta,GA,False,attack,Foot,False
+3379,Mitchell Kitchen,2018-02-03,shot,toy weapon,,M,B,Atlanta,GA,False,attack,Foot,False
 3381,Alan Greenough,2018-02-03,shot,unarmed,43,M,W,Reading,MA,False,other,Foot,False
 3383,Ernie Lizana,2018-02-03,shot,gun,49,M,W,Gulfport,MS,False,attack,Foot,False
 3382,Anthony Jacob Weber,2018-02-04,shot,gun,16,M,B,Los Angeles,CA,False,other,Foot,False
@@ -3062,10 +3062,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3392,Lloyd Harris,2018-02-08,shot,BB gun,40,M,W,Antioch,CA,False,other,Not fleeing,False
 3393,Ricardo Colon,2018-02-08,shot,knife,35,M,H,Grant-Valkaria,FL,True,other,Not fleeing,False
 3394,Tierre Guthrie,2018-02-09,shot,gun,39,M,B,Locust Grove,GA,False,attack,Not fleeing,False
-3395,TK TK,2018-02-09,shot,,,M,,Atlanta,GA,False,other,Car,False
+3395,David Darden,2018-02-09,shot,,36,M,,Atlanta,GA,False,other,Car,False
 3402,John Hamilton,2018-02-09,shot,gun,78,M,W,Flagstaff,AZ,False,other,Not fleeing,True
 3397,Steven Tyler Reed,2018-02-10,shot,undetermined,25,M,W,Columbus,OH,False,undetermined,Foot,False
-3398,TK TK,2018-02-10,shot,gun,,M,,Aurora,CO,False,other,Not fleeing,False
+3398,Troy Jacques,2018-02-10,shot,gun,41,M,,Aurora,CO,False,other,Not fleeing,False
 3399,Sidney T. Richardson,2018-02-10,shot and Tasered,machete,48,M,B,Tampa,FL,False,other,Not fleeing,False
 3404,Michael Weber,2018-02-10,shot,gun,63,M,W,Kingman,AZ,False,attack,Not fleeing,True
 3396,Benjamin Gregware,2018-02-11,shot,gun,42,M,W,Bolton,VT,True,other,Not fleeing,False
@@ -3808,7 +3808,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4187,Agustin Gonsalez,2018-11-15,shot,straight edge razor,29,M,H,Hayward,CA,True,other,Not fleeing,False
 4189,Jack Fields,2018-11-15,shot,knife,25,M,,Augusta,GA,False,attack,Not fleeing,False
 4190,GD Hendrix,2018-11-15,shot,metal pipe,48,M,,Paradise,CA,False,other,Car,False
-4235,"Steven Smith, Jr",2018-11-15,shot,gun,60,M,W,Demopolis,AL,False,attack,Not fleeing,False
+4235,Steven Smith,2018-11-15,shot,gun,60,M,W,Demopolis,AL,False,attack,Not fleeing,False
 4191,TK TK,2018-11-16,shot,gun,,M,,Houston,TX,False,attack,Not fleeing,False
 4182,Jenessa M. Cooper,2018-11-17,shot,gun,49,F,,Missoula,MT,False,attack,Not fleeing,False
 4185,Rio Antwuan Thomas,2018-11-17,shot,vehicle,27,M,B,Fort Pierce,FL,False,attack,Car,False
@@ -3817,11 +3817,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4192,Christopher Williams,2018-11-19,shot,undetermined,41,M,,Meridian,ID,False,attack,Car,False
 4195,Roderick McDaniel,2018-11-19,shot,gun,33,M,,Magnolia,AR,False,attack,Not fleeing,False
 4236,Craig Allen,2018-11-20,shot,gun,71,M,,Phoenix,AZ,False,attack,Not fleeing,False
-4237,Rodrick McDaniel,2018-11-20,shot,vehicle,33,M,,Magnolia,AR,False,attack,Not fleeing,False
+4237,Roderick McDaniel,2018-11-20,shot,vehicle,33,M,,Magnolia,AR,False,attack,Not fleeing,False
 4193,Keaton James Larson,2018-11-21,shot,knife,22,M,W,Stillwater,MN,True,other,Not fleeing,True
 4194,Billy G. Heeter,2018-11-21,shot,gun,52,M,,Franklinton,OH,True,other,Not fleeing,False
 4197,Robert William Reid,2018-11-21,shot,undetermined,42,M,,Lincoln Township,MI,False,undetermined,Not fleeing,False
-4211,Brianna Nicole Post,2018-11-21,shot,undetermined,24,F,,Talladega,AL,False,undetermined,Not fleeing,False
 4212,Eugene Benjamin Weathers,2018-11-21,shot,gun,48,M,,Talladega,AL,False,attack,Not fleeing,False
 4214,Martin Lopez,2018-11-21,shot,knife,24,M,H,Bell Gardens,CA,False,attack,Not fleeing,False
 4238,TK TK,2018-11-21,shot,undetermined,,M,,Pasadena,TX,False,attack,Foot,False
@@ -3829,13 +3828,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4201,Cameron McCarthy,2018-11-22,shot,machete,20,M,W,Palmer,AK,False,other,Foot,False
 4205,Patrick Michael Langhoff,2018-11-22,shot,gun,59,M,,Gunnison County,CO,False,attack,Not fleeing,False
 4203,Christopher L. Anderson,2018-11-23,shot,gun,46,M,,Bremen,KY,False,attack,Not fleeing,False
-4225,Martez Webb,2018-11-23,shot,undetermined,23,M,B,Detroit,MI,False,undetermined,Not fleeing,False
+4225,Martez Webb,2018-11-23,shot,gun,23,M,B,Detroit,MI,False,attack,Not fleeing,False
 4202,Felix Anthony Calata,2018-11-24,shot,vehicle,32,M,,South Salt Lake,UT,True,attack,Car,False
 4223,Sierra McCauley,2018-11-26,shot,knife,23,F,,South Knoxville,TN,True,attack,Not fleeing,False
 4206,Nicholas Charles Ryan,2018-11-27,shot,gun,19,M,W,Denver,CO,False,attack,Car,False
 4209,Allen Scott Culpepper,2018-11-27,shot,gun,64,M,,Clinton,UT,True,attack,Not fleeing,False
 4210,Jarmane Logan,2018-11-27,shot,vehicle,35,M,B,Topeka,KS,False,attack,Car,False
-4216,J Scot Alan Widmark,2018-11-27,shot,knife,41,M,,Virginia,MN,False,undetermined,,False
+4216,J Scot Alan Widmark,2018-11-27,shot,knife,41,M,,Virginia,MN,False,attack,,False
 4220,Bert E. Mercado,2018-11-27,shot,gun,42,M,,Honolulu,HI,True,attack,Not fleeing,False
 4217,TK TK,2018-11-28,shot,gun,,M,,Lakewood,CO,False,attack,Foot,False
 4219,TK TK,2018-11-28,shot,gun,,M,,Louisville,KY,False,attack,,False
