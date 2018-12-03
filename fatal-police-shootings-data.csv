@@ -3770,7 +3770,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4159,Andrew Moore,2018-11-02,shot,knife,25,M,W,Charleston,WV,False,attack,Not fleeing,False
 4147,Robert Charles Foster,2018-11-03,shot,gun,65,M,,Bandon,OR,True,attack,Not fleeing,False
 4150,Laudemer Arboleda,2018-11-03,shot,vehicle,33,M,B,Danville,CA,False,other,Not fleeing,False
-4228,Kanwarbir Malhi,2018-11-03,shot,gun,25,M,,Shelby Township,MI,False,other,Not fleeing,False
+4228,Kanwarbir Malhi,2018-11-03,shot,,25,M,,Shelby Township,MI,False,other,Not fleeing,False
 4148,Theoddeus Gray,2018-11-04,shot,gun,29,M,B,St. Clair Shores,MI,False,attack,Foot,False
 4154,Anthony David Chavez,2018-11-04,shot,gun,18,M,H,Albuquerque,NM,False,other,Not fleeing,False
 4164,Ryan Millsap,2018-11-04,shot,vehicle,19,M,W,Clear Creek Canyon,CO,False,attack,Car,False
@@ -3782,7 +3782,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4230,TK TK,2018-11-06,shot,gun,,M,,St. Cloud,FL,True,attack,Not fleeing,False
 4165,TK TK,2018-11-07,shot,gun,,M,,Corona,CA,False,attack,Not fleeing,False
 4166,TK TK,2018-11-07,shot and Tasered,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False
-4231,Jesus Guzman,2018-11-08,shot,gun,34,M,H,Charleston View,CA,False,attack,Foot,False
+4231,"Jesus ""Chuy"" Guzman",2018-11-08,shot,gun,34,M,H,Charleston View,CA,False,attack,Foot,False
 4168,Travis Jordan,2018-11-09,shot,unknown weapon,36,M,B,Minneapolis,MN,True,undetermined,Not fleeing,True
 4170,Christopher William Parrish,2018-11-09,shot,rock,33,M,W,Ogden,UT,False,attack,Car,False
 4171,Cody Paris Belgard,2018-11-09,shot,undetermined,30,M,W,Salt Lake City,UT,False,undetermined,Not fleeing,True
@@ -3790,7 +3790,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4167,Patrick Bryant,2018-11-10,shot,gun,41,M,B,Clarksdale,MS,False,attack,Not fleeing,False
 4169,Elisha Edward Kelley,2018-11-11,shot,unarmed,52,M,W,Wagoner,OK,False,other,Not fleeing,False
 4172,Jemel Roberson,2018-11-11,shot,gun,26,M,B,Robbins,IL,False,other,Not fleeing,False
-4232,TK TK,2018-11-11,shot,gun,,M,,Hemet,CA,False,attack,Foot,False
+4232,TK TK,2018-11-11,shot,gun,,M,H,Hemet,CA,False,attack,Foot,False
 4177,Edward M. Walsh,2018-11-12,shot,knife,39,M,W,Mantoloking,NJ,False,attack,Not fleeing,False
 4178,Marty West,2018-11-12,shot and Tasered,knife,63,M,W,Fresno,CA,True,attack,Not fleeing,True
 4179,Andrew Kana,2018-11-12,shot,gun,36,M,A,Catoosa,OK,False,other,Not fleeing,False
@@ -3803,7 +3803,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4174,Olajuwon Murphy,2018-11-14,shot,gun,22,M,B,Wythe County,VA,False,attack,Not fleeing,False
 4213,Joseph Loughery,2018-11-14,shot,gun,59,M,,Auburn,MA,False,attack,Not fleeing,False
 4233,George Crenshaw,2018-11-14,shot,knife,55,M,,Haynesville,AL,False,attack,Not fleeing,False
-4234,John Manning,2018-11-14,shot,knife,29,M,W,Spartanburg,SC,False,attack,Not fleeing,False
+4234,John David Manning,2018-11-14,shot,knife,29,M,W,Spartanburg,SC,False,attack,Not fleeing,False
 4186,Allen Fanning,2018-11-15,shot,gun,18,M,,Centennial,CO,False,other,Not fleeing,False
 4187,Agustin Gonsalez,2018-11-15,shot,straight edge razor,29,M,H,Hayward,CA,True,other,Not fleeing,False
 4189,Jack Fields,2018-11-15,shot,knife,25,M,,Augusta,GA,False,attack,Not fleeing,False
