@@ -2980,7 +2980,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4242,Jonathan Bennett,2018-01-11,shot,gun,23,M,B,Charlotte,NC,False,attack,Not fleeing,False
 3302,Jose Arroyo-Rosales,2018-01-11,shot,gun,60,M,H,Fort Worth,TX,False,attack,,False
 3304,Justin Coy Adkins,2018-01-11,shot,gun,44,M,W,Lexington County,SC,False,attack,Car,False
-4243,Jeffrey Burleson,2018-01-12,shot,gun,37,M,W,Cave Junction,OR,False,attack,Not fleeing,False
+4243,Jeffrey Alan Burleson,2018-01-12,shot,gun,37,M,W,Cave Junction,OR,False,attack,Not fleeing,False
 3308,Jared S.R. Williams,2018-01-12,shot,gun,31,M,W,Elko,NV,False,other,Not fleeing,False
 3313,Terry Amons,2018-01-12,shot,gun,43,M,B,Pittsburg,CA,False,other,Not fleeing,False
 3314,Jason D. Whittemore,2018-01-12,shot,gun,39,M,W,Scottsville,KY,False,other,Not fleeing,False
@@ -3039,7 +3039,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3362,Gregory Kocian,2018-01-28,shot,gun,33,M,W,Conroe,TX,False,attack,Car,False
 3364,TK TK,2018-01-29,shot,knife,46,M,H,Houston,TX,False,attack,Car,False
 3365,Michael Hansford,2018-01-29,shot,knife,52,M,B,Bronx,NY,False,other,Foot,True
-4246,Mark Flores,2018-01-29,shot,knife,46,M,H,Houston,TX,False,attack,Not fleeing,False
+4246,Mark Renee Flores,2018-01-29,shot,knife,46,M,H,Houston,TX,False,attack,Not fleeing,False
 3366,Ricky Leon Rusche,2018-01-30,shot,unarmed,40,M,W,Pink,OK,False,other,Not fleeing,False
 3367,Gilbert Salas,2018-01-31,shot,knife,20,M,H,St. James,MN,False,other,Foot,False
 3368,Adrian Valdez,2018-01-31,shot,knife,39,M,H,Arvada,CO,False,other,Not fleeing,False
@@ -3109,7 +3109,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3432,Jacob Uptain,2018-02-22,shot,gun,27,M,W,Phoenix,AZ,False,other,Foot,False
 3434,Mario Dantoni Bass,2018-02-23,shot,undetermined,37,M,B,Woodbridge,VA,False,other,Foot,False
 3435,Douglas Kemp,2018-02-23,shot,toy weapon,58,M,W,Evansville,IN,False,other,Not fleeing,False
-4247,Randall Beymer,2018-02-24,shot,toy weapon,62,M,W,Monongalia,WV,False,attack,Not fleeing,False
+4247,Randall Beymer,2018-02-24,shot,toy weapon,62,M,W,Monongalia,WV,False,attack,Not fleeing,True
 3442,Haydon Taylor,2018-02-25,shot,knife,25,M,B,Oklahoma City,OK,False,attack,Not fleeing,False
 3444,Douglas Oneyear,2018-02-25,shot,sword,36,M,W,Casper,WY,False,other,Foot,False
 3445,TK TK,2018-02-25,shot,gun,,M,H,Los Angeles,CA,False,attack,Not fleeing,False
@@ -3150,7 +3150,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3481,James E. Waters,2018-03-06,shot,gun,37,M,B,Clinton,MO,True,attack,Not fleeing,False
 3479,Donald McFarlane,2018-03-07,shot,gun,53,M,W,Long Beach,CA,False,attack,Not fleeing,False
 3482,Victor Ancira,2018-03-07,shot and Tasered,pick-axe,46,M,H,Austin,TX,True,other,Not fleeing,False
-4252,Amelia Huron-Macias,2018-03-07,shot,unarmed,84,M,,Bexar County,TX,False,other,Not fleeing,False
+4252,Amelia Huron-Macias,2018-03-07,shot,unarmed,84,F,,Bexar County,TX,False,other,Not fleeing,False
 3483,Jamil Harvey,2018-03-08,shot,gun,29,M,B,Spotsylvania,VA,False,attack,Other,False
 3484,TK TK,2018-03-08,shot,undetermined,,,,Jurupa Valley,CA,False,undetermined,Not fleeing,False
 4254,TK TK,2018-03-08,shot,undetermined,,M,,Jurupa Valley,CA,False,undetermined,Not fleeing,False
@@ -3164,7 +3164,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3486,Joshua Pawlik,2018-03-11,shot,gun,32,M,W,Oakland,CA,True,attack,Not fleeing,False
 3498,Andy Lucero,2018-03-11,shot,,48,M,W,Fort Sumner,NM,False,other,,False
 3499,Juan Garcia Alvarez,2018-03-11,shot,gun,57,M,H,Midland,TX,False,attack,Not fleeing,False
-4251,Corky Lee Oliver,2018-03-12,shot,undetermined,31,M,W,Colorado Springs,CO,False,undetermined,Not fleeing,False
+4251,Corky Lee Oliver,2018-03-12,shot,gun,31,M,W,Colorado Springs,CO,False,other,Not fleeing,False
 3487,Decynthia Clements,2018-03-12,shot,knife,34,F,B,Elgin,IL,False,other,Car,True
 3489,Jaden Marsh,2018-03-12,shot,gun,16,M,W,Midland,MI,True,attack,Foot,False
 3490,Kenneth Scott Townley,2018-03-12,shot,gun,47,M,W,Blackman Township,MI,False,attack,Foot,False
