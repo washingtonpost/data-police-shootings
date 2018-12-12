@@ -3875,16 +3875,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4240,John Young,2018-12-01,shot,meat cleaver,65,M,,Pensacola,FL,False,attack,Not fleeing,False
 4272,Jarvis Randall,2018-12-01,shot,straight edge razor,30,M,B,Tamarac,FL,True,attack,Not fleeing,False
 4269,Anthony Ray Borden-Cortez,2018-12-04,shot,toy weapon,18,M,H,Ogden,UT,False,attack,Not fleeing,True
-4270,TK TK,2018-12-05,shot,undetermined,,M,,Napa,CA,False,attack,Foot,False
-4271,TK TK,2018-12-05,shot,knife,,M,,Port Richmond,PA,False,attack,Not fleeing,False
-4276,TK TK,2018-12-05,shot,gun,,M,,Martinez,CA,False,attack,Foot,False
-4279,TK TK,2018-12-05,shot,knife,,M,,Richmond,VA,False,attack,Not fleeing,False
+4270,David Alejandro Molina,2018-12-05,shot,gun,27,M,H,Napa,CA,False,attack,Foot,False
+4271,TK TK,2018-12-05,shot,knife,,M,,Philadephia,PA,False,attack,Not fleeing,False
+4276,Paul Ridgeway,2018-12-05,shot,gun,41,M,,Martinez,CA,False,attack,Foot,False
+4279,Anthony M. Edwards,2018-12-05,shot,knife,33,M,,Richmond,VA,False,attack,Not fleeing,False
 4275,Dimaggio McDonough,2018-12-06,shot,gun,53,M,,Henry County,GA,False,attack,Not fleeing,False
-4277,TK TK,2018-12-06,shot,gun,,M,,Redding,CA,False,attack,Car,False
+4277,Benjamin David Larson,2018-12-06,shot,gun,42,M,W,Redding,CA,False,attack,Car,False
 4287,Jason O'Bannon,2018-12-06,shot,gun,46,M,W,Pahrump,NV,True,attack,Not fleeing,True
-4281,TK TK,2018-12-07,shot,unknown weapon,,M,,Fort Pierce,FL,False,attack,Not fleeing,False
-4286,James Robertson,2018-12-08,shot,knife,41,M,,West Wendover,NV,False,other,Car,False
+4281,Jesus Lainez,2018-12-07,shot,unknown weapon,51,M,H,Fort Pierce,FL,False,attack,Not fleeing,False
+4286,James N. Robertson,2018-12-08,shot,knife,41,M,,West Wendover,NV,False,other,Car,False
 4282,Joshua Boyd,2018-12-09,shot,gun,24,M,,Savannah,GA,False,attack,Not fleeing,False
-4283,TK TK,2018-12-09,shot,gun,,M,,Torrance,CA,False,other,Not fleeing,False
+4283,Christopher Deandre Mitchell,2018-12-09,shot,gun,23,M,,Torrance,CA,False,undetermined,Not fleeing,False
 4284,Terry Don King,2018-12-09,shot,gun,50,M,,Springdale,AR,False,attack,Not fleeing,False
 4285,Shane Wentling,2018-12-10,shot,gun,41,M,W,Noble County,OK,False,attack,Car,False
