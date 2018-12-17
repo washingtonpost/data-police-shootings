@@ -3893,11 +3893,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4288,Kaley Gay,2018-12-11,shot,gun,25,F,,Bibb County,GA,False,attack,Not fleeing,False
 4291,TK TK,2018-12-11,shot,gun,,F,,Puna,HI,False,attack,Not fleeing,False
 4292,TK TK,2018-12-11,shot,undetermined,,M,,Rangley,CO,False,undetermined,Not fleeing,False
-4293,Marcus Neal,2018-12-11,shot,knife,47,M,,Buffalo,NY,False,attack,Foot,False
-4295,TK TK,2018-12-11,shot,knife,,M,,Pope County,AR,False,other,Not fleeing,False
+4293,Marcus Neal,2018-12-11,shot,knife,47,M,,Buffalo,NY,True,attack,Foot,False
+4295,Haze Connor Martin,2018-12-11,shot,knife,22,M,W,Pope County,AR,False,other,Car,False
 4296,Tameka LaShay Simpson,2018-12-11,shot,gun,27,F,B,Calhoun,GA,False,attack,Not fleeing,False
-4294,TK TK,2018-12-12,shot,undetermined,,M,,Jacksonville,FL,False,undetermined,Not fleeing,False
-4297,TK TK,2018-12-12,shot,vehicle,,M,,St. Louis,MO,False,other,Car,False
-4298,TK TK,2018-12-12,shot,gun,,M,,Jacksonville,FL,False,other,Foot,False
-4299,TK TK,2018-12-12,shot,gun,,M,,Jacksonville,FL,False,attack,Not fleeing,False
+4297,Demario Bass,2018-12-12,shot,vehicle,29,M,B,St. Louis,MO,False,attack,Car,False
+4298,Jason Emerson Connell,2018-12-12,shot,gun,43,M,W,Jacksonville,FL,False,attack,Not fleeing,False
+4299,Dylan Parker Thomas,2018-12-12,shot,toy weapon,18,M,W,Jacksonville,FL,False,attack,Not fleeing,False
 4300,TK TK,2018-12-12,shot,gun,,M,,Albuquerque,NM,False,attack,Foot,False
