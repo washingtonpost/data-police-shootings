@@ -3913,18 +3913,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4321,April Webster,2018-12-16,shot,knife,47,F,,Darlington County,SC,True,other,Not fleeing,False
 4301,TK TK,2018-12-17,shot,gun,,M,,Phoenix,AZ,False,attack,Not fleeing,False
 4303,TK TK,2018-12-17,shot,gun,,M,W,Natomas,CA,False,other,Not fleeing,False
-4302,Angel Viola Decarlo,2018-12-18,shot,undetermined,31,F,B,Hopewell,VA,False,undetermined,Not fleeing,False
-4311,TK TK,2018-12-18,shot,gun,24,M,,Terre Haute,IN,False,attack,Car,False
-4312,Danny Washington,2018-12-18,shot,unarmed,27,M,B,Franklin Township,PA,False,attack,Car,False
-4314,Keith A. Hawley,2018-12-18,shot,gun,27,M,,Union City,PA,False,attack,,False
+4302,Angel Viola Decarlo,2018-12-18,shot,gun,31,F,B,Hopewell,VA,False,attack,Foot,False
+4311,David Frederick,2018-12-18,shot,gun,24,M,,Terre Haute,IN,False,attack,Car,False
+4312,Danny Washington,2018-12-18,shot,undetermined,27,M,,Franklin Township,PA,False,attack,Car,False
+4314,Keith A. Hawley,2018-12-18,shot,gun,27,M,W,Union City,PA,False,attack,,False
 4310,TK TK,2018-12-19,shot,gun,,M,,Fort Worth,TX,True,attack,Not fleeing,False
 4313,TK TK,2018-12-19,shot,undetermined,,M,,Phoenix,AZ,False,attack,Not fleeing,False
-4318,Jacob Lane Morgan,2018-12-20,shot,undetermined,21,M,,Fountain City,TN,False,undetermined,Not fleeing,False
 4319,TK TK,2018-12-20,shot,gun,,M,,Lake Elsinore,CA,False,attack,Car,False
 4320,Damon Barstad,2018-12-20,shot,Taser,23,M,W,Toledo,OH,False,attack,Not fleeing,False
-4330,Jose Lemus,2018-12-21,shot,shovel,57,M,,Azusa,CA,False,attack,Not fleeing,False
+4330,Jose Lemus,2018-12-21,shot,gun,57,M,H,Azusa,CA,False,attack,Not fleeing,False
 4326,Jason Delgado Perez,2018-12-23,shot,gun,36,M,H,Albuquerque,NM,True,attack,Not fleeing,False
-4329,Kaulana Reinhardt,2018-12-23,shot,gun,,M,O,Wailuku,HI,False,attack,Not fleeing,True
+4329,"Kaulana ""Toji"" Reinhardt",2018-12-23,shot,gun,,M,O,Wailuku,HI,False,attack,Car,True
 4327,Abdias Flores,2018-12-24,shot,gun,,M,H,Albuquerque,NM,False,attack,Not fleeing,False
 4324,Jennifer Vasquez,2018-12-25,shot,vehicle,24,F,H,San Jose,CA,False,attack,Car,False
 4325,Antonio A. Ramos,2018-12-25,shot,gun,34,M,,Buckeye,AZ,False,attack,Not fleeing,False
