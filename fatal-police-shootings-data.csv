@@ -3903,11 +3903,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4299,Dylan Parker Thomas,2018-12-12,shot,toy weapon,18,M,W,Jacksonville,FL,False,attack,Not fleeing,False
 4300,TK TK,2018-12-12,shot,gun,,M,,Albuquerque,NM,False,attack,Foot,False
 4309,TK TK,2018-12-13,shot,gun,,M,,Sumter County,FL,False,attack,Car,False
-4317,Andre Horton,2018-12-13,shot,toy weapon,42,M,B,Memphis,TN,True,attack,Not fleeing,False
+4317,Andre Horton,2018-12-13,shot,gun,42,M,B,Memphis,TN,True,attack,Not fleeing,False
 4306,Walter Kellogg,2018-12-15,shot,knife,57,M,,Shirley,NY,True,other,Not fleeing,False
 4308,Edgar Espinoza,2018-12-15,shot,knife,35,M,H,Hanford,CA,False,attack,Not fleeing,False
-4304,Edward Rudham,2018-12-16,shot,gun,50,M,,Mesa,AZ,True,attack,Not fleeing,False
-4305,Rodney Geiser,2018-12-16,shot,,60,M,,Apple Creek,OH,True,undetermined,,True
+4304,Edward Rudhman,2018-12-16,shot,gun,50,M,,Mesa,AZ,True,attack,Not fleeing,False
+4305,Rodney J. Geiser,2018-12-16,shot,gun,60,M,,Apple Creek,OH,True,other,,True
 4307,Jacob Mohow,2018-12-16,shot,knife,35,M,W,Oklahoma City,OK,True,other,Not fleeing,False
 4316,Richard L. Johnson,2018-12-16,shot,gun,46,M,,Kansas City,KS,False,attack,Not fleeing,False
 4321,April Webster,2018-12-16,shot,knife,47,F,,Darlington County,SC,True,other,Not fleeing,False
