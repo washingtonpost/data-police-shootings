@@ -3948,13 +3948,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4348,Joseph Roberts,2019-01-03,shot,knife,27,M,W,Albert Lea,MN,True,attack,,False
 4349,Abiel Innis De Joel Rios,2019-01-03,shot,gun,33,M,,Visalia,CA,True,attack,Not fleeing,False
 4350,Jae Wesley Hardy,2019-01-03,shot,gun,27,M,,Millbrook,AL,False,other,Car,False
-4355,Oliver Hernandez,2019-01-05,shot,ax,29,M,,Fresno,CA,True,other,Not fleeing,False
+4355,Oliver Hernandez,2019-01-05,shot,ax,29,M,H,Fresno,CA,False,other,Not fleeing,False
 4356,Harold Thompson,2019-01-05,shot,gun,81,M,,Union County,SC,False,attack,Not fleeing,False
-4357,TK TK,2019-01-05,shot,gun,,M,,Lemon Grove,CA,False,other,Not fleeing,False
-4360,David John Engebretson,2019-01-05,shot,gun,50,M,,Milwaukie,OR,False,attack,Not fleeing,False
+4357,Adolfo Gonzalez,2019-01-05,shot,gun,28,M,H,Lemon Grove,CA,False,other,Not fleeing,False
+4360,David John Engebretson,2019-01-05,shot,gun,50,M,W,Milwaukie,OR,False,attack,Not fleeing,False
 4361,TK TK,2019-01-05,shot,gun,55,M,,Santa Clara,CA,False,attack,Not fleeing,False
-4352,TK TK,2019-01-06,shot,undetermined,,M,,Hurricane,WV,False,undetermined,Car,False
-4353,TK TK,2019-01-06,shot,unarmed,,M,B,Portland,OR,True,undetermined,Not fleeing,False
+4352,TK TK,2019-01-06,shot,gun,,M,,Hurricane,WV,False,attack,Car,False
+4353,Andre C. Gladen,2019-01-06,shot and Tasered,undetermined,36,M,B,Portland,OR,True,undetermined,Not fleeing,False
 4358,TK TK,2019-01-06,shot,knife,,M,,Glen Valley,CA,False,other,Not fleeing,False
-4359,TK TK,2019-01-06,shot,undetermined,,M,,Cache,OK,False,undetermined,Car,False
+4359,James McDonald,2019-01-06,shot,gun,,M,,Cache,OK,False,attack,Not fleeing,False
 4351,TK TK,2019-01-07,shot,gun,38,M,,Kent,WA,False,attack,Car,False
