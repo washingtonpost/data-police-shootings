@@ -3964,23 +3964,23 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4365,Miguel Reyes,2019-01-09,shot,vehicle,20,M,H,Paramus,NJ,False,attack,Foot,False
 4368,TK TK,2019-01-10,shot,gun,,M,,Eclectic,AL,False,other,Not fleeing,False
 4374,Geoffrey Morris,2019-01-10,shot,gun and vehicle,29,M,W,Wichita,KS,False,attack,Car,False
-4366,TK TK,2019-01-11,shot,gun,,M,,Lake Charles,LA,False,attack,Other,False
-4379,Treshun Symone Miller,2019-01-11,shot,gun,20,M,B,Arlington,TX,False,attack,Other,False
-4381,Frederick Landeros,2019-01-11,shot,gun,30,M,H,Eugene,OR,False,other,Not fleeing,False
+4366,TK TK,2019-01-11,shot,gun,,M,,Lake Charles,LA,False,other,Other,False
+4379,Treshun Symone Miller,2019-01-11,shot,gun,20,M,B,Arlington,TX,False,attack,Foot,False
+4381,Charles Frederick Landeros,2019-01-11,shot,gun,30,M,H,Eugene,OR,False,other,Not fleeing,False
 4390,Jacob Michael Harris,2019-01-11,shot,gun,19,M,B,Phoenix,AZ,False,other,Not fleeing,False
 4378,TK TK,2019-01-12,shot,undetermined,,M,,Colorado Springs,CO,False,attack,Not fleeing,False
-4382,Christopher Schmitt,2019-01-12,shot,gun,58,M,,Dearborn County,IN,False,attack,Not fleeing,False
+4382,Christopher A. Schmitt,2019-01-12,shot,gun,58,M,,Dearborn County,IN,False,attack,Not fleeing,False
 4375,Dimas Diaz,2019-01-13,shot,undetermined,38,M,,Calabasas,CA,False,other,Car,False
-4376,TK TK,2019-01-13,shot,gun,,M,H,Cathedral City,CA,False,attack,Not fleeing,False
+4376,Roberto Tapia,2019-01-13,shot,gun,28,M,H,Cathedral City,CA,False,attack,Not fleeing,False
 4385,Nathan Thoe,2019-01-13,shot,undetermined,34,M,,White Lake,SD,False,undetermined,,False
 4370,Jahmal Derrick Stewart,2019-01-14,shot,gun,45,M,B,Linda,CA,False,attack,Not fleeing,False
-4371,Rodney Hamilton,2019-01-14,shot,gun,62,M,,Gainesville,GA,False,undetermined,Not fleeing,False
+4371,Rodney Hamilton,2019-01-14,shot,gun,62,M,,Gainesville,GA,False,other,Not fleeing,False
 4372,TK TK,2019-01-14,shot,unarmed,,M,,Pueblo,CO,False,other,Car,False
-4387,Louis Jose Burros,2019-01-14,shot,gun,25,M,H,El Paso,TX,False,other,Foot,False
+4387,Louis Jose Burrus,2019-01-14,shot,gun,25,M,H,El Paso,TX,False,other,Foot,False
 4369,TK TK,2019-01-15,shot,gun,,M,,Aurora,CO,False,attack,Not fleeing,False
 4383,TK TK,2019-01-15,shot,gun,,M,,Roseville,CA,False,attack,Car,False
 4386,TK TK,2019-01-15,shot,toy weapon,14,M,,Tempe,AZ,False,other,Foot,True
 4389,TK TK,2019-01-16,shot,undetermined,,M,,Fort Lupton,CO,False,undetermined,Car,False
 4391,TK TK,2019-01-16,shot,vehicle,,M,,West Memphis,AR,False,other,Car,False
 4392,TK TK,2019-01-16,shot,vehicle,,F,,West Memphis,AR,False,other,Car,False
-4393,Terry Lee Cockrell,2019-01-16,shot,gun,57,M,W,Sperry,OK,True,other,Foot,False
+4393,Terry Lee Cockrell,2019-01-16,shot,gun,57,M,W,Sperry,OK,True,other,Foot,True
