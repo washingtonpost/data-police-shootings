@@ -3920,6 +3920,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4313,TK TK,2018-12-19,shot,undetermined,,M,,Phoenix,AZ,False,attack,Not fleeing,False
 4319,TK TK,2018-12-20,shot,gun,,M,,Lake Elsinore,CA,False,attack,Car,False
 4320,Damon Barstad,2018-12-20,shot,Taser,23,M,W,Toledo,OH,False,attack,Not fleeing,False
+4410,David MacAdams,2018-12-21,shot,knife,56,M,,Springfield,FL,False,other,Not fleeing,False
 4330,Jose Lemus,2018-12-21,shot,gun,57,M,H,Azusa,CA,False,attack,Not fleeing,False
 4326,Jason Delgado Perez,2018-12-23,shot,gun,36,M,H,Albuquerque,NM,True,attack,Not fleeing,False
 4329,"Kaulana ""Toji"" Reinhardt",2018-12-23,shot,gun,,M,O,Wailuku,HI,False,attack,Car,True
@@ -3933,6 +3934,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4336,Glenn A. Rightsell,2018-12-28,shot,gun,56,M,W,Crawfordsville,IN,False,other,Not fleeing,False
 4338,Shane Lyons,2018-12-28,shot,machete,35,M,B,Port Arthur,TX,False,other,Not fleeing,False
 4346,Edwin C. Bundy,2018-12-28,shot,gun,46,M,,Phoenix,AZ,False,other,Not fleeing,False
+4412,TK TK,2018-12-29,shot,gun,42,M,W,St. Joseph,MO,False,other,Not fleeing,False
+4411,Paul Arbitelle,2018-12-30,shot and Tasered,knife,45,M,,Danbury,CT,False,other,Not fleeing,False
 4339,Warren Jay Beaubien,2018-12-30,shot,machete,49,M,,Llano,TX,False,other,Not fleeing,False
 4341,Kerry D. Blake,2018-12-30,shot,pole,44,M,,Rockford,IL,True,attack,Not fleeing,False
 4332,Iosia Faletogo,2018-12-31,shot,gun,36,M,,Seattle,WA,False,attack,Foot,True
