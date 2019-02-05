@@ -4004,20 +4004,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4408,TK TK,2019-01-23,shot,,,M,,Naschitti,NM,False,undetermined,,False
 4414,Marcus Gishal,2019-01-23,shot,gun,20,M,,Flagstaff,AZ,False,attack,Foot,False
 4409,Katlyn Alix,2019-01-24,shot,unarmed,24,F,W,St. Louis,MO,False,other,Not fleeing,False
+4417,Jeffrey Lynn Jones,2019-01-25,shot,gun,60,M,,Dyersburg,TN,False,attack,Not fleeing,False
 4418,Russ Allen McClellan,2019-01-25,shot,gun,48,M,,Garland,TX,True,attack,Not fleeing,False
 4419,TK TK,2019-01-25,shot,gun,,M,,North Escambia,FL,True,attack,Not fleeing,False
-4417,Jeffrey Lynn Jones,2019-01-26,shot,gun,60,M,,Dyersburg,TN,False,attack,Not fleeing,False
 4429,TK TK,2019-01-27,shot,vehicle,,M,,Rosebud,SD,False,attack,Car,False
-4416,TK TK,2019-01-28,shot,gun,29,M,,Jackson,MI,False,attack,Foot,False
+4416,Joey Duane Ramirez,2019-01-28,shot,gun,29,M,H,Jackson,MI,False,attack,Foot,False
 4420,Rhogena Nicholas,2019-01-28,shot,unarmed,58,F,W,Houston,TX,False,attack,Not fleeing,False
 4421,Dennis Tuttle,2019-01-28,shot,gun,59,M,W,Houston,TX,False,attack,Not fleeing,False
-4422,Gregory Griffin,2019-01-28,shot,unarmed,35,M,,Newark,NJ,False,undetermined,Car,False
-4426,TK TL,2019-01-28,shot,blunt object,,M,,Mercury,NV,False,other,Car,False
-4427,Nicholas Pilhower,2019-01-28,shot,gun,30,M,W,Kirkwood,NY,False,attack,Car,False
+4422,Gregory Griffin,2019-01-28,shot,undetermined,46,M,,Newark,NJ,False,undetermined,Car,False
+4424,David Michael Bosiljevac,2019-01-28,shot,toy weapon,55,M,W,Wichita,KS,False,attack,Not fleeing,False
+4426,Nekiylo Dawayne Graves,2019-01-28,shot,undetermined,27,M,,Mercury,NV,False,other,Car,False
+4427,Nicholas Philhower,2019-01-28,shot,gun,30,M,W,Kirkwood,NY,False,attack,Car,False
 4428,Richard Moulton,2019-01-28,shot,gun,52,M,,Butte County,CA,False,attack,Car,False
 4430,Carl Thayer,2019-01-28,shot and Tasered,knife,45,M,,Tehama County,CA,False,other,Other,False
-4423,Siatu'u Tauai,2019-01-29,shot,vehicle,51,M,O,Kalihi,HI,False,other,Car,False
-4424,David Bosiljevac,2019-01-29,shot,toy weapon,55,M,W,Wichita,KS,False,attack,Foot,False
-4425,TK TK,2019-01-29,shot,gun,,M,,Austin,TX,True,attack,Car,False
-4432,Russell Harold,2019-02-02,shot,knife,47,M,W,Flagstaff,AZ,True,attack,Not fleeing,True
-4431,TK TK,2019-02-04,shot,gun,,M,,Clarksburg,WV,False,attack,Not fleeing,False
+4423,Siatu'u Tauai,2019-01-29,shot,vehicle,51,M,O,Kalihi,HI,False,attack,Car,False
+4425,TK TK,2019-01-29,shot,gun,27,M,,Austin,TX,True,attack,Car,True
+4432,Henry Harold Russell,2019-02-02,shot,knife,47,M,W,Flagstaff,AZ,True,attack,Not fleeing,True
+4431,Robert Matz,2019-02-04,shot,gun,80,M,,Clarksburg,WV,False,attack,Not fleeing,False
