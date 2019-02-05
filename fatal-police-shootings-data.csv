@@ -3998,13 +3998,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4394,Chance Mavity,2019-01-20,shot,gun,26,M,W,Billings,MT,False,attack,Foot,False
 4397,Horacio Ruiz-Rodriguez,2019-01-21,shot,undetermined,37,M,H,Las Vegas,NV,False,other,Car,False
 4395,Jimmy Atchison,2019-01-22,shot,undetermined,21,M,B,Atlanta,GA,False,undetermined,Foot,False
-4405,TK TK,2019-01-23,shot,undetermined,,M,,Flagstaff,AZ,False,undetermined,,False
-4406,TK TK,2019-01-23,shot and Tasered,knife,,M,,South Haven,IN,True,attack,Not fleeing,False
-4407,TK TK,2019-01-23,shot,knife,,M,,Spokane,WA,False,other,,False
+4405,Preston Oszust,2019-01-23,shot,undetermined,20,M,W,Flagstaff,AZ,False,undetermined,Foot,False
+4406,Kevin Grant Vawter,2019-01-23,shot and Tasered,knife,46,M,,South Haven,IN,True,attack,Not fleeing,True
+4407,Dwight Steward,2019-01-23,shot,knife,46,M,B,Spokane,WA,False,other,,False
 4408,TK TK,2019-01-23,shot,,,M,,Naschitti,NM,False,undetermined,,False
-4414,Marcus Gishal,2019-01-23,shot,gun,20,M,W,Flagstaff,AZ,False,attack,Other,False
-4409,TK TK,2019-01-24,shot,undetermined,24,F,,St. Louis,MO,False,other,Not fleeing,False
-4413,TK TK,2019-01-24,shot,gun,,M,,Las Vegas,NV,False,attack,Not fleeing,False
+4414,Marcus Gishal,2019-01-23,shot,gun,20,M,,Flagstaff,AZ,False,attack,Foot,False
+4409,Katlyn Alix,2019-01-24,shot,unarmed,24,F,W,St. Louis,MO,False,other,Not fleeing,False
 4418,Russ Allen McClellan,2019-01-25,shot,gun,48,M,,Garland,TX,True,attack,Not fleeing,False
 4419,TK TK,2019-01-25,shot,gun,,M,,North Escambia,FL,True,attack,Not fleeing,False
 4417,Jeffrey Lynn Jones,2019-01-26,shot,gun,60,M,,Dyersburg,TN,False,attack,Not fleeing,False
