@@ -4007,7 +4007,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4417,Jeffrey Lynn Jones,2019-01-25,shot,gun,60,M,,Dyersburg,TN,False,attack,Not fleeing,False
 4418,Russ Allen McClellan,2019-01-25,shot,gun,48,M,,Garland,TX,True,attack,Not fleeing,False
 4419,TK TK,2019-01-25,shot,gun,,M,,North Escambia,FL,True,attack,Not fleeing,False
-4429,TK TK,2019-01-27,shot,vehicle,,M,,Rosebud,SD,False,attack,Car,False
+4429,Jacob Archambault,2019-01-27,shot,vehicle,25,M,,Rosebud,SD,False,attack,Car,False
 4416,Joey Duane Ramirez,2019-01-28,shot,gun,29,M,H,Jackson,MI,False,attack,Foot,False
 4420,Rhogena Nicholas,2019-01-28,shot,unarmed,58,F,W,Houston,TX,False,attack,Not fleeing,False
 4421,Dennis Tuttle,2019-01-28,shot,gun,59,M,W,Houston,TX,False,attack,Not fleeing,False
@@ -4019,5 +4019,28 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4430,Carl Thayer,2019-01-28,shot and Tasered,knife,45,M,,Tehama County,CA,False,other,Other,False
 4423,Siatu'u Tauai,2019-01-29,shot,vehicle,51,M,O,Kalihi,HI,False,attack,Car,False
 4425,TK TK,2019-01-29,shot,gun,27,M,,Austin,TX,True,attack,Car,True
+4454,TK TK,2019-01-31,shot,gun,,M,,Passaic,NJ,False,other,Foot,False
+4434,Robert Martinez,2019-02-01,shot,vehicle,45,M,H,Denver,CO,False,attack,Car,False
 4432,Henry Harold Russell,2019-02-02,shot,knife,47,M,W,Flagstaff,AZ,True,attack,Not fleeing,True
+4438,Johnny Weeks,2019-02-02,shot,gun,68,M,,Buford,GA,False,attack,Not fleeing,False
+4435,Dylan Joseph-Mark Cross,2019-02-03,shot,gun,18,M,W,Orange Park,FL,False,other,Not fleeing,False
+4439,TK TK,2019-02-03,shot,vehicle,35,M,,Waukegan,IL,False,attack,Car,True
+4440,Henry Harold Russell,2019-02-03,shot,knife,47,M,,Flagstaff,AZ,False,attack,Not fleeing,True
 4431,Robert Matz,2019-02-04,shot,gun,80,M,,Clarksburg,WV,False,attack,Not fleeing,False
+4437,Corey Johnson,2019-02-04,shot,gun,44,M,,Farmville,VA,False,attack,Not fleeing,False
+4436,Anthony Dewayne Childs,2019-02-05,shot,gun,31,M,B,Shreveport,LA,False,attack,Foot,False
+4455,Seth Keo Mallard,2019-02-06,shot,undetermined,20,M,W,LaSalle,CO,False,undetermined,,False
+4456,Hunter Alan,2019-02-06,shot and Tasered,knife,48,M,,Edinburg,TX,True,attack,Not fleeing,False
+4446,TK TK,2019-02-07,shot,knife,,M,,Seattle,WA,False,attack,Not fleeing,True
+4448,Michael Robert Novak,2019-02-07,shot,knife,59,M,W,Madera,CA,True,attack,Not fleeing,False
+4449,Morgan Shane West,2019-02-07,shot,undetermined,38,M,,Snyder,TX,False,undetermined,Not fleeing,False
+4450,Nolan Hurtzig,2019-02-07,shot,undetermined,29,M,,Banning,CA,False,undetermined,,False
+4452,Jason Matthew Hill,2019-02-07,shot,gun,40,M,W,Memphis,TN,False,attack,Not fleeing,False
+4451,Aaron Przkeop,2019-02-08,shot,undetermined,,M,,Bakersfield,CA,False,other,Not fleeing,False
+4453,Joshua Rember Williams,2019-02-08,shot,knife,32,M,,New York,NY,False,attack,Not fleeing,False
+4441,Williebo McCoy,2019-02-09,shot,gun,,M,B,Vallejo,CA,False,other,Not fleeing,False
+4443,Jeffrey Tyree,2019-02-09,shot,knife,57,M,,Virginia Beach,VA,True,attack,Not fleeing,False
+4447,Jonathan Ramirez,2019-02-09,shot,gun,28,M,,Bailey,NC,False,other,Not fleeing,False
+4444,TK TK,2019-02-10,shot,knife,58,M,,Waukesha,WI,False,attack,Not fleeing,False
+4445,Willie Jermaine Robinson,2019-02-10,shot,gun,34,M,B,Greenville County,SC,True,attack,Not fleeing,False
+4442,TK TK,2019-02-11,shot,undetermined,,M,,Montgomery,WV,False,undetermined,,False
