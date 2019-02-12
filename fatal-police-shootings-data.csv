@@ -4032,7 +4032,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4455,Seth Keo Mallard,2019-02-06,shot,undetermined,20,M,W,LaSalle,CO,False,undetermined,,False
 4456,Hunter Alan,2019-02-06,shot and Tasered,knife,48,M,,Edinburg,TX,True,attack,Not fleeing,False
 4446,TK TK,2019-02-07,shot,knife,,M,,Seattle,WA,False,attack,Not fleeing,True
-4448,Michael Robert Novak,2019-02-07,shot,knife,59,M,W,Madera,CA,True,attack,Not fleeing,False
+4448,Michael Robert Novak,2019-02-07,shot,knife,58,M,,Madera,CA,True,attack,Not fleeing,True
 4449,Morgan Shane West,2019-02-07,shot,undetermined,38,M,,Snyder,TX,False,undetermined,Not fleeing,False
 4450,Nolan Hurtzig,2019-02-07,shot,undetermined,29,M,,Banning,CA,False,undetermined,,False
 4452,Jason Matthew Hill,2019-02-07,shot,gun,40,M,W,Memphis,TN,False,attack,Not fleeing,False
