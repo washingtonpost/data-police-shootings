@@ -4019,13 +4019,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4430,Carl Thayer,2019-01-28,shot and Tasered,knife,45,M,,Tehama County,CA,False,other,Other,False
 4423,Siatu'u Tauai,2019-01-29,shot,vehicle,51,M,O,Kalihi,HI,False,attack,Car,False
 4425,TK TK,2019-01-29,shot,gun,27,M,,Austin,TX,True,attack,Car,True
-4454,TK TK,2019-01-31,shot,gun,,M,,Passaic,NJ,False,other,Foot,False
+4454,TK TK,2019-01-31,shot,gun,24,M,,Passaic,NJ,False,other,Foot,False
 4434,Robert Martinez,2019-02-01,shot,vehicle,45,M,H,Denver,CO,False,attack,Car,False
 4432,Henry Harold Russell,2019-02-02,shot,knife,47,M,W,Flagstaff,AZ,True,attack,Not fleeing,True
 4438,Johnny Weeks,2019-02-02,shot,gun,68,M,,Buford,GA,False,attack,Not fleeing,False
 4435,Dylan Joseph-Mark Cross,2019-02-03,shot,gun,18,M,W,Orange Park,FL,False,other,Not fleeing,False
 4439,TK TK,2019-02-03,shot,vehicle,35,M,,Waukegan,IL,False,attack,Car,True
-4440,Henry Harold Russell,2019-02-03,shot,knife,47,M,,Flagstaff,AZ,False,attack,Not fleeing,True
+4440,Henry Harold Russell,2019-02-03,shot,knife,47,M,W,Flagstaff,AZ,False,attack,Not fleeing,True
 4431,Robert Matz,2019-02-04,shot,gun,80,M,,Clarksburg,WV,False,attack,Not fleeing,False
 4437,Corey Johnson,2019-02-04,shot,gun,44,M,,Farmville,VA,False,attack,Not fleeing,False
 4436,Anthony Dewayne Childs,2019-02-05,shot,gun,31,M,B,Shreveport,LA,False,attack,Foot,False
