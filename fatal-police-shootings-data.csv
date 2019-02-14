@@ -4036,11 +4036,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4449,Morgan Shane West,2019-02-07,shot,undetermined,38,M,,Snyder,TX,False,undetermined,Not fleeing,False
 4450,Nolan Hurtzig,2019-02-07,shot,undetermined,29,M,,Banning,CA,False,undetermined,,False
 4452,Jason Matthew Hill,2019-02-07,shot,gun,40,M,W,Memphis,TN,False,attack,Not fleeing,False
-4451,Aaron Przkeop,2019-02-08,shot,undetermined,,M,,Bakersfield,CA,False,other,Not fleeing,False
+4451,Aaron Allen Przkeop,2019-02-08,shot,undetermined,25,M,W,Bakersfield,CA,False,other,Not fleeing,False
 4453,Joshua Rember Williams,2019-02-08,shot,knife,32,M,,New York,NY,False,attack,Not fleeing,False
 4441,Williebo McCoy,2019-02-09,shot,gun,,M,B,Vallejo,CA,False,other,Not fleeing,False
-4443,Jeffrey Tyree,2019-02-09,shot,knife,57,M,,Virginia Beach,VA,True,attack,Not fleeing,False
-4447,Jonathan Ramirez,2019-02-09,shot,gun,28,M,,Bailey,NC,False,other,Not fleeing,False
-4444,TK TK,2019-02-10,shot,knife,58,M,,Waukesha,WI,False,attack,Not fleeing,False
+4443,Jeffrey D. Tyree,2019-02-09,shot,knife,57,M,W,Virginia Beach,VA,True,attack,Not fleeing,False
+4447,Jonathan Ramirez,2019-02-09,shot,gun,28,M,H,Bailey,NC,False,other,Not fleeing,True
+4444,Ted Schmitz,2019-02-10,shot,knife,58,M,W,Waukesha,WI,True,attack,Not fleeing,False
 4445,Willie Jermaine Robinson,2019-02-10,shot,gun,34,M,B,Greenville County,SC,True,attack,Not fleeing,False
-4442,TK TK,2019-02-11,shot,undetermined,,M,,Montgomery,WV,False,undetermined,,False
+4442,Eric Young,2019-02-11,shot,undetermined,34,M,,Montgomery,WV,False,undetermined,,False
