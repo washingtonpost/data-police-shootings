@@ -4114,7 +4114,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4539,Daniel Moncada,2019-03-04,shot,gun,27,M,,San Antonio,TX,False,attack,Not fleeing,False
 4540,Jeremy Ponce,2019-03-04,shot,gun,17,M,,San Antonio,TX,False,attack,Car,False
 4547,TK TK,2019-03-04,shot,machete,,M,,Aurora,CO,False,other,Not fleeing,True
-4679,Joshua Worth,2019-03-05,shot,undetermined,31,M,,Greenville,MS,True,undetermined,,False
+4679,Joshua Worth,2019-03-05,shot,undetermined,31,M,W,Greenville,MS,True,undetermined,,False
 4529,Danny Brogdon,2019-03-05,shot and Tasered,knife,56,M,W,Muskogee,OK,False,other,Not fleeing,False
 4530,Steven Louis Goins,2019-03-05,shot,gun,22,M,,DeKalb County,GA,False,attack,Foot,False
 4535,Jared D. Kelly,2019-03-05,shot,gun,36,M,,Springfield,MO,False,other,,False
