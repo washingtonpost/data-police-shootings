@@ -4248,3 +4248,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4685,TK TK,2019-04-28,shot,gun,45,M,,Austin,TX,True,other,Not fleeing,True
 4682,TK TK,2019-04-29,shot,undetermined,,M,,Phoenix,AZ,False,undetermined,Not fleeing,False
 4683,TK TK,2019-04-29,shot,knife,,M,,Portland,OR,False,attack,Not fleeing,False
+4692,TK TK,2019-04-29,shot and Tasered,unarmed,17,M,B,Edmond,OK,False,attack,Foot,False
+4693,Alejandro Hernandez,2019-04-29,shot,toy weapon,26,M,,Phoenix,AZ,False,other,,False
+4694,Lawrence Bottoms,2019-04-29,shot,gun,29,M,W,Hancock County,MS,False,attack,Foot,False
+4695,TK TK,2019-04-29,shot,undetermined,,F,,Welch,WV,False,undetermined,,False
+4687,TK TK,2019-04-30,shot,gun,,M,H,Los Angeles,CA,False,other,Not fleeing,False
+4690,TK TK,2019-04-30,shot,knife,,M,,Welcome,NC,False,other,Not fleeing,False
+4691,TK TK,2019-04-30,shot,gun,,M,,Perris,CA,False,other,Not fleeing,False
+4688,TK TK,2019-05-01,shot,knife,,M,,Miami,FL,False,other,Not fleeing,False
+4689,TK TK,2019-05-01,shot,undetermined,,M,,Meadowlake,NM,False,undetermined,Not fleeing,False
