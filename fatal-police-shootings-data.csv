@@ -4202,7 +4202,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4626,Julius Glover,2019-04-05,shot,knife,26,M,,Bloomingdale,IL,False,other,Car,False
 4624,Benjamin B. Lucas,2019-04-06,shot,gun,36,M,,New Albany,IN,False,attack,Not fleeing,False
 4621,Anthony Orlando Bowers,2019-04-07,shot,gun,24,M,B,Greeneville,TN,False,attack,Not fleeing,False
-4622,Marzeus Scott,2019-04-07,shot,unarmed,35,M,,Blytheville,AR,False,attack,Foot,False
+4622,Marzeus Scott,2019-04-07,shot,unarmed,35,M,B,Blytheville,AR,False,attack,Foot,True
 4623,Oscar Cain,2019-04-07,shot,gun,31,M,B,Atlanta,GA,False,other,Foot,False
 4630,Charles Bradley Payne,2019-04-07,shot,knife,42,M,W,Hamilton County,TN,False,attack,Not fleeing,False
 4631,Harold Vincent Robinson,2019-04-08,shot,gun,37,M,,Salt Lake City,UT,False,attack,Car,False
@@ -4236,21 +4236,21 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4646,Michael Allen Felch,2019-04-18,shot,gun,30,M,,Fremont,CA,False,attack,Not fleeing,True
 4647,Luiz Leizado,2019-04-18,shot,gun,42,M,,New York,NY,False,attack,Foot,False
 4650,Soheil Antonio Mojarrad,2019-04-20,shot,knife,30,M,,Raleigh,NC,False,attack,Not fleeing,False
-4651,Carlton Steve Brooks,2019-04-20,shot,gun,63,M,W,Athens,NC,False,attack,Not fleeing,False
+4651,Carlton Steve Brooks,2019-04-20,shot,gun,63,M,W,Athens,NC,True,attack,Not fleeing,False
 4653,Anthony Jose Vega Cruz,2019-04-20,shot,vehicle,18,M,H,Wethersfield,CT,False,attack,Foot,False
 4652,Michael St. Clair,2019-04-21,shot,gun,42,M,W,Little Rock,AR,False,attack,Foot,False
 4649,David Flores Ramos,2019-04-22,shot,gun,32,M,H,Los Angeles,CA,False,attack,,True
 4654,TK TK,2019-04-22,shot,gun,,M,,Watauga,TX,False,attack,Not fleeing,False
 4667,Emory Moore,2019-04-24,shot,undetermined,29,M,,Owingsville,KY,False,attack,Car,False
 4681,Stanley Edward Thompson,2019-04-25,shot,gun,51,M,,Apex,NC,False,attack,,False
-4686,Max Helton,2019-04-26,shot,gun,43,M,,Clarksville,IN,False,other,Not fleeing,False
+4686,Max Helton,2019-04-26,shot,gun,43,M,,Clarksville,IN,True,attack,Not fleeing,True
 4684,Jose Dominguez,2019-04-28,shot,gun,47,M,H,Sparks,NV,True,other,Not fleeing,False
 4685,TK TK,2019-04-28,shot,gun,45,M,,Austin,TX,True,other,Not fleeing,True
 4683,Jeb Colin Brock,2019-04-29,shot,knife,42,M,W,Portland,OR,False,attack,Not fleeing,False
 4692,Isaiah Lewis,2019-04-29,shot and Tasered,unarmed,17,M,B,Edmond,OK,False,attack,Foot,False
 4693,Alejandro Hernandez,2019-04-29,shot,toy weapon,26,M,,Phoenix,AZ,False,attack,Foot,False
 4694,Lawrence Bottoms,2019-04-29,shot,gun,29,M,W,Hancock County,MS,False,attack,Foot,False
-4695,TK TK,2019-04-29,shot,undetermined,,F,,Welch,WV,False,undetermined,,False
+4695,Shawna Widemann,2019-04-29,shot,hammer,49,F,,Welch,WV,False,other,Not fleeing,False
 4687,TK TK,2019-04-30,shot,gun,,M,H,Los Angeles,CA,False,attack,Foot,False
 4690,April Robertson,2019-04-30,shot,knife,45,F,,Welcome,NC,False,other,Not fleeing,False
 4691,TK TK,2019-04-30,shot,knife,,M,,Perris,CA,False,other,Not fleeing,False
