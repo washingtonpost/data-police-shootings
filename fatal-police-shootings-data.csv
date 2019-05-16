@@ -4256,3 +4256,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4691,TK TK,2019-04-30,shot,knife,,M,,Perris,CA,False,other,Not fleeing,False
 4688,Reinaldo Gonzalez,2019-05-01,shot,knife,51,M,,Miami,FL,False,other,Not fleeing,False
 4689,Isaac Pineda,2019-05-01,shot,gun,37,M,,Meadowlake,NM,False,attack,Not fleeing,False
+4696,David Wayne West,2019-05-02,shot,unarmed,52,M,W,Glenwood,GA,False,attack,Other,False
+4705,TK TK,2019-05-04,shot,vehicle,,M,,San Jose,CA,False,attack,Car,True
+4706,Timothy Russell Majchrzak,2019-05-04,shot,gun,37,M,W,Hermantown,MN,False,attack,Foot,False
+4708,Ethan Austin Murray,2019-05-04,shot,undetermined,25,M,W,Spokane,WA,True,other,Foot,False
+4707,TK TK,2019-05-05,shot,knife,,M,,Angel Fire,NM,False,other,Not fleeing,False
+4699,Pedro Colazo-villa,2019-05-06,shot,gun,33,M,H,Mesa,AZ,False,other,Not fleeing,False
+4698,Cesar Tomix Sarmiento-Molina,2019-05-07,shot,gun,34,M,H,Milwaukee,WI,False,other,Not fleeing,False
+4704,Aubrey Manning,2019-05-07,shot,gun,59,M,,Lumberton,MS,False,other,Not fleeing,False
+4702,TK TK,2019-05-09,shot,knife,,M,,Seattle,WA,False,attack,Not fleeing,True
+4703,Hector Lopez,2019-05-09,shot,gun,29,M,H,Phoenix,AZ,False,attack,Not fleeing,False
