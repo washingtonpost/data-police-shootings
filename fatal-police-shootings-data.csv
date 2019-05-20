@@ -4256,7 +4256,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4691,TK TK,2019-04-30,shot,knife,,M,,Perris,CA,False,other,Not fleeing,False
 4688,Reinaldo Gonzalez,2019-05-01,shot,knife,51,M,,Miami,FL,False,other,Not fleeing,False
 4689,Isaac Pineda,2019-05-01,shot,gun,37,M,,Meadowlake,NM,False,attack,Not fleeing,False
+4697,TK TK,2019-05-01,shot,knife,,M,,Bruce,FL,False,other,Not fleeing,False
+4712,Timothy Manuel,2019-05-01,shot,gun,28,M,W,Hiltons,VA,False,attack,Other,False
 4696,David Wayne West,2019-05-02,shot,unarmed,52,M,W,Glenwood,GA,False,attack,Other,False
+4709,Robert Uhl Johnson,2019-05-02,shot,gun,76,M,,Parkville,MD,False,attack,Not fleeing,True
+4710,Jorge Albert Merino,2019-05-02,shot,gun,37,M,H,Cedar Hill,TX,False,other,Car,False
 4705,TK TK,2019-05-04,shot,vehicle,,M,,San Jose,CA,False,attack,Car,True
 4706,Timothy Russell Majchrzak,2019-05-04,shot,gun,37,M,W,Hermantown,MN,False,attack,Foot,False
 4708,Ethan Austin Murray,2019-05-04,shot,undetermined,25,M,W,Spokane,WA,True,other,Foot,False
@@ -4275,3 +4279,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4717,Luis Quinones Rosa,2019-05-11,shot,gun,26,M,H,South Sioux City,NE,False,attack,Not fleeing,False
 4718,TK TK,2019-05-13,shot,knife,,M,,Gardena,CA,False,attack,Not fleeing,False
 4719,Pamela Shantay Turner,2019-05-13,shot,Taser,45,F,B,Baytown,TX,False,attack,Not fleeing,False
+4720,James Douglas Meadows,2019-05-13,shot,gun,45,M,,Rising Sun,MD,True,attack,Not fleeing,False
+4722,TK TK,2019-05-14,shot,gun,,M,,Las Vegas,NV,True,other,Not fleeing,False
+4721,TK TK,2019-05-15,shot,knife,,M,,Tamarac,FL,False,attack,,False
+4729,Michael Nieto,2019-05-16,shot,gun,,M,H,Palm Beach Gardens,FL,False,attack,Not fleeing,False
+4733,Elizabeth Harris,2019-05-16,shot,gun,58,F,,New Boston,TX,True,attack,Not fleeing,False
+4730,Luis Lomonte,2019-05-17,shot,knife,39,M,H,Davie,FL,False,other,Not fleeing,False
+4732,TK TK,2019-05-17,shot,gun,,M,,New Orleans,LA,False,attack,,False
+4728,TK TK,2019-05-18,shot,undetermined,,M,,Tonalea,AZ,False,undetermined,,False
+4731,Andrew Meza,2019-05-18,shot,knife,20,M,,Garden Grove,CA,True,attack,Not fleeing,False
+4725,Robert Rabago,2019-05-19,shot,gun,17,M,,Phoenix,AZ,False,attack,Foot,False
+4727,TK TK,2019-05-19,shot,undetermined,,M,,Huron,CA,False,undetermined,,False
+4723,Michael Ann Godsey,2019-05-20,shot,gun,34,F,,Blackwell,OK,False,attack,Car,False
+4724,Carlos Javier Roman Santiago,2019-05-20,shot,knife,46,M,,Archdale,NC,False,attack,Not fleeing,False
+4726,TK TK,2019-05-20,shot,knife,,M,,Auburn,WA,False,other,Not fleeing,False
