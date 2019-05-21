@@ -4284,8 +4284,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4721,Ronny Rodriguez,2019-05-15,shot,knife,43,M,,Tamarac,FL,False,attack,,False
 4729,Michael Nieto,2019-05-16,shot,gun,,M,H,Palm Beach Gardens,FL,False,attack,Not fleeing,False
 4733,Elizabeth Harris,2019-05-16,shot,gun,58,F,,New Boston,TX,True,attack,Not fleeing,False
-4730,Luis Lomonte,2019-05-17,shot,knife,39,M,H,Davie,FL,False,other,Not fleeing,False
-4732,TK TK,2019-05-17,shot,gun,,M,,New Orleans,LA,False,attack,,False
+4730,Luis Lomante,2019-05-17,shot,knife,39,M,H,Davie,FL,False,other,Not fleeing,False
+4732,TK TK,2019-05-17,shot,gun,,M,,New Orleans,LA,False,attack,,True
 4728,TK TK,2019-05-18,shot,undetermined,,M,,Tonalea,AZ,False,undetermined,,False
 4731,Andrew Meza,2019-05-18,shot,knife,20,M,,Garden Grove,CA,True,attack,Not fleeing,False
 4725,Robert Rabago,2019-05-19,shot,gun,17,M,,Phoenix,AZ,False,attack,Foot,False
