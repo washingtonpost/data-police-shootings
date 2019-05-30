@@ -4293,15 +4293,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4725,Robert Rabago,2019-05-19,shot,gun,17,M,,Phoenix,AZ,False,attack,Foot,False
 4727,Esteban Martinez,2019-05-19,shot,undetermined,,M,,Huron,CA,False,undetermined,,False
 4736,Lori Markham,2019-05-19,shot,gun,47,F,W,Carlsbad,NM,False,attack,Not fleeing,False
-4742,Ronnie Churches,2019-05-19,shot,gun,45,M,B,Miami Gardens,FL,False,attack,Not fleeing,False
+4742,Ronnie Churches,2019-05-19,shot,gun,45,M,O,Miami Gardens,FL,False,attack,Not fleeing,False
 4723,Michael Ann Godsey,2019-05-20,shot,gun,34,F,,Blackwell,OK,False,attack,Car,False
 4724,Carlos Javier Roman Santiago,2019-05-20,shot,knife,46,M,,Archdale,NC,False,attack,Not fleeing,False
 4726,Enosa Strickland,2019-05-20,shot,knife,26,M,,Auburn,WA,False,attack,Not fleeing,False
 4741,TK TK,2019-05-21,shot,hammer,44,M,,Los Angeles,CA,False,other,,False
-4743,Luke H. Patterson,2019-05-23,shot,unarmed,41,M,,Montgomery,NY,False,other,Not fleeing,False
-4740,TK TK,2019-05-24,shot,gun,,M,,Indian River County,FL,False,attack,Car,False
+4743,Luke H. Patterson,2019-05-23,shot,unarmed,41,M,W,Montgomery,NY,False,other,Not fleeing,False
+4740,Ryan Brett Thomas,2019-05-24,shot,gun,41,M,W,Indian River County,FL,False,attack,Car,False
 4744,Carlvon Mayo,2019-05-24,shot,gun,35,M,,Houston,TX,False,other,Not fleeing,False
-4737,Terrance Bridges,2019-05-26,shot,unarmed,30,M,B,Kansas City,MO,False,attack,Foot,False
-4739,TK TK,2019-05-26,shot,gun,,M,,Odessa,TX,False,attack,,False
-4738,TK TK,2019-05-27,shot,gun,49,M,,Wichita,KS,False,attack,Foot,False
+4737,Terrance Bridges,2019-05-26,shot,undetermined,30,M,B,Kansas City,MO,False,attack,Foot,False
+4739,Billy Wade Webber,2019-05-26,shot,gun,48,M,,Odessa,TX,False,attack,,False
+4738,Robert Sabater,2019-05-27,shot,gun,49,M,W,Wichita,KS,True,attack,Foot,False
 4745,TK TK,2019-05-27,shot,gun,,M,,Joliet,IL,False,attack,Not fleeing,False
