@@ -4315,10 +4315,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4759,Steve Huff,2019-05-30,shot,gun,58,M,,Havre de Grace,MD,True,other,Not fleeing,False
 4749,Kyle Needham,2019-05-31,shot,vehicle,32,M,,Gorham,ME,False,attack,Car,False
 4753,TK TK,2019-05-31,shot,undetermined,,M,,Auburn,WA,False,other,Not fleeing,False
-4750,TK TK,2019-06-01,shot,undetermined,,M,,Bartlesville,OK,False,undetermined,Not fleeing,False
-4751,TK TK,2019-06-01,shot,undetermined,,M,,Anderson,CA,False,undetermined,Not fleeing,False
+4750,Thomas Goodeyes Gay,2019-06-01,shot,undetermined,35,M,,Bartlesville,OK,False,undetermined,Not fleeing,False
+4751,TK TK,2019-06-01,shot,gun,,M,,Anderson,CA,False,other,Not fleeing,False
 4752,Marcus Boles,2019-06-01,shot,knife,35,M,,Shreveport,LA,False,attack,Not fleeing,False
-4748,TK TK,2019-06-02,shot,metal pole,23,M,,Walnut Creek,CA,True,attack,Not fleeing,False
+4748,TK TK,2019-06-02,shot,crowbar,23,M,,Walnut Creek,CA,True,attack,Not fleeing,False
 4747,David Hoal,2019-06-03,shot,gun,59,M,,Collierville,TN,True,attack,Not fleeing,False
 4761,TK TK,2019-06-03,shot,gun,23,M,,San Ysidro,CA,False,attack,Car,False
 4762,Samuel Galberth,2019-06-03,shot,gun,43,M,,Ardsley,NY,False,attack,,False
