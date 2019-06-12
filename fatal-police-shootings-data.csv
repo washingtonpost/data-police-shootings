@@ -4329,13 +4329,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4766,Scott Hedgecock,2019-06-05,shot,knife,54,M,,Trinity,NC,True,attack,Not fleeing,False
 4776,Matthew Freeseha,2019-06-05,shot,gun,39,M,,Escalon,CA,False,attack,Not fleeing,False
 4773,TK TK,2019-06-06,shot,undetermined,,M,,Los Angeles,CA,False,undetermined,,False
-4774,TK TK,2019-06-06,shot,sharp object,,M,,Los Angeles,CA,False,other,Not fleeing,False
+4774,TK TK,2019-06-06,shot,sharp object,,M,,Los Angeles,CA,False,other,Not fleeing,True
 4775,Edtwon Stamps,2019-06-06,shot,gun,27,M,,Los Angeles,CA,False,other,Not fleeing,False
 4769,Bryan Bernard Wallace,2019-06-08,shot,gun,39,M,B,Clearwater,FL,False,other,Not fleeing,False
-4772,TK TK,2019-06-08,shot,knife,33,F,,Fresno,CA,True,attack,Not fleeing,False
+4772,Krystal Arvizu,2019-06-08,shot,ax,33,F,,Fresno,CA,True,attack,Not fleeing,True
 4768,JaQuavion Slaton,2019-06-09,shot,gun,20,M,B,Fort Worth,TX,False,other,Foot,False
 4770,TK TK,2019-06-09,shot,knife,,M,,Portland,OR,False,other,Not fleeing,False
-4771,Terry Frost,2019-06-10,shot,vehicle,,M,W,Kingsport,TN,False,other,Not fleeing,False
-4778,TK TK,2019-06-10,shot,gun,,M,,Oklahoma City,OK,False,attack,Not fleeing,True
+4771,Terry Frost,2019-06-10,shot,vehicle,,M,W,Kingsport,TN,False,attack,Not fleeing,False
+4778,TK TK,2019-06-10,shot,gun,,M,,Oklahoma City,OK,False,other,Not fleeing,True
 4779,Brent Durbin-Daniel,2019-06-10,shot,gun,19,M,,Lawton,OK,True,other,Car,False
-4777,TK TK,2019-06-11,shot,knife,,M,,Porteau,OK,False,attack,Not fleeing,False
+4777,Jaquan Derrick Diijon Thompson,2019-06-11,shot,knife,27,M,B,Porteau,OK,False,attack,Not fleeing,False
