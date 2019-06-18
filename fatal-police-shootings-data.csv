@@ -4013,7 +4013,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4417,Jeffrey Lynn Jones,2019-01-25,shot,gun,60,M,,Dyersburg,TN,False,attack,Not fleeing,False
 4418,Russ Allen McClellan,2019-01-25,shot,gun,48,M,,Garland,TX,True,attack,Not fleeing,False
 4419,Robert C. Martin,2019-01-25,shot,gun,69,M,,North Escambia,FL,True,attack,Not fleeing,False
-4429,Jacob Archambault,2019-01-27,shot,vehicle,25,M,,Rosebud,SD,False,attack,Car,False
+4429,Jacob Archambault,2019-01-27,shot,vehicle,25,M,N,Rosebud,SD,False,attack,Car,False
 4416,Joey Duane Ramirez,2019-01-28,shot,gun,29,M,H,Jackson,MI,False,attack,Foot,False
 4420,Rhogena Nicholas,2019-01-28,shot,unarmed,58,F,W,Houston,TX,False,attack,Not fleeing,False
 4421,Dennis Tuttle,2019-01-28,shot,gun,59,M,W,Houston,TX,False,attack,Not fleeing,False
@@ -4344,13 +4344,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4780,Brandon Webber,2019-06-12,shot,vehicle,20,M,B,Memphis,TN,False,attack,Foot,False
 4782,TK TK,2019-06-13,shot,vehicle,,M,,Rockville,MD,False,attack,Car,False
 4784,TK TK,2019-06-13,shot,vehicle,,M,,Jacksonville,AR,False,attack,Car,False
-4783,TK TK,2019-06-14,shot,undetermined,,M,,Delano,CA,False,undetermined,,False
-4791,TK TK,2019-06-15,shot,undetermined,,M,,Belmont,NH,False,undetermined,,False
+4783,TK TK,2019-06-14,shot,undetermined,,M,,Delano,CA,False,undetermined,Foot,False
+4791,Michael Sheehan,2019-06-15,shot,undetermined,45,M,,Belmont,NH,False,undetermined,,False
 4792,TK TK,2019-06-15,shot,knife,,M,,Renton,WA,False,attack,,False
 4793,Ty'Rese West,2019-06-15,shot,unknown weapon,18,M,B,Racine,WI,False,other,Other,False
 4794,TK TK,2019-06-15,shot,gun,,M,,Birmingham,AL,False,attack,Car,False
 4786,Eric Jack Logan,2019-06-16,shot,knife,53,M,B,South Bend,IN,False,attack,Not fleeing,False
-4790,Carlos Vale,2019-06-16,shot,gun,31,M,,Tucson,AZ,False,other,Car,False
+4790,Carlos Vale,2019-06-16,shot,gun,31,M,,Tucson,AZ,False,attack,,False
 4795,Shawn Ray Wilson,2019-06-16,shot,gun,48,M,,Fairbanks,AK,False,attack,Not fleeing,False
 4788,Mark Anthony Galvan,2019-06-17,shot,vehicle,20,M,,Brownsville,TX,False,attack,Car,False
-4789,TK TK,2019-06-17,shot,gun,,M,,Las Cruces,NM,False,attack,Car,False
+4789,Francisco Tarin,2019-06-17,shot,gun,35,M,,Las Cruces,NM,False,attack,Car,False
