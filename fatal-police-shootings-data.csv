@@ -4318,19 +4318,22 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4750,Thomas Goodeyes Gay,2019-06-01,shot,undetermined,35,M,,Bartlesville,OK,False,undetermined,Not fleeing,False
 4751,Nikolai Landry,2019-06-01,shot,gun,27,M,,Anderson,CA,False,other,Not fleeing,False
 4752,Marcus Boles,2019-06-01,shot,knife,35,M,,Shreveport,LA,False,attack,Not fleeing,False
-4748,Miles Hall,2019-06-02,shot,crowbar,23,M,,Walnut Creek,CA,True,attack,Not fleeing,False
+4748,Miles Hall,2019-06-02,shot,crowbar,23,M,,Walnut Creek,CA,True,attack,Not fleeing,True
 4747,David Hoal,2019-06-03,shot,gun,59,M,W,Collierville,TN,True,attack,Not fleeing,False
 4761,Travis James Eckstein,2019-06-03,shot,gun,23,M,W,San Ysidro,CA,True,attack,Car,False
 4762,Samuel Galberth,2019-06-03,shot,gun,43,M,,Ardsley,NY,False,attack,,False
+4803,Kevin Pudlik,2019-06-03,shot,undetermined,41,M,,Detroit,MI,False,other,Car,False
 4763,Martin Allen Goodier,2019-06-04,shot,knife,56,M,,Davidsonville,MD,False,other,Not fleeing,False
-4767,TK TK,2019-06-04,shot,gun,,M,,Indialantic,FL,False,attack,Not fleeing,False
+4767,Erik Gebauer,2019-06-04,shot,gun,45,M,W,Indialantic,FL,False,attack,Not fleeing,False
 4764,Fabian Rivera,2019-06-05,shot,gun,28,M,,Bernalillo,NM,False,other,Not fleeing,False
-4765,TK TK,2019-06-05,shot,gun,,M,,Jonesboro,AR,False,other,Not fleeing,False
+4765,Jay Clem,2019-06-05,shot,gun,,M,,Jonesboro,AR,False,other,Not fleeing,False
 4766,Scott Hedgecock,2019-06-05,shot,knife,54,M,,Trinity,NC,True,attack,Not fleeing,False
 4776,Matthew Freeseha,2019-06-05,shot,gun,39,M,,Escalon,CA,False,attack,Not fleeing,False
-4773,TK TK,2019-06-06,shot,undetermined,,M,,Los Angeles,CA,False,undetermined,,False
-4774,TK TK,2019-06-06,shot,sharp object,,M,,Los Angeles,CA,False,other,Not fleeing,True
+4773,Ryan Twyman,2019-06-06,shot,unarmed,,M,B,Los Angeles,CA,False,other,Car,False
+4774,Jose De Santiago Media,2019-06-06,shot,sharp object,41,M,,Los Angeles,CA,False,other,Not fleeing,True
 4775,Edtwon Stamps,2019-06-06,shot,gun,27,M,,Los Angeles,CA,False,other,Not fleeing,False
+4804,Harry Gipson,2019-06-06,shot,undetermined,70,M,W,Braxton,MS,True,undetermined,,False
+4805,Jose Jesus Astorga,2019-06-06,shot,gun,,M,,Modesto,CA,False,attack,Not fleeing,False
 4769,Bryan Bernard Wallace,2019-06-08,shot,gun,39,M,B,Clearwater,FL,False,other,Not fleeing,False
 4772,Krystal Arvizu,2019-06-08,shot,ax,33,F,,Fresno,CA,True,attack,Not fleeing,True
 4768,JaQuavion Slaton,2019-06-09,shot,gun,20,M,B,Fort Worth,TX,False,other,Foot,False
@@ -4346,7 +4349,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4784,TK TK,2019-06-13,shot,vehicle,,M,,Jacksonville,AR,False,attack,Car,False
 4783,TK TK,2019-06-14,shot,undetermined,,M,,Delano,CA,False,undetermined,Foot,False
 4791,Michael Sheehan,2019-06-15,shot,undetermined,45,M,,Belmont,NH,False,undetermined,,False
-4792,TK TK,2019-06-15,shot,knife,,M,,Renton,WA,False,attack,,False
+4792,Mantry Norris,2019-06-15,shot,knife,20,M,,Renton,WA,False,attack,,False
 4793,Ty'Rese West,2019-06-15,shot,unknown weapon,18,M,B,Racine,WI,False,other,Other,False
 4794,TK TK,2019-06-15,shot,gun,,M,,Birmingham,AL,False,attack,Car,False
 4796,TK TK,2019-06-15,shot,undetermined,,M,,Toppenish,WA,False,undetermined,Not fleeing,False
@@ -4355,6 +4358,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4795,Shawn Ray Wilson,2019-06-16,shot,gun,48,M,,Fairbanks,AK,False,attack,Not fleeing,False
 4788,Mark Anthony Galvan,2019-06-17,shot,vehicle,20,M,,Brownsville,TX,False,attack,Car,False
 4789,Francisco Tarin,2019-06-17,shot,gun,35,M,,Las Cruces,NM,False,attack,Car,False
+4802,Brian Isaack Clyde,2019-06-17,shot,gun,22,M,W,Dallas,TX,True,attack,Foot,False
 4797,Josh Flores,2019-06-18,shot,knife,18,M,,Centralia,WA,False,other,,False
 4798,TK TK,2019-06-18,shot,gun,,M,,Jefferson County,CO,False,attack,Not fleeing,False
-4799,DeWayne Watkins,2019-06-18,shot,gun,74,M,,Syracuse,NY,False,attack,Not fleeing,False
+4799,DeWayne Watkins,2019-06-18,shot,toy weapon,74,M,,Syracuse,NY,False,attack,Not fleeing,False
+4800,Juan Carlos Chapa,2019-06-20,shot,gun,33,M,,Mission,TX,False,attack,Foot,False
+4806,TK TK,2019-06-22,shot,gun,,M,,Big Sur,CA,False,attack,,False
+4807,Scott William Robertson,2019-06-22,shot,gun,41,M,,Phoenix,MD,False,other,,True
+4811,Michael Spencer,2019-06-23,shot,knife,29,M,W,Springfield,OH,True,attack,Foot,False
+4808,TK TK,2019-06-24,shot,gun,19,M,,Boston,MA,False,attack,Car,True
+4812,Bradley Rundle,2019-06-24,shot,gun,61,M,,Englewood,FL,False,attack,Not fleeing,False
+4809,Tomas Hernandez,2019-06-25,shot,knife,35,M,,San Antonio,TX,False,other,Not fleeing,False
+4810,TK TK,2019-06-25,shot,knife,,M,,Miami,FL,False,other,Not fleeing,False
