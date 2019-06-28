@@ -4182,7 +4182,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4598,Eugene Horn,2019-03-28,shot,gun,43,M,,Phoenix,AZ,False,attack,Foot,False
 4607,Augustine Gutierrez,2019-03-28,shot,gun,42,M,,San Antonio,TX,False,other,Car,False
 4610,Andrew John Mason,2019-03-30,shot,unarmed,22,M,,Watuaga County,NC,False,attack,Not fleeing,False
-4669,Ondrae Levado Hutchinson,2019-03-30,shot and Tasered,unarmed,30,M,,Durham,NC,False,attack,Foot,False
+4669,Ondrae Levado Hutchinson,2019-03-30,shot and Tasered,gun,30,M,B,Durham,NC,False,attack,Foot,True
 4606,Pierre J. Cher Frere,2019-03-30,shot,gun,25,M,B,Miami,FL,False,attack,,False
 4608,Stacy William Kenny,2019-03-31,shot,undetermined,33,F,W,Springfield,OR,False,other,Car,False
 4611,Juan Padilla,2019-03-31,shot,knife,24,M,H,Marana,AZ,False,attack,Not fleeing,False
@@ -4372,7 +4372,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4810,TK TK,2019-06-25,shot,knife,,M,,Miami,FL,False,other,Not fleeing,False
 4815,TK TK,2019-06-25,shot,knife,,M,,Menasha,WI,False,other,Not fleeing,False
 4813,Michael Norquest,2019-06-26,shot,sword,50,M,,Timberville,VA,False,attack,Not fleeing,False
-4816,TK TK,2019-06-26,shot,sharp object,,M,,Sugarcreek,OH,False,undetermined,Not fleeing,False
+4816,TK TK,2019-06-26,shot,sharp object,,M,,Sugarcreek,OH,False,attack,Not fleeing,False
 4814,TK TK,2019-06-27,shot,gun,,M,,Springfield,FL,False,attack,Not fleeing,False
 4817,TK TK,2019-06-27,shot,undetermined,,M,,Orangeburg,SC,False,undetermined,,False
 4818,TK TK,2019-06-27,shot,gun,,M,,Wolfe County,KY,False,other,Not fleeing,False
+4819,TK TK,2019-06-27,shot,gun,,M,,Omaha,NE,True,other,Not fleeing,False
+4820,TK TK,2019-06-27,shot,undetermined,,M,,Los Angeles,CA,False,undetermined,Not fleeing,False
+4821,William Aubrey Martin,2019-06-27,shot,vehicle,,M,W,Tulsa,OK,False,attack,Car,False
+4822,Erik Sandoval,2019-06-27,shot,gun,41,M,,Yucca Valley,CA,False,attack,Not fleeing,False
