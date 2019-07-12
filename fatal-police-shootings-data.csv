@@ -4389,15 +4389,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4828,TK TK,2019-06-28,shot,gun,,M,,Houston,TX,False,attack,Car,False
 4840,Ryan Moody,2019-06-28,shot,gun,19,M,W,Pearl,MS,False,attack,Not fleeing,False
 4826,TK TK,2019-06-29,shot,gun,61,M,W,Denton County,TX,False,attack,,False
-4823,TK TK,2019-07-01,shot,gun,,M,,Denver,CO,False,attack,Not fleeing,False
+4823,Christopher Barela,2019-07-01,shot,gun,22,M,,Denver,CO,False,attack,Not fleeing,False
 4834,TK TK,2019-07-01,shot,gun,,M,,Pontotoc County,MS,False,attack,Car,False
 4835,Aaron Hong,2019-07-01,shot,knife,23,M,A,Athens,GA,True,attack,Not fleeing,True
 4836,Ben Fields,2019-07-01,shot,knife,67,M,W,Port St. Lucie,FL,True,attack,Not fleeing,False
-4837,TK TK,2019-07-02,shot,undetermined,,M,,Bagley Township,MI,False,undetermined,,False
+4837,Chad Williams,2019-07-02,shot,undetermined,44,M,W,Bagley Township,MI,False,undetermined,,False
 4838,Isak Abdirahman Aden,2019-07-02,shot,gun,23,M,O,Eagan,MN,False,other,Foot,True
 4839,TK TK,2019-07-02,shot,gun,,M,,Albuquerque,NM,False,attack,Not fleeing,False
 4841,Isaiah Robinson,2019-07-02,shot,gun,39,M,B,Elyria,OH,False,attack,Car,False
-4843,TK TK,2019-07-03,shot,hammer,,M,,Salem,IN,False,other,Not fleeing,False
+4843,Mark Naugle,2019-07-03,shot,hammer,53,M,,Salem,IN,False,other,Not fleeing,False
 4850,Stonechild Chiefstick,2019-07-03,shot,screwdriver,39,M,N,Poulsbo,WA,True,other,Not fleeing,False
 4855,Jonathan Pingel,2019-07-03,shot,knife,26,M,W,West Des Moines,IA,True,other,Not fleeing,False
 4857,Christine Venegas,2019-07-03,shot,toy weapon,38,F,H,El Paso,TX,False,attack,Not fleeing,False
@@ -4405,12 +4405,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4856,TK TK,2019-07-04,shot,gun,,M,,Lakewood,CO,False,undetermined,Other,False
 4845,Jose Martinez,2019-07-05,shot,undetermined,34,M,H,West Jordan,UT,False,undetermined,Foot,False
 4847,James C. Pinkston,2019-07-05,shot,gun,58,M,W,Mountain Grove,MO,False,attack,Not fleeing,False
-4848,TK TK,2019-07-05,shot,undetermined,17,F,,Anaheim,CA,False,undetermined,,False
+4848,Hannah Williams,2019-07-05,shot,toy weapon,17,F,W,Anaheim,CA,False,attack,Not fleeing,False
 4849,TK TK,2019-07-05,shot,unarmed,20,M,,Oak View,CA,False,attack,Not fleeing,False
 4852,TK TK,2019-07-05,shot,knife,37,M,,Ruskin,FL,False,other,Not fleeing,False
 4846,Kareem Omar Morgan,2019-07-06,shot,gun,43,M,B,Rosedale,MD,False,attack,Other,False
-4842,TK TK,2019-07-07,shot,knife,,M,,Jacksonville,FL,True,attack,Not fleeing,False
+4842,Thomas Graham,2019-07-07,shot,knife,61,M,,Jacksonville,AR,True,attack,Not fleeing,False
 4844,Tymar Crawford,2019-07-07,shot,gun,28,M,B,Pensacola,FL,False,attack,Car,False
 4851,Johnny W. Dellinger,2019-07-07,shot,undetermined,41,M,,Timberville,VA,False,other,Not fleeing,False
+4866,Shawn Toney,2019-07-08,shot,gun,23,M,,Brooklyn,OH,True,attack,Not fleeing,False
 4853,TK TK,2019-07-08,shot,undetermined,22,M,,Largo,FL,False,undetermined,Not fleeing,False
 4858,Anthony James Gonzales,2019-07-09,shot,undetermined,36,M,H,Bakersfield,CA,False,undetermined,Not fleeing,False
+4859,TK TK,2019-07-09,shot,knife,,M,,Rancho Mirage,CA,False,attack,Not fleeing,False
+4860,Sean Rambert,2019-07-09,shot,undetermined,23,M,,Greenville,NC,False,attack,Not fleeing,False
+4862,Grayson Schuessler,2019-07-09,shot,gun,26,M,W,Citrus Heights,CA,False,attack,,False
+4865,TK TK,2019-07-10,shot,gun,,M,,Kansas City,KS,False,attack,Not fleeing,False
+4861,Darrel Allen,2019-07-10,shot,knife,32,M,B,Adelanto,CA,False,attack,Not fleeing,False
+4864,Frankie Feliciano,2019-07-11,shot,knife,33,M,H,Jacksonville,FL,False,attack,Not fleeing,False
