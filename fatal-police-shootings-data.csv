@@ -4428,12 +4428,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4869,Ashanti Pinkney,2019-07-15,shot,gun,49,M,B,Baltimore,MD,False,attack,Not fleeing,True
 4876,Michael Anthony Brand,2019-07-15,shot,unknown weapon,43,M,W,Salt Lake City,UT,True,other,Not fleeing,True
 4884,Jose Javier Gonzalez,2019-07-16,shot,knife,52,M,H,Chino Hills,CA,False,attack,Not fleeing,False
-4875,Stephen Murray,2019-07-17,shot,gun,52,M,B,Modesto,CA,False,attack,Not fleeing,False
+4875,Stephen Murray,2019-07-17,shot,,52,M,B,Modesto,CA,False,attack,Not fleeing,False
 4882,Mark Anson Schoggins,2019-07-17,shot,gun,35,M,W,McAlester,OK,False,attack,Car,False
 4883,Roderick Wilson,2019-07-17,shot,gun,35,M,B,Birmingham,AL,False,attack,Foot,False
 4868,Tony Orland Mills,2019-07-18,shot,gun,73,M,,Medford,OR,True,attack,Not fleeing,False
 4873,Samuel Fullerton,2019-07-18,shot,gun,39,M,,Stone County,AR,False,attack,,False
-4874,Michael Wray Hensley,2019-07-18,shot,knife,28,M,W,Pueblo,CO,False,attack,Not fleeing,False
+4874,Patrick Martinez,2019-07-18,shot,knife,53,M,,Pueblo,CO,False,attack,Not fleeing,False
 4880,Leo Brooks,2019-07-18,shot,gun,23,M,B,Metairie,LA,False,other,Not fleeing,False
-4867,Witney Rivera,2019-07-19,shot,garden tool,41,M,H,Pemberton,NJ,False,undetermined,,False
-4881,Lakesha Sommerville,2019-07-19,shot,unarmed,,F,B,Aliceville,AL,False,other,Car,False
+4867,Witney Rivera,2019-07-19,shot,garden tool,41,M,H,Pemberton,NJ,False,other,,False
