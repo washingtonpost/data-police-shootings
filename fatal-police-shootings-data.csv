@@ -4240,6 +4240,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4652,Michael St. Clair,2019-04-21,shot,gun,42,M,W,Little Rock,AR,False,attack,Foot,False
 4649,David Flores Ramos,2019-04-22,shot,gun,32,M,H,Los Angeles,CA,False,attack,,True
 4654,TK TK,2019-04-22,shot,gun,,M,,Watauga,TX,False,attack,Not fleeing,False
+4892,Jonathan Patzel,2019-04-24,shot,unknown weapon,29,M,W,Colorado Springs,CO,False,other,Not fleeing,False
 4667,Emory Moore,2019-04-24,shot,undetermined,29,M,W,Owingsville,KY,False,attack,Car,False
 4681,Stanley Edward Thompson,2019-04-25,shot,gun,51,M,W,Apex,NC,False,attack,,False
 4686,Max Helton,2019-04-26,shot,gun,43,M,,Clarksville,IN,True,attack,Not fleeing,True
@@ -4287,6 +4288,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4733,Elizabeth Harris,2019-05-16,shot,gun,58,F,W,New Boston,TX,True,attack,Not fleeing,False
 4730,Luis Lomante,2019-05-17,shot,knife,39,M,H,Davie,FL,False,other,Not fleeing,False
 4732,"Donald Davis, Jr.",2019-05-17,shot,gun,40,M,B,New Orleans,LA,False,attack,,True
+4891,Sean Michael Collins,2019-05-18,shot,gun,29,M,H,Colorado Springs,CO,False,attack,Not fleeing,False
 4728,Dion Grey Hat,2019-05-18,shot,undetermined,27,M,N,Tonalea,AZ,False,undetermined,,False
 4731,Andrew Giovanni Meza,2019-05-18,shot,knife,20,M,H,Garden Grove,CA,True,attack,Not fleeing,False
 4725,Robert Rabago,2019-05-19,shot,gun,17,M,H,Phoenix,AZ,False,attack,Foot,False
@@ -4426,7 +4428,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4870,Blige Sean Christopher Cypress,2019-07-14,shot,gun,22,M,B,Hollywood,FL,False,attack,Car,False
 4877,Onaje Dickinson,2019-07-14,shot,gun,20,M,B,Penn Hills,PA,False,attack,Foot,False
 4869,Ashanti Pinkney,2019-07-15,shot,gun,49,M,B,Baltimore,MD,False,attack,Not fleeing,True
-4876,Michael Anthony Brand,2019-07-15,shot,unknown weapon,43,M,W,Salt Lake City,UT,True,other,Not fleeing,True
+4876,Michael Anthony Brand,2019-07-15,shot,toy weapon,43,M,W,Salt Lake City,UT,True,other,Not fleeing,True
 4884,Jose Javier Gonzalez,2019-07-16,shot,knife,52,M,H,Chino Hills,CA,False,attack,Not fleeing,False
 4875,Stephen Murray,2019-07-17,shot,,52,M,B,Modesto,CA,False,attack,Not fleeing,False
 4882,Mark Anson Schoggins,2019-07-17,shot,gun,35,M,W,McAlester,OK,False,attack,Car,False
@@ -4436,3 +4438,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4874,Patrick Martinez,2019-07-18,shot,knife,53,M,,Pueblo,CO,False,attack,Not fleeing,False
 4880,Leo Brooks,2019-07-18,shot,gun,23,M,B,Metairie,LA,False,other,Not fleeing,False
 4867,Witney Rivera,2019-07-19,shot,garden tool,41,M,H,Pemberton,NJ,False,other,,False
+4889,TK TK,2019-07-21,shot,scissors,,F,,Albuquerque,NM,True,other,Not fleeing,False
+4888,Shawn F. Allen,2019-07-22,shot,gun,,M,B,Wesson,MS,False,attack,,False
+4893,John David Brown,2019-07-22,shot,gun,53,M,,Ranburne,AL,True,attack,Not fleeing,False
+4886,James Manzo,2019-07-23,shot,scissors,27,M,W,Asbury Park,NJ,True,other,Not fleeing,False
+4887,Omari Thompson,2019-07-23,shot,gun,31,M,B,Ross Township,PA,False,attack,Not fleeing,False
+4890,Joshua Vigil,2019-07-23,shot,gun,38,M,H,Colorado Springs,CO,False,other,Car,False
+4894,Josef Delon Richardson,2019-07-25,shot,undetermined,38,M,B,Port Allen,LA,False,undetermined,,False
+4896,Alphonso Zaporta,2019-07-26,shot,gun,41,M,H,Hartford,CT,False,attack,Car,True
+4897,Todd Messner,2019-07-26,shot,gun,49,M,,Three Springs,PA,False,attack,Not fleeing,False
+4901,Donald Allamong,2019-07-26,shot,gun,56,M,,Sun City,SC,True,other,Not fleeing,False
+4898,TK TK,2019-07-27,shot,gun,,M,,Dallas,TX,False,attack,Not fleeing,False
+4895,Adalbert Wolmar Rodriguez,2019-07-28,shot,gun,62,M,H,Boyton Beach,FL,False,attack,Not fleeing,False
+4899,Santino Legan,2019-07-28,shot,gun,19,M,,Gilroy,CA,False,attack,Not fleeing,False
+4900,TK TK,2019-07-29,shot,undetermined,,M,,Houston,TX,False,undetermined,Car,False
