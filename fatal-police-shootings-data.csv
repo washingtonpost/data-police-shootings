@@ -4455,15 +4455,24 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4899,Santino William Legan,2019-07-28,shot,gun,19,M,W,Gilroy,CA,False,attack,Not fleeing,False
 4905,Larry Pettiford,2019-07-28,shot,gun,69,M,,Stroudsburg,PA,True,attack,Not fleeing,False
 4900,TK TK,2019-07-29,shot,gun,,M,,Houston,TX,False,other,Car,False
-4902,TK TK,2019-07-30,shot,ax,,M,W,Portland,OR,False,attack,,False
-4903,TK TK,2019-07-31,shot,unknown weapon,,M,,Roy,UT,False,other,,False
+4902,Lane Christopher Martin,2019-07-30,shot,ax,32,M,W,Portland,OR,False,attack,,False
+4903,Donald Lee Joseph,2019-07-31,shot,unknown weapon,37,M,,Roy,UT,False,other,,False
+4923,Mauris Nishanga DeSilva,2019-07-31,shot and Tasered,knife,46,M,,Austin,TX,True,other,Not fleeing,False
+4927,Jose Baca-Olivares,2019-07-31,shot,gun,,M,N,San Antonio,TX,False,attack,Not fleeing,False
 4917,TK TK,2019-08-01,shot,gun,,M,,Los Angeles,CA,False,other,Foot,False
+4921,Andre Leach,2019-08-01,shot,gun,27,M,,Allentown,PA,False,attack,Not fleeing,False
+4922,Margarita Victoria Brooks,2019-08-01,shot,unarmed,30,F,W,Arlington,TX,True,other,Not fleeing,False
+4924,Eric Toon,2019-08-01,shot,gun,,M,W,Charleston,WV,False,attack,Other,False
+4925,David Willoughby,2019-08-01,shot,vehicle,54,M,,Jackson County,KY,False,undetermined,Car,False
+4926,Lenny Blaine Griffin,2019-08-01,shot,knife,48,M,W,Tampa,FL,True,other,Not fleeing,False
 4908,Delano Williams,2019-08-02,shot,gun,45,M,,Charlottte,NC,False,attack,Not fleeing,False
 4911,Mario Benjamin,2019-08-02,shot,gun,34,M,,Minneapolis,MN,False,attack,Not fleeing,True
 4913,Deshon Downing,2019-08-02,shot,gun,45,M,B,Indianapolis,IN,False,attack,Not fleeing,False
-4912,Devon Bailey,2019-08-03,shot,undetermined,19,M,B,Colorado Springs,CO,False,undetermined,Not fleeing,False
+4912,De'Von Bailey,2019-08-03,shot,undetermined,19,M,B,Colorado Springs,CO,False,undetermined,Not fleeing,False
 4915,Oscar Ventura-Gonzalez,2019-08-03,shot,gun,32,M,H,Revere,MA,False,attack,Car,False
 4918,John Clark,2019-08-03,shot,gun,35,M,,Safety Harbor,FL,False,attack,Car,False
+4919,TK TK,2019-08-03,shot,gun,,M,,Carson City,NV,False,attack,Not fleeing,False
+4920,Aigon Andrew Wallace,2019-08-03,shot,knife,25,M,,Loganville,GA,False,attack,Foot,False
 4907,Connor Betts,2019-08-04,shot,gun,24,M,W,Dayton,OH,True,attack,Not fleeing,False
 4909,Robert Clay Wilsford Jr.,2019-08-04,shot,gun,65,M,,Hanceville,AL,True,attack,Not fleeing,False
 4910,TK TK,2019-08-05,shot,undetermined,,,,Salt Lake City,UT,False,undetermined,Not fleeing,True
