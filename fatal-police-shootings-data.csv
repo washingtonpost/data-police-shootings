@@ -4431,7 +4431,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4869,Ashanti Pinkney,2019-07-15,shot,gun,49,M,B,Baltimore,MD,False,attack,Not fleeing,True
 4876,Michael Anthony Brand,2019-07-15,shot,toy weapon,43,M,W,Salt Lake City,UT,True,other,Not fleeing,True
 4884,Jose Javier Gonzalez,2019-07-16,shot,knife,52,M,H,Chino Hills,CA,False,attack,Not fleeing,False
-4906,Steven Fischer,2019-07-16,shot,gun,62,M,W,Memphis,IN,True,attack,Not fleeing,False
+4906,Stephen Fischer,2019-07-16,shot,gun,62,M,,Memphis,IN,True,attack,Not fleeing,False
 4875,Stephen Murray,2019-07-17,shot,,52,M,B,Modesto,CA,False,attack,Not fleeing,False
 4882,Mark Anson Schoggins,2019-07-17,shot,gun,35,M,W,McAlester,OK,False,attack,Car,False
 4883,Roderick Wilson,2019-07-17,shot,gun,35,M,B,Birmingham,AL,False,attack,Foot,False
@@ -4452,13 +4452,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4901,Donald Williams Allamong,2019-07-26,shot,gun,56,M,W,Sun City,SC,True,other,Not fleeing,False
 4898,TK TK,2019-07-27,shot,gun,,M,,Dallas,TX,False,attack,Not fleeing,False
 4895,Adalberto Wolmar Rodriguez,2019-07-28,shot,gun,62,M,H,Boyton Beach,FL,False,attack,Not fleeing,False
-4899,Santino William Legan,2019-07-28,shot,gun,19,M,W,Gilroy,CA,False,attack,Not fleeing,False
 4905,Larry Pettiford,2019-07-28,shot,gun,69,M,,Stroudsburg,PA,True,attack,Not fleeing,False
 4900,TK TK,2019-07-29,shot,gun,,M,,Houston,TX,False,other,Car,False
-4902,Lane Christopher Martin,2019-07-30,shot,ax,32,M,W,Portland,OR,False,attack,,False
+4902,Lane Christopher Martin,2019-07-30,shot,ax,31,M,W,Portland,OR,False,attack,,False
 4903,Donald Lee Joseph,2019-07-31,shot,unknown weapon,37,M,,Roy,UT,False,other,,False
 4923,Mauris Nishanga DeSilva,2019-07-31,shot and Tasered,knife,46,M,,Austin,TX,True,other,Not fleeing,False
-4927,Jose Baca-Olivares,2019-07-31,shot,gun,,M,N,San Antonio,TX,False,attack,Not fleeing,False
+4927,Jose Baca-Olivares,2019-07-31,shot,gun,,M,H,San Antonio,TX,False,attack,Not fleeing,False
 4917,TK TK,2019-08-01,shot,gun,,M,,Los Angeles,CA,False,other,Foot,False
 4921,Andre Leach,2019-08-01,shot,gun,27,M,,Allentown,PA,False,attack,Not fleeing,False
 4922,Margarita Victoria Brooks,2019-08-01,shot,unarmed,30,F,W,Arlington,TX,True,other,Not fleeing,False
