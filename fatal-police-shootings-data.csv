@@ -4477,14 +4477,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4910,Riche Antonio Santiago,2019-08-05,shot,gun,29,M,,Salt Lake City,UT,False,attack,Not fleeing,True
 4914,James Lee Kirkwood,2019-08-05,shot,knife,49,M,B,Memphis,TN,False,attack,Foot,False
 4916,Marvin Alexis Urbina,2019-08-05,shot,vehicle,19,M,H,Bakersfield,CA,False,other,Car,False
-4936,Don Babbit,2019-08-06,shot,gun,49,M,W,Shaler Township,PA,False,attack,Not fleeing,False
+4936,Donald Babbit,2019-08-06,shot,gun,49,M,W,Shaler Township,PA,False,attack,Not fleeing,False
 4928,Detravian Allison,2019-08-07,shot,gun,18,M,,Longview,TX,False,attack,Not fleeing,False
-4930,Toussaint Diamon Sims,2019-08-08,shot,undetermined,27,M,B,Moss Point,MS,False,undetermined,Foot,True
+4930,Toussaint Diamon Sims,2019-08-08,shot,gun,27,M,B,Moss Point,MS,False,attack,Foot,True
 4937,Kevin Jenkins,2019-08-08,shot,gun,52,M,,Leitchfield,KY,True,attack,Not fleeing,False
 4932,TK TK,2019-08-09,shot,knife,,M,,Beaumont,CA,False,attack,Not fleeing,False
 4933,Jason Xavier Salas,2019-08-09,shot,machete,52,M,,Garland,TX,False,attack,Not fleeing,False
-4934,TK TK,2019-08-09,shot,gun,,M,,Kansas City,MO,False,attack,Other,False
+4934,TK TK,2019-08-09,shot,gun and vehicle,,M,,Kansas City,MO,False,attack,Foot,False
 4935,Mark Johnson,2019-08-09,shot,toy weapon,62,M,,Montpelier,VT,True,attack,Not fleeing,False
-4929,Manuel Carter,2019-08-10,shot,knife,57,M,,Bradley County,TN,False,attack,Not fleeing,False
-4938,"Fredderick Andrews Hadden, Jr.",2019-08-10,shot,gun,45,M,W,Augusta,GA,False,attack,Car,False
-4931,TK TK,2019-08-11,shot,gun,,M,,Fort Worth,TX,False,attack,Not fleeing,False
+4929,Manuel Charles Carter,2019-08-10,shot,knife,57,M,,Bradley County,TN,False,attack,Not fleeing,False
+4938,Freddrick Andrews Hadden,2019-08-10,shot,gun,45,M,W,Augusta,GA,False,attack,Car,False
+4931,John Michael George,2019-08-11,shot,gun,46,M,,Fort Worth,TX,False,attack,Not fleeing,False
