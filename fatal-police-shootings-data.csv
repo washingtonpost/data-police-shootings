@@ -4461,11 +4461,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4950,Troy Peterson,2019-07-31,shot,gun,,M,W,Council Bluffs,IA,False,attack,Car,False
 4917,TK TK,2019-08-01,shot,gun,,M,,Los Angeles,CA,False,attack,Foot,False
 4921,Andre Leach,2019-08-01,shot,gun,27,M,,Allentown,PA,False,attack,Not fleeing,False
-4922,Margarita Victoria Brooks,2019-08-01,shot,unarmed,30,F,W,Arlington,TX,True,other,Not fleeing,False
+4922,Margarita Victoria Brooks,2019-08-01,shot,unarmed,30,F,W,Arlington,TX,False,other,Not fleeing,False
 4924,Eric Toon,2019-08-01,shot,gun,36,M,W,Charleston,WV,False,attack,Other,False
 4925,David Willoughby,2019-08-01,shot,vehicle,54,M,,Jackson County,KY,False,attack,Car,False
 4926,Lenny Blaine Griffin,2019-08-01,shot,knife,48,M,W,Tampa,FL,True,other,Not fleeing,False
-4908,Delano Williams,2019-08-02,shot,gun,55,M,,Charlottte,NC,False,attack,Not fleeing,False
+4908,Delano Williams,2019-08-02,shot,gun,55,M,,Charlottte,NC,True,attack,Not fleeing,False
 4911,Mario Benjamin,2019-08-02,shot,gun,34,M,,Minneapolis,MN,False,attack,Not fleeing,True
 4913,Deshon Downing,2019-08-02,shot,gun,45,M,,Indianapolis,IN,False,attack,Not fleeing,False
 4912,De'Von Bailey,2019-08-03,shot,undetermined,19,M,B,Colorado Springs,CO,False,undetermined,Not fleeing,False
@@ -4475,7 +4475,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4920,Aigon Andrew Wallace,2019-08-03,shot,knife,25,M,,Loganville,GA,False,attack,Foot,False
 4907,Connor Betts,2019-08-04,shot,gun,24,M,W,Dayton,OH,True,attack,Not fleeing,False
 4909,Robert Clay Wilsford,2019-08-04,shot,gun,65,M,,Hanceville,AL,True,attack,Not fleeing,False
-4948,TK TK,2019-08-04,shot,vehicle,,M,,Aliceville,CA,False,attack,Car,False
+4948,Marvin Urbina,2019-08-04,shot,undetermined,19,M,,Aliceville,CA,False,other,Car,False
 4910,Riche Antonio Santiago,2019-08-05,shot,gun,29,M,,Salt Lake City,UT,False,attack,Not fleeing,True
 4914,James Lee Kirkwood,2019-08-05,shot,knife,49,M,B,Memphis,TN,False,attack,Foot,False
 4916,Marvin Alexis Urbina,2019-08-05,shot,vehicle,19,M,H,Bakersfield,CA,False,other,Car,False
@@ -4491,11 +4491,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4929,Manuel Charles Carter,2019-08-10,shot,knife,57,M,,Bradley County,TN,False,attack,Not fleeing,False
 4938,Freddrick Andrews Hadden,2019-08-10,shot,gun,45,M,W,Augusta,GA,False,attack,Car,False
 4931,John Michael George,2019-08-11,shot,gun,46,M,,Fort Worth,TX,False,attack,Not fleeing,False
-4944,Cole Steele Jessup,2019-08-12,shot,vehicle,20,M,,Randolph County,NC,False,other,Other,False
+4944,Cole Steele Jessup,2019-08-12,shot,vehicle,20,M,W,Randolph County,NC,False,attack,Other,False
 4945,Aaron Luther,2019-08-12,shot,gun,49,M,W,Riverside,CA,False,attack,Not fleeing,False
-4949,Scott Souders,2019-08-12,shot,gun,,M,,Chetopa,KS,False,attack,Not fleeing,False
+4949,Scott Souders,2019-08-12,shot,gun,38,M,,Chetopa,KS,False,attack,Not fleeing,False
 4939,David Ingle,2019-08-13,shot,unarmed,31,M,,Joplin,MO,False,attack,Not fleeing,False
 4940,Jerry Orlando Weaver,2019-08-13,shot,gun,51,M,,Clinton,TN,True,attack,Not fleeing,False
-4941,Anthony Wayne French Sr,2019-08-13,shot,gun,,M,,Louisville,KY,False,attack,Not fleeing,False
-4943,Charles Pearson,2019-08-13,shot,gun,51,M,B,Kansas City,KS,False,attack,Not fleeing,False
-4946,Thomas Michael Reynolds,2019-08-14,shot,gun,37,M,,Belton,SC,False,attack,Not fleeing,False
+4941,Anthony Wayne French,2019-08-13,shot,gun,,M,,Louisville,KY,False,attack,Not fleeing,False
+4943,Charles Roy Pearson,2019-08-13,shot,gun,51,M,B,Kansas City,KS,False,attack,Not fleeing,False
+4946,Thomas Michael Reynolds,2019-08-14,shot,gun,37,M,,Belton,SC,False,other,Not fleeing,False
