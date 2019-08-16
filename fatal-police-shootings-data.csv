@@ -4459,6 +4459,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4923,Mauris Nishanga DeSilva,2019-07-31,shot and Tasered,knife,46,M,,Austin,TX,True,other,Not fleeing,False
 4927,Jose Baca-Olivares,2019-07-31,shot,gun,,M,H,San Antonio,TX,False,attack,Not fleeing,False
 4950,Troy Peterson,2019-07-31,shot,gun,,M,W,Council Bluffs,IA,False,attack,Car,False
+4952,Robert Schneider,2019-07-31,shot,gun,46,M,,Cincinnati,OH,False,attack,Not fleeing,False
 4917,TK TK,2019-08-01,shot,gun,,M,,Los Angeles,CA,False,attack,Foot,False
 4921,Andre Leach,2019-08-01,shot,gun,27,M,,Allentown,PA,False,attack,Not fleeing,False
 4922,Margarita Victoria Brooks,2019-08-01,shot,unarmed,30,F,W,Arlington,TX,False,other,Not fleeing,False
@@ -4480,6 +4481,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4914,James Lee Kirkwood,2019-08-05,shot,knife,49,M,B,Memphis,TN,False,attack,Foot,False
 4916,Marvin Alexis Urbina,2019-08-05,shot,vehicle,19,M,H,Bakersfield,CA,False,other,Car,False
 4947,Derrick Davidson,2019-08-05,shot,undetermined,56,M,,Lowell,AR,True,undetermined,Not fleeing,False
+4953,Kaizen Crossen,2019-08-05,shot,gun,39,M,B,Irvington,NJ,False,attack,Not fleeing,False
+4954,William Biggs,2019-08-05,shot,gun,43,M,,Pocahontas County,WV,False,attack,Car,False
+4955,Allan George,2019-08-05,shot,gun,57,M,,Rifle,CO,False,other,Not fleeing,False
 4936,Donald Babbit,2019-08-06,shot,gun,49,M,W,Shaler Township,PA,False,attack,Not fleeing,False
 4928,Detravian Allison,2019-08-07,shot,gun,18,M,,Longview,TX,False,attack,Not fleeing,False
 4930,Toussaint Diamon Sims,2019-08-08,shot,gun,27,M,B,Moss Point,MS,False,attack,Foot,True
