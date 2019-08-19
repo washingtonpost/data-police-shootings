@@ -4368,6 +4368,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4797,Josh Flores,2019-06-18,shot,knife,18,M,H,Centralia,WA,False,other,Not fleeing,False
 4798,Michael Sheridan,2019-06-18,shot,gun,34,M,,Friendly Hills,CO,False,attack,Not fleeing,False
 4799,DeWayne Watkins,2019-06-18,shot,toy weapon,74,M,B,Syracuse,NY,False,attack,Not fleeing,False
+4965,Eric Portillo,2019-06-20,shot,gun,38,M,,Tulsa,OK,False,attack,Car,True
 4800,Juan Carlos Chapa,2019-06-20,shot,gun,33,M,H,Mission,TX,False,attack,Foot,False
 4806,Kevin Anthony Alaniz,2019-06-22,shot,gun,26,M,H,Big Sur,CA,False,attack,,False
 4807,Scott William Robertson,2019-06-22,shot,gun,41,M,W,Phoenix,MD,False,other,,True
@@ -4503,3 +4504,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4941,Anthony Wayne French,2019-08-13,shot,gun,,M,,Louisville,KY,False,attack,Not fleeing,False
 4943,Charles Roy Pearson,2019-08-13,shot,gun,51,M,B,Kansas City,KS,False,attack,Not fleeing,False
 4946,Thomas Michael Reynolds,2019-08-14,shot,gun,37,M,,Belton,SC,False,other,Not fleeing,False
+4966,TK TK,2019-08-15,shot,gun,,F,,Denver,CO,False,attack,Foot,False
+4964,TK TK,2019-08-16,shot,knife,,M,,Ogden,UT,False,attack,Not fleeing,False
+4967,TK TK,2019-08-16,shot,gun,,M,,Spokane Valley,WA,False,attack,Car,False
+4956,Rashad Cunningham,2019-08-17,shot,gun,25,M,B,Gary,IN,False,undetermined,Not fleeing,False
+4959,TK TK,2019-08-17,shot,gun,,,,Newport News,VA,False,attack,Car,False
+4962,Mike Parsley,2019-08-17,shot,gun,62,M,W,Springville,IN,False,undetermined,Not fleeing,False
+4963,TK TK,2019-08-17,shot,gun,,M,,Dallas,TX,False,attack,Car,False
+4958,Jared Nelson,2019-08-18,shot,undetermined,38,M,,Racine,WI,False,attack,Not fleeing,False
+4960,TK TK,2019-08-18,shot,gun,,M,,El Sereno,CA,False,attack,Foot,True
+4957,TK TK,2019-08-19,shot,gun,,M,,Las Vegas,NV,False,attack,Car,False
