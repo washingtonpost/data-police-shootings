@@ -4505,12 +4505,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4943,Charles Roy Pearson,2019-08-13,shot,gun,51,M,B,Kansas City,KS,False,attack,Not fleeing,False
 4946,Thomas Michael Reynolds,2019-08-14,shot,gun,37,M,,Belton,SC,False,other,Not fleeing,False
 4966,TK TK,2019-08-15,shot,gun,,F,,Denver,CO,False,attack,Foot,False
-4964,TK TK,2019-08-16,shot,knife,,M,,Ogden,UT,False,attack,Not fleeing,False
+4964,Jovany Mercado-Bedolla,2019-08-16,shot,knife,26,M,H,Ogden,UT,False,attack,Not fleeing,False
 4967,TK TK,2019-08-16,shot,gun,,M,,Spokane Valley,WA,False,attack,Car,False
 4956,Rashad Cunningham,2019-08-17,shot,gun,25,M,B,Gary,IN,False,undetermined,Not fleeing,False
-4959,TK TK,2019-08-17,shot,gun,,,,Newport News,VA,False,attack,Car,False
+4959,Uzzle Jerome,2019-08-17,shot,gun,,M,,Newport News,VA,False,attack,Car,False
 4962,Mike Parsley,2019-08-17,shot,gun,62,M,W,Springville,IN,False,undetermined,Not fleeing,False
 4963,TK TK,2019-08-17,shot,gun,,M,,Dallas,TX,False,attack,Car,False
+4969,Rashad Cummingham,2019-08-17,shot,undetermined,25,M,,Gary,IN,False,undetermined,,False
 4958,Jared Nelson,2019-08-18,shot,undetermined,38,M,,Racine,WI,False,attack,Not fleeing,False
 4960,TK TK,2019-08-18,shot,gun,,M,,El Sereno,CA,False,attack,Foot,True
+4971,Jared R. Nelson,2019-08-18,shot,sharp object,38,M,,Caledonia,WI,False,attack,Not fleeing,False
 4957,TK TK,2019-08-19,shot,gun,,M,,Las Vegas,NV,False,attack,Car,False
+4968,TK TK,2019-08-19,shot,gun,,M,,Los Angeles,CA,False,other,Foot,False
+4970,TK TK,2019-08-19,shot,vehicle,,M,,Fullerton,CA,False,attack,Car,False
