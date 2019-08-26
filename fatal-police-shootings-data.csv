@@ -4400,6 +4400,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4838,Isak Abdirahman Aden,2019-07-02,shot,gun,23,M,O,Eagan,MN,False,other,Foot,True
 4839,TK TK,2019-07-02,shot,gun,,M,,Albuquerque,NM,False,attack,Not fleeing,False
 4841,Isaiah Robinson,2019-07-02,shot,gun,39,M,B,Elyria,OH,False,attack,Car,False
+4979,Li Xi Wang,2019-07-03,shot,unarmed,49,M,A,Chino,CA,False,other,Not fleeing,True
 4843,Mark A. Naugle,2019-07-03,shot,hammer,53,M,W,Salem,IN,False,other,Not fleeing,False
 4850,Stonechild Chiefstick,2019-07-03,shot,screwdriver,39,M,N,Poulsbo,WA,True,other,Not fleeing,False
 4855,Jonathan Pingel,2019-07-03,shot,knife,26,M,W,West Des Moines,IA,True,other,Not fleeing,False
@@ -4513,6 +4514,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4963,Schaston Theodore Lamarr Hodge,2019-08-17,shot,gun,27,M,,Dallas,TX,False,attack,Car,True
 4960,TK TK,2019-08-18,shot,gun,,M,,Los Angeles,CA,False,attack,Foot,True
 4971,Jared R. Nelson,2019-08-18,shot,sharp object,38,M,,Caledonia,WI,False,attack,Not fleeing,False
-4957,TK TK,2019-08-19,shot,gun,,M,,Las Vegas,NV,False,attack,Car,False
+4957,Michael Lopez,2019-08-19,shot,gun,69,M,,Las Vegas,NV,False,attack,Car,False
 4968,TK TK,2019-08-19,shot,gun,,M,,Los Angeles,CA,False,other,Foot,False
 4970,TK TK,2019-08-19,shot,vehicle,,M,,Fullerton,CA,False,attack,Car,True
+4976,Amari Malone,2019-08-21,shot,gun,18,M,B,Fort Worth,TX,False,attack,Foot,True
+4978,James Crowe,2019-08-21,shot,undetermined,27,M,W,Nicholasville,KY,False,undetermined,Not fleeing,False
+4972,TK TK,2019-08-22,shot,gun,,M,,Albuquerque,NM,False,attack,Not fleeing,False
+4973,TK TK,2019-08-22,shot,undetermined,,M,,Westminster,CA,False,other,Car,False
+4974,Michael Tuck,2019-08-22,shot,Taser,29,M,,Dayton,OH,False,attack,Foot,False
+4975,Riley Eugene Peay,2019-08-22,shot,unarmed,39,M,,Glennville,GA,False,attack,Not fleeing,False
+4980,Chad Michael Breinholt,2019-08-23,shot,unarmed,31,M,,West Valley City,UT,False,other,Not fleeing,True
+4977,Dennis Carolino,2019-08-24,shot,shovel,52,M,,El Cerrito,CA,True,attack,Not fleeing,False
