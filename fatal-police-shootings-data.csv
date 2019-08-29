@@ -4485,7 +4485,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4947,Derrick Davidson,2019-08-05,shot,undetermined,56,M,,Lowell,AR,True,undetermined,Not fleeing,False
 4953,Kaizen Crossen,2019-08-05,shot,gun,39,M,B,Irvington,NJ,False,attack,Not fleeing,False
 4954,William Biggs,2019-08-05,shot,gun,43,M,,Pocahontas County,WV,False,attack,Car,False
-4955,Allan George,2019-08-05,shot,gun,57,M,,Rifle,CO,False,other,Not fleeing,False
+4955,Allan George,2019-08-05,shot,gun,57,M,W,Rifle,CO,True,other,Foot,False
 4936,Donald Babbit,2019-08-06,shot,gun,49,M,W,Shaler Township,PA,False,attack,Not fleeing,False
 4928,Detravian Allison,2019-08-07,shot,gun,18,M,,Longview,TX,False,attack,Not fleeing,False
 4930,Toussaint Diamon Sims,2019-08-08,shot,gun,27,M,B,Moss Point,MS,False,attack,Foot,True
@@ -4506,6 +4506,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4943,Charles Roy Pearson,2019-08-13,shot,gun,51,M,B,Kansas City,KS,False,attack,Not fleeing,False
 4983,Cole Steele Jessup,2019-08-13,shot,vehicle,20,M,,Ramseur,NC,False,attack,Car,False
 4946,Thomas Michael Reynolds,2019-08-14,shot,gun,37,M,,Belton,SC,False,other,Not fleeing,False
+4985,William Lloyd Jones,2019-08-14,shot,gun,49,M,,Formosa,AR,False,attack,Not fleeing,False
 4966,Jamie Fernandez,2019-08-15,shot,gun,31,F,,Denver,CO,False,attack,Foot,False
 4964,Jovany Mercado-Bedolla,2019-08-16,shot,knife,26,M,H,Ogden,UT,False,attack,Not fleeing,False
 4967,TK TK,2019-08-16,shot,gun,,M,,Spokane Valley,WA,False,attack,Car,False
@@ -4526,5 +4527,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4974,Michael Tuck,2019-08-22,shot,Taser,29,M,,Dayton,OH,False,attack,Foot,False
 4975,Riley Eugene Peay,2019-08-22,shot,unarmed,39,M,,Glennville,GA,False,attack,Not fleeing,False
 4980,Chad Michael Breinholt,2019-08-23,shot,unarmed,31,M,,West Valley City,UT,False,other,Not fleeing,True
-4977,Dennis Carolino,2019-08-24,shot,shovel,52,M,,El Cerrito,CA,True,attack,Not fleeing,False
+4977,Dennis Carolino,2019-08-24,shot,shovel,52,M,H,El Cerrito,CA,True,attack,Not fleeing,False
 4981,Channara Tom Pheap,2019-08-26,shot,unarmed,33,M,,Knoxville,TN,False,attack,Car,False
+4988,TK TK,2019-08-26,shot,sword,,M,,Anchorage,AK,True,attack,Foot,False
+4986,Raymond Lewis Williams,2019-08-27,shot,gun,37,M,,Helena,AR,False,undetermined,,False
+4987,Bobby Ray Moore,2019-08-27,shot,gun,67,M,,Stockton,CA,False,attack,Not fleeing,False
+4989,Wallace Wilder,2019-08-28,shot,knife,62,M,B,Gordo,AL,True,other,,False
+4990,TK TK,2019-08-28,shot,gun,,M,,Baltimore,MD,False,attack,Car,False
+4991,Jeremy Connolly,2019-08-28,shot,knife,28,M,,Saina,KS,False,other,Not fleeing,False
