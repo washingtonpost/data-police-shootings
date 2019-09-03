@@ -4521,17 +4521,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4970,TK TK,2019-08-19,shot,vehicle,,M,,Fullerton,CA,False,attack,Car,True
 4976,Amari Malone,2019-08-21,shot,gun,18,M,B,Fort Worth,TX,False,attack,Foot,True
 4978,James Crowe,2019-08-21,shot,undetermined,27,M,W,Nicholasville,KY,False,undetermined,Not fleeing,False
-4982,TK TK,2019-08-21,shot,undetermined,50,M,,Stanton,CA,False,undetermined,,False
+4982,TK TK,2019-08-21,shot,undetermined,50,M,H,Stanton,CA,False,undetermined,,False
 4972,TK TK,2019-08-22,shot,gun,,M,,Albuquerque,NM,False,attack,Not fleeing,False
 4973,TK TK,2019-08-22,shot,undetermined,,M,,Westminster,CA,False,other,Car,False
 4974,Michael Tuck,2019-08-22,shot,Taser,29,M,,Dayton,OH,False,attack,Foot,False
 4975,Riley Eugene Peay,2019-08-22,shot,unarmed,39,M,,Glennville,GA,False,attack,Not fleeing,False
 4980,Chad Michael Breinholt,2019-08-23,shot,unarmed,31,M,,West Valley City,UT,False,other,Not fleeing,True
 4977,Dennis Carolino,2019-08-24,shot,shovel,52,M,H,El Cerrito,CA,True,attack,Not fleeing,False
-4981,Channara Tom Pheap,2019-08-26,shot,unarmed,33,M,,Knoxville,TN,False,attack,Car,False
-4988,TK TK,2019-08-26,shot,sword,,M,,Anchorage,AK,True,attack,Foot,False
-4986,Raymond Lewis Williams,2019-08-27,shot,gun,37,M,,Helena,AR,False,undetermined,,False
+4981,Channara Tom Pheap,2019-08-26,shot,unarmed,33,M,,Knoxville,TN,False,attack,Not fleeing,False
+4988,TK TK,2019-08-26,shot,gun,,M,,Anchorage,AK,True,attack,Not fleeing,False
+4986,Raymond Lewis Williams,2019-08-27,shot,gun,37,M,,Helena,AR,False,attack,,False
 4987,Bobby Ray Moore,2019-08-27,shot,gun,67,M,,Stockton,CA,False,attack,Not fleeing,False
 4989,Wallace Wilder,2019-08-28,shot,knife,62,M,B,Gordo,AL,True,other,,False
-4990,TK TK,2019-08-28,shot,gun,,M,,Baltimore,MD,False,attack,Car,False
-4991,Jeremy Connolly,2019-08-28,shot,knife,28,M,,Saina,KS,False,other,Not fleeing,False
+4990,Tyrone Domingo Banks,2019-08-28,shot,gun and car,30,M,B,Baltimore,MD,False,attack,Car,False
+4991,Jeremy Connolly,2019-08-28,shot,knife,28,M,,Salina,KS,False,other,Not fleeing,False
+4992,TK TK,2019-08-30,shot,gun,,M,,Jamaica,NY,False,attack,Not fleeing,False
+4993,Rene Enrique Ruiz,2019-08-30,shot,gun and car,51,M,H,Tolleson,AZ,False,attack,Other,False
