@@ -4537,3 +4537,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4991,Jeremy Connolly,2019-08-28,shot,knife,28,M,,Salina,KS,False,other,Not fleeing,False
 4992,TK TK,2019-08-30,shot,gun,,M,,Jamaica,NY,False,attack,Not fleeing,False
 4993,Rene Enrique Ruiz,2019-08-30,shot,gun and car,51,M,H,Tolleson,AZ,False,attack,Other,False
+4999,TK TK,2019-08-30,shot,gun,,M,,New York,NY,False,attack,Foot,False
+5002,Rene Enrique Ruiz,2019-08-30,shot,gun and vehicle,51,M,,Tolleson,AZ,False,attack,Other,False
+5003,Ricardo Hylton,2019-08-30,shot,gun,35,M,,Wilmington,DE,False,attack,Not fleeing,False
+4994,Terry Tillman,2019-08-31,shot,gun,23,M,B,St. Louis,MO,False,other,Foot,False
+4997,TK TK,2019-08-31,shot,gun,,M,,Wake County,NC,False,attack,Foot,False
+4998,Kobe Heisler,2019-08-31,shot,hammer,23,M,,Brooklyn Center,MN,False,other,Not fleeing,True
+5001,Shawn Fondren,2019-08-31,shot,vehicle,47,M,,Florence,MS,False,other,Car,False
+4995,Robert Desjarlais,2019-09-01,shot,vehicle,49,M,W,Sand Springs,OK,False,attack,Car,False
+4996,Sidney J. Holst,2019-09-01,shot,gun,49,M,W,Caldwell,ID,False,attack,Not fleeing,False
+5000,TK TK,2019-09-02,shot,gun,,M,,New York,NY,False,attack,Foot,False
