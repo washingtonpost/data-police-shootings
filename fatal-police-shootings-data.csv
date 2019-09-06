@@ -4289,6 +4289,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4733,Elizabeth Harris,2019-05-16,shot,gun,58,F,W,New Boston,TX,True,attack,Not fleeing,False
 4730,Luis Lomante,2019-05-17,shot,knife,39,M,H,Davie,FL,False,other,Not fleeing,False
 4732,"Donald Davis, Jr.",2019-05-17,shot,gun,40,M,B,New Orleans,LA,False,attack,,True
+5007,Daniel Warren,2019-05-17,shot,gun,36,M,B,Pasadena,CA,False,attack,Not fleeing,True
 4728,Dion Grey Hat,2019-05-18,shot,undetermined,27,M,N,Tonalea,AZ,False,undetermined,,False
 4731,Andrew Giovanni Meza,2019-05-18,shot,knife,20,M,H,Garden Grove,CA,True,attack,Not fleeing,False
 4725,Robert Rabago,2019-05-19,shot,gun,17,M,H,Phoenix,AZ,False,attack,Foot,False
@@ -4508,7 +4509,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4946,Thomas Michael Reynolds,2019-08-14,shot,gun,37,M,,Belton,SC,False,other,Not fleeing,False
 4985,William Lloyd Jones,2019-08-14,shot,gun,49,M,,Formosa,AR,False,attack,Not fleeing,False
 4966,Jamie Fernandez,2019-08-15,shot,gun,31,F,,Denver,CO,False,attack,Foot,False
-4964,Jovany Mercado-Bedolla,2019-08-16,shot,knife,26,M,H,Ogden,UT,False,attack,Not fleeing,False
+4964,Jovany Mercado-Bedolla,2019-08-16,shot,knife,26,M,H,Ogden,UT,False,attack,Not fleeing,True
 4967,TK TK,2019-08-16,shot,gun,,M,,Spokane Valley,WA,False,attack,Car,False
 4956,Rashad Cunningham,2019-08-17,shot,gun,25,M,B,Gary,IN,False,undetermined,Not fleeing,False
 4959,Uzzle Jerome,2019-08-17,shot,gun,,M,,Newport News,VA,False,attack,Car,False
@@ -4544,6 +4545,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4997,TK TK,2019-08-31,shot,gun,,M,,Wake County,NC,False,attack,Foot,False
 4998,Kobe Heisler,2019-08-31,shot,hammer,23,M,,Brooklyn Center,MN,False,other,Not fleeing,True
 5001,Shawn Fondren,2019-08-31,shot,vehicle,47,M,,Florence,MS,False,other,Car,False
+5006,Seth Ator,2019-08-31,shot,gun,36,M,W,Odessa,TX,True,attack,Car,False
 4995,Robert Desjarlais,2019-09-01,shot,vehicle,49,M,W,Sand Springs,OK,False,attack,Car,False
 4996,Sidney J. Holst,2019-09-01,shot,gun,49,M,W,Caldwell,ID,False,attack,Not fleeing,False
 5000,TK TK,2019-09-02,shot,gun,,M,,New York,NY,False,attack,Foot,False
+5005,Steven Cole Gill,2019-09-02,shot,undetermined,35,M,,Missoula,MT,False,undetermined,,False
+5004,Attillio Gilmartin,2019-09-03,shot,gun,30,M,W,Bluff City,TN,False,attack,Car,False
+5009,Fares J. Al-Samno,2019-09-04,shot,knife,29,M,,Couer d'Alene,ID,False,attack,Not fleeing,False
+5010,TK TK,2019-09-04,shot,knife,62,M,,Victorville,CA,True,attack,Not fleeing,False
+5008,Cortez Shepherd,2019-09-05,shot,gun,28,M,B,St. Louis,MO,False,undetermined,Not fleeing,False
+5011,John Carras,2019-09-05,shot,undetermined,,M,,East Hartford,CT,False,attack,Not fleeing,False
+5012,Sam Burt,2019-09-05,shot,gun,,M,,LaGrange,GA,False,attack,Not fleeing,False
