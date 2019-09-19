@@ -4546,6 +4546,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4998,Kobe Heisler,2019-08-31,shot,hammer,23,M,,Brooklyn Center,MN,False,other,Not fleeing,True
 5001,Shawn Fondren,2019-08-31,shot,vehicle,47,M,,Florence,MS,False,other,Car,False
 5006,Seth Aaron Ator,2019-08-31,shot,gun,36,M,W,Odessa,TX,True,attack,Car,False
+5031,Juan Carlos Macias,2019-08-31,shot,gun,37,M,H,Denver,CO,False,attack,Not fleeing,False
 4995,Robert Desjarlais,2019-09-01,shot,vehicle,49,M,W,Sand Springs,OK,False,attack,Car,True
 4996,Sidney J. Holst,2019-09-01,shot,gun,49,M,W,Caldwell,ID,False,attack,Not fleeing,False
 5000,TK TK,2019-09-02,shot,gun,,M,,New York,NY,False,attack,Foot,False
@@ -4570,3 +4571,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5022,Bobby Ray Duckworth,2019-09-10,shot,undetermined,26,M,,Wellington,UT,True,undetermined,Not fleeing,True
 5021,Caleb Daniel Peterson,2019-09-11,shot,gun,20,M,W,Burlington,IA,False,attack,Foot,False
 5026,Tasjon Tyreek Osbourne,2019-09-11,shot,undetermined,18,M,B,Columbus,OH,False,undetermined,,False
+5028,TK TK,2019-09-12,shot,gun,,M,B,Houston,TX,False,attack,Foot,False
+5029,Allen Cates,2019-09-12,shot,undetermined,29,M,,Independence,MO,False,attack,,False
+5030,Alvaro Venegas,2019-09-12,shot,piece of wood,35,M,,Santa Clarita,CA,False,attack,Not fleeing,False
+5033,Robert Domine,2019-09-13,shot,gun,77,M,W,Loyal,WI,False,attack,Not fleeing,False
+5039,Nicholas Walker,2019-09-14,shot,toy weapon,31,M,,Arlington,TX,False,attack,Not fleeing,False
+5042,Melvin Watkins,2019-09-14,shot,unarmed,54,M,,Baton Rouge,LA,False,undetermined,Not fleeing,False
+5036,Brian Dryer,2019-09-15,shot,knife,28,M,,Oklahoma City,OK,True,attack,Not fleeing,False
+5037,Ronald Davis,2019-09-15,shot,knife,31,M,B,St. Paul,MN,False,attack,Not fleeing,False
+5040,TK TK,2019-09-15,shot,gun,,M,,Katy,TX,False,attack,Foot,False
+5035,Eric Carter,2019-09-16,shot,gun,53,M,,Washington,DC,False,attack,Not fleeing,False
+5038,Jerry Michael Gibble,2019-09-16,shot,gun,33,M,W,Elizabethon,TN,False,attack,Foot,False
+5041,TK TK,2019-09-16,shot,gun,,M,,Sanger,TX,False,attack,Foot,False
+5032,Gay Plack,2019-09-17,shot,hatchet,57,F,,Richmond,VA,True,attack,Not fleeing,False
+5034,TK TK,2019-09-17,shot,vehicle,,M,,Milton,FL,False,attack,Car,False
