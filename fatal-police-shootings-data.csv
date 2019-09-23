@@ -4573,8 +4573,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5026,Tasjon Tyreek Osbourne,2019-09-11,shot,undetermined,18,M,B,Columbus,OH,False,undetermined,,False
 5028,TK TK,2019-09-12,shot,gun,,M,B,Houston,TX,False,attack,Foot,False
 5029,Allen Cates,2019-09-12,shot,undetermined,29,M,,Independence,MO,False,attack,,False
-5030,Alvaro Venegas,2019-09-12,shot,piece of wood,35,M,,Santa Clarita,CA,False,attack,Not fleeing,False
-5033,Robert Domine,2019-09-13,shot,gun,77,M,W,Loyal,WI,False,attack,Not fleeing,False
+5030,Alvaro Duran Venegas,2019-09-12,shot,piece of wood,35,M,,Santa Clarita,CA,False,attack,Not fleeing,False
+5033,Robert E. Domine,2019-09-13,shot,gun,77,M,W,Loyal,WI,False,attack,Not fleeing,False
 5039,Nicholas Walker,2019-09-14,shot,toy weapon,31,M,,Arlington,TX,False,attack,Not fleeing,False
 5042,Melvin Watkins,2019-09-14,shot,unarmed,54,M,,Baton Rouge,LA,False,undetermined,Not fleeing,False
 5036,Brian Dryer,2019-09-15,shot,knife,28,M,,Oklahoma City,OK,True,attack,Not fleeing,False
@@ -4585,3 +4585,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5041,TK TK,2019-09-16,shot,gun,,M,,Sanger,TX,False,attack,Foot,False
 5032,Gay Plack,2019-09-17,shot,hatchet,57,F,,Richmond,VA,True,attack,Not fleeing,False
 5034,TK TK,2019-09-17,shot,vehicle,,M,,Milton,FL,False,attack,Car,False
+5043,Scott Gabriel Spangler,2019-09-18,shot,undetermined,43,M,,Salem,OR,False,attack,Not fleeing,False
+5045,John Emory Sawyer III,2019-09-19,shot,unknown weapon,74,M,,Soddy Daisy,TN,False,other,Not fleeing,False
+5044,TK TK,2019-09-20,shot,gun,,M,,Long Beach,CA,False,attack,Not fleeing,False
