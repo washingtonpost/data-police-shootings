@@ -4578,18 +4578,26 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5039,Nicholas Walker,2019-09-14,shot,toy weapon,31,M,,Arlington,TX,False,attack,Not fleeing,False
 5042,Melvin Watkins,2019-09-14,shot,unarmed,54,M,,Baton Rouge,LA,False,undetermined,Not fleeing,False
 5036,Brian Dryer,2019-09-15,shot,knife,28,M,,Oklahoma City,OK,True,attack,Not fleeing,False
-5037,Ronald Davis,2019-09-15,shot,knife,31,M,B,St. Paul,MN,False,attack,Not fleeing,False
+5037,Ronald Davis,2019-09-15,shot,knife,31,M,B,St. Paul,MN,False,attack,Not fleeing,True
 5040,TK TK,2019-09-15,shot,gun,,M,,Katy,TX,False,attack,Foot,False
 5035,Eric Carter,2019-09-16,shot,gun,53,M,B,Washington,DC,False,attack,Not fleeing,False
 5038,Jeffrey Michael Gibble,2019-09-16,shot,gun,33,M,W,Elizabethon,TN,False,attack,Foot,False
-5041,TK TK,2019-09-16,shot,gun,,M,,Sanger,TX,False,attack,Foot,False
+5041,Kristopher Adams,2019-09-16,shot,gun,37,M,,Sanger,TX,False,attack,Foot,False
 5032,Gay Ellen Plack,2019-09-17,shot,hatchet,57,F,W,Richmond,VA,True,attack,Not fleeing,True
 5034,TK TK,2019-09-17,shot,vehicle,,M,,Milton,FL,False,attack,Car,False
 5043,Scott Gabriel Spangler,2019-09-18,shot,undetermined,43,M,,Salem,OR,False,attack,Not fleeing,False
 5045,John Emory Sawyer,2019-09-19,shot,unknown weapon,74,M,,Soddy Daisy,TN,True,other,Not fleeing,False
 5044,Jordan Michael Griffin,2019-09-20,shot,pellet gun,18,M,,Long Beach,CA,False,attack,Not fleeing,False
-5049,TK TK,2019-09-21,shot,undetermined,29,M,,Ada,OK,False,attack,Not fleeing,False
+5058,Adam Paul English,2019-09-20,shot,gun,21,M,,Gainesville,GA,False,attack,Not fleeing,True
+5049,Jeffrey Peterson,2019-09-21,shot,undetermined,29,M,,Ada,OK,False,attack,Not fleeing,False
 5050,TK TK,2019-09-22,shot,gun,74,M,W,Austin,TX,False,attack,Not fleeing,False
 5046,TK TK,2019-09-23,shot,gun,,M,H,Los Angeles,CA,False,other,,False
 5047,Jeffery Tyler Aycock,2019-09-23,shot,gun,28,M,W,Floyd County,GA,False,attack,Foot,False
 5048,Charles Nation,2019-09-23,shot,unknown weapon,31,M,,Lowell,AR,False,other,Not fleeing,False
+5051,Jarod Lee Smith,2019-09-24,shot,gun,41,M,,Huntington,WV,False,attack,Not fleeing,False
+5053,Daryl Strickland,2019-09-25,shot,gun,64,M,,Hartsville,SC,False,attack,Not fleeing,False
+5052,Leonard Shand,2019-09-26,shot,knife,49,M,B,Hyattsville,MD,False,attack,Not fleeing,False
+5054,TK TK,2019-09-26,shot,gun,,M,,Lexington County,SC,True,attack,Other,False
+5055,TK TK,2019-09-26,shot,vehicle,,M,,La Habra,CA,False,attack,Car,False
+5057,TK TK,2019-09-26,shot,gun,,M,,Dallas,TX,False,attack,Not fleeing,False
+5059,Haywood Cannon,2019-09-26,shot,gun,67,M,,Jacksonville,NC,False,attack,Not fleeing,False
