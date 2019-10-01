@@ -4597,17 +4597,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5048,Charles Nation,2019-09-23,shot,unknown weapon,31,M,,Lowell,AR,False,other,Not fleeing,False
 5051,Jarod Lee Smith,2019-09-24,shot,gun,41,M,,Huntington,WV,False,attack,Not fleeing,False
 5068,Haywood Cannon,2019-09-24,shot,gun,67,M,,Richlands,NC,False,attack,Car,False
-5069,Michael McCrary,2019-09-24,shot,knife,63,M,,Sanford,NC,False,other,Foot,False
+5069,Ronald Michael McCrary,2019-09-24,shot,knife,63,M,,Sanford,NC,False,other,,False
 5053,Daryl Strickland,2019-09-25,shot,gun,64,M,,Hartsville,SC,False,attack,Not fleeing,False
 5067,Kevin Dudenhefer,2019-09-25,shot and Tasered,gun,32,M,W,Lacombe,LA,True,attack,Not fleeing,False
 5052,Leonard Shand,2019-09-26,shot,knife,49,M,B,Hyattsville,MD,False,attack,Not fleeing,False
-5054,TK TK,2019-09-26,shot,gun,,M,,Lexington County,SC,True,attack,Other,False
+5054,Chad Willis Huggins,2019-09-26,shot,gun,28,M,W,Lexington County,SC,False,attack,Other,False
 5055,TK TK,2019-09-26,shot,vehicle,,M,,La Habra,CA,False,attack,Car,False
 5057,TK TK,2019-09-26,shot,gun,,M,,Dallas,TX,False,attack,Not fleeing,False
 5059,Haywood Cannon,2019-09-26,shot,gun,67,M,,Jacksonville,NC,False,attack,Not fleeing,False
 5063,Jamaal Ramone Taylor,2019-09-28,shot,knife,31,M,,Baltimore,MD,False,attack,Foot,False
 5065,TK TK,2019-09-28,shot,gun,,M,,Boston,MA,False,attack,Foot,False
-5060,TK TK,2019-09-29,shot and Tasered,unarmed,,M,,Longview,TX,False,attack,Foot,False
+5060,Dewayne Morgan,2019-09-29,shot and Tasered,,37,M,W,Longview,TX,False,attack,Foot,False
 5061,TK TK,2019-09-29,shot,undetermined,,M,,Monument,CO,False,attack,Not fleeing,False
-5062,Richard Cabrera,2019-09-29,shot,gun,38,M,H,Miami,FL,False,attack,,False
-5064,Antonio Williams,2019-09-29,shot,undetermined,27,M,,New York,NY,False,attack,Not fleeing,False
+5062,Richard Cabrera,2019-09-29,shot,gun,38,M,,Miami,FL,False,attack,,False
+5064,Antonio Williams,2019-09-29,shot,gun,27,M,,New York,NY,False,attack,Not fleeing,False
