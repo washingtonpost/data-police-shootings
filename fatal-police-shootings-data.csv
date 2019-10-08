@@ -4611,3 +4611,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5061,TK TK,2019-09-29,shot,undetermined,,M,,Monument,CO,False,attack,Not fleeing,False
 5062,Richard Cabrera,2019-09-29,shot,gun,38,M,,Miami,FL,False,attack,,False
 5064,Antonio Williams,2019-09-29,shot,gun,27,M,,New York,NY,False,attack,Not fleeing,False
+5070,Angela Perkins,2019-09-29,shot,vehicle,38,F,,Cotter,MO,False,attack,Car,False
+5071,TK TK,2019-09-30,shot,vehicle,,M,,Yucca Valley,CA,False,attack,Car,False
+5072,Jack Thomas Naylor,2019-10-01,shot,gun,50,M,,Drennen,WV,False,attack,Not fleeing,False
+5073,TK TK,2019-10-01,shot,gun,,M,,Elkton,KY,False,attack,Not fleeing,False
+5074,Joseph Jesk,2019-10-01,shot,gun,32,M,W,Bridgeview,IL,False,attack,Foot,False
+5075,Ronald Audette,2019-10-03,shot,gun,61,M,,Grovetown,GA,True,attack,Not fleeing,False
+5079,Bruce William Clark,2019-10-04,shot,wasp spray,37,M,W,Jacksonville,FL,True,attack,Not fleeing,False
+5080,TK TK,2019-10-05,shot,undetermined,33,M,,Carrollton,TX,False,attack,Not fleeing,False
+5076,TK TK,2019-10-06,shot,gun,,M,,Herald,CA,False,other,Not fleeing,False
+5077,Bradley Arning,2019-10-06,shot,gun,42,M,,Maryland Heights,MO,False,attack,Not fleeing,False
+5078,Tonito Vasquez,2019-10-06,shot,knife,37,M,H,Los Angeles,CA,True,other,Not fleeing,False
