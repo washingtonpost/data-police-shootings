@@ -4645,8 +4645,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5099,Christopher Whitfield,2019-10-14,shot,undetermined,31,M,B,Ethel,LA,True,undetermined,Foot,False
 5101,Victor Jarvis,2019-10-14,shot,gun,61,M,,Highpoint,NC,False,attack,Not fleeing,False
 5103,Bonny Thomas,2019-10-14,shot,knife,54,F,,Athens,GA,False,attack,Not fleeing,False
-5102,"Dennis Patrick, Jr.",2019-10-15,shot,gun,,M,,Jamestown,NC,True,attack,Not fleeing,False
-5105,Ron Ely,2019-10-15,shot,undetermined,,M,W,Hope Ranch,CA,False,other,,False
+5102,Dennis Patrick,2019-10-15,shot,gun,,M,,Jamestown,NC,True,attack,Not fleeing,False
+5105,Cameron Ely,2019-10-15,shot,undetermined,30,M,W,Hope Ranch,CA,False,other,,False
 5106,Nasheem Prioleau,2019-10-15,shot,gun,30,M,,New York,NY,False,attack,Not fleeing,False
-5107,Chase Austin,2019-10-16,shot,gun,28,M,W,Roanoke,VA,False,attack,Other,False
-5108,TK TK,2019-10-16,shot,gun,,M,,Sherman Oaks,CA,False,other,Not fleeing,False
+5107,Chase Andrew Austin,2019-10-16,shot,gun,28,M,W,Roanoke,VA,False,attack,Other,False
+5108,TK TK,2019-10-16,shot,gun,,M,B,Sherman Oaks,CA,False,other,Not fleeing,False
