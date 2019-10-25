@@ -4648,5 +4648,22 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5102,Dennis Patrick,2019-10-15,shot,gun,,M,,Jamestown,NC,True,attack,Not fleeing,False
 5105,Cameron Ely,2019-10-15,shot,undetermined,30,M,W,Hope Ranch,CA,False,other,,False
 5106,Nasheem Prioleau,2019-10-15,shot,gun,30,M,,New York,NY,False,attack,Not fleeing,False
+5110,David James Bamber,2019-10-15,shot,gun,28,M,W,Wendell,ID,False,other,Car,False
 5107,Chase Andrew Austin,2019-10-16,shot,gun,28,M,W,Roanoke,VA,False,attack,Other,False
 5108,TK TK,2019-10-16,shot,gun,,M,B,Sherman Oaks,CA,False,other,Not fleeing,False
+5109,Allan Feliz,2019-10-17,shot,vehicle,31,M,,New York,NY,False,attack,Not fleeing,False
+5111,TK TK,2019-10-17,shot,undetermined,,M,,Oakridge,OR,False,undetermined,,False
+5113,Christopher Dequan Crosby,2019-10-17,shot,gun,34,M,,Warren,AR,False,attack,Car,False
+5112,David Sanders,2019-10-18,shot,vehicle,46,M,,St. Joseph County,MI,False,attack,Not fleeing,False
+5115,TK TK,2019-10-18,shot,undetermined,,M,,Idaho Falls,ID,False,undetermined,Not fleeing,False
+5118,Charles Tsakiris,2019-10-18,shot,knife,38,M,,Farmingdale,NJ,False,attack,Not fleeing,False
+5116,TK TK,2019-10-20,shot,gun,,M,,St. Louis,MO,False,attack,Other,False
+5117,TK TK,2019-10-20,shot,gun,,F,,Boise,ID,True,attack,Not fleeing,False
+5120,Jason Livegood,2019-10-21,shot,gun,39,M,,Hillsboro,OR,False,attack,Not fleeing,False
+5114,Joseph Bernhard-Williams Kisar,2019-10-21,shot,gun,21,M,W,Trotwood,OH,False,attack,Car,False
+5122,Jordan Waldrop,2019-10-23,shot,undetermined,34,M,W,Sweetwater,TX,False,undetermined,Not fleeing,False
+5125,TK TK,2019-10-23,shot,vehicle,,,,El Paso,TX,False,attack,Car,False
+5119,Michael Babcock,2019-10-24,shot,gun,53,M,,Greenville,NC,False,other,Not fleeing,False
+5121,Anthony Viadeo,2019-10-25,shot,toy weapon,31,M,,Lake Lanier,GA,False,attack,Car,False
+5123,Shannon Rupert,2019-10-25,shot,scissors,,F,,Bossier City,LA,False,attack,Not fleeing,False
+5124,Anthony John Michael Zappier,2019-10-25,shot,vehicle,19,M,,Morrisontown,TN,False,attack,Not fleeing,False
