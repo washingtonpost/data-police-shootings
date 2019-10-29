@@ -4663,7 +4663,26 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5114,Joseph Bernhard-Williams Kisar,2019-10-21,shot,gun,21,M,W,Trotwood,OH,False,attack,Car,False
 5122,Jordan Waldrop,2019-10-23,shot,undetermined,34,M,W,Sweetwater,TX,False,undetermined,Not fleeing,False
 5125,TK TK,2019-10-23,shot,vehicle,,,,El Paso,TX,False,attack,Car,False
+5138,David W. Shafer,2019-10-23,shot,gun,61,M,,Spokane,WA,True,attack,Not fleeing,False
+5139,Victor Hernandez,2019-10-23,shot,gun,29,M,,New York,NY,False,attack,Not fleeing,False
+5140,Vincent Michael Smith,2019-10-23,shot,gun,29,M,,Huntington,IN,True,attack,Foot,False
+5141,TK TK,2019-10-23,shot,gun,,M,,Long Beach,CA,False,attack,Not fleeing,False
 5119,Michael Babcock,2019-10-24,shot,gun,53,M,,Greenville,NC,False,other,Not fleeing,False
 5121,Anthony Viadeo,2019-10-25,shot,toy weapon,31,M,,Lake Lanier,GA,False,attack,Car,False
 5123,Shannon Rupert,2019-10-25,shot,scissors,,F,,Bossier City,LA,False,attack,Not fleeing,False
 5124,Anthony John Michael Zappier,2019-10-25,shot,vehicle,19,M,,Morristown,TN,False,attack,Not fleeing,False
+5128,Clayton Andrews,2019-10-25,shot,gun,40,M,W,Kansas,OK,False,attack,Not fleeing,False
+5132,Kwesi Ashun,2019-10-25,shot,chair,,M,B,New York,NY,False,attack,Not fleeing,False
+5136,TK TK,2019-10-25,shot,gun,,M,,Albuquerque,NM,False,other,Car,False
+5137,TK TK,2019-10-25,shot,unknown weapon,,M,,Dalton,GA,False,other,Not fleeing,False
+5131,Nan Zhao,2019-10-26,shot,gun,45,M,A,Athens,GA,False,attack,Foot,False
+5133,TK TK,2019-10-26,shot,baseball bat,,M,,Imperial County,CA,False,other,Foot,False
+5134,Johnathan Wayne Slattery,2019-10-26,shot and Tasered,gun,27,M,,Walloon Lake,MI,True,attack,Not fleeing,False
+5126,TK TK,2019-10-27,shot,gun,63,M,W,Madison,WI,False,attack,Not fleeing,False
+5127,Dana Sherrod Fletcher,2019-10-27,shot and Tasered,gun,39,M,B,Madison,AL,False,attack,Not fleeing,False
+5129,Luis Arreguin-Lara,2019-10-27,shot,gun,50,M,H,Tulsa,OK,False,other,Not fleeing,False
+5130,TK TK,2019-10-27,shot,gun,,M,,Carmichael,CA,False,attack,Not fleeing,False
+5144,Arturo Moreno,2019-10-27,shot and Tasered,crowbar,42,M,H,Porterville,CA,True,attack,Not fleeing,False
+5135,TK TK,2019-10-28,shot,gun,,M,,Creek County,OK,True,attack,Car,False
+5143,Terry W. Chanley,2019-10-28,shot,gun,25,M,,Evansville,IN,False,other,Not fleeing,False
+5142,TK TK,2019-10-29,shot,gun,,M,,Dayton,OH,False,attack,Not fleeing,False
