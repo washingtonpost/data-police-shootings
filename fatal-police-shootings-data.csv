@@ -4688,7 +4688,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5146,John Feggins,2019-10-30,shot,gun,24,M,,Baltimore,MD,False,attack,Not fleeing,False
 5147,Michael Pinkerman II,2019-10-30,shot,gun,,M,W,Ona,WV,False,attack,Not fleeing,False
 5148,Billy Kongphouthakhoun,2019-10-30,shot,gun,24,M,A,Manning,CA,False,attack,Not fleeing,False
-5149,TK TK,2019-10-30,shot,knife,,M,,San Jose,CA,False,attack,Not fleeing,False
+5149,TK TK,2019-10-30,shot,knife,,M,,San Jose,CA,False,other,Not fleeing,False
 5162,Billy Kongphouthakhoun,2019-10-30,shot,gun,,M,A,Fresno,CA,False,other,Not fleeing,False
 5163,TK TK,2019-10-30,shot,ax,,M,,Lancaster,CA,False,other,Not fleeing,False
 5160,Danny James Hall,2019-10-31,shot,gun,34,M,,Bascom,FL,False,attack,Car,False
