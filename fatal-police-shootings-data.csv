@@ -4695,8 +4695,24 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5150,Benjamin Diaz,2019-11-01,shot,sharp object,22,M,H,Alamogordo,NM,False,attack,Car,False
 5158,TK TK,2019-11-01,shot,undetermined,,M,,Adams County,CO,False,undetermined,,False
 5159,Luis Morales-Camacho,2019-11-01,shot,undetermined,41,M,H,Orlando,FL,False,attack,Not fleeing,False
+5173,Luis Fino Nabarrette,2019-11-01,shot,gun,38,M,H,Odessa,TX,False,attack,Car,False
 5155,Michael Kifer,2019-11-02,shot and Tasered,sword,29,M,W,Vero Beach,FL,False,attack,Not fleeing,False
 5157,John Hale,2019-11-02,shot,undetermined,42,M,,Dexter,KY,False,attack,,False
 5153,TK TK,2019-11-03,shot,knife,56,M,,Parkland,WA,False,other,Not fleeing,False
 5154,Michael Austin,2019-11-03,shot,gun,32,M,B,Phoenix,AZ,False,attack,Not fleeing,False
 5151,TK TK,2019-11-04,shot,gun,,M,,Sunland Park,NM,False,attack,Foot,False
+5172,Matthew Rasmussen,2019-11-04,shot,sharp object,31,M,W,Glendale,AZ,True,attack,Not fleeing,False
+5174,Daniel M. Munoz,2019-11-04,shot,gun,21,M,H,Las Cruces,NM,False,attack,,False
+5175,TK TK,2019-11-04,shot,gun,,M,,Two Rivers,WI,False,other,Not fleeing,False
+5167,Maurice Brown,2019-11-05,shot,gun,48,M,,East Cleveland,OH,False,attack,Not fleeing,False
+5168,Jay P. Messer,2019-11-05,shot,gun,58,M,,Pettis County,MO,False,attack,Not fleeing,False
+5169,TK TK,2019-11-05,shot,gun,,M,,Leon,WI,False,undetermined,Not fleeing,False
+5171,Christopher Alan Noe,2019-11-05,shot and Tasered,knife,45,M,,Willis,TX,True,other,Car,False
+5164,Eddie Ray Maxwell,2019-11-06,shot,gun,37,M,,Tahlequah,OK,False,attack,Not fleeing,False
+5165,Corben Hunter Jones,2019-11-06,shot,undetermined,20,M,W,Henryetta,OK,False,undetermined,,False
+5166,TK TK,2019-11-06,shot,gun,,M,,San Antonio,TX,False,other,,False
+5170,TK TK,2019-11-06,shot,gun,,M,,Fayetteville,NC,False,attack,Not fleeing,False
+5176,TK TK,2019-11-07,shot,undetermined,,M,,Wadsworth,OH,False,undetermined,,False
+5177,TK TK,2019-11-07,shot,gun,,M,,Louisville,KY,False,attack,,False
+5178,Gerald Newton Allen,2019-11-07,shot,gun,66,M,,Conyers,GA,False,attack,Not fleeing,False
+5179,Christopher Mills,2019-11-07,shot,gun,37,M,,Ashtabula Township,OH,False,other,Not fleeing,False
