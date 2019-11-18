@@ -4644,7 +4644,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5092,TK TK,2019-10-14,shot,gun,,M,,Albuquerque,NM,False,attack,Not fleeing,False
 5099,Christopher Whitfield,2019-10-14,shot,undetermined,31,M,B,Ethel,LA,True,undetermined,Foot,False
 5101,Victor Jarvis,2019-10-14,shot,gun,61,M,B,High Point,NC,False,attack,Not fleeing,False
-5103,Bonny Thomas,2019-10-14,shot,knife,54,F,,Athens,GA,False,attack,Not fleeing,False
+5103,Bonny Thomas,2019-10-14,shot,knife,54,F,W,Athens,GA,False,attack,Not fleeing,True
 5102,Dennis Patrick,2019-10-15,shot,gun,,M,,Jamestown,NC,True,attack,Not fleeing,False
 5105,Cameron Ely,2019-10-15,shot,undetermined,30,M,W,Hope Ranch,CA,False,other,,False
 5106,Nasheem Prioleau,2019-10-15,shot,gun,30,M,,New York,NY,False,attack,Not fleeing,False
@@ -4675,30 +4675,31 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5132,Kwesi Ashun,2019-10-25,shot,chair,33,M,B,New York,NY,False,attack,Not fleeing,False
 5136,TK TK,2019-10-25,shot,gun,,M,,Albuquerque,NM,False,other,Car,False
 5137,TK TK,2019-10-25,shot,unknown weapon,,M,,Dalton,GA,False,other,Not fleeing,False
-5131,Nan Zhao,2019-10-26,shot,gun,45,M,A,Athens,GA,False,attack,Foot,False
+5131,Nan Zhao,2019-10-26,shot,gun,45,M,A,Athens,GA,False,attack,Foot,True
 5133,TK TK,2019-10-26,shot,baseball bat,,M,,Imperial County,CA,False,other,Foot,False
 5134,Johnathan Wayne Slattery,2019-10-26,shot and Tasered,gun,27,M,,Walloon Lake,MI,True,attack,Not fleeing,False
-5135,TK TK,2019-10-26,shot,gun,,M,,Creek County,OK,True,attack,Car,False
+5135,Clayton Andrews,2019-10-26,shot,gun,40,M,,Creek County,OK,True,attack,Car,False
 5126,Dean Thomas,2019-10-27,shot,gun,63,M,W,Madison,WI,False,attack,Not fleeing,False
 5127,Dana Sherrod Fletcher,2019-10-27,shot and Tasered,gun,39,M,B,Madison,AL,False,attack,Not fleeing,False
 5129,Luis Arreguin-Lara,2019-10-27,shot,gun,50,M,H,Tulsa,OK,False,attack,Not fleeing,False
-5130,TK TK,2019-10-27,shot,gun,,M,,Carmichael,CA,False,attack,Not fleeing,False
+5130,TK TK,2019-10-27,shot,gun,,M,B,Carmichael,CA,False,attack,Not fleeing,False
 5144,Arturo Moreno,2019-10-27,shot and Tasered,crowbar,42,M,H,Porterville,CA,True,attack,Not fleeing,False
 5143,Terry W. Chanley,2019-10-28,shot,hammer,25,M,W,Evansville,IN,False,attack,Not fleeing,True
 5146,John Feggins,2019-10-30,shot,gun,24,M,B,Baltimore,MD,False,attack,Not fleeing,False
 5147,Michael Pinkerman,2019-10-30,shot,gun,,M,W,Ona,WV,False,attack,Not fleeing,False
-5149,TK TK,2019-10-30,shot,knife,,M,,San Jose,CA,False,other,Not fleeing,False
+5149,Wilmer Spikes,2019-10-30,shot,knife,67,M,,San Jose,CA,False,other,Not fleeing,False
 5162,Billy Kongphouthakhoun,2019-10-30,shot,gun,,M,A,Fresno,CA,False,other,Not fleeing,False
 5163,TK TK,2019-10-30,shot,ax,,M,,Lancaster,CA,False,other,Not fleeing,False
 5160,Danny James Hall,2019-10-31,shot,gun,34,M,W,Bascom,FL,False,attack,Car,False
-5161,TK TK,2019-10-31,shot,toy weapon,,M,,San Jose,CA,False,attack,Not fleeing,False
+5161,Francis Calonge,2019-10-31,shot,toy weapon,33,M,,San Jose,CA,True,attack,Not fleeing,False
 5150,Benjamin Diaz,2019-11-01,shot,sharp object,22,M,H,Alamogordo,NM,False,attack,Car,False
 5158,TK TK,2019-11-01,shot,undetermined,,M,,Adams County,CO,False,undetermined,,False
 5159,Luis Morales-Camacho,2019-11-01,shot,undetermined,41,M,H,Orlando,FL,False,attack,Not fleeing,False
 5173,Luis Fino Nabarrette,2019-11-01,shot,gun,38,M,H,Odessa,TX,False,attack,Car,False
+5191,Benjamin Diaz,2019-11-01,shot,box cutter,22,M,H,Alamogordo,NM,False,attack,Not fleeing,False
 5155,Michael Kifer,2019-11-02,shot and Tasered,sword,29,M,W,Vero Beach,FL,False,attack,Not fleeing,False
 5157,John Hale,2019-11-02,shot,undetermined,42,M,W,Dexter,KY,False,attack,,False
-5153,TK TK,2019-11-03,shot,knife,56,M,,Parkland,WA,False,other,Not fleeing,False
+5153,Curtis French,2019-11-03,shot,knife,56,M,,Parkland,WA,False,other,Not fleeing,False
 5154,Michael Austin,2019-11-03,shot,gun,32,M,B,Phoenix,AZ,False,attack,Not fleeing,False
 5151,TK TK,2019-11-04,shot,gun,,M,,Sunland Park,NM,False,attack,Foot,False
 5172,Matthew Rasmussen,2019-11-04,shot,sharp object,31,M,W,Glendale,AZ,True,attack,Not fleeing,False
@@ -4706,13 +4707,30 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5175,TK TK,2019-11-04,shot,gun,,M,,Two Rivers,WI,False,other,Not fleeing,False
 5167,Maurice Brown,2019-11-05,shot,gun,48,M,B,East Cleveland,OH,False,attack,Not fleeing,True
 5168,Jay P. Messer,2019-11-05,shot,gun,58,M,,Pettis County,MO,False,attack,Not fleeing,False
-5169,TK TK,2019-11-05,shot,gun,,M,,Leon,WI,False,other,Not fleeing,False
+5169,Micheal Lee Nguyen,2019-11-05,shot,gun,32,M,,Leon,WI,False,other,Not fleeing,False
 5171,Christopher Alan Noe,2019-11-05,shot and Tasered,knife,45,M,,Willis,TX,False,other,Car,False
 5164,Eddie Ray Maxwell,2019-11-06,shot,gun,37,M,B,Tahlequah,OK,False,attack,Not fleeing,False
 5165,Corben Hunter Jones,2019-11-06,shot,undetermined,20,M,W,Henryetta,OK,False,undetermined,,False
-5166,TK TK,2019-11-06,shot,gun,,M,,San Antonio,TX,False,other,,False
+5166,Raul Casas Campo,2019-11-06,shot,gun,34,M,H,San Antonio,TX,False,other,,False
 5170,Treva Smutherman,2019-11-06,shot,gun,31,M,B,Fayetteville,NC,False,attack,Not fleeing,False
-5176,Guy Thomas Barnard,2019-11-07,shot,BB gun,26,M,,Wadsworth,OH,False,attack,,False
+5176,Guy Thomas Barnard,2019-11-07,shot,BB gun,26,M,W,Wadsworth,OH,False,attack,,False
 5177,TK TK,2019-11-07,shot,gun,,M,,Louisville,KY,False,attack,,False
 5178,Gerald Newton Allen,2019-11-07,shot,gun,66,M,,Conyers,GA,False,attack,Not fleeing,False
 5179,Christopher Mills,2019-11-07,shot,gun,37,M,,Ashtabula Township,OH,False,other,Not fleeing,False
+5185,Ray Correll,2019-11-08,shot,gun,38,M,,Lincolnton,NC,True,attack,Not fleeing,False
+5186,TK TK,2019-11-09,shot,gun,,M,,San Jose,CA,False,other,Not fleeing,False
+5187,Daniel Thomas Childers,2019-11-09,shot and Tasered,knife,28,M,,Union County,SC,False,other,Not fleeing,False
+5180,TK TK,2019-11-11,shot,gun,22,M,,Lakewood,CO,False,other,Foot,False
+5182,TK TK,2019-11-11,shot,gun,,F,,Loveland,CO,False,attack,Not fleeing,False
+5183,TK TK,2019-11-11,shot,gun,,M,,Cedar City,UT,False,attack,Not fleeing,False
+5184,Sidney Alexis Renew,2019-11-11,shot,vehicle,20,F,W,Lakeland,FL,False,attack,Not fleeing,False
+5181,Justin Anderson,2019-11-12,shot,gun,39,M,,Oklahoma City,OK,False,attack,,False
+5195,"Roy McAllister, Jr.",2019-11-13,shot,undetermined,,M,B,Wilson,NC,False,undetermined,Foot,False
+5197,Chris Ervie,2019-11-13,shot,knife,,M,,Mandarin,FL,True,undetermined,Not fleeing,False
+5190,Treon McCoy,2019-11-15,shot,gun,33,M,,Charlotte,NC,False,attack,Not fleeing,False
+5192,TK TK,2019-11-15,shot,gun,,M,,Westborough,MA,False,other,Not fleeing,False
+5193,Mark Sheppard,2019-11-15,shot,gun,27,M,,Cleveland,OH,False,other,Foot,False
+5188,TK TK,2019-11-16,shot,undetermined,,M,,Lake Elsinore,CA,False,other,Not fleeing,False
+5189,TK TK,2019-11-16,shot,gun,27,M,W,Mesa,AZ,False,attack,Not fleeing,False
+5196,Robert Sikon,2019-11-16,shot,unarmed,41,M,,Alliance,OH,False,attack,Foot,False
+5194,TK TK,2019-11-18,shot,gun,,M,,Franklin County,WA,False,attack,,False
