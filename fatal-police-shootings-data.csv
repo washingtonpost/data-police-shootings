@@ -4728,15 +4728,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5195,Roy McAllister,2019-11-13,shot,undetermined,27,M,B,Wilson,NC,False,undetermined,Foot,False
 5197,Chris Ervie,2019-11-13,shot,knife,,M,W,Mandarin,FL,True,undetermined,Not fleeing,True
 5203,TK TK,2019-11-13,shot,sword,,M,,Los Angeles,CA,False,other,Foot,False
-5204,TK TK,2019-11-14,shot,screwdriver,,M,,Beaumont,TX,False,other,Not fleeing,False
+5204,TK TK,2019-11-14,shot,screwdriver,,M,,Beaumont,TX,False,attack,Not fleeing,False
 5190,Treon McCoy,2019-11-15,shot,gun,33,M,,Charlotte,NC,False,attack,Not fleeing,False
 5192,TK TK,2019-11-15,shot,gun,,M,,Westborough,MA,False,other,Not fleeing,False
 5193,Mark Sheppard,2019-11-15,shot,gun,27,M,,Cleveland,OH,False,other,Foot,False
 5188,TK TK,2019-11-16,shot,undetermined,,M,,Lake Elsinore,CA,False,other,Not fleeing,False
 5189,Garrett Ryberg,2019-11-16,shot,gun,27,M,W,Mesa,AZ,False,attack,Not fleeing,False
 5196,Robert Sikon,2019-11-16,shot,unarmed,41,M,W,Alliance,OH,False,attack,Foot,False
-5194,TK TK,2019-11-18,shot,gun,,M,,Franklin County,WA,False,attack,,False
+5194,Dante Redmond Jones,2019-11-18,shot,gun,28,M,B,Franklin County,WA,False,attack,Car,False
 5201,TK TK,2019-11-18,shot,gun,,M,,Kansas City,MO,False,attack,,False
 5198,TK TK,2019-11-19,shot,gun,,M,,Horn Lake,MS,False,other,Not fleeing,False
-5199,TK TK,2019-11-19,shot,gun,,M,,Los Angeles,CA,False,attack,,False
+5199,TK TK,2019-11-19,shot,knife,,M,,Los Angeles,CA,False,other,,False
 5202,Jacob Cato,2019-11-19,shot,gun,34,M,,San Bernardino,CA,False,attack,Not fleeing,False
