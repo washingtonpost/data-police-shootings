@@ -4734,12 +4734,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5183,James Aubrey,2019-11-11,shot,gun,56,M,,Cedar City,UT,False,attack,Not fleeing,False
 5184,Sidney Alexis Renew,2019-11-11,shot,vehicle,20,F,W,Lakeland,FL,False,attack,Not fleeing,False
 5181,Justin Anderson,2019-11-12,shot,gun,39,M,,Oklahoma City,OK,False,attack,,False
-5213,Michael Kahalehoe,2019-11-12,shot,gun,30,M,O,Honolulu,HI,False,other,Not fleeing,False
+5213,Michael Kahalehoe,2019-11-12,shot,vehicle and gun,30,M,O,Honolulu,HI,False,other,Not fleeing,False
 5195,Roy McAllister,2019-11-13,shot,undetermined,27,M,B,Wilson,NC,False,undetermined,Foot,False
 5197,Chris Ervie,2019-11-13,shot,knife,,M,W,Mandarin,FL,True,undetermined,Not fleeing,True
 5203,Omar Enrique Garcia,2019-11-13,shot,sword,37,M,H,Los Angeles,CA,False,other,Foot,False
 5204,Kennith Waynon Hooker,2019-11-14,shot,screwdriver,52,M,W,Beaumont,TX,False,attack,Not fleeing,False
-5212,Michael Jolly,2019-11-14,shot,gun,35,M,W,Fox Crossing,WI,True,other,Not fleeing,False
+5212,Michael  A. Jolly,2019-11-14,shot,gun,35,M,,Fox Crossing,WI,True,other,Not fleeing,False
 5190,Treon McCoy,2019-11-15,shot,gun,33,M,,Charlotte,NC,False,attack,Not fleeing,False
 5192,TK TK,2019-11-15,shot,gun,,M,,Westborough,MA,False,other,Not fleeing,False
 5193,Mark Sheppard,2019-11-15,shot,gun,27,M,,Cleveland,OH,False,other,Foot,False
@@ -4755,10 +4755,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5226,Luis A. Cardona,2019-11-19,shot,gun,38,M,H,West Kewaunee,WI,False,attack,,False
 5206,Paul Cheek,2019-11-20,shot,knife,55,M,,Dahlonega,GA,False,other,Not fleeing,False
 5207,William Harris,2019-11-20,shot,gun,51,M,,Hampton,GA,False,attack,Not fleeing,False
-5208,Kenneth Simeus Jr.,2019-11-20,shot,gun,18,M,,Henderson,NV,False,undetermined,,False
-5224,Anthony Chilcott,2019-11-22,shot,vehicle,,M,W,Black Diamond,WA,False,attack,Not fleeing,False
-5225,Lance Edward Smith,2019-11-22,shot,gun,,M,,Elizabethtown,NC,False,attack,Not fleeing,False
+5208,Kenneth Simeus,2019-11-20,shot,gun,18,M,,Henderson,NV,False,attack,,False
+5224,Anthony Chilcott,2019-11-22,shot,vehicle,36,M,W,Black Diamond,WA,False,attack,Not fleeing,False
+5225,Lance Edward Smith,2019-11-22,shot,gun,37,M,B,Elizabethtown,NC,False,attack,Not fleeing,False
 5209,Ariane Lamont McCree,2019-11-23,shot,gun,28,M,,Chester,SC,False,attack,Foot,False
 5210,Estevon Cruz,2019-11-23,shot,toy weapon,24,M,,Pueblo,CO,False,attack,Not fleeing,False
-5211,Steven Saucier,2019-11-24,shot,gun,34,M,,Gaines Township,MI,False,attack,Not fleeing,False
-5223,TK TK,2019-11-25,shot,machete,,M,,Los Angeles,CA,False,other,Other,True
+5211,Steven Forrest Saucier,2019-11-24,shot,gun,34,M,,Gaines Township,MI,False,attack,Not fleeing,False
+5223,TK TK,2019-11-25,shot,vehicle and machete,,M,B,Los Angeles,CA,False,attack,Foot,True
