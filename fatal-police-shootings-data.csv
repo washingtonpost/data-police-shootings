@@ -4676,7 +4676,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5138,David W. Shafer,2019-10-23,shot,gun,61,M,,Spokane,WA,True,attack,Not fleeing,False
 5139,Victor Hernandez,2019-10-23,shot,gun,29,M,B,New York,NY,False,attack,Not fleeing,False
 5140,Vincent Michael Smith,2019-10-23,shot,gun,29,M,W,Huntington,IN,True,attack,Foot,False
-5141,Delfon Kinney,2019-10-23,shot,gun,44,M,B,Long Beach,CA,False,attack,Not fleeing,False
+5141,Delfon Kinney,2019-10-23,shot,gun,44,M,B,Long Beach,CA,False,attack,Not fleeing,True
 5119,Michael Babcock,2019-10-24,shot,gun,53,M,W,Greenville,NC,False,other,Not fleeing,False
 5121,Anthony Viadeo,2019-10-25,shot,toy weapon,31,M,,Lake Lanier,GA,False,attack,Car,False
 5123,Shannon Gail Rupert,2019-10-25,shot,scissors,45,F,W,Bossier City,LA,False,other,Not fleeing,False
@@ -4822,11 +4822,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5291,Dustin Spencer,2019-12-16,shot,gun,34,M,O,Kalihi,HI,False,attack,Foot,False
 5292,Jorge Serrano,2019-12-16,shot,gun,25,M,H,Los Angeles,CA,False,attack,Foot,False
 5296,Bernie Rascon,2019-12-16,shot,undetermined,28,M,H,San Bernardino,CA,False,undetermined,Car,False
-5288,Kyle Horton,2019-12-17,shot,undetermined,,M,W,Wilmington,NC,False,undetermined,Not fleeing,False
-5289,Clyde Sullivan,2019-12-17,shot,gun,27,M,W,Fort Walton Beach,FL,False,attack,Car,False
-5290,Dana Brown,2019-12-17,shot and Tasered,knife,27,M,O,Honolulu,HI,True,attack,Foot,True
-5287,TK TK,2019-12-18,shot,gun,29,M,,Tulsa,OK,False,attack,Not fleeing,False
-5294,TK TK,2019-12-19,shot,undetermined,,,,Nashville,TN,False,undetermined,,False
-5295,TK TK,2019-12-19,shot,undetermined,,M,,Davis,CA,False,attack,Not fleeing,False
-5298,TK TK,2019-12-19,shot,unknown weapon,47,M,,Lakewood,CO,False,attack,Not fleeing,False
-5299,TK TK,2019-12-20,shot,undetermined,,M,,Tempe,AZ,False,undetermined,,False
+5288,Kyle Horton,2019-12-17,shot,gun,,M,W,Wilmington,NC,False,attack,Not fleeing,False
+5289,Clyde Jacob Sullivan,2019-12-17,shot,gun,27,M,W,Fort Walton Beach,FL,False,attack,Car,False
+5290,Dana Brown,2019-12-17,shot and Tasered,knife,27,M,O,Honolulu,HI,False,attack,,True
+5287,Tyler Hall,2019-12-18,shot,gun,29,M,,Tulsa,OK,False,attack,Not fleeing,False
+5294,Gary Wayne Madewell,2019-12-19,shot,knife,38,M,,Smith County,TN,False,other,,False
+5295,Christopher Gray,2019-12-19,shot,knife,29,M,,Davis,CA,True,attack,Not fleeing,False
+5298,Jason Elliot Waterhouse,2019-12-19,shot,unknown weapon,47,M,,Lakewood,CO,False,attack,Not fleeing,False
+5299,Mohamed Ahemed Al-Hashemi,2019-12-20,shot and Tasered,Taser,25,M,,Tempe,AZ,False,attack,Not fleeing,False
