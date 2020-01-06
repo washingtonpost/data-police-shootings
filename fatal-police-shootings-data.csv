@@ -4827,20 +4827,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5290,Dana Brown,2019-12-17,shot and Tasered,knife,27,M,O,Honolulu,HI,False,attack,,True
 5287,Tyler Hall,2019-12-18,shot,gun,29,M,,Tulsa,OK,False,attack,Not fleeing,False
 5294,Gary Wayne Madewell,2019-12-19,shot,knife,38,M,W,Smith County,TN,False,other,,False
-5295,Christopher Gray,2019-12-19,shot,knife,29,M,W,Davis,CA,True,attack,Not fleeing,False
+5295,Christopher Gray,2019-12-19,shot,knife,29,M,W,Davis,CA,True,attack,Not fleeing,True
 5298,Jason Elliot Waterhouse,2019-12-19,shot,unknown weapon,47,M,,Lakewood,CO,False,attack,Not fleeing,False
-5306,Emanuel Johnson,2019-12-19,shot and Tasered,gun,21,M,B,Brentwood,NY,False,attack,Foot,False
-5309,Kentrey Marquis Witherspoon,2019-12-19,shot,gun,28,M,W,Lenoir,NC,False,attack,Other,False
+5306,Emanuel Johnson,2019-12-19,shot and Tasered,gun,21,M,,Brentwood,NY,False,attack,Foot,False
+5309,Kentrey Marquis Witherspoon,2019-12-19,shot,gun,28,M,,Lenoir,NC,False,attack,Foot,False
 5299,Mohamed Ahemed Al-Hashemi,2019-12-20,shot and Tasered,Taser,25,M,B,Tempe,AZ,False,attack,Not fleeing,False
 5307,John Resetar,2019-12-20,shot,gun,44,M,W,Randolph County,IN,False,attack,Not fleeing,False
 5308,Steven DeWayne Haizlip,2019-12-20,shot,gun,61,M,B,Winston-Salem,NC,False,attack,Not fleeing,False
-5301,TK TK,2019-12-21,shot,gun,,M,,Emery County,UT,False,attack,Car,False
+5301,Mark Stoddard,2019-12-21,shot,gun,40,M,W,Emery County,UT,False,attack,Car,False
 5303,Marc Denver Thompson,2019-12-21,shot,shovel,26,M,W,Carroll County,GA,False,attack,Foot,False
 5304,Michael DeCastro,2019-12-21,shot,knife,57,M,W,Ithaca,NY,False,attack,Not fleeing,False
 5305,Brian Lee Mullen,2019-12-21,shot,gun,57,M,,Evansville,IN,True,other,Not fleeing,False
 5300,Romir Talley,2019-12-22,shot,gun,24,M,B,Wilkinsburg,PA,False,attack,Foot,False
 5302,TK TK,2019-12-22,shot,undetermined,,M,,Redding,CA,False,undetermined,Not fleeing,False
-5327,Kenneth Collins,2019-12-22,shot,unknown weapon,46,M,,Hattiesburg,MS,False,undetermined,Other,False
+5327,Kenneth Collins,2019-12-22,shot,unknown weapon,46,M,,Hattiesburg,MS,False,other,Other,False
 5317,Richard Ruiz,2019-12-23,shot,gun and vehicle,38,M,,Phoenix,AZ,False,attack,Car,False
 5329,Austin Chase Swindle,2019-12-23,shot,gun,24,M,W,Bryant,AR,True,attack,Not fleeing,False
 5326,Harvey Cantrell,2019-12-24,shot,gun,65,M,,Deltona,FL,True,attack,Not fleeing,True
@@ -4862,3 +4862,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5313,Kelly Michael Stephens,2019-12-29,shot,chain,34,M,,Juneau,AK,False,other,Not fleeing,False
 5318,Manuel Gonzales Verdugo,2019-12-29,shot,knife,,M,,El Centro,CA,False,other,Not fleeing,False
 5312,TK TK,2019-12-30,shot,gun,,M,,Houston,TX,False,other,Other,False
+5332,Eric M Tellez,2019-12-31,shot,knife,28,M,,Globe,AZ,False,other,Not fleeing,False
+5333,Frederick Perkins Jr.,2019-12-31,shot,vehicle,37,M,,Chesterfield,MO,False,attack,Car,False
