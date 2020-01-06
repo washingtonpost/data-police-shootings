@@ -4841,14 +4841,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5300,Romir Talley,2019-12-22,shot,gun,24,M,B,Wilkinsburg,PA,False,attack,Foot,False
 5302,TK TK,2019-12-22,shot,undetermined,,M,,Redding,CA,False,undetermined,Not fleeing,False
 5327,Kenneth Collins,2019-12-22,shot,unknown weapon,46,M,,Hattiesburg,MS,False,other,Other,False
-5317,Richard Ruiz,2019-12-23,shot,gun and vehicle,38,M,,Phoenix,AZ,False,attack,Car,False
+5317,Richard Ruiz,2019-12-23,shot,gun and vehicle,38,M,H,Phoenix,AZ,False,attack,Car,False
 5329,Austin Chase Swindle,2019-12-23,shot,gun,24,M,W,Bryant,AR,True,attack,Not fleeing,False
-5326,Harvey Cantrell,2019-12-24,shot,gun,65,M,,Deltona,FL,True,attack,Not fleeing,True
+5326,Harvey Cantrell,2019-12-24,shot,gun,65,M,,Deltona,FL,False,attack,Not fleeing,True
 5331,Elray Barber,2019-12-24,shot,gun,60,M,B,Oklahoma City,OK,False,attack,Car,False
 5328,Lori Jean Canada,2019-12-25,shot,gun,59,F,,Ocala,FL,True,attack,Not fleeing,False
-5330,Deangelo Rashad Martin,2019-12-25,shot,vehicle,23,M,B,Atlanta,GA,False,other,Car,False
+5330,Deangelo Rashad Martin,2019-12-25,shot,vehicle,23,M,B,Atlanta,GA,False,attack,Car,False
 5314,Antonio Smith,2019-12-26,shot,unknown weapon,35,M,B,Memphis,TN,False,other,,False
-5325,Juan Rosa,2019-12-26,shot,gun,35,M,,Auburndale,FL,True,attack,Not fleeing,False
+5325,Juan Rosa,2019-12-26,shot,gun,35,M,H,Auburndale,FL,True,attack,Not fleeing,False
 5320,TK TK,2019-12-27,shot and Tasered,Taser,,M,,Newport News,VA,False,attack,Not fleeing,False
 5322,TK TK,2019-12-27,shot,undetermined,,M,,Limerick,ME,False,undetermined,,False
 5323,TK TK,2019-12-27,shot,gun,,M,,Linthicum,MD,True,attack,Not fleeing,False
