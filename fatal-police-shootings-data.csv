@@ -4864,3 +4864,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5312,TK TK,2019-12-30,shot,gun,18,M,,Houston,TX,False,attack,Other,False
 5332,Eric M. Tellez,2019-12-31,shot,knife,28,M,,Globe,AZ,False,other,Not fleeing,False
 5333,Frederick Perkins,2019-12-31,shot,vehicle,37,M,,Chesterfield,MO,False,attack,Car,False
+5343,Brian Elkins,2019-12-31,shot,undetermined,47,M,,Cotton Plant,MS,False,other,Car,False
+5345,Dedrick Thomas,2019-12-31,shot,gun,23,M,B,Forrest City,AR,False,attack,Other,False
