@@ -4261,7 +4261,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4705,TK TK,2019-05-04,shot,vehicle,,M,,San Jose,CA,False,attack,Car,True
 4706,Timothy Russell Majchrzak,2019-05-04,shot,gun,37,M,W,Hermantown,MN,False,attack,Foot,False
 4708,Ethan Austin Murray,2019-05-04,shot,unarmed,25,M,W,Spokane,WA,True,other,Foot,False
-4707,Daniel Herrera,2019-05-05,shot,knife,61,M,H,Angel Fire,NM,False,other,Not fleeing,False
+4707,George Herrera,2019-05-05,shot,knife,61,M,H,Angel Fire,NM,False,other,Not fleeing,False
 4699,Pedro Colazo-villa,2019-05-06,shot,gun,33,M,H,Mesa,AZ,False,other,Not fleeing,False
 4698,Cesar Tomix Sarmiento-Molina,2019-05-07,shot,gun,34,M,H,Milwaukee,WI,False,other,Not fleeing,False
 4704,Aubrey Manning,2019-05-07,shot,gun,59,M,W,Lumberton,MS,False,other,Not fleeing,False
@@ -4899,16 +4899,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5356,Dallas Pearce,2020-01-06,shot,undetermined,33,M,,Honolulu,HI,False,other,Not fleeing,False
 5357,Daniel Duane Jensen,2020-01-07,shot,undetermined,59,M,W,North Pole,AK,False,undetermined,Not fleeing,False
 5361,Dustin M. Eaton,2020-01-08,shot,gun,34,M,W,Bismarck,MO,False,attack,Not fleeing,False
-5360,Bernie Wade Johnson,2020-01-09,shot,hammer,34,M,W,Semmes,AL,True,attack,Not fleeing,False
 5362,TK TK,2020-01-09,shot,gun,,M,,New York,NY,False,attack,Foot,True
 5364,Cody Carnes,2020-01-09,shot,gun,30,M,,Bismarck,ND,True,attack,Not fleeing,False
-5363,Clando Anitok,2020-01-10,shot,undetermined,25,M,,Spokane,WA,False,other,Car,False
+5360,Bernie Wade Johnson,2020-01-09,shot and Tasered,hammer,34,M,W,Semmes,AL,True,attack,Not fleeing,False
 5365,Juan Ayon-Ruiz,2020-01-10,shot,vehicle,24,M,H,Muscoy,CA,False,attack,Car,False
+5363,Clando Anitok,2020-01-10,shot and Tasered,undetermined,25,M,,Spokane,WA,False,other,Car,False
 5366,Eric Reynolds,2020-01-11,shot,unknown weapon,,M,W,Glenwood Springs,CO,False,other,Car,False
-5370,Thomas Charles Snyder,2020-01-11,shot,gun,52,M,W,Lakewood,CO,False,other,Not fleeing,False
-5369,Ryan O. Simms,2020-01-11,shot and Tasered,sharp object,49,M,B,Miami Beach,FL,False,attack,,False
-5367,TK TK,2020-01-12,shot,unarmed,,M,,Los Angeles,CA,True,other,,False
+5369,Ryan O. Simms,2020-01-11,shot and Tasered,knife,49,M,B,Miami Beach,FL,False,attack,,False
+5367,Victor Valencia,2020-01-12,shot,toy weapon,31,M,,Los Angeles,CA,True,attack,,False
 5368,Brad Stirewalt,2020-01-12,shot,gun,47,M,,Carthage,MO,False,attack,Car,False
+5370,Thomas Charles Snyder,2020-01-12,shot,gun,52,M,W,Lakewood,CO,False,other,Not fleeing,False
 5371,Keenan McCain,2020-01-13,shot,gun,29,M,B,Gary,IN,False,attack,Not fleeing,False
 5372,Randy Glen Goodale,2020-01-13,shot,vehicle,45,M,,San Antonio,TX,False,attack,Not fleeing,False
 5373,TK TK,2020-01-14,shot,knife,,M,,The Villages,FL,False,attack,Not fleeing,False
