@@ -4414,7 +4414,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4827,William Lamb,2019-06-28,shot,gun,76,M,,Smyrna,TN,False,attack,Not fleeing,False
 4828,TK TK,2019-06-28,shot,gun,,M,,Houston,TX,False,attack,Car,False
 4840,Ryan Moody,2019-06-28,shot,gun,19,M,W,Pearl,MS,False,attack,Not fleeing,False
-5453,Darren Williams,2019-06-28,shot,gun,34,M,B,Linwood,PA,False,attack,Foot,False
 5454,Zackary Ryan Hoppe,2019-06-28,shot,gun,40,M,,Bacliff,TX,False,attack,Not fleeing,False
 4826,TK TK,2019-06-29,shot,gun,61,M,W,Denton County,TX,False,attack,,False
 5455,Jack Daniel West,2019-06-29,shot,gun,61,M,W,Lantana,TX,False,attack,Not fleeing,True
@@ -4485,7 +4484,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4902,Lane Christopher Martin,2019-07-30,shot,ax,31,M,W,Portland,OR,False,attack,,False
 4903,Donald Lee Joseph,2019-07-31,shot,unknown weapon,37,M,W,Roy,UT,False,other,,False
 4927,Jose Baca-Olivares,2019-07-31,shot,gun,,M,H,San Antonio,TX,False,attack,Not fleeing,False
-4950,Troy Peterson,2019-07-31,shot,gun,,M,W,Council Bluffs,IA,False,attack,Car,False
+4950,Troy Petersen,2019-07-31,shot,gun,28,M,W,Council Bluffs,IA,False,attack,Car,False
 4952,Robert Schneider,2019-07-31,shot,gun,46,M,,Cincinnati,OH,False,attack,Not fleeing,False
 4923,Mauris Nishanga DeSilva,2019-07-31,shot and Tasered,knife,46,M,,Austin,TX,True,other,Not fleeing,False
 4917,Jamaal Simpson,2019-08-01,shot,gun,21,M,B,Los Angeles,CA,False,attack,Foot,False
@@ -4958,10 +4957,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5408,TK TK,2020-01-21,shot,undetermined,,M,,Fox Crossing,WI,False,undetermined,,False
 5385,Darius J. Tarver,2020-01-21,shot and Tasered,meat cleaver,22,M,B,Denton,TX,True,attack,Not fleeing,False
 5387,Sok Chin Son,2020-01-21,shot and Tasered,knife,60,M,A,Lacey,WA,False,attack,Not fleeing,False
-5432,TK TK,2020-01-22,shot,knife,,M,,Arvada,CO,False,other,Not fleeing,False
+5432,Jon Phillip Bryant,2020-01-22,shot,knife,40,M,W,Arvada,CO,False,other,Not fleeing,False
 5429,Deandre Lee Seaborough-Patterson,2020-01-23,shot,gun,22,M,B,Savannah,GA,False,other,Foot,False
 5430,James Lewis Mathis,2020-01-23,shot,knife,30,,,Paris,TX,False,other,,False
-5431,Gage Southard,2020-01-23,shot,gun,26,M,,Wasilla,AK,False,attack,Not fleeing,False
+5431,Gage Scott Southard,2020-01-23,shot,gun,26,M,W,Wasilla,AK,False,attack,Car,False
 5433,Marquis Golden,2020-01-23,shot,gun,29,M,B,St. Petersburg,FL,False,attack,Car,False
 5427,"Scott Joseph Weber, Jr.",2020-01-24,shot,gun,27,M,W,San Angelo,TX,False,attack,Other,False
 5428,TK TK,2020-01-24,shot,gun,,M,H,Oak Park,CA,False,other,Foot,False
