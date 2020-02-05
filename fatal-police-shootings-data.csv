@@ -4563,7 +4563,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4975,Riley Eugene Peay,2019-08-22,shot,unarmed,39,M,,Glennville,GA,False,attack,Not fleeing,False
 5471,Roberto Mata,2019-08-22,shot,gun,46,M,,Hobbs,NM,False,attack,Not fleeing,False
 4980,Chad Michael Breinholt,2019-08-23,shot,unarmed,31,M,W,West Valley City,UT,False,other,Not fleeing,True
-5472,Larry Leonard Lowry,2019-08-23,shot,knife,34,M,W,Cottage Grove,OR,False,attack,Not fleeing,False
+5472,Larry Leonard Lowry,2019-08-23,shot,knife,34,M,W,Cottage Grove,OR,False,other,Not fleeing,False
 4977,Dennis Carolino,2019-08-24,shot,shovel,52,M,H,El Cerrito,CA,True,attack,Not fleeing,True
 4981,Channara Tom Pheap,2019-08-26,shot,unarmed,33,M,B,Knoxville,TN,False,attack,Not fleeing,False
 4988,TK TK,2019-08-26,shot,gun,,M,,Anchorage,AK,True,attack,Not fleeing,False
@@ -4573,7 +4573,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4989,Wallace Wilder,2019-08-28,shot,knife,62,M,B,Gordo,AL,True,other,,False
 4990,Tyrone Domingo Banks,2019-08-28,shot,gun and car,30,M,B,Baltimore,MD,False,attack,Car,False
 4991,Jeremy Connolly,2019-08-28,shot,knife,28,M,W,Salina,KS,False,other,Not fleeing,False
-5474,Randall Gamboa,2019-08-29,shot,gun,16,M,,Carlsbad,NM,False,other,Not fleeing,False
+5474,Randall Gamboa,2019-08-29,shot,gun,16,M,,Carlsbad,NM,False,attack,Not fleeing,False
 4992,TK TK,2019-08-30,shot,gun,,M,,Jamaica,NY,False,attack,Not fleeing,False
 4999,TK TK,2019-08-30,shot,gun,,M,,New York,NY,False,attack,Foot,False
 5002,Rene Enrique Ruiz,2019-08-30,shot,gun and vehicle,51,M,H,Tolleson,AZ,False,attack,Other,False
