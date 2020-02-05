@@ -4442,7 +4442,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4842,Thomas Graham,2019-07-07,shot,knife,61,M,W,Jacksonville,AR,True,attack,Not fleeing,False
 4844,Tymar Crawford,2019-07-07,shot,gun,28,M,B,Pensacola,FL,False,attack,Car,False
 4851,Johnny W. Dellinger,2019-07-07,shot,gun,41,M,W,Timberville,VA,False,other,Not fleeing,False
-5459,Johnny Vigil,2019-07-07,shot,gun,43,M,,Tularosa,NM,False,attack,Not fleeing,False
+5459,Johnny M. Vigil,2019-07-07,shot,gun,43,M,,Tularosa,NM,False,attack,Not fleeing,False
 4866,Shawn Toney,2019-07-08,shot,gun,23,M,W,Brooklyn,OH,True,attack,Not fleeing,False
 4858,Anthony James Gonzales,2019-07-09,shot,undetermined,36,M,H,Bakersfield,CA,False,undetermined,Not fleeing,False
 4860,Sean Rambert,2019-07-09,shot,gun,23,M,B,Greenville,NC,False,attack,Not fleeing,False
@@ -4455,16 +4455,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4872,Willem Van Spronsen,2019-07-13,shot,gun,69,M,W,Tacoma,WA,False,other,Not fleeing,False
 4879,Derek Antonio-Sanchez,2019-07-13,shot,unarmed,35,M,H,Kirkland,WA,False,attack,Not fleeing,False
 4885,Brian H. Benfield,2019-07-13,shot,gun,46,M,W,Coleman,FL,False,attack,Not fleeing,False
-5460,Jamahl Smith,2019-07-13,shot,knife,46,M,B,Orange,NJ,False,other,Not fleeing,False
+5460,Jamahl Smith,2019-07-13,shot,knife,46,M,B,Orange,NJ,False,other,Foot,False
 4870,Blige Sean Christopher Cypress,2019-07-14,shot,gun,22,M,B,Hollywood,FL,False,attack,Car,False
 4877,Onaje Dickinson,2019-07-14,shot,gun,20,M,B,Penn Hills,PA,False,attack,Foot,False
-5461,Dijon Watkins,2019-07-14,shot,gun,30,M,,Dallas,TX,False,attack,Not fleeing,False
+5461,Dijon D. Watkins,2019-07-14,shot,gun,30,M,B,Dallas,TX,False,attack,Not fleeing,False
 4869,Ashanti Pinkney,2019-07-15,shot,gun,49,M,B,Baltimore,MD,False,attack,Not fleeing,True
 4876,Michael Anthony Brand,2019-07-15,shot,toy weapon,43,M,W,Salt Lake City,UT,True,other,Not fleeing,True
 4884,Jose Javier Gonzalez,2019-07-16,shot,knife,52,M,H,Chino Hills,CA,False,attack,Not fleeing,False
 4906,Stephen Fischer,2019-07-16,shot,gun,62,M,,Memphis,IN,True,attack,Not fleeing,False
 5462,Daryl Johannesson,2019-07-16,shot,gun,56,M,W,Porterdale,GA,False,attack,Not fleeing,False
-5463,Brandon Stansel,2019-07-16,shot,gun,36,M,W,Lake Jackson,TX,False,attack,Car,False
+5463,Brandon Ray Stansel,2019-07-16,shot,gun,36,M,W,Lake Jackson,TX,False,attack,Car,False
 5465,Kelly Danielle Brumley,2019-07-16,shot,gun,40,F,W,Lake Jackson,TX,False,attack,Car,False
 4875,Stephen Murray,2019-07-17,shot,toy weapon,52,M,B,Modesto,CA,False,attack,Not fleeing,True
 4882,Mark Anson Schoggins,2019-07-17,shot,gun,35,M,W,McAlester,OK,False,attack,Car,False
@@ -4475,7 +4475,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4880,Leo Brooks,2019-07-18,shot,gun,23,M,B,Metairie,LA,False,other,Not fleeing,False
 5466,Makeyvion Devonte Cannon,2019-07-18,shot,gun,19,M,B,Fort Worth,TX,False,attack,Not fleeing,True
 4867,Witney Rivera,2019-07-19,shot,garden tool,41,M,H,Pemberton,NJ,False,other,,False
-5467,Jeffrey Bodie,2019-07-19,shot,gun,39,M,,League City,TX,True,attack,Not fleeing,False
+5467,Jeffrey Bodie,2019-07-19,shot,gun,39,M,W,League City,TX,True,attack,Not fleeing,False
 4889,Elisha Lucero,2019-07-21,shot,knife,28,F,H,Albuquerque,NM,True,other,Not fleeing,False
 5468,Hashim Jibiri Wilson,2019-07-21,shot,gun,28,M,B,Tacoma,WA,False,attack,Not fleeing,False
 4888,Shawan F. Allen,2019-07-22,shot,gun,,M,B,Wesson,MS,False,attack,,False
