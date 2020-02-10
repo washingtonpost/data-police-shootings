@@ -4961,10 +4961,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5356,Dallas Pearce,2020-01-06,shot,undetermined,33,M,,Honolulu,HI,False,other,Not fleeing,False
 5357,Daniel Duane Jensen,2020-01-07,shot,undetermined,59,M,W,North Pole,AK,False,undetermined,Not fleeing,False
 5361,Dustin M. Eaton,2020-01-08,shot,gun,34,M,W,Bismarck,MO,False,attack,Not fleeing,False
-5498,Madison Adams,2020-01-08,shot,gun,27,M,,Nipton,CA,False,other,Car,False
+5498,Madison Adams,2020-01-08,shot,undetermined,27,M,,Nipton,CA,False,undetermined,Car,False
 5362,Earl Facey,2020-01-09,shot,gun,37,M,,New York,NY,False,attack,Foot,True
 5364,Cody Carnes,2020-01-09,shot,gun,30,M,,Bismarck,ND,True,attack,Not fleeing,False
-5499,Joshua Roberts,2020-01-09,shot,gun,41,M,,Powatan,OH,False,attack,Other,False
+5499,Joshua Franklin Roberts,2020-01-09,shot,gun,41,M,,Powatan Point,OH,False,other,Car,False
 5360,Bernie Wade Johnson,2020-01-09,shot and Tasered,hammer,34,M,W,Semmes,AL,True,attack,Not fleeing,False
 5365,Juan Ayon-Ruiz,2020-01-10,shot,vehicle,24,M,H,Muscoy,CA,False,attack,Car,False
 5363,Clando Anitok,2020-01-10,shot and Tasered,undetermined,25,M,,Spokane,WA,False,other,Car,False
@@ -4980,7 +4980,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5378,Renard Antonio Daniels,2020-01-15,shot,knife,55,M,B,Cocoa,FL,False,attack,Not fleeing,True
 5379,Frank Cogar,2020-01-15,shot,gun,35,M,,Missoula,MT,False,other,Not fleeing,False
 5382,Landwell Vance McCall,2020-01-15,shot,gun,50,M,,Fleetwood,NC,False,attack,Not fleeing,False
-5503,Aaron Phillips,2020-01-15,shot,gun,31,M,,Mulberry,FL,False,other,Not fleeing,False
+5503,Aaron Phillips,2020-01-15,shot,gun,31,M,W,Mulberry,FL,False,other,Not fleeing,False
 5375,Albert Lee Hughes,2020-01-15,shot and Tasered,chair,47,M,B,Lawrenceville,GA,False,attack,Not fleeing,False
 5380,Jack Bolinger,2020-01-16,shot,gun,35,M,,Wausau,WI,False,attack,,False
 5381,Owen Barton,2020-01-16,shot,gun,66,M,,Yerington,NV,False,other,Not fleeing,False
@@ -4997,7 +4997,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5385,Darius J. Tarver,2020-01-21,shot and Tasered,meat cleaver,22,M,B,Denton,TX,True,attack,Not fleeing,False
 5387,Sok Chin Son,2020-01-21,shot and Tasered,knife,60,M,A,Lacey,WA,False,attack,Not fleeing,False
 5432,Jon Phillip Bryant,2020-01-22,shot,knife,40,M,W,Arvada,CO,False,other,Not fleeing,False
-5508,Armando Moreno Garcia,2020-01-22,shot,gun,37,M,,Mesa,AZ,False,attack,,False
+5508,Armando Moreno Garcia,2020-01-22,shot,gun,37,M,H,Mesa,AZ,False,attack,,False
 5429,Deandre Lee Seaborough-Patterson,2020-01-23,shot,gun,22,M,B,Savannah,GA,False,other,Foot,False
 5430,James Lewis Mathis,2020-01-23,shot,knife,30,,,Paris,TX,False,other,,False
 5431,Gage Scott Southard,2020-01-23,shot,gun,26,M,W,Wasilla,AK,False,attack,Car,False
