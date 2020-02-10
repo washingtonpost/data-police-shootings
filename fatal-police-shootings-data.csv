@@ -5002,7 +5002,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5430,James Lewis Mathis,2020-01-23,shot,knife,30,,,Paris,TX,False,other,,False
 5431,Gage Scott Southard,2020-01-23,shot,gun,26,M,W,Wasilla,AK,False,attack,Car,False
 5433,Marquis Golden,2020-01-23,shot,gun,29,M,B,St. Petersburg,FL,False,attack,Car,False
-5506,Andrew Smyrna,2020-01-23,shot,vehicle,32,M,,Atlanta,GA,False,other,Car,False
+5506,Andrew Smyrna,2020-01-23,shot,vehicle,32,M,,Atlanta,GA,False,attack,Car,False
 5507,Michael Rivera,2020-01-23,shot,vehicle,32,M,,Bloomingdale,NJ,False,attack,Car,False
 5427,Scott Joseph Weber,2020-01-24,shot,gun,27,M,W,San Angelo,TX,False,attack,Other,False
 5428,Toby Diller,2020-01-24,shot,gun,31,M,H,Oak Park,CA,False,attack,Foot,False
