@@ -4600,7 +4600,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5012,Sam Burt,2019-09-05,shot,gun,65,M,,LaGrange,GA,False,attack,Not fleeing,False
 5020,John Carras,2019-09-05,shot,unarmed,43,M,W,East Hartford,CT,False,attack,Not fleeing,False
 5018,TK TK,2019-09-06,shot,gun,,M,,Glendora,CA,False,other,Foot,False
-5013,Brian Quinones,2019-09-07,shot,knife,30,M,H,Richfield,MN,False,other,Car,False
+5013,Brian Quinones,2019-09-07,shot,knife,30,M,H,Richfield,MN,True,other,Car,False
 5017,TK TK,2019-09-07,shot,knife,,M,,Nacogdoches,TX,False,other,Not fleeing,False
 5015,Christopher Johnson,2019-09-08,shot,gun,51,M,,Longview,WA,True,attack,Not fleeing,False
 5016,Bennie Branch,2019-09-08,shot,toy weapon,24,M,B,Tacoma,WA,False,undetermined,Foot,False
@@ -5024,6 +5024,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5504,Richard Davis,2020-01-30,shot,gun,29,M,,Kansas City,MO,False,attack,Foot,False
 5493,Leonard Parker,2020-02-01,shot,vehicle,53,M,,Gulfport,MS,False,other,Not fleeing,False
 5497,TK TK,2020-02-01,shot,gun,,M,,Spring Hill,FL,False,attack,Not fleeing,False
-5495,Alvin Cole,2020-02-02,shot,gun,17,M,B,Wauwatosa,WI,False,other,Foot,False
+5495,Alvin Cole,2020-02-02,shot,gun,17,M,B,Wauwatosa,WI,False,attack,Foot,False
 5496,Jason Gora,2020-02-02,shot,unknown weapon,44,M,,Minot,ME,False,other,Foot,False
 5494,Marc Dominic Neal,2020-02-03,shot,gun,56,M,B,Millcreek,UT,False,other,Not fleeing,False
+5515,Miguel Segura,2020-02-03,shot,gun,31,M,H,Fountain Valley,CA,False,other,Foot,False
+5513,Darius Tarver,2020-02-04,shot,meat cleaver,23,M,B,Denton,TX,False,other,Not fleeing,False
+5516,Shawn Taylor,2020-02-04,shot,gun,32,M,,Allen,OK,False,attack,Foot,False
+5523,Daniel Murillo,2020-02-05,shot,knife,56,M,,Washoe,NV,False,other,Not fleeing,False
+5512,Sean Patrick Constance,2020-02-06,shot,gun,37,M,W,Port Charlotte,FL,False,attack,Car,False
+5514,Juston Root,2020-02-07,shot,gun,41,M,W,Brookline,MA,True,other,Other,False
+5524,Michael Collins,2020-02-07,shot,knife,38,M,,Sapulpa,OK,True,other,Not fleeing,False
+5518,Douglas Harold Hart,2020-02-08,shot,gun,67,M,,Vestavia Hills,AL,False,attack,Not fleeing,False
+5522,TK TK,2020-02-08,shot,gun,,M,,Cuba,MO,False,attack,Not fleeing,False
+5517,TK TK,2020-02-09,shot,unknown weapon,,M,,Kennewick,WA,False,attack,Foot,False
+5519,Erik Robinson,2020-02-09,shot,knife,,M,,Orange County,FL,False,other,Not fleeing,False
+5520,TK TK,2020-02-09,shot,knife,48,M,,Saginaw,MI,False,attack,Not fleeing,False
+5521,TK TK,2020-02-09,shot,gun,,M,,Lakeview,IL,False,attack,Foot,False
