@@ -5040,18 +5040,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5519,Erik Robinson,2020-02-09,shot,knife,23,M,,Orange County,FL,False,other,Not fleeing,False
 5520,TK TK,2020-02-09,shot,knife,48,M,,Saginaw,MI,False,attack,Not fleeing,False
 5521,TK TK,2020-02-09,shot,gun,,M,,Chicago,IL,False,attack,Foot,False
-5527,Bobby Gibbs,2020-02-10,shot,gun,40,M,,Forrest City,AR,False,attack,Not fleeing,False
-5529,Jeremy Todd Baham,2020-02-10,shot,gun,40,M,,Lafayette,LA,False,other,Not fleeing,False
-5530,Thomas Ray Chamblee,2020-02-10,shot,gun,34,M,,Albertville,AL,False,attack,Other,True
-5525,TK TK,2020-02-12,shot,gun,,M,,Virginia Beach,VA,False,attack,Not fleeing,False
-5526,TK TK,2020-02-12,shot,gun,,M,,Baltimore,MD,False,attack,Not fleeing,False
-5538,Jeremey Fox,2020-02-12,shot,unarmed,42,M,,Bossier City,LA,False,other,Not fleeing,False
+5527,Bobby Gibbs,2020-02-10,shot,gun,40,M,B,Forrest City,AR,False,attack,Not fleeing,False
+5529,Jeremy Todd Baham,2020-02-10,shot,gun,40,M,W,Lafayette,LA,False,other,Not fleeing,False
+5530,Thomas Ray Chamblee,2020-02-10,shot,gun,34,M,W,Albertville,AL,False,attack,Other,True
+5525,Hans Alejandro Huitz,2020-02-12,shot,gun,51,M,,Virginia Beach,VA,False,attack,Not fleeing,False
+5526,Michael Marullo,2020-02-12,shot,gun,33,M,W,Baltimore,MD,False,attack,Not fleeing,False
+5538,Jeremey Fox,2020-02-12,shot,undetermined,42,M,,Bossier City,LA,False,other,Not fleeing,True
 5528,Dakota Lee Chlarson,2020-02-13,shot,scissors,25,M,N,Dickinson,ND,False,attack,Not fleeing,False
 5535,William Bluestone,2020-02-14,shot,gun,21,M,,Silverton,OR,False,other,Not fleeing,True
-5537,Timothy Leroy Harrington,2020-02-14,shot,gun,58,M,,Polkton,NC,False,attack,Car,False
+5537,Timothy Leroy Harrington,2020-02-14,shot,gun,58,M,W,Polkton,NC,False,other,Car,False
 5539,TK TK,2020-02-14,shot,gun,,M,,Commerce City,CO,False,other,Car,False
 5536,TK TK,2020-02-15,shot,gun,,M,,Achorage,AK,False,attack,Not fleeing,False
 5532,Thomas Murray,2020-02-16,shot,vehicle,31,M,,Newbury,MA,False,attack,Car,False
-5533,TK TK,2020-02-17,shot,gun,,M,,Long Beach,CA,False,attack,Other,False
-5534,Travis Mullins,2020-02-17,shot,gun,29,M,,Greenville,TN,False,attack,Not fleeing,False
-5531,TK TK,2020-02-18,shot,gun,,M,,Orlando,FL,False,other,Foot,False
+5533,TK TK,2020-02-16,shot,gun,,M,,Long Beach,CA,False,attack,Foot,False
+5534,Travis Mullins,2020-02-17,shot,gun,29,M,W,Greenville,TN,False,attack,Not fleeing,False
+5531,Kevin Adolphe,2020-02-18,shot,gun,23,M,B,Orlando,FL,False,other,Foot,False
