@@ -5069,7 +5069,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5536,Daelyn Polu,2020-02-15,shot,gun,16,M,,Achorage,AK,False,attack,Not fleeing,False
 5532,Thomas Murray,2020-02-16,shot,vehicle,31,M,,Newbury,MA,False,attack,Car,False
 5533,Kerry Michael Bounsom,2020-02-16,shot,gun,33,M,,Long Beach,CA,False,attack,Foot,False
-5545,Rudy Arenas,2020-02-16,shot,gun,40,M,,Poinciana,FL,True,attack,Car,False
+5545,Rudy Arenas,2020-02-16,shot,gun,40,M,,Poinciana,FL,False,attack,Car,False
 5575,Brandon Lewis,2020-02-16,shot,gun,34,M,W,Harrison County,IN,False,attack,Car,False
 5534,Travis Mullins,2020-02-17,shot,gun,29,M,W,Greenville,TN,False,attack,Not fleeing,False
 5560,Jeremy Dewey,2020-02-17,shot,gun,27,M,,Pinetop,AZ,False,attack,Not fleeing,False
@@ -5077,14 +5077,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5542,Alex Francisco Vazquez,2020-02-19,shot,gun,38,M,,Red Bluff,CA,False,attack,Not fleeing,False
 5556,Joseph Jewell,2020-02-20,shot,gun,17,M,B,Columbus,OH,False,attack,Not fleeing,False
 5557,John Daniel Dixon,2020-02-20,shot,gun,75,M,,DeKalb County,GA,False,other,Not fleeing,False
-5554,John James Monahan,2020-02-21,shot,gun,26,M,,Lake Lanier,GA,False,undetermined,Car,False
+5554,John James Monahan,2020-02-21,shot,gun,26,M,,Lake Lanier,GA,False,attack,Car,False
 5555,Manuel Arebalo,2020-02-21,shot,sharp object,40,M,H,Arvada,CO,False,other,Not fleeing,False
 5558,TK TK,2020-02-21,shot,gun,,M,,Old Mines,MO,True,other,Not fleeing,False
 5559,TK TK,2020-02-21,shot,unarmed,,F,,Phoenix,AZ,False,attack,Not fleeing,False
 5553,TK TK,2020-02-22,shot,gun,,M,,Deming,NM,False,attack,Other,False
-5551,TK TK,2020-02-23,shot,gun,,M,,Jamestown,NC,False,attack,Not fleeing,False
-5552,Lucas Alvarado,2020-02-24,shot,gun,27,M,,Milwaukee,WI,False,other,Foot,False
-5574,Print Zutavern,2020-02-24,shot,unarmed,28,M,,Arnold,NE,True,other,Not fleeing,False
+5551,Boyce Melvin Thayer,2020-02-23,shot,gun,83,M,,Jamestown,NC,False,attack,Not fleeing,False
+5552,Lucas Alvarado,2020-02-24,shot,gun,27,M,W,Milwaukee,WI,False,other,Foot,False
+5574,Print Zutavern,2020-02-24,shot,gun,28,M,W,Arnold,NE,True,other,Not fleeing,False
 5576,TK TK,2020-02-24,shot,undetermined,,M,,Floresville,TX,True,other,Not fleeing,False
-5572,TK TK,2020-02-25,shot,gun,,M,,Sumter County,SC,False,attack,Not fleeing,False
+5572,Terry Hasty,2020-02-25,shot,gun,56,M,,Sumter County,SC,False,attack,Not fleeing,False
 5573,Kenneth Sashington,2020-02-25,shot,gun,38,M,,Tuscumbia,AL,False,attack,Foot,False
