@@ -5048,7 +5048,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5522,TK TK,2020-02-08,shot,gun,,M,,Cuba,MO,False,attack,Not fleeing,False
 5517,Gordon Whitaker,2020-02-09,shot,gun,45,M,W,Kennewick,WA,False,attack,Foot,False
 5519,Erik Robinson,2020-02-09,shot,knife,23,M,,Orange County,FL,False,other,Not fleeing,False
-5520,TK TK,2020-02-09,shot,knife,48,M,,Saginaw,MI,False,attack,Not fleeing,False
+5520,Zane Blaisdell,2020-02-09,shot,knife,48,M,W,Saginaw,MI,False,attack,Not fleeing,False
 5521,TK TK,2020-02-09,shot,gun,,M,,Chicago,IL,False,attack,Foot,False
 5561,Michael Leatherwood,2020-02-09,shot,gun,47,M,,Byron,GA,False,attack,Not fleeing,False
 5527,Bobby Gibbs,2020-02-10,shot,gun,40,M,B,Forrest City,AR,False,attack,Not fleeing,False
@@ -5089,19 +5089,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5572,Terry Hasty,2020-02-25,shot,gun,56,M,,Sumter County,SC,False,attack,Not fleeing,False
 5573,Kenneth Sashington,2020-02-25,shot,gun,38,M,,Tuscumbia,AL,False,attack,Foot,False
 5589,SanJuan Migayle Thomas,2020-02-25,shot,gun,39,M,,Shreveport,LA,False,attack,Not fleeing,False
-5590,Matthew Felix,2020-02-25,shot,undetermined,19,M,,New York,NY,False,undetermined,Car,False
-5591,Neal Stuart Nevada,2020-02-25,shot,knife,23,M,H,Pocatello,ID,False,other,Car,False
+5590,Matthew Felix,2020-02-25,shot,vehicle,19,M,,New York,NY,False,attack,Car,False
+5591,Neal Stuart Nevada,2020-02-25,shot,knife,23,M,,Pocatello,ID,False,other,Car,False
 5592,TK TK,2020-02-25,shot,gun,16,M,,Georgetown,TX,False,attack,Not fleeing,False
-5602,TK TK,2020-02-25,shot,gun,,M,,Brea,CA,False,undetermined,,False
 5588,David William Irving,2020-02-26,shot,undetermined,35,M,,Kansas City,MO,False,undetermined,,False
 5593,Justin Lee Stackhouse,2020-02-26,shot,vehicle,30,M,B,Bradenton,FL,False,attack,Car,False
 5595,Ramiro Carrasco,2020-02-26,shot,gun,30,M,,Greeley,CO,False,other,Not fleeing,False
 5596,James Thomson,2020-02-26,shot,gun,30,M,,Tahlequah,OK,False,attack,Car,False
 5597,William Resto,2020-02-26,shot,knife,54,M,,Sylvania Township,OH,False,other,Not fleeing,False
 5578,Kent Richard Kruger,2020-02-27,shot,gun,36,M,W,Lakeville,MN,False,attack,Not fleeing,False
-5579,TK TK,2020-02-27,shot,undetermined,,M,,Clarkdale,AZ,False,attack,,False
-5594,Dorgel Cisnero-Mesa,2020-02-27,shot,gun,39,M,H,Jacksonville,FL,True,undetermined,,False
-5586,Jose Rivera,2020-02-28,shot,gun,20,M,,Moses Lake,WA,False,attack,Other,False
+5579,Joshua David Hernandez Lord,2020-02-27,shot,knife,33,M,W,Clarkdale,AZ,False,other,,False
+5594,Dorgel Cisnero-Mesa,2020-02-27,shot,gun,39,M,H,Jacksonville,FL,True,attack,,False
+5586,Jose L. Rivera,2020-02-28,shot,gun,22,M,,Moses Lake,WA,False,attack,Other,False
 5580,Anthony Taylor,2020-02-29,shot,gun,49,M,B,Milwaukee,WI,False,other,,False
 5585,Richard Rodriguez,2020-02-29,shot,gun,45,M,,San Antonio,TX,False,attack,Not fleeing,False
 5587,Stephen Douris,2020-02-29,shot,knife,45,M,,Henderson,NV,False,other,Not fleeing,False
