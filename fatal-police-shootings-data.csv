@@ -3651,7 +3651,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4000,Randall McKenzie,2018-08-29,shot,gun,72,M,W,Washington Court House,OH,False,other,Not fleeing,False
 4001,Jalon Johnson,2018-08-29,shot,vehicle,17,M,B,Houston,TX,False,attack,Car,False
 4005,Jessica Cribbs,2018-08-30,shot,gun,45,F,W,Beverly Hills,FL,False,attack,Not fleeing,False
-4006,Vanessa Marquez,2018-08-30,shot,toy weapon,49,F,H,Pasadena,CA,True,other,Not fleeing,False
+4006,Vanessa Marquez,2018-08-30,shot,toy weapon,49,F,H,Pasadena,CA,True,other,Not fleeing,True
 4010,Dennis Ray Blalock,2018-08-31,shot,gun,64,M,W,Floral City,FL,True,attack,Not fleeing,False
 4012,Chase Sullivan,2018-08-31,shot,knife,36,M,W,Fairview,TN,True,other,Not fleeing,False
 4044,Paul Askins,2018-08-31,shot,gun,61,M,W,Sedalia,CO,False,attack,Not fleeing,True
@@ -5085,6 +5085,31 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5551,Boyce Melvin Thayer,2020-02-23,shot,gun,83,M,,Jamestown,NC,False,attack,Not fleeing,False
 5552,Lucas Alvarado,2020-02-24,shot,gun,27,M,W,Milwaukee,WI,False,other,Foot,False
 5574,Print Zutavern,2020-02-24,shot,gun,28,M,W,Arnold,NE,True,other,Not fleeing,False
-5576,TK TK,2020-02-24,shot,undetermined,,M,,Floresville,TX,True,other,Not fleeing,False
+5576,Stephen O'Brien,2020-02-24,shot,undetermined,20,M,,Floresville,TX,True,other,Not fleeing,False
 5572,Terry Hasty,2020-02-25,shot,gun,56,M,,Sumter County,SC,False,attack,Not fleeing,False
 5573,Kenneth Sashington,2020-02-25,shot,gun,38,M,,Tuscumbia,AL,False,attack,Foot,False
+5589,SanJuan Migayle Thomas,2020-02-25,shot,gun,39,M,,Shreveport,LA,False,attack,Not fleeing,False
+5590,Matthew Felix,2020-02-25,shot,undetermined,19,M,,New York,NY,False,undetermined,Car,False
+5591,Neal Stuart Nevada,2020-02-25,shot,knife,23,M,H,Pocatello,ID,False,other,Car,False
+5592,TK TK,2020-02-25,shot,gun,16,M,,Georgetown,TX,False,attack,Not fleeing,False
+5602,TK TK,2020-02-25,shot,gun,,M,,Brea,CA,False,undetermined,,False
+5588,David William Irving,2020-02-26,shot,undetermined,35,M,,Kansas City,MO,False,undetermined,,False
+5593,Justin Lee Stackhouse,2020-02-26,shot,vehicle,30,M,B,Bradenton,FL,False,attack,Car,False
+5595,Ramiro Carrasco,2020-02-26,shot,gun,30,M,,Greeley,CO,False,other,Not fleeing,False
+5596,James Thomson,2020-02-26,shot,gun,30,M,,Tahlequah,OK,False,attack,Car,False
+5597,William Resto,2020-02-26,shot,knife,54,M,,Sylvania Township,OH,False,other,Not fleeing,False
+5578,Kent Richard Kruger,2020-02-27,shot,gun,36,M,W,Lakeville,MN,False,attack,Not fleeing,False
+5579,TK TK,2020-02-27,shot,undetermined,,M,,Clarkdale,AZ,False,attack,,False
+5594,Dorgel Cisnero-Mesa,2020-02-27,shot,gun,39,M,H,Jacksonville,FL,True,undetermined,,False
+5586,Jose Rivera,2020-02-28,shot,gun,20,M,,Moses Lake,WA,False,attack,Other,False
+5580,Anthony Taylor,2020-02-29,shot,gun,49,M,B,Milwaukee,WI,False,other,,False
+5585,Richard Rodriguez,2020-02-29,shot,gun,45,M,,San Antonio,TX,False,attack,Not fleeing,False
+5587,Stephen Douris,2020-02-29,shot,knife,45,M,,Henderson,NV,False,other,Not fleeing,False
+5577,Joshua Russell,2020-03-01,shot,gun,30,M,,Pueblo,CO,False,attack,Car,False
+5581,Raymundo Aaron Ceja,2020-03-01,shot,gun,30,M,,Santa Clarita,CA,False,other,Not fleeing,False
+5582,TK TK,2020-03-01,shot,gun,,M,,Santa Ana,CA,False,other,,False
+5583,TK TK,2020-03-01,shot,gun,,M,,Cloverleaf,TX,True,attack,Not fleeing,False
+5584,Ian Austin Wilson,2020-03-01,shot,gun,31,M,W,Mocksville,NC,False,attack,,False
+5600,Cody Hodges,2020-03-02,shot,gun,34,M,,Keithville,LA,True,attack,Not fleeing,False
+5601,Terry Cagle,2020-03-02,shot,gun,73,M,,Sherman,TX,False,attack,Car,False
+5598,Jose Antonio Gainza,2020-03-03,shot,knife,49,M,,Miami-Dade,FL,False,other,Not fleeing,False
