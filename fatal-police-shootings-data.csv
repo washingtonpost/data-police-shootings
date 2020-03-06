@@ -5097,7 +5097,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5595,Ramiro Carrasco,2020-02-26,shot,gun,30,M,,Greeley,CO,False,other,Not fleeing,False
 5596,James Thomson,2020-02-26,shot,gun,30,M,,Tahlequah,OK,False,attack,Car,False
 5597,William Resto,2020-02-26,shot,knife,54,M,,Sylvania Township,OH,False,other,Not fleeing,False
-5578,Kent Richard Kruger,2020-02-27,shot,gun,36,M,W,Lakeville,MN,False,attack,Not fleeing,False
+5578,Kent Richard Kruger,2020-02-27,shot,gun,36,M,W,Lakeville,MN,True,attack,Not fleeing,False
 5579,Joshua David Hernandez Lord,2020-02-27,shot,knife,33,M,W,Clarkdale,AZ,False,other,,False
 5594,Dorgel Cisnero-Mesa,2020-02-27,shot,gun,39,M,H,Jacksonville,FL,True,attack,,False
 5586,Jose L. Rivera,2020-02-28,shot,gun,22,M,,Moses Lake,WA,False,attack,Other,False
@@ -5105,10 +5105,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5585,Richard Rodriguez,2020-02-29,shot,gun,45,M,,San Antonio,TX,False,attack,Not fleeing,False
 5587,Stephen Douris,2020-02-29,shot,knife,45,M,,Henderson,NV,False,other,Not fleeing,False
 5577,Joshua Russell,2020-03-01,shot,gun,30,M,,Pueblo,CO,False,attack,Car,False
-5581,Raymundo Aaron Ceja,2020-03-01,shot,gun,30,M,,Santa Clarita,CA,False,other,Not fleeing,False
+5581,Raymundo Aaron Ceja,2020-03-01,shot,gun,30,M,H,Santa Clarita,CA,False,other,Not fleeing,False
 5582,TK TK,2020-03-01,shot,gun,,M,,Santa Ana,CA,False,other,,False
 5583,TK TK,2020-03-01,shot,gun,,M,,Cloverleaf,TX,True,attack,Not fleeing,False
 5584,Ian Austin Wilson,2020-03-01,shot,gun,31,M,W,Mocksville,NC,False,attack,,False
-5600,Cody Hodges,2020-03-02,shot,gun,34,M,,Keithville,LA,True,attack,Not fleeing,False
-5601,Terry Cagle,2020-03-02,shot,gun,73,M,,Sherman,TX,False,attack,Car,False
+5600,Cody Hodges,2020-03-02,shot,toy weapon,34,M,,Keithville,LA,True,attack,Not fleeing,False
+5601,Terry Cagle,2020-03-02,shot,BB gun,73,M,,Sherman,TX,False,attack,Car,False
 5598,Jose Antonio Gainza,2020-03-03,shot,knife,49,M,,Miami-Dade,FL,False,other,Not fleeing,False
