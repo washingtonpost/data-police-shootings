@@ -5099,7 +5099,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5595,Ramiro Carrasco,2020-02-26,shot,gun,30,M,,Greeley,CO,False,other,Not fleeing,False
 5596,James Thomson,2020-02-26,shot,gun,30,M,,Tahlequah,OK,False,attack,Car,False
 5597,William Resto,2020-02-26,shot,knife,54,M,,Sylvania Township,OH,False,other,Not fleeing,False
-5604,TK TK,2020-02-26,shot,unarmed,,M,,Garden Grove,CA,False,attack,,False
+5604,TK TK,2020-02-26,shot,unarmed,,M,,Garden Grove,CA,False,attack,,True
 5578,Kent Richard Kruger,2020-02-27,shot,gun,36,M,W,Lakeville,MN,True,attack,Not fleeing,False
 5579,Joshua David Hernandez Lord,2020-02-27,shot,knife,33,M,W,Clarkdale,AZ,False,other,,False
 5594,Dorgel Cisnero-Mesa,2020-02-27,shot,gun,39,M,H,Jacksonville,FL,True,attack,,False
@@ -5117,9 +5117,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5598,Jose Antonio Gainza,2020-03-03,shot,knife,49,M,,Miami-Dade,FL,False,other,Not fleeing,False
 5607,TK TK,2020-03-03,shot,gun,,M,,Riverside,WA,False,attack,,False
 5605,Christopher Palmer,2020-03-04,shot,unarmed,37,M,W,Manila,AR,False,attack,Not fleeing,False
-5612,"Gary Lee Tierney, Sr.",2020-03-04,shot,gun,73,M,,Fayetteville,NC,False,attack,Not fleeing,False
+5612,Gary Lee Tierney,2020-03-04,shot,gun,73,M,,Fayetteville,NC,False,attack,Not fleeing,False
 5606,Gene Beasley,2020-03-05,shot,gun,,M,,Ariton,AL,False,other,Car,False
-5613,Ajay Ayseli,2020-03-05,shot,unknown weapon,31,M,,Henrico,VA,False,attack,Not fleeing,False
+5613,Ajay Kamil Ayseli,2020-03-05,shot,knife,31,M,,Henrico,VA,False,attack,Not fleeing,False
 5616,Jacob Frausto,2020-03-06,shot,gun,41,M,,Tucson,AZ,True,attack,Not fleeing,False
 5619,Tyler M. Jones,2020-03-06,shot,gun,24,M,,Fairfield,OH,False,other,Not fleeing,False
 5620,Barry Gedeus,2020-03-06,shot,undetermined,27,M,,Fort Lauderdale,FL,False,undetermined,Foot,False
