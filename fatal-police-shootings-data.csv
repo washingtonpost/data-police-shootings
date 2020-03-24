@@ -5122,14 +5122,31 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5613,Ajay Kamil Ayseli,2020-03-05,shot,knife,31,M,,Henrico,VA,False,attack,Not fleeing,False
 5616,Jacob Frausto,2020-03-06,shot,gun,41,M,,Tucson,AZ,True,attack,Not fleeing,False
 5619,Tyler M. Jones,2020-03-06,shot,gun,24,M,,Fairfield,OH,False,other,Not fleeing,False
-5620,Barry Gedeus,2020-03-06,shot,undetermined,27,M,,Fort Lauderdale,FL,False,undetermined,Foot,False
+5620,Barry Gedeus,2020-03-06,shot,undetermined,27,M,B,Fort Lauderdale,FL,False,attack,Foot,False
 5621,Jerry Gaghins,2020-03-06,shot,knife,,M,,Tulsa,OK,False,attack,Not fleeing,False
 5610,Matthew Adam Miller,2020-03-07,shot,knife,33,M,,Stroudsburg,PA,False,other,Not fleeing,False
 5618,Gary Brown,2020-03-07,shot,vehicle,43,M,,Harrison Township,OH,False,attack,Car,False
 5608,Charles Harwood,2020-03-08,shot,gun,65,M,,Montgomery,AL,False,attack,Not fleeing,False
 5609,Lawson Edward Schaber,2020-03-08,shot,gun,84,M,W,Apache Junction,AZ,False,attack,Not fleeing,False
-5614,TK TK,2020-03-08,shot,knife,,F,,Torrance,CA,False,other,Not fleeing,False
-5615,TK TK,2020-03-08,shot,gun,,M,,Humble,TX,False,other,Not fleeing,False
+5614,Desiree Nicole Garza,2020-03-08,shot,knife,29,F,,Torrance,CA,False,other,Not fleeing,False
+5615,TK TK,2020-03-08,shot,gun,,M,,Humble,TX,False,attack,Foot,False
 5617,Keith P. Haux,2020-03-08,shot,gun,57,M,W,Backus,MN,False,other,Not fleeing,False
 5623,Aaron Tolen,2020-03-08,shot,unarmed,37,M,,Wasilla,AK,False,attack,Not fleeing,False
 5622,TK TK,2020-03-09,shot,gun,,F,,Dinuba,CA,False,attack,Not fleeing,False
+5633,Jesus Bonito Garcia,2020-03-09,shot,screwdriver,47,M,H,Elmendorf,TX,False,other,,False
+5626,Breona Taylor,2020-03-12,shot,unarmed,26,F,B,Louisville,KY,False,undetermined,Not fleeing,False
+5628,Jorge Martinez,2020-03-13,shot,undetermined,30,M,H,Claremore,OK,False,attack,Foot,False
+5635,Marc Morgan,2020-03-13,shot,gun,62,M,,New Kensington,PA,False,attack,,False
+5627,TK TK,2020-03-14,shot,vehicle,48,M,,Cocoa,FL,False,other,Car,False
+5629,TK TK,2020-03-14,shot,gun,,M,,Taos,NM,False,attack,Car,False
+5630,Justin Griggs,2020-03-14,shot,gun,30,M,,Louisville,KY,False,undetermined,,True
+5631,TK TK,2020-03-14,shot,undetermined,,M,,Springfield,OR,False,attack,Not fleeing,False
+5632,Rory Edwin Murray,2020-03-14,shot,gun,30,M,,Lodi,CA,False,attack,Car,False
+5634,Jesse Cadillo,2020-03-14,shot,gun,20,M,,Pueblo,CO,False,attack,Other,False
+5624,Michael Potter,2020-03-15,shot,gun,38,M,W,High Point,NC,False,attack,,False
+5625,TK TK,2020-03-15,shot,knife,,F,,Long Beach,CA,False,attack,Not fleeing,False
+5640,Doug Foster,2020-03-15,shot,gun,47,M,W,Lewistown,MT,False,attack,Car,False
+5636,TK TK,2020-03-16,shot,gun,,M,,Webster City,IA,False,attack,Not fleeing,False
+5637,TK TK,2020-03-16,shot,machete,58,M,,San Antonio,TX,False,other,Not fleeing,False
+5638,TK TK,2020-03-16,shot,gun,,M,,Miami,FL,True,attack,Other,False
+5639,TK TK,2020-03-16,shot,gun,,M,,Mecklenburg,NC,False,attack,,False
