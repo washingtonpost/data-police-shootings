@@ -5139,10 +5139,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5635,Marc Morgan,2020-03-13,shot,gun,62,M,,New Kensington,PA,False,attack,,False
 5627,TK TK,2020-03-14,shot,vehicle,48,M,,Cocoa,FL,False,other,Car,False
 5629,TK TK,2020-03-14,shot,gun,,M,,Taos,NM,False,attack,Car,False
-5630,Justin Griggs,2020-03-14,shot,gun,30,M,,Louisville,KY,False,undetermined,,True
-5631,TK TK,2020-03-14,shot,undetermined,,M,,Springfield,OR,False,attack,Not fleeing,False
+5630,Justin Griggs,2020-03-14,shot,gun,30,M,,Louisville,KY,False,attack,Foot,True
+5631,Chase Brooks,2020-03-14,shot,undetermined,32,M,,Springfield,OR,False,attack,Not fleeing,False
 5632,Rory Edwin Murray,2020-03-14,shot,gun,30,M,,Lodi,CA,False,attack,Car,False
-5634,Jesse Cadillo,2020-03-14,shot,gun,20,M,,Pueblo,CO,False,attack,Other,False
+5634,Jesse Cadillo,2020-03-14,shot,gun,20,M,,Pueblo,CO,False,attack,Foot,False
 5624,Michael Potter,2020-03-15,shot,gun,38,M,W,High Point,NC,False,attack,,False
 5625,TK TK,2020-03-15,shot,knife,,F,,Long Beach,CA,False,attack,Not fleeing,False
 5640,Doug Foster,2020-03-15,shot,gun,47,M,W,Lewistown,MT,False,attack,Car,False
@@ -5150,3 +5150,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5637,TK TK,2020-03-16,shot,machete,58,M,,San Antonio,TX,False,other,Not fleeing,False
 5638,TK TK,2020-03-16,shot,gun,,M,,Miami,FL,True,attack,Other,False
 5639,TK TK,2020-03-16,shot,gun,,M,,Mecklenburg,NC,False,attack,,False
+5655,TK TK,2020-03-16,shot,undetermined,,M,,Tucson,AZ,False,undetermined,Foot,False
+5651,TK TK,2020-03-18,shot,gun,,M,,Iota,LA,False,other,,False
+5653,Steven Alire,2020-03-18,shot,gun,51,M,,Orchard Mesa,CO,False,other,Foot,False
+5652,TK TK,2020-03-18,shot and Tasered,knife,,M,B,Abilene,TX,False,attack,Foot,False
+5650,Charles Parker,2020-03-19,shot and Tasered,knife,47,M,,Port Jervis,NY,True,other,Not fleeing,False
+5648,Kamall Koby Edwards,2020-03-20,shot,gun,18,M,,Cuthbert,GA,False,attack,Foot,False
