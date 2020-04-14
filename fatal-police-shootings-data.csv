@@ -5134,10 +5134,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5623,Aaron Tolen,2020-03-08,shot,unarmed,37,M,,Wasilla,AK,False,attack,Not fleeing,False
 5622,Jennifer Taylor,2020-03-09,shot,gun,29,F,W,Dinuba,CA,False,attack,Not fleeing,False
 5633,Jesus Bonito Garcia,2020-03-09,shot,screwdriver,47,M,H,Elmendorf,TX,False,other,,False
-5658,Kevin Keene,2020-03-09,shot,gun,49,M,,Maitland,FL,False,attack,Not fleeing,False
-5659,TK TK,2020-03-10,shot,gun,,M,,Bell Gardens,CA,True,attack,,False
-5660,Joshua Christopher Noles,2020-03-11,shot,gun,38,M,W,Elkton,FL,False,attack,Not fleeing,False
-5661,Mary Kate Field,2020-03-11,shot,,32,F,,Anchor Point,AK,False,undetermined,,False
+5659,TK TK,2020-03-10,shot,unarmed,,M,,Bell Gardens,CA,True,undetermined,,False
+5660,Joshua Christopher Noles,2020-03-11,shot,gun,38,M,W,Elkton,FL,False,attack,Car,False
+5661,Mary Kate Field,2020-03-11,shot,gun,32,F,,Anchor Point,AK,False,attack,,False
 5626,Breona Taylor,2020-03-12,shot,unarmed,26,F,B,Louisville,KY,False,undetermined,Not fleeing,False
 5662,Duncan Socrates Lemp,2020-03-12,shot,gun,21,M,,Potomac,MD,False,attack,Not fleeing,True
 5663,Donnie Sanders,2020-03-12,shot,unarmed,47,M,,Kansas City,MO,False,undetermined,Foot,False
@@ -5145,7 +5144,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5635,Marc Morgan,2020-03-13,shot,gun,62,M,,New Kensington,PA,False,attack,,False
 5654,Rosario Angel Alvarado,2020-03-13,shot,toy weapon,41,M,H,Chandler,AZ,False,attack,Not fleeing,False
 5664,Dung Nguyen,2020-03-13,shot,gun,50,M,A,Garland,TX,False,attack,Not fleeing,False
-5665,Christopher Mullins,2020-03-13,shot,knife,,M,,Mufreesboro,TN,False,attack,Not fleeing,False
+5665,Christopher Mullins,2020-03-13,shot,knife,,M,,Mufreesboro,TN,False,other,Not fleeing,False
 5627,TK TK,2020-03-14,shot,vehicle,48,M,,Cocoa,FL,False,attack,Car,False
 5629,TK TK,2020-03-14,shot,gun,,M,,Taos,NM,False,attack,Car,False
 5630,Justin Griggs,2020-03-14,shot,gun,30,M,,Louisville,KY,False,attack,Foot,True
