@@ -5120,10 +5120,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5612,Gary Lee Tierney,2020-03-04,shot,gun,73,M,,Fayetteville,NC,False,attack,Not fleeing,False
 5606,Gene Beasley,2020-03-05,shot,gun,,M,,Ariton,AL,False,other,Car,False
 5613,Ajay Kamil Ayseli,2020-03-05,shot,knife,31,M,,Henrico,VA,False,attack,Not fleeing,False
+5656,Elijah Jamaal Brewer,2020-03-05,shot,gun,25,M,,Pittsburgh,PA,False,attack,Not fleeing,False
 5616,Jacob Frausto,2020-03-06,shot,gun,41,M,,Tucson,AZ,True,attack,Not fleeing,False
 5619,Tyler M. Jones,2020-03-06,shot,gun,24,M,,Fairfield,OH,False,other,Not fleeing,False
 5620,Barry Gedeus,2020-03-06,shot,undetermined,27,M,B,Fort Lauderdale,FL,False,attack,Foot,False
 5621,Jerry Gaghins,2020-03-06,shot,knife,,M,,Tulsa,OK,False,attack,Not fleeing,False
+5657,Kenneth Mullins,2020-03-06,shot,unarmed,32,M,W,Edison,CA,False,attack,Not fleeing,False
 5610,Matthew Adam Miller,2020-03-07,shot,knife,33,M,,Stroudsburg,PA,False,other,Not fleeing,False
 5618,Gary Brown,2020-03-07,shot,vehicle,43,M,,Harrison Township,OH,False,attack,Car,False
 5608,Charles Harwood,2020-03-08,shot,gun,65,M,,Montgomery,AL,False,attack,Not fleeing,False
@@ -5173,3 +5175,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5645,Bryan Pena,2020-03-21,shot,unknown weapon,28,M,,Taylorsville,UT,False,other,Other,False
 5641,Gerald Johnson,2020-03-22,shot,toy weapon,55,M,,Sacramento,CA,False,attack,Not fleeing,True
 5642,Carlos Delgado,2020-03-23,shot,pick-axe,46,M,,San Antonio,TX,False,attack,Not fleeing,False
+5682,Shawn Lee,2020-04-11,shot,machete,48,M,,Ritzville,WA,True,other,Not fleeing,False
+5676,TK TK,2020-04-13,shot,screwdriver,,M,,Jackson,MS,False,other,Foot,False
+5681,Thomas Powell III,2020-04-14,shot,gun,31,M,,Old Town,ME,False,attack,Not fleeing,False
+5677,Tony Clements,2020-04-15,shot,gun,33,M,,Hubert,NC,False,attack,Not fleeing,False
+5678,TK TK,2020-04-15,shot,gun,,M,,Blair,NE,False,attack,Not fleeing,False
+5679,TK TK,2020-04-15,shot,gun,,M,,Waukesha,WI,False,attack,Not fleeing,False
+5670,Juan Ayon-Barraza,2020-04-16,shot,gun,24,M,H,Richmond,CA,False,attack,Car,False
+5674,Salvatore Friscia,2020-04-16,shot,vehicle,48,M,,Philipsburg,MT,False,attack,Not fleeing,False
+5675,Derick Powe,2020-04-17,shot,gun,,M,,Daphne,AL,True,attack,Not fleeing,False
+5671,Steven Taylor,2020-04-18,shot,baseball bat,33,M,B,San Leandro,CA,False,other,Not fleeing,False
+5672,Willie Hampton,2020-04-18,shot,gun,37,M,,Raytown,MO,False,other,Not fleeing,False
+5673,TK TK,2020-04-18,shot,gun,,M,,Mankato,MN,False,other,Other,False
+5669,TK TK,2020-04-19,shot,gun,,M,,Henderson,NV,False,attack,Not fleeing,False
