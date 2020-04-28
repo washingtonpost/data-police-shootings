@@ -5182,13 +5182,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5687,Maurico Hernandez,2020-03-24,shot,gun,31,M,H,El Paso,TX,False,attack,Car,False
 5688,Matthew Moore,2020-03-25,shot,gun,19,M,W,Pahrump,NV,False,attack,Not fleeing,True
 5689,Glenn A. White,2020-03-25,shot,knife,53,M,,London,AR,True,other,Not fleeing,False
-5717,Deanna Owsianiak,2020-03-26,shot,gun,55,F,,Ormond Beach,FL,False,attack,Not fleeing,False
+5717,Deanna Marie Owsianiak,2020-03-26,shot,gun,55,F,,Ormond Beach,FL,False,attack,Not fleeing,False
 5719,John Mark Hendrick,2020-03-26,shot,unarmed,32,M,W,Linwood,NC,False,other,Car,False
 5691,William Patrick Floyd,2020-03-27,shot,gun,51,M,,Portland,OR,False,other,Not fleeing,False
 5692,Robert Harman Sword,2020-03-27,shot,gun,46,M,,Buchanan,VA,False,attack,Not fleeing,False
 5693,Tyrell Fincher,2020-03-27,shot,gun,26,M,B,Newburgh,NY,False,attack,,True
 5694,TK TK,2020-03-27,shot,gun,,M,,Lehigh Acres,FL,False,attack,Foot,False
-5721,William Patrick Floyd,2020-03-27,shot,undetermined,51,M,,Salem,OR,False,undetermined,,False
+5721,William Patrick Floyd,2020-03-27,shot,gun,51,M,,Salem,OR,False,other,,False
 5695,Thomas Owens,2020-03-28,shot,gun,49,M,,Gray,KY,False,attack,Not fleeing,False
 5696,Shane Farwell,2020-03-28,shot,gun,46,M,,Caldwell,ID,False,attack,Not fleeing,False
 5697,Jacob  Emry Mcilveen,2020-03-29,shot,gun,22,M,W,Phoenix,AZ,True,attack,Not fleeing,False
@@ -5198,13 +5198,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5701,Valente Acosta-Bustillos,2020-03-31,shot,shovel,52,M,H,Albuquerque,NM,True,other,Not fleeing,False
 5702,Shane Tilman Kent,2020-03-31,shot,gun,29,M,,Asheville,NC,False,attack,Not fleeing,False
 5703,John H. Ross,2020-03-31,shot,gun and car,29,M,,Hinton,VA,False,attack,Car,False
-5705,TK TK,2020-03-31,shot,knife,,,,Burkesville,KY,False,attack,Not fleeing,False
-5704,Austin Hines,2020-04-01,shot,gun,19,M,W,Columbus,MS,False,attack,Car,False
-5706,Nathan Hodge,2020-04-01,shot,gun,66,M,,Ouachita Parish,LA,False,attack,Not fleeing,False
+5705,TK TK,2020-03-31,shot,knife,,,,Burkesville,KY,False,attack,Car,False
+5704,Austin Hines,2020-04-01,shot,gun and vehicle,19,M,W,Columbus,MS,False,attack,Car,False
+5706,Nathan R. Hodge,2020-04-02,shot,gun,66,M,,Ouachita Parish,LA,False,attack,Not fleeing,False
 5707,David Xanatos,2020-04-02,shot,knife,40,M,,Lincoln CIty,OR,False,other,Not fleeing,False
 5710,Jose Moreno,2020-04-02,shot,Taser,30,M,H,Mesa,AZ,False,attack,Other,False
 5712,Joseph Zahaczewski,2020-04-02,shot,gun,69,M,,Irving,TX,False,attack,,False
-5713,Jose Soto,2020-04-02,shot,unarmed,27,M,H,Manchester,CT,True,undetermined,Not fleeing,False
+5713,Jose Soto,2020-04-02,shot,unarmed,27,M,H,Manchester,CT,True,other,Not fleeing,False
 5714,Leneard Bliss,2020-04-04,shot,knife,,M,,Nutter Fort,WV,False,other,Not fleeing,False
 5715,TK TK,2020-04-05,shot,gun,,M,,Hialeah,FL,False,attack,Not fleeing,False
 5716,Carl Manning,2020-04-05,shot,unknown weapon,62,M,W,Manchester,NH,False,other,Not fleeing,False
@@ -5259,7 +5259,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5758,TK TK,2020-04-23,shot,gun,,M,,Paterson,NJ,True,other,Not fleeing,False
 5751,TK TK,2020-04-24,shot,gun,,M,,Austin,TX,False,attack,Not fleeing,False
 5752,"Timothy Slides, Jr.",2020-04-24,shot,gun,28,M,,Lenoir,NC,False,attack,Not fleeing,True
-5753,TK TK,2020-04-24,shot,undetermined,,M,,Napa,CA,False,undetermined,Car,False
+5753,Brandan Reid Nylander,2020-04-24,shot,gun,24,M,W,Napa,CA,False,other,Car,False
 5754,Marlon Aaron Bonds,2020-04-24,shot,,53,M,,Denton,TX,False,undetermined,,False
 5755,Roy Joiner,2020-04-24,shot,gun,67,M,,Adel,GA,False,attack,Not fleeing,False
 5757,TK TK,2020-04-24,shot,gun,,M,,Birmingham,AL,False,attack,Not fleeing,False
