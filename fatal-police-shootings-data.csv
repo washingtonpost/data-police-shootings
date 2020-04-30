@@ -5201,23 +5201,23 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5705,TK TK,2020-03-31,shot,knife,,,,Burkesville,KY,False,attack,Car,False
 5704,Austin Hines,2020-04-01,shot,gun and vehicle,19,M,W,Columbus,MS,False,attack,Car,False
 5706,Nathan R. Hodge,2020-04-02,shot,gun,66,M,,Ouachita Parish,LA,False,attack,Not fleeing,False
-5707,David Xanatos,2020-04-02,shot,knife,40,M,,Lincoln CIty,OR,False,other,Not fleeing,False
+5707,David A. Xanatos,2020-04-02,shot,knife,40,M,,Lincoln CIty,OR,False,other,Not fleeing,False
 5710,Jose Moreno,2020-04-02,shot,Taser,30,M,H,Mesa,AZ,False,attack,Other,False
 5712,Joseph Zahaczewski,2020-04-02,shot,gun,69,M,,Irving,TX,False,attack,,False
 5713,Jose Soto,2020-04-02,shot,unarmed,27,M,H,Manchester,CT,True,other,Not fleeing,False
 5714,Leneard Bliss,2020-04-04,shot,knife,,M,,Nutter Fort,WV,False,other,Not fleeing,False
-5715,TK TK,2020-04-05,shot,gun,,M,,Hialeah,FL,False,attack,Not fleeing,False
+5715,TK TK,2020-04-05,shot,gun,59,M,,Hialeah,FL,False,attack,Not fleeing,False
 5716,Carl Manning,2020-04-05,shot,unknown weapon,62,M,W,Manchester,NH,False,other,Not fleeing,False
-5718,Michael Hammett,2020-04-05,shot,gun,,M,W,Ada,OK,True,attack,Not fleeing,False
-5722,Philip Castonguay III,2020-04-05,shot,metal pipe,39,M,,Milford,MA,False,attack,Not fleeing,False
-5723,Richard Lee Kampstra,2020-04-05,shot,,67,M,W,Melbourne,FL,False,undetermined,,False
+5718,Michael Leon Hammett,2020-04-05,shot,knife,,M,W,Ada,OK,True,attack,Not fleeing,False
+5722,Philip Castonguay,2020-04-05,shot,metal pipe,39,M,,Milford,MA,False,attack,Not fleeing,False
+5723,Richard Lee Kampstra,2020-04-05,shot,gun,67,M,W,Melbourne,FL,False,other,,False
 5724,Kelvin Parks,2020-04-06,shot,gun,54,M,W,Florence,AL,False,attack,Foot,False
 5725,Yamil Acevedo,2020-04-06,shot,vehicle,29,M,,North Miami Beach,FL,False,attack,Car,False
-5726,Brandon Stokes,2020-04-07,shot,gun,37,M,,Eatonville,WA,True,other,Not fleeing,False
+5726,Brandon Mark Stokes,2020-04-07,shot,gun and car,37,M,,Eatonville,WA,True,attack,Car,False
 5727,Idris Abdus-Salaam,2020-04-07,shot,knife,33,M,B,Knoxville,TN,False,other,Not fleeing,False
-5728,Joshua Baccon,2020-04-07,shot,knife,31,M,,El Mirage,AZ,True,attack,Not fleeing,False
-5729,Jacob Dau,2020-04-07,shot,unarmed,38,M,W,Clinton,IA,False,other,Car,False
-5730,Derek Swanson,2020-04-07,shot,gun,28,M,W,Caddo Parish,LA,False,attack,Other,False
+5728,Joshua Bacco,2020-04-07,shot,knife,31,M,,El Mirage,AZ,True,attack,Not fleeing,False
+5729,Jacob Matthew Dau,2020-04-07,shot,undetermined,38,M,W,Clinton,IA,False,other,Car,False
+5730,Derek T. Swanson,2020-04-07,shot,gun,28,M,W,Caddo Parish,LA,False,attack,Other,False
 5731,Dewayne Curtis Lafond,2020-04-07,shot,gun,45,M,,Refugio,TX,False,attack,Not fleeing,False
 5732,Rick Howell,2020-04-08,shot,gun,59,M,,Salisbury,MD,True,attack,Not fleeing,False
 5733,Joshua Dariandre Ruffin,2020-04-08,shot,gun,17,M,B,Columbia,SC,False,other,Foot,False
@@ -5257,9 +5257,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5760,TK TK,2020-04-22,shot,undetermined,,M,,Springfield,CO,False,undetermined,Not fleeing,False
 5763,TK TK,2020-04-22,shot,knife,,M,,Los Angeles,CA,False,other,Not fleeing,False
 5758,TK TK,2020-04-23,shot,gun,,M,,Paterson,NJ,True,other,Not fleeing,False
-5751,TK TK,2020-04-24,shot,gun,,M,,Austin,TX,False,attack,Not fleeing,False
+5751,Michael Ramos,2020-04-24,shot,gun,42,M,,Austin,TX,False,attack,Not fleeing,False
 5752,"Timothy Slides, Jr.",2020-04-24,shot,gun,28,M,,Lenoir,NC,False,attack,Not fleeing,True
 5753,Brandan Reid Nylander,2020-04-24,shot,gun,24,M,W,Napa,CA,False,other,Car,False
 5754,Marlon Aaron Bonds,2020-04-24,shot,,53,M,,Denton,TX,False,undetermined,,False
 5755,Roy Joiner,2020-04-24,shot,gun,67,M,,Adel,GA,False,attack,Not fleeing,False
-5757,TK TK,2020-04-24,shot,gun,,M,,Birmingham,AL,False,attack,Not fleeing,False
