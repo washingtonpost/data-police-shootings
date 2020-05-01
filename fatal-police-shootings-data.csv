@@ -5224,8 +5224,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5734,Zyon Romeir Wyche,2020-04-09,shot,gun,19,M,B,Colonial Heights,VA,False,attack,Foot,False
 5735,Kenneth Jeremy Blair,2020-04-09,shot,Taser,36,M,W,Winchester,TN,False,attack,Foot,False
 5736,Zachary Shane Gifford,2020-04-09,shot,unarmed,39,M,,Brandon,CO,False,attack,Foot,False
-5737,Matt Goff,2020-04-10,shot,gun,,M,,Klamath Falls,OR,False,attack,,False
-5738,Giuseppe Particianone,2020-04-10,shot,gun,33,M,W,Philadelphia,PA,False,other,Not fleeing,False
+5737,Matt Goff,2020-04-10,shot,gun,,M,,Klamath Falls,OR,False,attack,Car,False
+5738,Giuseppe Particianone,2020-04-10,shot,unarmed,33,M,,Philadelphia,PA,False,other,Not fleeing,False
 5682,Shawn Lee,2020-04-11,shot,machete,48,M,,Ritzville,WA,True,other,Not fleeing,False
 5739,Jonathan Lee Adams,2020-04-11,shot,gun,31,M,,Pottstown,PA,False,attack,Not fleeing,False
 5740,Leah Baker,2020-04-11,shot,knife,29,F,W,Jacksonville,FL,False,other,Not fleeing,False
@@ -5245,20 +5245,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5747,Anthony Wilson,2020-04-16,shot,gun,28,M,,Jefferson City,MO,False,attack,Foot,False
 5749,TK TK,2020-04-16,shot,vehicle,,M,,Lubbock,TX,False,attack,Car,False
 5675,Derick L. Powe,2020-04-17,shot,gun,,M,,Daphne,AL,True,attack,Not fleeing,False
-5750,Marcus Epps,2020-04-17,shot,knife,43,M,,Anderson,SC,False,attack,,False
+5750,Marcus Eugene Epps,2020-04-17,shot,knife,43,M,,Anderson,SC,False,attack,,False
 5671,Steven Taylor,2020-04-18,shot,baseball bat,33,M,B,San Leandro,CA,False,other,Not fleeing,False
 5672,Willie J. Hampton,2020-04-18,shot,gun,37,M,,Raytown,MO,False,other,Not fleeing,False
 5673,TK TK,2020-04-18,shot,gun,,M,,Mankato,MN,False,attack,Other,False
 5669,Mason Workman,2020-04-19,shot,gun,40,M,,Henderson,NV,False,attack,Not fleeing,False
 5761,Virgill Thrope,2020-04-19,shot,gun,28,M,B,Colorado Springs,CO,False,attack,Not fleeing,False
-5756,Chase Rosa,2020-04-21,shot,gun,24,M,B,Las Vegas,NV,False,attack,Car,False
-5762,TK TK,2020-04-21,shot,knife,27,M,H,Houston,TX,True,attack,Not fleeing,False
-5759,Elmer Mack,2020-04-22,shot,gun,40,M,,Florence,SC,False,attack,Not fleeing,False
+5756,Chase Rosa,2020-04-21,shot,gun,24,M,B,Las Vegas,NV,False,attack,Car,True
+5762,Nicholas Chavin,2020-04-21,shot,Taser,27,M,H,Houston,TX,True,attack,Foot,False
+5759,Elmer L. Mack,2020-04-22,shot,gun,40,M,,Florence,SC,False,attack,Not fleeing,False
 5760,TK TK,2020-04-22,shot,undetermined,,M,,Springfield,CO,False,undetermined,Not fleeing,False
 5763,TK TK,2020-04-22,shot,knife,,M,,Los Angeles,CA,False,other,Not fleeing,False
 5758,TK TK,2020-04-23,shot,gun,,M,,Paterson,NJ,True,other,Not fleeing,False
-5751,Michael Ramos,2020-04-24,shot,gun,42,M,,Austin,TX,False,attack,Not fleeing,False
-5752,"Timothy Slides, Jr.",2020-04-24,shot,gun,28,M,,Lenoir,NC,False,attack,Not fleeing,True
+5751,Michael Ramos,2020-04-24,shot,unarmed,42,M,,Austin,TX,False,undetermined,Car,False
+5752,Timothy Darryl Slides,2020-04-24,shot,gun,28,M,,Lenoir,NC,False,attack,Not fleeing,True
 5753,Brandan Reid Nylander,2020-04-24,shot,gun,24,M,W,Napa,CA,False,other,Car,False
-5754,Marlon Aaron Bonds,2020-04-24,shot,,53,M,,Denton,TX,False,undetermined,,False
+5754,Marlon Aaron Bonds,2020-04-24,shot,gun,53,M,,Denton,TX,False,attack,,False
 5755,Roy Joiner,2020-04-24,shot,gun,67,M,,Adel,GA,False,attack,Not fleeing,False
