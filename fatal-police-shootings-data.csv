@@ -5162,8 +5162,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5638,TK TK,2020-03-16,shot,gun,,M,,Miami,FL,True,attack,Other,False
 5639,Dakota Wayne Yancey,2020-03-16,shot,gun,18,M,W,Mecklenburg,VA,False,attack,,False
 5655,Marvin O'Reilly,2020-03-16,shot,undetermined,55,M,,Tucson,AZ,False,undetermined,Foot,False
-5709,Charity Thorne,2020-03-16,shot,vehicle,42,F,,Myerstown,PA,False,other,Car,False
-5711,William Simpkins,2020-03-17,shot,gun,39,M,B,Atlanta,GA,False,attack,Foot,False
+5709,Charity Thorne,2020-03-16,shot,vehicle,42,F,,Myerstown,PA,False,attack,Car,False
+5711,William Simpkins,2020-03-17,shot,gun,39,M,,Atlanta,GA,False,attack,Foot,False
 5651,TK TK,2020-03-18,shot,gun,,M,,Iota,LA,False,other,,False
 5653,Steven Alire,2020-03-18,shot,gun,51,M,W,Orchard Mesa,CO,False,other,Foot,False
 5652,Lebarron Ballard,2020-03-18,shot and Tasered,knife,28,M,B,Abilene,TX,False,attack,Foot,False
@@ -5265,7 +5265,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5754,Marlon Aaron Bonds,2020-04-24,shot,gun,53,M,,Denton,TX,False,attack,,False
 5755,Roy Joiner,2020-04-24,shot,gun,67,M,,Adel,GA,False,attack,Not fleeing,False
 5767,Reed Rickabaugh,2020-04-24,shot,gun,59,M,,Hiram,ME,False,attack,Not fleeing,False
-5768,Farrond Morris Hammond,2020-04-25,shot,gun,61,M,,Hogansville,GA,False,attack,Not fleeing,False
+5768,Farron Morris Hammond,2020-04-25,shot,gun,61,M,,Hogansville,GA,False,attack,Not fleeing,False
 5765,Bradley G. Pullman,2020-04-26,shot,vehicle,48,M,,Wayne,NJ,False,other,Car,False
 5766,De Quang Tran,2020-04-26,shot,gun,26,M,,La Plata,MD,False,attack,Not fleeing,False
 5775,Nicolas Chavez,2020-04-27,shot,sharp object,27,M,,Houston,TX,True,other,Not fleeing,False
