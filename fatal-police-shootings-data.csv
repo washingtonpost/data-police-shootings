@@ -5270,9 +5270,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5766,De Quang Tran,2020-04-26,shot,gun,26,M,,La Plata,MD,False,attack,Not fleeing,False
 5775,Nicolas Chavez,2020-04-27,shot,sharp object,27,M,,Houston,TX,True,other,Not fleeing,False
 5788,Robert Musser,2020-04-28,shot,gun,32,M,,Buckeye,AZ,False,attack,Car,False
-5786,William Abbe,2020-04-28,shot and Tasered,sharp object,50,M,,Vancouver,WA,False,attack,Not fleeing,False
+5786,William E. Abbe,2020-04-28,shot and Tasered,sharp object,50,M,,Vancouver,WA,False,attack,Not fleeing,False
 5784,Jesus Caballero,2020-04-29,shot,gun,38,M,,Las Vegas,NV,False,attack,Car,False
-5785,Artemio Alfaro,2020-04-29,shot,vehicle,29,M,,Madera County,CA,False,attack,Other,False
+5785,Artemio Mondragon Alfaro,2020-04-29,shot,vehicle,29,M,W,Madera County,CA,False,attack,Other,False
 5787,Malcolm Xavier Ray Williams,2020-04-29,shot,gun,27,M,B,Jeffersonville,IN,False,attack,Not fleeing,False
 5782,TK TK,2020-04-30,shot,gun,,M,,Los Angeles,CA,False,other,Car,False
 5783,Timothy Allen Gilbert,2020-04-30,shot,gun,43,M,W,Martin County,KY,False,attack,Car,False
