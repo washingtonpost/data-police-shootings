@@ -5246,12 +5246,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5674,Salvatore Friscia,2020-04-16,shot,vehicle,48,M,,Philipsburg,MT,False,attack,Not fleeing,False
 5747,Anthony Wilson,2020-04-16,shot,gun,28,M,,Jefferson City,MO,False,attack,Foot,False
 5749,Jasman Washington,2020-04-16,shot,vehicle,31,M,B,Lubbock,TX,False,attack,Car,False
-5675,Derick L. Powe,2020-04-17,shot,gun,,M,,Daphne,AL,True,attack,Not fleeing,False
-5750,Marcus Eugene Epps,2020-04-17,shot,knife,43,M,,Anderson,SC,False,attack,,False
+5675,Derick L. Powe,2020-04-17,shot,gun,,M,B,Daphne,AL,True,attack,Not fleeing,False
+5750,Marcus Eugene Epps,2020-04-17,shot,knife,43,M,W,Anderson,SC,False,attack,,False
 5671,Steven Taylor,2020-04-18,shot,baseball bat,33,M,B,San Leandro,CA,False,other,Not fleeing,False
 5672,Willie J. Hampton,2020-04-18,shot,gun,37,M,,Raytown,MO,False,other,Not fleeing,False
-5673,Austin Dean Heights,2020-04-18,shot,gun,24,M,,Mankato,MN,True,attack,Other,False
-5669,Mason Workman,2020-04-19,shot,gun,40,M,,Henderson,NV,False,attack,Not fleeing,True
+5673,Austin Dean Heights,2020-04-18,shot,gun,24,M,W,Mankato,MN,True,attack,Other,False
+5669,Mason Workman,2020-04-19,shot,gun,40,M,W,Henderson,NV,False,attack,Not fleeing,True
 5761,Virgill Thrope,2020-04-19,shot,gun,28,M,B,Colorado Springs,CO,False,attack,Not fleeing,False
 5756,Chase Rosa,2020-04-21,shot,gun,24,M,B,Las Vegas,NV,False,attack,Car,True
 5762,Nicholas Chavin,2020-04-21,shot,Taser,27,M,H,Houston,TX,True,attack,Foot,False
@@ -5288,3 +5288,28 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5772,Phillippe Periera,2020-05-03,shot,gun,,M,,Jacksonville,FL,False,attack,Not fleeing,False
 5773,TK TK,2020-05-03,shot,knife,,M,,San Jose,CA,False,attack,Not fleeing,True
 5774,Chad Adams,2020-05-03,shot,gun,43,M,W,Boerne,TX,False,attack,Not fleeing,False
+5813,Mark Jones,2020-05-04,shot,undetermined,36,M,,Monterey Park,CA,False,undetermined,,False
+5814,Demontre Bruner,2020-05-04,shot,gun,21,M,B,Muskogee,OK,False,attack,Foot,False
+5807,Qavon Webb,2020-05-05,shot,gun,23,M,,Webster Groves,MO,False,attack,Not fleeing,False
+5808,Sandra Lee Harmon,2020-05-05,shot,gun,56,F,,Half Moon Bay,CA,False,attack,Not fleeing,False
+5809,William Shimp,2020-05-05,shot,gun,33,M,,Kansas City,MO,False,attack,Car,False
+5810,Justin Charland,2020-05-05,shot,samurai sword,40,M,,Las Vegas,NV,True,other,Not fleeing,True
+5812,Jahsean Iandie Hodge,2020-05-05,shot,undetermined,21,M,,St. Cloud,FL,False,undetermined,Foot,False
+5811,Alfredo Delarosa,2020-05-05,shot and Tasered,Taser,20,M,H,San Antonio,TX,False,attack,,False
+5790,Dreasjon Reed,2020-05-06,shot,gun,21,M,B,Indianapolis,IN,False,attack,Car,False
+5802,TK TK,2020-05-06,shot,knife,20,M,,Renton,WA,False,other,,False
+5804,TK TK,2020-05-06,shot,gun,,M,,Graham,NC,False,attack,Car,False
+5805,TK TK,2020-05-06,shot,gun,,M,H,Commerce City,CO,False,attack,Foot,False
+5800,Ruben Escarrega,2020-05-07,shot,knife,31,M,,Long Beach,CA,False,other,Not fleeing,False
+5803,James Pease,2020-05-07,shot,gun,51,M,,Jean,NV,False,attack,Car,False
+5789,Adrian Medearis,2020-05-08,shot,Taser,48,M,B,Houston,TX,False,attack,Not fleeing,True
+5801,Lloyd Nelson,2020-05-08,shot,gun,47,M,,Pasadena,CA,False,other,Car,False
+5791,TK TK,2020-05-09,shot,gun,,M,,Green Bay,WI,False,attack,Not fleeing,False
+5792,Finan Berhe,2020-05-09,shot,knife,30,M,B,Silver Spring,MD,False,other,Not fleeing,True
+5794,Yassin Mohamed,2020-05-09,shot,rock,47,M,,Claxton,GA,False,other,Not fleeing,False
+5796,TK TK,2020-05-09,shot,gun,,M,,Idaho Springs,CO,False,attack,Car,False
+5797,Jonathan Carter,2020-05-09,shot,undetermined,27,M,W,Calypso,NC,False,undetermined,Not fleeing,False
+5798,Jayson Thompson,2020-05-09,shot,knife,33,M,,Grand Junction,CO,False,other,,False
+5799,Ward Benjamin McClain,2020-05-09,shot,gun,25,M,,Greenville,SC,False,attack,Foot,False
+5795,David Urrea,2020-05-10,shot,undetermined,50,M,W,Joshua Tree,CA,False,undetermined,Car,False
+5793,TK TK,2020-05-11,shot,hammer,,M,,Laguna Niguel,CA,False,undetermined,,False
