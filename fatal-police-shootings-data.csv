@@ -5237,10 +5237,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5745,Miguel Gomez,2020-04-12,shot,gun,56,M,,Pompano Beach,FL,False,attack,Not fleeing,False
 5676,TK TK,2020-04-13,shot,screwdriver,,M,,Jackson,MS,False,attack,Foot,False
 5746,Javier Vidal,2020-04-13,shot,gun,36,M,H,Lamont,CA,False,attack,Car,False
-5681,Thomas A. Powell,2020-04-14,shot,gun,31,M,,Old Town,ME,False,attack,Not fleeing,False
+5681,Thomas A. Powell,2020-04-14,shot,gun,31,M,W,Old Town,ME,False,attack,Not fleeing,False
 5677,Tony Clements,2020-04-15,shot,gun,33,M,,Hubert,NC,False,attack,Not fleeing,False
 5678,Leslie Flynn,2020-04-15,shot,gun,39,M,,Blair,NE,False,attack,Not fleeing,False
-5679,Randy Ashland,2020-04-15,shot,gun,58,M,,Waukesha,WI,False,attack,Not fleeing,False
+5679,Randy Ashland,2020-04-15,shot,gun,58,M,W,Waukesha,WI,False,attack,Not fleeing,False
 5748,Goldie Bellinger,2020-04-15,shot,gun,39,M,B,Augusta,GA,True,attack,Not fleeing,False
 5670,Juan Ayon-Barraza,2020-04-16,shot,gun and car,24,M,H,Richmond,CA,False,attack,Car,False
 5674,Salvatore Friscia,2020-04-16,shot,vehicle,48,M,,Philipsburg,MT,False,attack,Not fleeing,False
@@ -5255,36 +5255,36 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5761,Virgill Thrope,2020-04-19,shot,gun,28,M,B,Colorado Springs,CO,False,attack,Not fleeing,False
 5756,Chase Rosa,2020-04-21,shot,gun,24,M,B,Las Vegas,NV,False,attack,Car,True
 5762,Nicholas Chavin,2020-04-21,shot,Taser,27,M,H,Houston,TX,True,attack,Foot,False
-5759,Elmer L. Mack,2020-04-22,shot,gun,40,M,,Florence,SC,False,attack,Not fleeing,False
+5759,Elmer L. Mack,2020-04-22,shot,gun,40,M,B,Florence,SC,False,attack,Not fleeing,False
 5760,Christopher Lawson,2020-04-22,shot,gun,31,M,,Springfield,CO,False,attack,Not fleeing,False
 5763,TK TK,2020-04-22,shot,knife,,M,,Los Angeles,CA,False,other,Not fleeing,False
-5758,Luan Agolli,2020-04-23,shot,gun,42,M,,Paterson,NJ,True,other,Not fleeing,False
-5751,Michael Ramos,2020-04-24,shot,unarmed,42,M,,Austin,TX,False,undetermined,Car,False
+5758,Luan Agolli,2020-04-23,shot,gun,42,M,,Paterson,NJ,True,attack,Not fleeing,False
+5751,Michael Ramos,2020-04-24,shot,unarmed,42,M,H,Austin,TX,False,undetermined,Car,False
 5752,Timothy Darryl Slides,2020-04-24,shot,gun,28,M,,Lenoir,NC,False,attack,Not fleeing,True
 5753,Brandan Reid Nylander,2020-04-24,shot,gun,24,M,W,Napa,CA,False,other,Car,False
 5754,Marlon Aaron Bonds,2020-04-24,shot,gun,53,M,,Denton,TX,False,attack,,False
 5755,Roy Joiner,2020-04-24,shot,gun,67,M,,Adel,GA,False,attack,Not fleeing,False
-5767,Reed Rickabaugh,2020-04-24,shot,gun,59,M,,Hiram,ME,False,attack,Not fleeing,False
+5767,Reed Rickabaugh,2020-04-24,shot,gun,59,M,W,Hiram,ME,False,attack,Not fleeing,False
 5768,Farron Morris Hammond,2020-04-25,shot,gun,61,M,,Hogansville,GA,False,attack,Not fleeing,False
 5765,Bradley G. Pullman,2020-04-26,shot,vehicle,48,M,,Wayne,NJ,False,other,Car,False
-5766,De Quang Tran,2020-04-26,shot,gun,26,M,,La Plata,MD,False,attack,Not fleeing,False
+5766,De Quang Tran,2020-04-26,shot,gun,26,M,A,La Plata,MD,False,attack,Not fleeing,False
 5775,Nicolas Chavez,2020-04-27,shot,sharp object,27,M,,Houston,TX,True,other,Not fleeing,False
-5788,Robert Musser,2020-04-28,shot,gun,32,M,,Buckeye,AZ,False,attack,Car,False
-5786,William E. Abbe,2020-04-28,shot and Tasered,sharp object,50,M,,Vancouver,WA,False,attack,Not fleeing,False
+5788,Robert Musser,2020-04-28,shot,gun,32,M,W,Buckeye,AZ,False,attack,Car,False
+5786,William E. Abbe,2020-04-28,shot and Tasered,sharp object,50,M,W,Vancouver,WA,False,attack,Not fleeing,False
 5784,Jesus Caballero,2020-04-29,shot,gun,38,M,,Las Vegas,NV,False,attack,Car,False
 5785,Artemio Mondragon Alfaro,2020-04-29,shot,vehicle,29,M,W,Madera County,CA,False,attack,Other,False
 5787,Malcolm Xavier Ray Williams,2020-04-29,shot,gun,27,M,B,Jeffersonville,IN,False,attack,Not fleeing,False
-5782,TK TK,2020-04-30,shot,gun,,M,,Los Angeles,CA,False,other,Car,False
-5783,Timothy Allen Gilbert,2020-04-30,shot,gun,43,M,W,Martin County,KY,False,attack,Car,False
-5776,TK TK,2020-05-01,shot,undetermined,,M,,Denver,CO,False,undetermined,Other,False
+5782,Daniel Hernandez,2020-04-30,shot,gun,,M,,Los Angeles,CA,False,other,Car,False
+5783,Timothy Alan Gilbert,2020-04-30,shot,gun,43,M,W,Martin County,KY,False,attack,Car,False
+5776,TK TK,2020-05-01,shot,undetermined,,M,,Denver,CO,False,undetermined,Foot,False
 5777,TK TK,2020-05-01,shot,unarmed,36,M,,San Diego,CA,False,other,Foot,False
-5778,Shaun Lee Fuhr,2020-05-01,shot,unarmed,24,M,,Seattle,WA,False,attack,Foot,True
-5779,TK TK,2020-05-01,shot,knife,,M,,Hialeah,FL,False,undetermined,,False
-5780,Brent Martin,2020-05-01,shot,gun,32,M,,Little Rock,AR,False,other,Not fleeing,False
+5778,Shaun Lee Fuhr,2020-05-01,shot,undetermined,24,M,B,Seattle,WA,False,attack,Foot,True
+5779,TK TK,2020-05-01,shot,knife,,M,,Hialeah,FL,False,undetermined,Foot,False
+5780,Brent Martin,2020-05-01,shot,gun,32,M,B,Little Rock,AR,False,other,Not fleeing,False
 5781,TK TK,2020-05-01,shot,gun,28,M,,Lakewood,WA,False,attack,Not fleeing,False
 5769,TK TK,2020-05-03,shot,gun,,M,,Fort Lauderdale,FL,False,other,Not fleeing,False
 5770,Kortney Shawn Price,2020-05-03,shot,gun,44,M,,Caldwell County,NC,False,other,Car,True
 5771,Michael Faries,2020-05-03,shot,gun,59,M,,Oakland City,IN,False,other,Not fleeing,False
 5772,Phillippe Periera,2020-05-03,shot,gun,,M,,Jacksonville,FL,False,attack,Not fleeing,False
 5773,TK TK,2020-05-03,shot,knife,,M,,San Jose,CA,False,attack,Not fleeing,True
-5774,TK TK,2020-05-03,shot,gun,,M,,Boerne,TX,False,attack,Not fleeing,False
+5774,Chad Adams,2020-05-03,shot,gun,43,M,W,Boerne,TX,False,attack,Not fleeing,False
