@@ -5342,12 +5342,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5857,Jason Jesse Gallegos,2020-05-26,shot,gun,37,M,,Lansing,MI,True,attack,Not fleeing,True
 5860,Kenneth Bennett,2020-05-26,shot,toy weapon,61,M,,Manlius,NY,True,undetermined,Not fleeing,False
 5862,TK TK,2020-05-26,shot,unarmed,,M,,North Las Vegas,NV,False,attack,Not fleeing,False
+5864,John Alvarado,2020-05-26,shot,gun,22,M,H,Corpus Christi,TX,False,attack,Not fleeing,False
 5861,John Allen Dunaway,2020-05-26,shot and Tasered,unarmed,61,M,W,Jacksonville,FL,False,other,Foot,False
 5843,Tony McDade,2020-05-27,shot,gun,38,M,B,Tallahassee,FL,False,other,Not fleeing,False
 5847,Joshua Blessed,2020-05-27,shot,gun,58,M,W,Geneseo,NY,False,attack,Car,False
 5856,Rommel Mendoza,2020-05-27,shot,sword,50,M,H,Los Angeles,CA,False,undetermined,,False
 5858,TK TK,2020-05-27,shot,knife,,M,,Fullerton,CA,False,attack,Not fleeing,False
 5859,Alexander Scott,2020-05-27,shot,knife,30,M,W,Wilburton,OK,False,attack,Not fleeing,False
+5868,TK TK,2020-05-27,shot,undetermined,,M,,Luverne,AL,False,undetermined,Not fleeing,False
 5846,Modesto Reyes,2020-05-27,shot and Tasered,gun,35,M,B,Jefferson Parish,LA,False,attack,Other,True
 5853,John Benedict Coleman,2020-05-28,shot,gun,53,M,,Ogden,UT,False,attack,Not fleeing,False
 5855,TK TK,2020-05-28,shot,undetermined,,M,,Centennial,CO,False,other,Car,False
@@ -5357,5 +5359,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5848,TK TK,2020-05-29,shot,gun,32,M,A,San Diego,CA,False,attack,,False
 5849,TK TK,2020-05-29,shot,knife,,M,,Philadelphia,PA,False,other,Not fleeing,False
 5850,TK TK,2020-05-29,shot,gun,,M,,Snellville,GA,False,attack,Car,False
+5863,Derrick Thompson,2020-05-30,shot,gun,46,M,,Fountain,FL,False,attack,Not fleeing,False
 5852,TK TK,2020-05-31,shot,undetermined,,M,W,Portland,OR,False,undetermined,,False
+5865,TK TK,2020-05-31,shot,unknown weapon,,M,,Watertown,WI,False,undetermined,Not fleeing,False
 5842,David McAtee,2020-06-01,shot,gun,,M,B,Louisville,KY,False,attack,,True
+5866,TK TK,2020-06-01,shot,gun,,M,,Las Vegas,NV,False,attack,Not fleeing,False
+5867,TK TK,2020-06-01,shot,,,M,W,Fayetteville,AR,False,undetermined,Not fleeing,False
+5869,TK TK,2020-06-02,shot,gun,65,M,,Cottonwood,CA,False,other,Not fleeing,False
