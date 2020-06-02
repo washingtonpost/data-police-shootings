@@ -2895,7 +2895,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3214,Robert Allen Morrison,2017-12-15,shot,gun,57,M,,Lexington,VA,False,attack,Foot,False
 3218,Eric Campbell,2017-12-15,shot,gun,,M,,Yonkers,NY,False,other,Car,False
 3219,Adam Radcliffe,2017-12-15,shot,,30,M,,Wilmington,DE,False,other,Car,False
-3215,Michael Wilson,2017-12-17,shot,unarmed,27,M,,Hallandale Beach,FL,False,other,Car,False
+3215,Michael Wilson,2017-12-17,shot,unarmed,27,M,B,Hallandale Beach,FL,False,other,Car,False
 3216,TK TK,2017-12-17,shot,unknown weapon,,M,,Charleston,TN,False,other,Foot,False
 3217,Willy Floyd McCord,2017-12-17,shot,gun,52,M,,Bremerton,WA,False,attack,Not fleeing,False
 3220,Spencer Crumbley,2017-12-17,shot,shovel,52,M,,Valley Head,WV,False,attack,Not fleeing,False
@@ -4534,7 +4534,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4931,John Michael George,2019-08-11,shot,gun,46,M,,Fort Worth,TX,False,attack,Not fleeing,False
 4945,Aaron Luther,2019-08-12,shot,gun,49,M,W,Riverside,CA,False,attack,Not fleeing,False
 4949,Scott Souders,2019-08-12,shot,gun,38,M,,Chetopa,KS,False,attack,Not fleeing,False
-4939,David Ingle,2019-08-13,shot,unarmed,31,M,,Joplin,MO,False,attack,Not fleeing,False
+4939,David Ingle,2019-08-13,shot,unarmed,31,M,W,Joplin,MO,False,attack,Not fleeing,False
 4940,Jerry Orlando Weaver,2019-08-13,shot,gun,51,M,,Clinton,TN,True,attack,Not fleeing,False
 4941,Anthony Wayne French,2019-08-13,shot,gun,,M,W,Louisville,KY,False,attack,Not fleeing,False
 4943,Charles Roy Pearson,2019-08-13,shot,gun,51,M,B,Kansas City,KS,False,attack,Not fleeing,False
@@ -4616,7 +4616,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5033,Robert E. Domine,2019-09-13,shot,gun,77,M,W,Loyal,WI,False,attack,Not fleeing,False
 5478,TK TK,2019-09-13,shot,gun,25,M,,Bracketville,TX,False,attack,Not fleeing,False
 5039,Nicholas Walker,2019-09-14,shot,toy weapon,31,M,B,Arlington,TX,True,attack,Not fleeing,True
-5042,Melvin Watkins,2019-09-14,shot,unarmed,54,M,,Baton Rouge,LA,False,undetermined,Not fleeing,False
+5042,Melvin Watkins,2019-09-14,shot,unarmed,54,M,B,Baton Rouge,LA,False,undetermined,Not fleeing,False
 5480,Jose Orona,2019-09-14,shot,gun,33,M,H,Plainview,TX,True,attack,Not fleeing,False
 5482,James Hilton Glaze,2019-09-14,shot,gun,76,M,W,Ooltewah,TN,True,attack,Not fleeing,False
 5036,Brian Dryer,2019-09-15,shot,knife,28,M,W,Oklahoma City,OK,True,attack,Not fleeing,True
@@ -5138,7 +5138,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5659,Pablo Elias,2020-03-10,shot,unarmed,44,M,H,Bell Gardens,CA,True,undetermined,,False
 5660,Joshua Christopher Noles,2020-03-11,shot,gun,38,M,W,Elkton,FL,False,attack,Car,False
 5661,Mary Kate Field,2020-03-11,shot,gun,32,F,W,Anchor Point,AK,False,attack,,False
-5626,Breona Taylor,2020-03-12,shot,unarmed,26,F,B,Louisville,KY,False,undetermined,Not fleeing,False
+5626,Breonna Taylor,2020-03-12,shot,unarmed,26,F,B,Louisville,KY,False,undetermined,Not fleeing,False
 5662,Duncan Socrates Lemp,2020-03-12,shot,gun,21,M,W,Potomac,MD,False,attack,Not fleeing,True
 5663,Donnie Sanders,2020-03-12,shot,unarmed,47,M,B,Kansas City,MO,False,undetermined,Foot,False
 5628,Jorge Martinez,2020-03-13,shot,undetermined,30,M,H,Claremore,OK,False,attack,Foot,False
@@ -5228,7 +5228,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5737,Matt Goff,2020-04-10,shot,gun,,M,W,Klamath Falls,OR,False,attack,Car,False
 5738,Giuseppe Particianone,2020-04-10,shot,unarmed,33,M,W,Philadelphia,PA,False,other,Not fleeing,False
 5682,Shawn Lee,2020-04-11,shot,machete,48,M,,Ritzville,WA,True,other,Not fleeing,False
-5739,Jonathan Lee Adams,2020-04-11,shot,gun,31,M,,Pottstown,PA,False,attack,Not fleeing,False
+5739,Jonathan Lee Adams,2020-04-11,shot,gun,31,M,B,Pottstown,PA,False,attack,Not fleeing,False
 5740,Leah Baker,2020-04-11,shot,knife,29,F,W,Jacksonville,FL,False,other,Not fleeing,False
 5741,Errol Bolin,2020-04-11,shot,gun,51,M,W,West Terre Haute,IN,False,attack,Not fleeing,False
 5742,TK TK,2020-04-11,shot,gun,,M,,Clackamas County,OR,False,attack,,False
@@ -5281,7 +5281,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5779,TK TK,2020-05-01,shot,knife,,M,,Hialeah,FL,False,undetermined,Foot,False
 5780,Brent Martin,2020-05-01,shot,gun,32,M,B,Little Rock,AR,False,other,Not fleeing,False
 5781,Said Joquin,2020-05-01,shot,gun,26,M,B,Lakewood,WA,False,attack,Not fleeing,False
-5769,Michael Ferguson,2020-05-03,shot,gun,54,M,,Fort Lauderdale,FL,False,other,Not fleeing,False
+5769,Michael Ferguson,2020-05-03,shot,gun,54,M,W,Fort Lauderdale,FL,False,other,Not fleeing,False
 5770,Kortney Shawn Price,2020-05-03,shot,gun,44,M,W,Caldwell County,NC,False,other,Car,True
 5771,Michael Faries,2020-05-03,shot,gun,69,M,W,Oakland City,IN,False,other,Not fleeing,False
 5772,Filipe Periera,2020-05-03,shot,gun,,M,,Jacksonville,FL,False,attack,Not fleeing,False
@@ -5291,11 +5291,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5814,Demontre Bruner,2020-05-04,shot,gun,21,M,B,Muskogee,OK,False,attack,Foot,False
 5807,Qavon Webb,2020-05-05,shot,gun,23,M,B,Webster Groves,MO,False,attack,Not fleeing,False
 5808,Sandra Lee Harmon,2020-05-05,shot,gun,56,F,W,Half Moon Bay,CA,False,attack,Not fleeing,False
-5809,William Shimp,2020-05-05,shot,gun,33,M,,Kansas City,MO,False,attack,Car,False
+5809,William Shimp,2020-05-05,shot,gun,33,M,W,Kansas City,MO,False,attack,Car,False
 5810,Justin Charland,2020-05-05,shot,samurai sword,40,M,W,Las Vegas,NV,True,other,Not fleeing,True
 5812,Jah'Sean Iandie Hodge,2020-05-05,shot,knife,21,M,B,St. Cloud,FL,False,other,Foot,False
 5811,Alfredo Delarosa,2020-05-05,shot and Tasered,Taser,20,M,H,San Antonio,TX,False,attack,,False
-5790,Dreasjon Reed,2020-05-06,shot,gun,21,M,B,Indianapolis,IN,False,attack,Car,False
+5790,Dreasjon Reed,2020-05-06,shot,gun,21,M,B,Indianapolis,IN,False,attack,Car,True
 5802,TK TK,2020-05-06,shot,knife,20,M,,Renton,WA,False,other,,False
 5804,James Joseph James,2020-05-06,shot,knife,47,M,W,Graham,NC,False,attack,Car,False
 5805,TK TK,2020-05-06,shot,gun,,M,H,Commerce City,CO,False,attack,Foot,False
@@ -5305,7 +5305,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5801,Lloyd Nelson,2020-05-08,shot,gun,47,M,,Pasadena,CA,False,other,Car,False
 5791,Edgar Melgar,2020-05-09,shot,gun,42,M,H,Green Bay,WI,False,attack,Not fleeing,False
 5792,Finan H. Berhe,2020-05-09,shot,knife,30,M,B,Silver Spring,MD,False,other,Not fleeing,True
-5794,Yassin Mohamed,2020-05-09,shot,rock,47,M,,Claxton,GA,False,attack,Foot,False
+5794,Yassin Mohamed,2020-05-09,shot,rock,47,M,B,Claxton,GA,False,attack,Foot,False
 5796,Darrin Jon Patterson,2020-05-09,shot,gun,57,M,W,Idaho Springs,CO,False,attack,Car,False
 5797,Jonathan Carter,2020-05-09,shot,undetermined,27,M,W,Calypso,NC,False,other,Not fleeing,False
 5798,Jayson Thompson,2020-05-09,shot,knife,33,M,,Grand Junction,CO,False,other,,False
@@ -5342,12 +5342,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5857,Jason Jesse Gallegos,2020-05-26,shot,gun,37,M,,Lansing,MI,True,attack,Not fleeing,True
 5860,Kenneth Bennett,2020-05-26,shot,toy weapon,61,M,,Manlius,NY,True,undetermined,Not fleeing,False
 5862,TK TK,2020-05-26,shot,unarmed,,M,,North Las Vegas,NV,False,attack,Not fleeing,False
-5861,John Allen Dunaway,2020-05-26,shot and Tasered,unarmed,61,M,,Jacksonville,FL,False,other,Foot,False
+5861,John Allen Dunaway,2020-05-26,shot and Tasered,unarmed,61,M,W,Jacksonville,FL,False,other,Foot,False
 5843,Tony McDade,2020-05-27,shot,gun,38,M,B,Tallahassee,FL,False,other,Not fleeing,False
 5847,Joshua Blessed,2020-05-27,shot,gun,58,M,W,Geneseo,NY,False,attack,Car,False
-5856,Rommel Mendoza,2020-05-27,shot,sword,50,M,,Los Angeles,CA,False,undetermined,,False
+5856,Rommel Mendoza,2020-05-27,shot,sword,50,M,H,Los Angeles,CA,False,undetermined,,False
 5858,TK TK,2020-05-27,shot,knife,,M,,Fullerton,CA,False,attack,Not fleeing,False
-5859,Alexander Scott,2020-05-27,shot,knife,30,M,,Wilburton,OK,False,attack,Not fleeing,False
+5859,Alexander Scott,2020-05-27,shot,knife,30,M,W,Wilburton,OK,False,attack,Not fleeing,False
 5846,Modesto Reyes,2020-05-27,shot and Tasered,gun,35,M,B,Jefferson Parish,LA,False,attack,Other,True
 5853,John Benedict Coleman,2020-05-28,shot,gun,53,M,,Ogden,UT,False,attack,Not fleeing,False
 5855,TK TK,2020-05-28,shot,undetermined,,M,,Centennial,CO,False,other,Car,False
@@ -5358,4 +5358,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5849,TK TK,2020-05-29,shot,knife,,M,,Philadelphia,PA,False,other,Not fleeing,False
 5850,TK TK,2020-05-29,shot,gun,,M,,Snellville,GA,False,attack,Car,False
 5852,TK TK,2020-05-31,shot,undetermined,,M,W,Portland,OR,False,undetermined,,False
-5842,TK TK,2020-06-01,shot,undetermined,,M,,Louisville,KY,False,undetermined,,False
+5842,David McAtee,2020-06-01,shot,gun,,M,B,Louisville,KY,False,attack,,True
