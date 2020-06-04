@@ -5285,7 +5285,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5770,Kortney Shawn Price,2020-05-03,shot,gun,44,M,W,Caldwell County,NC,False,other,Car,True
 5771,Michael Faries,2020-05-03,shot,gun,69,M,W,Oakland City,IN,False,other,Not fleeing,False
 5772,Filipe Periera,2020-05-03,shot,gun,,M,,Jacksonville,FL,False,attack,Not fleeing,False
-5773,TK TK,2020-05-03,shot,knife,,M,,San Jose,CA,False,attack,Not fleeing,True
+5773,Armando Salvatierra,2020-05-03,shot,knife,26,M,H,San Jose,CA,False,attack,Not fleeing,True
 5774,Chad Adams,2020-05-03,shot,gun,43,M,W,Boerne,TX,False,attack,Not fleeing,False
 5813,Mark Anthony Jones,2020-05-04,shot,knife,36,M,,Monterey Park,CA,False,other,Not fleeing,False
 5814,Demontre Bruner,2020-05-04,shot,gun,21,M,B,Muskogee,OK,False,attack,Foot,False
@@ -5338,30 +5338,30 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5837,Gary P. Dorton,2020-05-25,shot,knife,43,M,,Jonesborough,TN,True,attack,Not fleeing,False
 5839,Joe Louis Castillanos,2020-05-25,shot,gun,38,M,H,Houston,TX,False,attack,Not fleeing,False
 5841,Dion Johnson,2020-05-25,shot,undetermined,28,M,B,Phoenix,AZ,False,undetermined,Not fleeing,False
-5854,Richard Councilman,2020-05-26,shot,gun,,M,,Jamestown,CA,True,other,Not fleeing,False
+5854,Richard Councilman,2020-05-26,shot,toy weapon,,M,,Jamestown,CA,True,other,Not fleeing,False
 5857,Jason Jesse Gallegos,2020-05-26,shot,gun,37,M,,Lansing,MI,True,attack,Not fleeing,True
 5860,Kenneth Bennett,2020-05-26,shot,toy weapon,61,M,,Manlius,NY,True,attack,Not fleeing,False
 5864,John Alvarado,2020-05-26,shot,gun,22,M,H,Corpus Christi,TX,False,attack,Not fleeing,False
 5861,John Allen Dunaway,2020-05-26,shot and Tasered,undetermined,61,M,,Jacksonville,FL,False,attack,Foot,False
 5843,Tony McDade,2020-05-27,shot,gun,38,M,B,Tallahassee,FL,False,other,Not fleeing,False
-5847,Joshua Blessed,2020-05-27,shot,gun,58,M,W,Geneseo,NY,False,attack,Car,False
-5856,Rommel Mendoza,2020-05-27,shot,sword,50,M,H,Los Angeles,CA,False,undetermined,,False
+5847,Joshua Blessed,2020-05-27,shot,vehicle and gun,58,M,W,Geneseo,NY,False,attack,Car,False
+5856,Rommel Mendoza,2020-05-27,shot,sword,50,M,H,Los Angeles,CA,False,attack,,False
 5858,TK TK,2020-05-27,shot,knife,,M,,Fullerton,CA,False,attack,Not fleeing,False
-5859,Alexander Scott,2020-05-27,shot,knife,30,M,W,Wilburton,OK,False,attack,Not fleeing,False
+5859,Alexander Scott,2020-05-27,shot,knife,30,M,,Wilburton,OK,False,attack,Not fleeing,False
 5868,TK TK,2020-05-27,shot,undetermined,,M,,Luverne,AL,False,undetermined,Not fleeing,False
 5846,Modesto Reyes,2020-05-27,shot and Tasered,gun,35,M,B,Jefferson Parish,LA,False,attack,Other,True
 5853,John Benedict Coleman,2020-05-28,shot,gun,53,M,,Ogden,UT,False,attack,Not fleeing,False
-5855,TK TK,2020-05-28,shot,undetermined,,M,,Centennial,CO,False,other,Car,False
+5855,Steven Edward Ferguson,2020-05-28,shot,vehicle,31,M,,Centennial,CO,False,attack,Car,False
 5851,TK TK,2020-05-28,shot and Tasered,knife,,M,,Washington County,OR,False,other,Not fleeing,True
-5844,Heba Momtaz Al-Azhari,2020-05-29,shot,knife,22,F,A,Temple Terrace,FL,True,other,Not fleeing,False
-5845,TK TK,2020-05-29,shot,gun,,M,W,Lancaster,CA,False,other,,False
+5844,Heba Momtaz Al-Azhari,2020-05-29,shot,knife,22,F,O,Temple Terrace,FL,True,attack,Not fleeing,False
+5845,TK TK,2020-05-29,shot,toy weapon,,M,W,Lancaster,CA,False,attack,,False
 5848,TK TK,2020-05-29,shot,gun,32,M,A,San Diego,CA,False,attack,,False
 5849,TK TK,2020-05-29,shot,knife,,M,,Philadelphia,PA,False,other,Not fleeing,False
 5850,Momodou Lamin Sisay,2020-05-29,shot,gun,39,M,B,Snellville,GA,False,attack,Car,False
-5863,Derrick Thompson,2020-05-30,shot,gun,46,M,,Fountain,FL,False,attack,Not fleeing,False
-5852,TK TK,2020-05-31,shot,undetermined,,M,W,Portland,OR,False,undetermined,,False
-5865,TK TK,2020-05-31,shot,unknown weapon,,M,,Watertown,WI,False,undetermined,Not fleeing,False
-5842,David McAtee,2020-06-01,shot,gun,,M,B,Louisville,KY,False,attack,,True
+5863,Derrick Thompson,2020-05-30,shot,gun,46,M,B,Fountain,FL,False,attack,Not fleeing,False
+5852,Israel Berry,2020-05-31,shot,undetermined,49,M,W,Portland,OR,False,undetermined,,False
+5865,TK TK,2020-05-31,shot,gun,,M,W,Watertown,WI,False,undetermined,Not fleeing,False
+5842,David McAtee,2020-06-01,shot,gun,53,M,B,Louisville,KY,False,attack,,True
 5866,Jorge Gomez,2020-06-01,shot,gun,25,M,H,Las Vegas,NV,False,attack,Not fleeing,False
-5867,TK TK,2020-06-01,shot,,,M,W,Fayetteville,AR,False,undetermined,Not fleeing,False
-5869,TK TK,2020-06-02,shot,gun,65,M,,Cottonwood,CA,False,other,Not fleeing,False
+5867,Ryan Emblem Moore,2020-06-01,shot,,36,M,W,Fayetteville,AR,False,undetermined,Not fleeing,False
+5869,Robert James Lyon,2020-06-02,shot,gun,65,M,,Cottonwood,CA,False,other,Not fleeing,False
