@@ -349,7 +349,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 453,Stephen  Cunningham,2015-05-10,shot,gun,47,M,W,Tacoma,WA,False,attack,Not fleeing,False
 455,Lionel Lorenzo Young,2015-05-10,shot,,34,M,B,Landover,MD,False,other,Car,False
 437,Kelvin Goldston,2015-05-11,shot,,30,M,B,Fort Worth,TX,False,attack,Car,False
-444,Justin Way,2015-05-11,shot,machete,28,M,W,St. Augustine,FL,True,other,Not fleeing,False
+444,Justin Way,2015-05-11,shot,knife,28,M,W,St. Augustine,FL,True,other,Not fleeing,False
 441,D'Angelo Stallworth,2015-05-12,shot,gun,28,M,B,Jacksonville,FL,False,other,Foot,False
 450,Alec Ouzounian,2015-05-12,shot,undetermined,40,M,W,Rancho Santa Margarita,CA,True,other,Not fleeing,False
 449,Bruce Zalonka,2015-05-12,shot and Tasered,gun,46,M,O,Honolulu,HI,False,attack,Not fleeing,False
