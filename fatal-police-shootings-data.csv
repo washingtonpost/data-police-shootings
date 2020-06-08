@@ -4931,7 +4931,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5404,Cody McCaulou,2019-12-30,shot,vehicle,25,M,W,Fulton,MO,False,attack,Car,False
 5332,Eric M. Tellez,2019-12-31,shot,knife,28,M,W,Globe,AZ,False,other,Not fleeing,False
 5333,Frederick Perkins,2019-12-31,shot,vehicle,37,M,B,Chesterfield,MO,False,attack,Car,False
-5343,Brian Elkins,2019-12-31,shot,gun,47,M,W,Cotton Plant,MS,False,other,Car,False
 5345,Dedrick Thomas,2019-12-31,shot,gun,,M,B,Forrest City,AR,False,attack,,False
 5358,Malik Williams,2019-12-31,shot,gun,23,M,B,Federal Way,WA,False,attack,Not fleeing,False
 5359,Terry Hudson,2019-12-31,shot,gun,57,M,B,Omaha,NE,False,attack,Not fleeing,True
@@ -5398,3 +5397,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5899,Kamal Flowers,2020-06-06,shot,gun,24,M,B,New Rochelle,NY,False,attack,Foot,False
 5900,Erik Salgado,2020-06-06,shot,undetermined,22,M,H,Oakland,CA,False,undetermined,Not fleeing,False
 5901,Gregory Lee Turnure,2020-06-06,shot,metal pipe,37,M,,Clarkrange,TN,False,attack,Not fleeing,False
+5907,TK TK,2020-06-07,shot,undetermined,,M,,East Northport,NY,False,attack,Not fleeing,False
+5908,TK TK,2020-06-07,shot,knife,,M,,Industry,CA,True,other,Not fleeing,False
