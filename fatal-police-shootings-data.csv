@@ -5251,7 +5251,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5669,Mason Workman,2020-04-19,shot,gun,40,M,W,Henderson,NV,False,attack,Not fleeing,True
 5761,Virgill Thrope,2020-04-19,shot,gun,28,M,B,Colorado Springs,CO,False,attack,Not fleeing,False
 5756,Chase Rosa,2020-04-21,shot,gun,24,M,B,Las Vegas,NV,False,attack,Car,True
-5762,Nicholas Chavin,2020-04-21,shot,Taser,27,M,H,Houston,TX,True,attack,Foot,False
+5762,Nicholas Chavez,2020-04-21,shot,sharp object,27,M,H,Houston,TX,True,other,Foot,False
 5759,Elmer L. Mack,2020-04-22,shot,gun,40,M,B,Florence,SC,False,attack,Not fleeing,False
 5760,Christopher Lawson,2020-04-22,shot,gun,31,M,,Springfield,CO,False,attack,Not fleeing,False
 5763,TK TK,2020-04-22,shot,knife,,M,,Los Angeles,CA,False,other,Not fleeing,False
@@ -5382,7 +5382,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5879,Jarvis Sullivan,2020-05-29,shot,vehicle,44,M,B,Yulee,FL,False,attack,Car,False
 5863,Derrick Thompson,2020-05-30,shot,gun,46,M,B,Fountain,FL,False,attack,Not fleeing,False
 5852,Israel Berry,2020-05-31,shot,undetermined,49,M,W,Portland,OR,False,undetermined,,False
-5878,TK TK,2020-05-31,shot and Tasered,gun,,M,,Watertown,WI,False,attack,Not fleeing,False
+5878,Thomas Sutherlin,2020-05-31,shot and Tasered,gun,32,M,W,Watertown,WI,False,attack,Not fleeing,False
 5842,David McAtee,2020-06-01,shot,gun,53,M,B,Louisville,KY,False,attack,,True
 5866,Jorge Gomez,2020-06-01,shot,gun,25,M,H,Las Vegas,NV,False,attack,Not fleeing,False
 5867,Ryan Emblem Moore,2020-06-01,shot,undetermined,36,M,W,Fayetteville,AR,False,undetermined,Not fleeing,False
@@ -5397,6 +5397,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5899,Kamal Flowers,2020-06-06,shot,gun,24,M,B,New Rochelle,NY,False,attack,Foot,False
 5900,Erik Salgado,2020-06-06,shot,undetermined,22,M,H,Oakland,CA,False,undetermined,Not fleeing,False
 5901,Gregory Lee Turnure,2020-06-06,shot,metal pipe,37,M,,Clarkrange,TN,False,attack,Not fleeing,False
-5907,Jeffrey McClure,2020-06-07,shot,pellet gun,26,M,,East Northport,NY,False,attack,Not fleeing,False
+5907,Jeffrey McClure,2020-06-07,shot,pellet gun,26,M,,East Northport,NY,False,other,Not fleeing,False
 5908,TK TK,2020-06-07,shot,knife,,M,,Industry,CA,True,other,Not fleeing,False
 5909,TK TK,2020-06-08,shot,gun,81,M,,Las Cruces,NM,True,attack,Not fleeing,False
