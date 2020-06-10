@@ -4598,7 +4598,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5008,Cortez Shepherd,2019-09-05,shot,gun,28,M,B,St. Louis,MO,False,attack,Not fleeing,False
 5012,Sam Burt,2019-09-05,shot,gun,65,M,,LaGrange,GA,False,attack,Not fleeing,False
 5020,John Carras,2019-09-05,shot,unarmed,43,M,W,East Hartford,CT,False,attack,Not fleeing,False
-5018,TK TK,2019-09-06,shot,gun,,M,,Glendora,CA,False,other,Foot,False
+5018,Vondarrow Dewayne Fisher,2019-09-06,shot,gun,42,M,B,Glendora,CA,False,other,Foot,False
 5013,Brian Quinones,2019-09-07,shot,knife,30,M,H,Richfield,MN,True,other,Car,False
 5017,TK TK,2019-09-07,shot,knife,,M,,Nacogdoches,TX,False,other,Not fleeing,False
 5015,Christopher Johnson,2019-09-08,shot,gun,51,M,,Longview,WA,True,attack,Not fleeing,False
@@ -5400,3 +5400,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5907,Jeffrey McClure,2020-06-07,shot,pellet gun,26,M,,East Northport,NY,False,other,Not fleeing,False
 5908,TK TK,2020-06-07,shot,knife,,M,,Industry,CA,True,other,Not fleeing,False
 5909,TK TK,2020-06-08,shot,gun,81,M,,Las Cruces,NM,True,attack,Not fleeing,False
+5910,TK TK,2020-06-09,shot,gun,31,M,,Englewood,CO,False,attack,,False
+5911,Lewis Ruffin,2020-06-09,shot,gun,38,M,B,Orlando,FL,False,attack,,False
