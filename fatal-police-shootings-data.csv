@@ -5403,9 +5403,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5909,Michael Seltzer,2020-06-08,shot,gun,81,M,,Las Cruces,NM,True,attack,Not fleeing,False
 5910,Marcus James Uribe,2020-06-09,shot,gun,31,M,W,Englewood,CO,False,attack,,False
 5911,Lewis Ruffin,2020-06-09,shot,gun,38,M,B,Orlando,FL,False,attack,Not fleeing,False
-5936,Richard Mason,2020-06-09,shot,gun,59,M,,Bigfork,MT,False,attack,Car,False
+5936,Richard L. Mason,2020-06-09,shot,gun,59,M,,Bigfork,MT,False,attack,Car,False
 5912,Jerry M. Bethel,2020-06-10,shot,gun,59,M,,Weippe,ID,False,attack,,False
-5937,Philllip Dibenedetto,2020-06-10,shot,gun,36,M,,Winter Haven,FL,True,attack,Not fleeing,False
+5937,Phillip Dibenedetto,2020-06-10,shot,gun,36,M,,Winter Haven,FL,True,attack,Not fleeing,False
 5913,Gregorio Cruz Vanloo,2020-06-11,shot,gun,28,M,W,DeKalb County,TN,False,other,Other,False
 5914,Mason James Lira,2020-06-11,shot,gun,26,M,W,Paso Robles,CA,True,attack,Foot,False
 5915,Michael Thomas,2020-06-11,shot,undetermined,62,M,B,Lancaster,CA,False,undetermined,Not fleeing,False
@@ -5419,7 +5419,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5927,Donald Ward,2020-06-16,shot,gun,27,M,,Phoenix,AZ,False,attack,Not fleeing,False
 5928,Terron Jammal Boone,2020-06-17,shot,gun,31,M,B,Rosamond,CA,False,attack,Not fleeing,False
 5929,TK TK,2020-06-17,shot and Tasered,knife,,M,,Lovelock,NV,False,attack,Car,False
-5930,TK TK,2020-06-18,shot,gun,38,M,W,Westminister,CO,False,attack,Not fleeing,False
-5932,TK TK,2020-06-18,shot,gun,19,M,,Billings,MT,False,attack,Not fleeing,False
+5930,TK TK,2020-06-18,shot,gun,38,M,W,Westminister,CO,False,other,Not fleeing,False
+5932,Kellen Fortune,2020-06-18,shot,gun,19,M,,Billings,MT,False,attack,Not fleeing,False
 5933,Andres Guardado,2020-06-18,shot,gun,18,M,H,Gardena,CA,False,other,Foot,False
-5931,"Henry Barnes, Jr",2020-06-19,shot,undetermined,25,M,,Jay,OK,False,attack,Not fleeing,False
+5931,Henry Barnes,2020-06-19,shot,undetermined,25,M,,Jay,OK,False,attack,Foot,False
