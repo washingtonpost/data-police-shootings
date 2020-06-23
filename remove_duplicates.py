@@ -13,10 +13,11 @@ class CleanData:
             self.df.loc[record, 'keep'] = True
 
 # Import data
-df = pd.read_csv("fatal-police-shootings-data.csv", index_col="id")
+df_orig = pd.read_csv("fatal-police-shootings-data.csv", index_col="id")
+df = df_orig.copy()
 
 # Add a column to determine if we want to keep the data or not
-df.loc["keep"] = True
+df["keep"] = True
 
 # Begin checking for duplicates
 # Remove TK TK (TK = to come, https://en.wikipedia.org/wiki/To_come_(publishing))
@@ -73,10 +74,16 @@ name = "William Patrick Floyd"
 clean.keep_record([5691])
 
 # Keep only the records we want
-df = df[df.keep == True]
+df_mod = df[df.keep == True].copy()
 
 # Drop the keep column
-df.drop(columns=["keep"], axis=0, inplace=True)
+df_mod.drop(columns=["keep"], axis=0, inplace=True)
 
-# Export to csv
-# df.to_csv("fatal-police-shootings-data.csv")
+# Check dimensions
+if (len(df_mod) == len(df)-7) & (len(df_orig.columns) == len(df_mod.columns)):
+    # Export to csv
+    print("Updated data.")
+    df_mod.to_csv("fatal-police-shootings-data.csv")
+else:
+    print("Dimensions are incorrect. Written as backup.")
+    df_mod.to_csv("fatal-police-shootings-data-mod.csv")
