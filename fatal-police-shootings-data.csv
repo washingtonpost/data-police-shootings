@@ -5423,3 +5423,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5932,Kellen Fortune,2020-06-18,shot,gun,19,M,,Billings,MT,False,attack,Not fleeing,False
 5933,Andres Guardado,2020-06-18,shot,gun,18,M,H,Gardena,CA,False,other,Foot,False
 5931,Henry Barnes,2020-06-19,shot,undetermined,25,M,,Jay,OK,False,attack,Foot,False
+5941,Cody W. Cook,2020-06-19,shot,gun,24,M,W,Sodus,NY,False,attack,Not fleeing,True
+5940,Michael Torres,2020-06-20,shot,machete,35,M,,Lake Charles,LA,False,attack,Not fleeing,False
+5939,TK TK,2020-06-21,shot,knife,19,M,,Milpitas,CA,False,attack,Not fleeing,False
+5938,TK TK,2020-06-22,shot,gun,,M,,Aurora,CO,False,attack,Not fleeing,True
