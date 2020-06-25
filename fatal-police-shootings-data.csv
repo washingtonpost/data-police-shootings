@@ -5175,7 +5175,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5689,Glenn A. White,2020-03-25,shot,knife,53,M,W,London,AR,True,other,Not fleeing,False
 5717,Deanna Marie Owsianiak,2020-03-26,shot,gun,55,F,W,Ormond Beach,FL,False,attack,Not fleeing,False
 5719,John Mark Hendrick,2020-03-26,shot,unarmed,32,M,W,Linwood,NC,False,other,Car,False
-5691,William Patrick Floyd,2020-03-27,shot,gun,51,M,,Portland,OR,False,other,Not fleeing,False
 5692,Robert Harman Sword,2020-03-27,shot,gun,46,M,W,Buchanan,VA,True,attack,Not fleeing,False
 5693,Tyrell Fincher,2020-03-27,shot,gun,26,M,B,Newburgh,NY,False,attack,,True
 5694,TK TK,2020-03-27,shot,gun,,M,,Lehigh Acres,FL,False,attack,Foot,False
