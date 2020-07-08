@@ -5428,11 +5428,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5948,Robert D'Lon Harris,2020-06-25,shot,undetermined,34,M,,Vinita,OK,False,undetermined,Not fleeing,False
 5949,Martin Humberto Sanchez Fregoso,2020-06-25,shot,gun,37,M,H,Atlanta,GA,False,attack,Other,False
 5947,Sabastian Noel,2020-06-26,shot,gun,27,M,W,Auburndale,FL,False,attack,Not fleeing,False
-5955,Aaron Wesley Keller,2020-06-26,shot,gun,30,M,W,Elko,NV,False,attack,Foot,False
+5955,Aaron Wesley Keller,2020-06-26,shot,gun,30,M,W,Elko,NV,False,attack,Foot,True
 5956,Benjamin Paul Brooks,2020-06-26,shot,gun,38,M,W,Muncie,IN,False,attack,Car,False
 5952,Michael Pelley,2020-06-27,shot,knife,33,M,W,Hebron,KY,False,attack,,False
 5957,Bonnie Figueroa-Ortiz,2020-06-27,shot,gun,40,F,W,Port Richey,FL,False,attack,Foot,False
+5963,Leonardo Hurtado Ibarra,2020-06-27,shot,gun,25,M,H,San Diego,CA,False,other,Foot,True
 5951,Aloysius Keaton,2020-06-27,shot and Tasered,knife,58,M,,Little Rock,AR,False,attack,Other,False
 5954,James Tober,2020-06-28,shot,gun,68,M,,Kettering,OH,True,attack,Not fleeing,False
 5953,John Parks,2020-06-29,shot,undetermined,57,M,W,Paducah,KY,False,undetermined,Car,False
 5958,Wade Russell Meisberger,2020-06-29,shot,gun,48,M,W,Hazleton,PA,False,attack,Car,False
+5962,Brittany Teichroeb,2020-06-29,shot,undetermined,26,F,,Midland,TX,False,other,Other,False
+5960,Kevin Lee Catlett,2020-06-30,shot,gun,62,M,,Johnson City,TN,False,attack,,False
+5961,John Noble Snow,2020-07-01,shot,gun,34,M,W,Durango,CO,False,attack,Not fleeing,False
+5959,TK TK,2020-07-02,shot,undetermined,,M,,Sheboygan,WI,False,undetermined,,False
