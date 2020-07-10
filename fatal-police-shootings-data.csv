@@ -4178,7 +4178,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4598,Eugene Horn,2019-03-28,shot,gun,43,M,,Phoenix,AZ,False,attack,Foot,False
 4607,Augustine Gutierrez,2019-03-28,shot,gun,42,M,H,San Antonio,TX,False,other,Car,False
 4606,Pierre J. Cher Frere,2019-03-30,shot,gun,25,M,B,Miami,FL,False,attack,,False
-4610,Andrew John Mason,2019-03-30,shot,unarmed,22,M,W,Watuaga County,NC,False,attack,Not fleeing,False
+4610,Andrew John Mason,2019-03-30,shot,unarmed,22,M,W,Watauga County,NC,False,attack,Not fleeing,False
 4669,Ondrae Levado Hutchinson,2019-03-30,shot and Tasered,gun,30,M,B,Durham,NC,False,attack,Foot,True
 4608,Stacy William Kenny,2019-03-31,shot,vehicle,33,F,W,Springfield,OR,True,other,Car,False
 4611,Juan Padilla,2019-03-31,shot,knife,24,M,H,Marana,AZ,False,attack,Not fleeing,False
@@ -4501,7 +4501,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4924,Eric Toon,2019-08-01,shot,gun,36,M,W,Charleston,WV,False,attack,Other,False
 4925,David Willoughby,2019-08-01,shot,vehicle,54,M,,Jackson County,KY,False,attack,Car,False
 4926,Lenny Blaine Griffin,2019-08-01,shot,knife,48,M,W,Tampa,FL,True,other,Not fleeing,False
-4908,Delano Williams,2019-08-02,shot,gun,55,M,,Charlottte,NC,True,attack,Not fleeing,False
+4908,Delano Williams,2019-08-02,shot,gun,55,M,,Charlotte,NC,True,attack,Not fleeing,False
 4911,Mario Benjamin,2019-08-02,shot,gun,34,M,B,Minneapolis,MN,False,attack,Not fleeing,True
 4913,Deshon Downing,2019-08-02,shot,gun,45,M,B,Indianapolis,IN,False,attack,Not fleeing,False
 4912,De'Von Bailey,2019-08-03,shot,gun,19,M,B,Colorado Springs,CO,False,other,Foot,True
