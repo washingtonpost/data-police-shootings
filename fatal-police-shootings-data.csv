@@ -1805,7 +1805,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2010,Jesse Jay Taylor,2016-11-02,shot,undetermined,40,M,W,West Jordan,UT,False,undetermined,Other,False
 2011,Ferguson Laurent,2016-11-03,shot,gun,23,M,B,Salisbury,NC,False,attack,Not fleeing,False
 2012,Dennis Kirk,2016-11-03,shot,knife,64,M,,Chambersburg,PA,True,attack,Not fleeing,False
-2013,Rita King,2016-11-03,shot,gun,56,F,,Loganville,GA,False,attack,Not fleeing,False
+2013,Rita King,2016-11-03,shot,gun,56,F,W,Loganville,GA,False,attack,Not fleeing,False
 2015,Abraham Ortiz,2016-11-04,shot,undetermined,26,M,H,Palm Springs,CA,False,undetermined,Not fleeing,False
 2016,Manuel Rosales,2016-11-04,shot,gun,35,M,H,New York,NY,True,attack,Other,False
 2017,John F. Zemola,2016-11-05,shot,knife,49,M,W,Lealman,FL,True,other,Not fleeing,False
@@ -2887,7 +2887,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3195,Frank Lopez,2017-12-10,shot and Tasered,knife,48,M,,Artesia,CA,False,attack,Not fleeing,False
 3198,TK TK,2017-12-11,shot,gun,,M,,Seattle,WA,False,attack,Car,True
 3199,Stacy Micheletti,2017-12-11,shot,unknown weapon,51,M,W,Great Falls,MT,False,other,,False
-3201,Marcia Metzger Aiken,2017-12-12,shot,undetermined,50,F,,Rincon,GA,True,undetermined,,False
+3201,Marcia Metzger Aiken,2017-12-12,shot,undetermined,50,F,W,Rincon,GA,True,undetermined,,False
 3200,Jeremy Patscheck,2017-12-13,shot,vehicle,,M,,Northglenn,CO,False,attack,,False
 3211,TK TK,2017-12-13,shot,unknown weapon,,M,,Hamilton,AL,False,other,Not fleeing,False
 3213,Zoe Dowdell,2017-12-14,shot,,20,M,B,New Britain,CT,False,other,Car,False
@@ -2908,7 +2908,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3227,Frankie Anchondo,2017-12-20,shot,unarmed,35,M,,Farmington,NM,False,other,Not fleeing,False
 3228,TK TK,2017-12-20,shot,gun,,M,,Oceanside,CA,False,undetermined,Foot,False
 3229,Kameron Prescott,2017-12-21,shot,unarmed,6,M,W,Schertz,TX,False,other,Not fleeing,False
-3230,Amanda Lenee Jones,2017-12-21,shot,pipe,30,F,,Schertz,TX,False,other,Foot,False
+3230,Amanda Lenee Jones,2017-12-21,shot,pipe,30,F,W,Schertz,TX,False,other,Foot,False
 3239,Jose Aguero,2017-12-21,shot,gun,26,M,H,Greeley,CO,True,other,Foot,False
 3236,Ahmed Aminamin El-Mofty,2017-12-22,shot,gun,51,M,,Harrisburg,PA,False,attack,Foot,False
 3237,Jeffrey John Golnick,2017-12-22,shot,gun,40,M,W,Gilbert,MN,False,attack,Foot,False
@@ -2926,7 +2926,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3243,James Alan Berrones,2017-12-26,shot,gun,46,M,,Roswell,NM,False,attack,,False
 3244,Jesse Scarsbrook,2017-12-26,shot,gun,28,M,B,Lawrence,IN,False,attack,Car,False
 3245,Robo Raikoglo,2017-12-26,shot,gun,30,M,W,Desert Hot Springs,CA,False,attack,Car,False
-3246,Brooke Amelia Camacho,2017-12-26,shot,gun,38,F,,Farmers Branch,TX,False,attack,Not fleeing,False
+3246,Brooke Amelia Camacho,2017-12-26,shot,gun,38,F,H,Farmers Branch,TX,False,attack,Not fleeing,False
 3247,Salvador Byassee,2017-12-26,shot,knife,34,M,,300 block of State Line Road,TN,False,other,Other,False
 3263,Joshua Paul Spottedhorse,2017-12-26,shot,gun,36,M,N,Spokane,WA,False,attack,Foot,True
 3249,Dennis Plowden,2017-12-27,shot,,25,M,B,Philadelphia,PA,False,attack,Car,False
@@ -5188,7 +5188,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5701,Valente Acosta-Bustillos,2020-03-31,shot,shovel,52,M,H,Albuquerque,NM,True,other,Not fleeing,False
 5702,Shane Tilman Kent,2020-03-31,shot,gun,29,M,W,Asheville,NC,False,attack,Not fleeing,False
 5703,John H. Ross,2020-03-31,shot,gun and car,29,M,,Hinton,VA,False,attack,Car,False
-5705,TK TK,2020-03-31,shot,knife,,,,Burkesville,KY,False,attack,Car,False
+5705,TK TK,2020-03-31,shot,knife,,M,,Burkesville,KY,False,attack,Car,False
 5704,Austin Hines,2020-04-01,shot,gun and vehicle,19,M,W,Columbus,MS,False,attack,Car,False
 5706,Nathan R. Hodge,2020-04-02,shot,gun,66,M,B,Ouachita Parish,LA,False,attack,Not fleeing,False
 5707,David A. Xanatos,2020-04-02,shot,knife,40,M,W,Lincoln CIty,OR,False,other,Not fleeing,False
@@ -5379,7 +5379,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5866,Jorge Gomez,2020-06-01,shot,gun,25,M,H,Las Vegas,NV,False,attack,Not fleeing,False
 5867,Ryan Emblem Moore,2020-06-01,shot,undetermined,36,M,W,Fayetteville,AR,False,undetermined,Not fleeing,False
 5869,Robert James Lyon,2020-06-02,shot,gun,65,M,,Cottonwood,CA,False,other,Not fleeing,False
-5896,Sean Monterrosa,2020-06-02,shot,hammer,22,M,H,Vallejo,CA,False,other,Not fleeing,False
+5896,Sean Monterrosa,2020-06-02,shot,hammer,22,M,H,Vallejo,CA,False,other,Not fleeing,True
 5897,Tyquarn Graves,2020-06-02,shot,gun,33,M,B,Brooklyn,NY,False,other,Not fleeing,True
 5898,Mary Lawrence,2020-06-03,shot,knife,39,F,W,Poteau,OK,False,other,Not fleeing,False
 5902,Gregory W. Hallback,2020-06-03,shot,gun,44,M,W,Aiken,SC,False,attack,Not fleeing,False
@@ -5415,6 +5415,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5930,TK TK,2020-06-18,shot,gun,38,M,W,Westminister,CO,False,other,Not fleeing,False
 5932,Kellen Fortune,2020-06-18,shot,gun,19,M,,Billings,MT,False,attack,Not fleeing,False
 5933,Andres Guardado,2020-06-18,shot,gun,18,M,H,Gardena,CA,False,other,Foot,False
+5966,David Lee Jacobs,2020-06-18,shot,gun,38,M,W,Westminster,CO,False,other,Not fleeing,False
 5931,Henry Barnes,2020-06-19,shot,undetermined,25,M,,Jay,OK,False,attack,Foot,False
 5941,Cody W. Cook,2020-06-19,shot,gun,24,M,W,Sodus,NY,False,attack,Not fleeing,True
 5940,Michael Torres,2020-06-20,shot,machete,35,M,,Lake Charles,LA,False,attack,Not fleeing,False
@@ -5433,11 +5434,30 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5952,Michael Pelley,2020-06-27,shot,knife,33,M,W,Hebron,KY,False,attack,,False
 5957,Bonnie Figueroa-Ortiz,2020-06-27,shot,gun,40,F,W,Port Richey,FL,False,attack,Foot,False
 5963,Leonardo Hurtado Ibarra,2020-06-27,shot,gun,25,M,H,San Diego,CA,False,attack,Foot,True
+5964,Mark Eberly,2020-06-27,shot,gun,57,M,W,Cumberland County,TN,False,attack,,False
 5951,Aloysius Keaton,2020-06-27,shot and Tasered,knife,58,M,,Little Rock,AR,False,attack,Other,False
 5954,James Tober,2020-06-28,shot,gun,68,M,,Kettering,OH,True,attack,Not fleeing,False
 5953,John Parks,2020-06-29,shot,undetermined,57,M,W,Paducah,KY,False,undetermined,Car,False
 5958,Wade Russell Meisberger,2020-06-29,shot,gun,48,M,W,Hazleton,PA,False,attack,Car,False
-5962,Brittany S. Teichroeb,2020-06-29,shot,undetermined,26,F,,Midland,TX,False,other,Other,False
+5962,Brittany S. Teichroeb,2020-06-29,shot,undetermined,26,F,W,Midland,TX,False,other,Other,False
 5960,Kevin Lee Catlett,2020-06-30,shot,gun,62,M,,Johnson City,TN,False,attack,,False
 5961,John Noble Snow,2020-07-01,shot,gun,34,M,W,Durango,CO,False,attack,Not fleeing,False
+5976,Ky Johnson,2020-07-02,shot,gun,31,M,B,Kansas City,MO,False,attack,Foot,False
 5959,Kevan Ruffin,2020-07-02,shot and Tasered,knife,32,M,B,Sheboygan,WI,True,other,Not fleeing,True
+5975,TK TK,2020-07-03,shot,gun,58,M,,Welches,OR,True,attack,,False
+5969,James Porter Garcia,2020-07-04,shot,undetermined,28,M,W,Phoenix,AZ,False,undetermined,Not fleeing,True
+5974,Axel Perez,2020-07-04,shot,machete,17,M,H,Jacksonville,FL,False,other,Not fleeing,False
+5968,TK TK,2020-07-05,shot,undetermined,,M,,Chino,CA,False,undetermined,,False
+5971,Taylor Christian Warner,2020-07-05,shot,toy weapon,30,M,W,Muncie,IN,True,attack,,False
+5972,Rodney Liveringhouse,2020-07-05,shot,gun,70,M,,Mesa,AZ,False,attack,Not fleeing,False
+5970,Joseph W. Denton,2020-07-06,shot,gun,35,M,,Milwaukee,WI,False,attack,,False
+5973,Joey Hoffman,2020-07-06,shot,gun,40,M,,Smithfield Township,PA,False,attack,Not fleeing,False
+5965,Paul Eugene Armstrong,2020-07-07,shot,gun,62,M,W,Etowah,TN,False,other,Not fleeing,False
+5967,Carlos Baires,2020-07-07,shot,vehicle,36,M,,Fresno,CA,False,other,Not fleeing,False
+5977,TK TK,2020-07-07,shot,gun,,M,,Harris County,TX,True,attack,Not fleeing,False
+5978,TK TK,2020-07-08,shot,gun,,M,,Horry County,SC,False,attack,,False
+5979,Michael Norton,2020-07-10,shot,undetermined,,M,,Forksville,PA,False,undetermined,Not fleeing,False
+5981,Hakim Littleton,2020-07-10,shot,gun,20,M,B,Detroit,MI,False,attack,Not fleeing,False
+5982,TK TK,2020-07-11,shot,gun,,M,,Monument,CO,False,attack,Car,False
+5983,Michael Culbertson,2020-07-11,shot,unknown weapon,26,M,,Greenville,SC,False,attack,Not fleeing,False
+5980,TK TK,2020-07-12,shot,gun,,M,,Chamblee,GA,False,attack,Not fleeing,False
