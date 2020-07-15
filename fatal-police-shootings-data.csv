@@ -5445,10 +5445,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5976,Ky Johnson,2020-07-02,shot,gun,31,M,B,Kansas City,MO,False,attack,Foot,False
 5959,Kevan Ruffin,2020-07-02,shot and Tasered,knife,32,M,B,Sheboygan,WI,True,other,Not fleeing,True
 5975,TK TK,2020-07-03,shot,gun,58,M,,Welches,OR,True,attack,,False
-5969,James Porter Garcia,2020-07-04,shot,undetermined,28,M,W,Phoenix,AZ,False,undetermined,Not fleeing,True
-5974,Axel Perez,2020-07-04,shot,machete,17,M,H,Jacksonville,FL,False,other,Not fleeing,False
+5969,James Porter Garcia,2020-07-04,shot,undetermined,28,M,H,Phoenix,AZ,False,undetermined,Not fleeing,True
+5974,Axal Perez,2020-07-04,shot,machete,17,M,H,Jacksonville,FL,False,other,Not fleeing,False
 5968,TK TK,2020-07-05,shot,undetermined,,M,,Chino,CA,False,undetermined,,False
-5971,Taylor Christian Warner,2020-07-05,shot,toy weapon,30,M,W,Muncie,IN,True,attack,,False
+5971,Taylor Christian Warner,2020-07-05,shot,toy weapon,30,M,,Muncie,IN,True,attack,,True
 5972,Rodney Liveringhouse,2020-07-05,shot,gun,70,M,,Mesa,AZ,False,attack,Not fleeing,False
 5970,Joseph W. Denton,2020-07-06,shot,gun,35,M,,Milwaukee,WI,False,attack,,False
 5973,Joey Hoffman,2020-07-06,shot,gun,40,M,,Smithfield Township,PA,False,attack,Not fleeing,False
@@ -5466,4 +5466,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5984,Terena Thurman,2020-07-12,shot,vehicle,36,F,W,Butler Township,OH,False,attack,Car,False
 5985,Rodney Morrison,2020-07-12,shot,knife,47,M,,Leesburg,GA,False,attack,Not fleeing,False
 5989,Glenn Farse Young,2020-07-13,shot,gun,59,M,,Rockwood,TN,False,other,Car,False
-5988,Sean Ruis,2020-07-14,shot,knife,43,M,,Delta Township,MI,False,other,Car,False
+5988,Sean Ruis,2020-07-14,shot,knife,43,M,,Delta Township,MI,False,other,Car,True
