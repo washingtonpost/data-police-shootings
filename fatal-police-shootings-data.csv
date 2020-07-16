@@ -5333,7 +5333,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5815,TK TK,2020-05-20,shot,gun,,M,,Viera,FL,True,attack,Not fleeing,False
 5894,Tobby Wiggins,2020-05-20,shot,undetermined,45,M,B,Atmore,AL,False,other,Foot,False
 5923,TK TK,2020-05-20,shot,undetermined,,M,,Hayward,CA,False,undetermined,,True
-5870,Ryan Whitaker,2020-05-21,shot,gun,40,M,W,Phoenix,AZ,False,other,Not fleeing,False
+5870,Ryan Whitaker,2020-05-21,shot,gun,40,M,W,Phoenix,AZ,False,other,Not fleeing,True
 5892,Willie Lee Quarles,2020-05-21,shot,gun,60,M,B,Greenwood,SC,False,attack,Not fleeing,False
 5840,Bernardo Palacios-Carbajal,2020-05-23,shot,gun,22,M,H,Salt Lake City,UT,False,other,Foot,True
 5873,Maurice S. Gordon,2020-05-23,shot,unarmed,28,M,B,Bass River,NJ,False,attack,Not fleeing,True
@@ -5450,20 +5450,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5968,TK TK,2020-07-05,shot,undetermined,,M,,Chino,CA,False,undetermined,,False
 5971,Taylor Christian Warner,2020-07-05,shot,toy weapon,30,M,,Muncie,IN,True,attack,,True
 5972,Rodney Liveringhouse,2020-07-05,shot,gun,70,M,,Mesa,AZ,False,attack,Not fleeing,False
-5970,Joseph W. Denton,2020-07-06,shot,gun,35,M,,Milwaukee,WI,False,attack,,False
+5970,Joseph W. Denton,2020-07-06,shot,gun,35,M,B,Milwaukee,WI,False,other,,False
 5973,Joey Hoffman,2020-07-06,shot,gun,40,M,,Smithfield Township,PA,False,attack,Not fleeing,False
-5965,Paul Eugene Armstrong,2020-07-07,shot,gun,62,M,W,Etowah,TN,False,other,Not fleeing,False
-5967,Carlos Baires,2020-07-07,shot,vehicle,36,M,,Fresno,CA,False,other,Not fleeing,False
+5965,Paul Eugene Armstrong,2020-07-07,shot,gun,62,M,,Etowah,TN,False,attack,Not fleeing,False
+5967,Carlos Baires,2020-07-07,shot,vehicle,36,M,,Fresno,CA,False,attack,Not fleeing,False
 5977,TK TK,2020-07-07,shot,gun,,M,,Harris County,TX,True,attack,Not fleeing,False
 5978,Wade Phillips,2020-07-08,shot,gun,49,M,,Horry County,SC,False,attack,,False
-5987,TK TK,2020-07-09,shot,toy weapon,,M,,San Diego,CA,False,attack,Not fleeing,False
-5979,Michael Norton,2020-07-10,shot,undetermined,,M,,Forksville,PA,False,undetermined,Not fleeing,False
-5981,Hakim Littleton,2020-07-10,shot,gun,20,M,B,Detroit,MI,False,attack,Not fleeing,False
+5987,Richard Lewis Price,2020-07-09,shot,toy weapon,49,M,,San Diego,CA,False,attack,Not fleeing,True
+5979,Kevin Michael Norton,2020-07-10,shot,gun,60,M,W,Forksville,PA,False,undetermined,Not fleeing,False
+5981,Hakim Littleton,2020-07-10,shot,gun,20,M,B,Detroit,MI,False,attack,Not fleeing,True
 5986,Kanavis Dujuan Glass,2020-07-10,shot,gun,31,M,,Panama City,FL,False,attack,Not fleeing,False
 5982,TK TK,2020-07-11,shot,gun,,M,,Monument,CO,False,attack,Car,False
-5983,Michael Culbertson,2020-07-11,shot,unknown weapon,26,M,,Greenville,SC,False,attack,Not fleeing,False
+5983,Michael Joseph Culbertson,2020-07-11,shot,gun,26,M,,Greenville,SC,False,attack,Not fleeing,False
 5980,TK TK,2020-07-12,shot,gun,,M,,Chamblee,GA,False,attack,Not fleeing,False
 5984,Terena Thurman,2020-07-12,shot,vehicle,36,F,W,Butler Township,OH,False,attack,Car,False
 5985,Rodney Morrison,2020-07-12,shot,knife,47,M,,Leesburg,GA,False,attack,Not fleeing,False
 5989,Glenn Farse Young,2020-07-13,shot,gun,59,M,,Rockwood,TN,False,other,Car,False
-5988,Sean Ruis,2020-07-14,shot,knife,43,M,,Delta Township,MI,False,other,Car,True
+5988,Sean Ernest Ruis,2020-07-14,shot,knife,43,M,W,Delta Township,MI,False,other,Car,True
