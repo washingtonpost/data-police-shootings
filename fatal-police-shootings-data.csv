@@ -5011,7 +5011,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5440,Joshua Greenleaf,2020-01-28,shot,knife,27,M,W,Scottsdale,AZ,True,attack,Not fleeing,False
 5442,Robert Cocio,2020-01-28,shot,gun,39,M,H,Tuscson,AZ,False,attack,Not fleeing,False
 5569,Jonathan Bentley,2020-01-28,shot,vehicle,37,M,W,Shelby Gap,KY,False,attack,Not fleeing,False
-5441,Jaquyn Oneill Light,2020-01-29,shot,undetermined,20,M,B,Graham,NC,False,undetermined,Foot,False
+5441,Jaquyn Oneill Light,2020-01-29,shot,unarmed,20,M,B,Graham,NC,False,attack,Foot,False
 5500,Clint Stevens,2020-01-29,shot,gun,34,M,W,Deposit,NY,True,attack,Not fleeing,False
 5502,Justin Leman,2020-01-29,shot,gun,32,M,W,Kasilof,AK,False,attack,Foot,False
 5443,Chad Nicolia,2020-01-30,shot,gun,41,M,,Hockingport,OH,False,attack,Not fleeing,False
@@ -5444,7 +5444,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5961,John Noble Snow,2020-07-01,shot,gun,34,M,W,Durango,CO,False,attack,Not fleeing,False
 5976,Ky Johnson,2020-07-02,shot,gun,31,M,B,Kansas City,MO,False,attack,Foot,False
 5959,Kevan Ruffin,2020-07-02,shot and Tasered,knife,32,M,B,Sheboygan,WI,True,other,Not fleeing,True
-5975,TK TK,2020-07-03,shot,gun,58,M,,Welches,OR,True,attack,,False
+5975,Doug Diamond,2020-07-03,shot,gun,58,M,,Welches,OR,True,attack,Not fleeing,False
 5969,James Porter Garcia,2020-07-04,shot,undetermined,28,M,H,Phoenix,AZ,False,undetermined,Not fleeing,True
 5974,Axal Perez,2020-07-04,shot,machete,17,M,H,Jacksonville,FL,False,other,Not fleeing,False
 5968,TK TK,2020-07-05,shot,undetermined,,M,,Chino,CA,False,undetermined,,False
@@ -5467,3 +5467,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5985,Rodney Morrison,2020-07-12,shot,knife,47,M,,Leesburg,GA,False,other,Foot,False
 5989,Glenn Farse Young,2020-07-13,shot,gun,59,M,,Rockwood,TN,False,other,Car,False
 5988,Sean Ernest Ruis,2020-07-14,shot,knife,43,M,W,Delta Township,MI,False,other,Car,True
+5990,Vincent Truitt,2020-07-14,shot,gun,17,M,,Cobb County,GA,False,attack,Other,False
+5991,Christian Ramos Murillo,2020-07-14,shot,gun,32,M,H,Knoxville,TN,False,attack,Car,False
+5994,Julio Jaramillo,2020-07-14,shot,gun,28,M,H,Deming,NM,False,attack,Foot,False
+5996,Timothy O'Shea,2020-07-14,shot,toy weapon,24,M,,Morris Township,NJ,True,attack,Not fleeing,False
+5993,TK TK,2020-07-15,shot,vehicle,39,M,,Stockton,CA,False,other,Not fleeing,False
+5992,TK TK,2020-07-16,shot,undetermined,,M,,Shoreline,WA,False,undetermined,,False
+5995,TK TK,2020-07-16,shot,gun,60,M,W,North Fort Myers,FL,True,attack,Not fleeing,False
