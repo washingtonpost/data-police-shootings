@@ -5482,9 +5482,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6002,David Angulo,2020-07-20,shot,gun,33,M,,Chula Vista,CA,False,attack,Other,False
 6003,Kyle Elrod,2020-07-21,shot,gun,30,M,W,Oklahoma City,OK,False,attack,Not fleeing,True
 6004,Southern Jeremy,2020-07-21,shot,gun,22,M,B,Sacramento,CA,False,attack,Not fleeing,True
-6005,TK TK,2020-07-22,shot,gun,,F,,Largo,FL,False,attack,Foot,False
+6005,Deborah White,2020-07-22,shot,gun,49,F,,Largo,FL,False,attack,Foot,False
 6008,TK TK,2020-07-23,shot,gun,,M,,Detroit,MI,False,attack,Other,True
-6017,Karl Sieger,2020-07-23,shot,,51,M,,Eureka,CA,True,undetermined,,True
+6017,John Karl Sieger,2020-07-23,shot,gun,51,M,W,Eureka,CA,True,attack,Not fleeing,True
 6015,TK TK,2020-07-24,shot,toy weapon,,M,,Stockton,CA,False,attack,Not fleeing,False
 6016,TK TK,2020-07-24,shot,vehicle,,M,,West Kendall,FL,False,other,Car,False
 6009,Christopher Poor,2020-07-25,shot,undetermined,49,M,W,The Village,OK,False,undetermined,,False
@@ -5492,5 +5492,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6006,Samuel Solomon Cochran Jr,2020-07-26,shot,knife,22,M,,Mt. Airy,NC,False,attack,Not fleeing,False
 6010,David Earl Brooks,2020-07-27,shot,gun,45,M,B,Roxboro,NC,False,other,,False
 6007,TK TK,2020-07-28,shot,gun,,M,,Canton,NC,False,attack,Not fleeing,False
-6012,TK TK,2020-07-28,shot,gun,,M,,North Port,FL,True,attack,Not fleeing,False
+6012,Howard Owens,2020-07-28,shot,gun,47,M,W,North Port,FL,True,attack,Not fleeing,False
 6011,TK TK,2020-07-29,shot,machete,,M,,Las Vegas,NV,False,attack,Not fleeing,False
