@@ -5494,3 +5494,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6007,Jacob Wilbur Wright,2020-07-28,shot,gun,32,M,,Canton,NC,False,attack,Not fleeing,False
 6012,Howard Owens,2020-07-28,shot,gun,47,M,,North Port,FL,True,attack,Not fleeing,False
 6011,TK TK,2020-07-29,shot,machete,,M,,Las Vegas,NV,False,attack,Not fleeing,False
+6024,TK TK,2020-07-29,shot,knife,,M,,Bothell,WA,True,other,Not fleeing,False
+6025,Winston Joseph Latour,2020-07-29,shot,gun,37,M,,Lake Charles,LA,False,other,Car,False
+6029,Darrien Walker,2020-07-30,shot and Tasered,sword,28,M,B,Detroit,MI,True,other,Not fleeing,False
+6021,Ronald Pope,2020-07-31,shot,gun,49,M,,Morristown,TN,False,attack,Not fleeing,False
+6023,TK TK,2020-08-01,shot,gun,56,M,,Miami,FL,False,attack,Not fleeing,False
+6019,Christopher Kimmons Craven,2020-08-02,shot,undetermined,38,M,W,Mooresville,NC,True,undetermined,,False
+6020,TK TK,2020-08-02,shot,gun,,M,,West Jordan,UT,False,attack,Not fleeing,False
+6018,Adrean Stephenson,2020-08-02,shot and Tasered,knife,63,F,,Sarasota,FL,False,other,Not fleeing,False
+6026,TK TK,2020-08-04,shot,gun,,M,,Kearns,UT,False,attack,Foot,False
+6028,TK TK,2020-08-04,shot,undetermined,,M,,Warren,OH,False,undetermined,,False
