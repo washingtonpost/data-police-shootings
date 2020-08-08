@@ -5332,7 +5332,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5816,TK TK,2020-05-19,shot and Tasered,knife,,M,,Seattle,WA,False,undetermined,Foot,True
 5815,TK TK,2020-05-20,shot,gun,,M,,Viera,FL,True,attack,Not fleeing,False
 5894,Tobby Wiggins,2020-05-20,shot,undetermined,45,M,B,Atmore,AL,False,other,Foot,False
-5923,TK TK,2020-05-20,shot,undetermined,,M,,Hayward,CA,False,undetermined,,True
+5923,Stoney Ramirez,2020-05-20,shot,vehicle,23,M,,Hayward,CA,False,attack,Car,True
 5870,Ryan Whitaker,2020-05-21,shot,gun,40,M,W,Phoenix,AZ,False,other,Not fleeing,True
 5892,Willie Lee Quarles,2020-05-21,shot,gun,60,M,B,Greenwood,SC,False,attack,Not fleeing,False
 5840,Bernardo Palacios-Carbajal,2020-05-23,shot,gun,22,M,H,Salt Lake City,UT,False,other,Foot,True
@@ -5496,11 +5496,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6011,TK TK,2020-07-29,shot,machete,,M,,Las Vegas,NV,False,attack,Not fleeing,False
 6024,TK TK,2020-07-29,shot,knife,,M,,Bothell,WA,True,other,Not fleeing,False
 6025,Winston Joseph Latour,2020-07-29,shot,gun,37,M,,Lake Charles,LA,False,other,Car,False
-6029,Darrien Walker,2020-07-30,shot and Tasered,sword,28,M,B,Detroit,MI,True,other,Not fleeing,False
+6029,Darrien Walker,2020-07-30,shot and Tasered,sword,28,M,B,Detroit,MI,False,attack,Not fleeing,False
 6021,Ronald Pope,2020-07-31,shot,gun,49,M,,Morristown,TN,False,attack,Not fleeing,False
 6023,TK TK,2020-08-01,shot,gun,56,M,,Miami,FL,False,attack,Not fleeing,False
-6019,Christopher Kimmons Craven,2020-08-02,shot,undetermined,38,M,W,Mooresville,NC,True,undetermined,,False
-6020,TK TK,2020-08-02,shot,gun,,M,,West Jordan,UT,False,attack,Not fleeing,False
-6018,Adrean Stephenson,2020-08-02,shot and Tasered,knife,63,F,,Sarasota,FL,False,other,Not fleeing,False
-6026,TK TK,2020-08-04,shot,gun,,M,,Kearns,UT,False,attack,Foot,False
-6028,TK TK,2020-08-04,shot,undetermined,,M,,Warren,OH,False,undetermined,,False
+6019,Christopher Kimmons Craven,2020-08-02,shot,gun,38,M,W,Mooresville,NC,True,attack,,False
+6020,Cyrus D. Carpenter,2020-08-02,shot,gun,17,M,,West Jordan,UT,False,attack,Not fleeing,False
+6018,Adrean Stephenson,2020-08-02,shot and Tasered,knife,63,F,,Sarasota,FL,True,other,Not fleeing,False
+6026,Andrew S. Gwynn,2020-08-04,shot,gun,30,M,,Kearns,UT,False,attack,Foot,False
+6028,David Lee Rigg,2020-08-04,shot,gun,44,M,W,Warren,OH,True,other,Not fleeing,False
