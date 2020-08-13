@@ -5507,12 +5507,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6026,Andrew S. Gwynn,2020-08-04,shot,gun,30,M,,Kearns,UT,False,attack,Foot,False
 6028,David Lee Rigg,2020-08-04,shot,gun,44,M,W,Warren,OH,True,other,Not fleeing,False
 6034,Melissa Halda,2020-08-04,shot,knife,39,F,,Fort Dodge,IA,False,other,Not fleeing,False
-6038,Christopher Lawings,2020-08-04,shot,unknown weapon,67,M,,James Island,SC,False,other,Not fleeing,False
-6035,"Roberto Hernandez, Jr.",2020-08-05,shot,gun,29,M,H,San Angelo,TX,False,other,Other,False
-6037,David James Pruitte,2020-08-05,shot,,36,M,,Port Orchard,WA,True,undetermined,,False
-6030,TK TK,2020-08-06,shot,undetermined,,,,Ventnor,NJ,False,undetermined,Not fleeing,False
+6037,David James Pruitte,2020-08-04,shot,,36,M,W,Port Orchard,WA,True,undetermined,,False
+6038,Christopher Lawings,2020-08-04,shot,gun and knife,67,M,,James Island,SC,False,attack,Not fleeing,False
+6035,Roberto Hernandez,2020-08-05,shot,gun,29,M,H,San Angelo,TX,False,attack,Other,False
+6030,Amir Johnson,2020-08-06,shot,bottle,30,M,,Ventnor,NJ,False,other,Not fleeing,False
 6031,TK TK,2020-08-06,shot,gun,,M,,San Leandro,CA,False,attack,Other,False
-6036,Jeffrey Haarsma,2020-08-07,shot,unarmed,55,M,,St. Petersburg,FL,True,attack,Not fleeing,False
+6036,Jeffrey Scott Haarsma,2020-08-07,shot,unarmed,55,M,,St. Petersburg,FL,True,attack,Not fleeing,False
 6039,TK TK,2020-08-07,shot,knife,,M,,Rancho Mirage,CA,False,attack,Not fleeing,False
-6032,TK TK,2020-08-08,shot,knife,,M,,St. Croix,WI,False,attack,Not fleeing,False
-6033,TK TK,2020-08-08,shot,knife,,M,,Tulsa,OK,True,other,Not fleeing,False
+6032,TK TK,2020-08-08,shot,knife,,M,,St. Croix Falls,WI,False,attack,Not fleeing,False
+6033,TK TK,2020-08-08,shot,knife,25,M,,Tulsa,OK,True,other,Not fleeing,False
