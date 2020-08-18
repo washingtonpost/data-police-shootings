@@ -5260,7 +5260,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5766,De Quang Tran,2020-04-26,shot,gun,26,M,A,La Plata,MD,False,attack,Not fleeing,False
 5775,Nicolas Chavez,2020-04-27,shot,sharp object,27,M,,Houston,TX,True,other,Not fleeing,False
 5788,Robert Musser,2020-04-28,shot,gun,32,M,W,Buckeye,AZ,False,attack,Car,False
-5950,Jonas Joseph,2020-04-28,shot,gun,26,M,B,Tampa,FL,False,other,Car,False
+5950,Jonas Joseph,2020-04-28,shot,gun and vehicle,26,M,B,Tampa,FL,False,attack,Car,False
 5786,William E. Abbe,2020-04-28,shot and Tasered,sharp object,50,M,W,Vancouver,WA,False,attack,Not fleeing,False
 5784,Jesus Caballero,2020-04-29,shot,gun,38,M,H,Las Vegas,NV,False,attack,Car,False
 5785,Artemio Mondragon Alfaro,2020-04-29,shot,vehicle,29,M,W,Madera County,CA,False,attack,Other,False
@@ -5495,7 +5495,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6010,David Earl Brooks,2020-07-27,shot,gun,45,M,B,Roxboro,NC,False,other,,False
 6007,Jacob Wilbur Wright,2020-07-28,shot,gun,32,M,,Canton,NC,False,attack,Not fleeing,False
 6012,Howard Owens,2020-07-28,shot,gun,47,M,,North Port,FL,True,attack,Not fleeing,False
-6011,TK TK,2020-07-29,shot,machete,,M,,Las Vegas,NV,False,attack,Not fleeing,False
+6011,Giovanni Cedano-Amaro,2020-07-29,shot,machete,21,M,,Las Vegas,NV,False,attack,Not fleeing,False
 6024,TK TK,2020-07-29,shot,knife,,M,,Bothell,WA,True,other,Not fleeing,False
 6025,Winston Joseph Latour,2020-07-29,shot,gun,37,M,,Lake Charles,LA,False,other,Car,False
 6029,Darrien Walker,2020-07-30,shot and Tasered,sword,28,M,B,Detroit,MI,False,attack,Not fleeing,False
@@ -5503,7 +5503,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6023,TK TK,2020-08-01,shot,gun,56,M,,Miami,FL,False,attack,Not fleeing,False
 6019,Christopher Kimmons Craven,2020-08-02,shot,gun,38,M,W,Mooresville,NC,True,attack,,False
 6020,Cyrus D. Carpenter,2020-08-02,shot,gun,17,M,,West Jordan,UT,False,attack,Not fleeing,False
-6040,Adrean Stephenson,2020-08-02,shot,knife,63,F,W,Sarasaota,FL,True,attack,Not fleeing,False
 6018,Adrean Stephenson,2020-08-02,shot and Tasered,knife,63,F,,Sarasota,FL,True,other,Not fleeing,False
 6026,Andrew S. Gwynn,2020-08-04,shot,gun,30,M,,Kearns,UT,False,attack,Foot,False
 6028,David Lee Rigg,2020-08-04,shot,gun,44,M,W,Warren,OH,True,other,Not fleeing,False
@@ -5518,10 +5517,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6055,Salaythis Melvin,2020-08-07,shot,gun,22,M,B,Orlando,FL,False,other,Foot,True
 6032,TK TK,2020-08-08,shot,knife,,M,,St. Croix Falls,WI,False,attack,Not fleeing,False
 6033,Jonathan Randell,2020-08-08,shot,knife,25,M,W,Tulsa,OK,True,other,Not fleeing,False
-6050,Aaron Michael Griffin,2020-08-08,shot,gun,21,M,W,Clinton,UT,False,undetermined,Car,False
-6051,Jonathan Jefferson,2020-08-08,shot,undetermined,34,M,,Bossier City,LA,False,undetermined,Not fleeing,False
-6052,Matthew Hilbelink,2020-08-08,shot,gun,39,M,,Holladay,UT,False,other,Not fleeing,False
-6054,Ryan Shane Hinijo,2020-08-09,shot,gun,26,M,,El Paso,TX,False,attack,Foot,False
+6050,Aaron Michael Griffin,2020-08-08,shot,gun,21,M,W,Clinton,UT,False,attack,Car,False
+6051,Jonathan Jefferson,2020-08-08,shot,knife,34,M,B,Bossier City,LA,True,other,Not fleeing,False
+6052,Matthew Hilbelink,2020-08-08,shot,gun,39,M,,Holladay,UT,False,undetermined,Not fleeing,True
+6054,Ryan Shane Hinojo,2020-08-09,shot,gun,26,M,,El Paso,TX,False,attack,Foot,False
 6056,"Earl Barton, Jr.",2020-08-09,shot,knife,42,M,,Tulsa,OK,False,attack,Foot,False
 6057,Donald Anderson,2020-08-09,shot,gun,39,M,,Graham,WA,False,attack,Not fleeing,False
 6059,Joshua Squires,2020-08-10,shot,gun,32,M,W,Las Vegas,NV,True,attack,Not fleeing,True
@@ -5535,9 +5534,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6053,Joshua Gay,2020-08-14,shot,gun,,M,W,Dania Beach,FL,False,attack,,False
 6041,Fred John Henry Arcera,2020-08-15,shot,knife,41,M,,Oak Ridge,TN,False,undetermined,Not fleeing,False
 6046,Anthony McClain,2020-08-15,shot,gun,32,M,B,Pasadena,CA,False,other,Foot,False
-6047,TK TK,2020-08-15,shot,gun,,M,,Marion County,FL,False,attack,,False
+6047,Rick Lee Miller,2020-08-15,shot,gun,51,M,,Marion County,FL,False,attack,,False
 6048,TK TK,2020-08-15,shot,knife,,M,,Denver,CO,False,attack,Not fleeing,False
 6042,TK TK,2020-08-16,shot,undetermined,,M,W,Maury County,TN,False,undetermined,Other,False
-6043,TK TK,2020-08-16,shot,knife,,M,,Dos Palos,CA,False,other,Not fleeing,False
+6043,Jose Manuel Castro,2020-08-16,shot,knife,27,M,H,Dos Palos,CA,False,other,Not fleeing,False
 6044,TK TK,2020-08-16,shot,gun,,M,,Las Vegas,NV,True,other,Not fleeing,False
 6045,TK TK,2020-08-16,shot,gun,30,M,,Hemet,CA,False,other,Car,False
