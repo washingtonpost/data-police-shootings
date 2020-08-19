@@ -5258,7 +5258,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5768,Farron Morris Hammond,2020-04-25,shot,gun,61,M,W,Hogansville,GA,False,attack,Not fleeing,False
 5765,Bradley G. Pullman,2020-04-26,shot,vehicle,48,M,,Wayne,NJ,False,other,Car,False
 5766,De Quang Tran,2020-04-26,shot,gun,26,M,A,La Plata,MD,False,attack,Not fleeing,False
-5775,Nicolas Chavez,2020-04-27,shot,sharp object,27,M,,Houston,TX,True,other,Not fleeing,False
+5775,Nicolas Chavez,2020-04-27,shot and Tasered,sharp object,27,M,H,Houston,TX,True,other,Not fleeing,True
 5788,Robert Musser,2020-04-28,shot,gun,32,M,W,Buckeye,AZ,False,attack,Car,False
 5950,Jonas Joseph,2020-04-28,shot,gun and vehicle,26,M,B,Tampa,FL,False,attack,Car,False
 5786,William E. Abbe,2020-04-28,shot and Tasered,sharp object,50,M,W,Vancouver,WA,False,attack,Not fleeing,False
@@ -5413,7 +5413,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5927,Donald Ward,2020-06-16,shot,gun,27,M,,Phoenix,AZ,False,attack,Not fleeing,False
 5928,Terron Jammal Boone,2020-06-17,shot,gun,31,M,B,Rosamond,CA,False,attack,Not fleeing,False
 6066,Troy Willey,2020-06-17,shot,gun,50,M,,Kennard,IN,False,attack,Other,False
-6067,Keith Brunelle,2020-06-17,shot,gun,48,M,W,Collinsville,MS,False,attack,Not fleeing,False
+6067,Keith William Brunelle,2020-06-17,shot,gun,48,M,W,Collinsville,MS,False,attack,Not fleeing,False
 5929,Jack Harry,2020-06-17,shot and Tasered,knife,,M,W,Lovelock,NV,False,attack,Car,False
 5930,TK TK,2020-06-18,shot,gun,38,M,W,Westminister,CO,False,other,Not fleeing,False
 5932,Kellen Fortune,2020-06-18,shot,gun,19,M,,Billings,MT,False,attack,Not fleeing,False
@@ -5427,12 +5427,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5938,David Guillen,2020-06-22,shot,gun,22,M,,Aurora,CO,False,attack,Not fleeing,True
 5944,TK TK,2020-06-22,shot,gun,,M,,Palm Desert,CA,False,other,Not fleeing,False
 5945,TK TK,2020-06-22,shot,knife,43,M,B,Giddings,TX,False,other,Not fleeing,False
-6069,Robert Wenman,2020-06-22,shot,gun,63,M,,Las Vegas,NV,True,attack,Not fleeing,False
+6069,Robert Blaine Wenman,2020-06-22,shot,gun,63,M,,Las Vegas,NV,True,attack,Not fleeing,False
 5943,Kevin Pulido,2020-06-23,shot,gun,43,M,H,Pueblo,CO,False,attack,,False
-6070,Matthew Fox,2020-06-23,shot,gun,40,M,,Wasilla,AK,False,other,Car,False
-6071,Chazz Hailey,2020-06-23,shot,knife,22,M,,Sherman,TX,False,attack,Not fleeing,False
+6070,Matthew L. Fox,2020-06-23,shot,gun,40,M,,Wasilla,AK,False,other,Car,False
+6071,Chazz Hailey,2020-06-23,shot,knife,22,M,B,Sherman,TX,False,attack,Not fleeing,False
 5942,TK TK,2020-06-24,shot,gun,,F,A,Lake Forest,CA,False,other,Not fleeing,False
-6072,Skyleur Young,2020-06-24,shot,gun,31,M,B,San Bernardino,CA,False,attack,Car,False
+6072,Skyleur Young,2020-06-24,shot,gun,31,M,,San Bernardino,CA,False,attack,Car,False
 5946,Julie Colon,2020-06-25,shot,knife,27,F,,Plano,TX,False,attack,Not fleeing,False
 5948,Robert D'Lon Harris,2020-06-25,shot,undetermined,34,M,,Vinita,OK,False,undetermined,Not fleeing,False
 5949,Martin Humberto Sanchez Fregoso,2020-06-25,shot,gun,37,M,H,Atlanta,GA,False,attack,Other,False
@@ -5475,7 +5475,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5982,Antonio Mancinone,2020-07-11,shot,gun,23,M,,Monument,CO,False,attack,Car,False
 5983,Michael Joseph Culbertson,2020-07-11,shot,gun,26,M,,Greenville,SC,False,attack,Not fleeing,False
 5980,Marcos Reyes,2020-07-12,shot,gun,28,M,,Chamblee,GA,False,attack,Not fleeing,False
-5984,Terena Nicole Thurman,2020-07-12,shot,vehicle,36,F,,Butler Township,OH,False,attack,Car,False
+5984,Terena Nicole Thurman,2020-07-12,shot,vehicle,36,F,W,Butler Township,OH,False,attack,Car,False
 5985,Rodney Morrison,2020-07-12,shot,knife,47,M,,Leesburg,GA,False,other,Foot,False
 5989,Glenn Farse Young,2020-07-13,shot,gun,59,M,,Rockwood,TN,False,other,Car,False
 5988,Sean Ernest Ruis,2020-07-14,shot,knife,43,M,W,Delta Township,MI,False,other,Car,True
@@ -5545,9 +5545,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6053,Joshua Gay,2020-08-14,shot,gun,,M,W,Dania Beach,FL,False,attack,,False
 6041,Fred John Henry Arcera,2020-08-15,shot,knife,41,M,,Oak Ridge,TN,False,undetermined,Not fleeing,False
 6046,Anthony McClain,2020-08-15,shot,gun,32,M,B,Pasadena,CA,False,other,Foot,False
-6047,Rick Lee Miller,2020-08-15,shot,gun,51,M,,Marion County,FL,False,attack,,False
+6047,Rick Lee Miller,2020-08-15,shot,gun,51,M,W,Marion County,FL,False,attack,,False
 6048,TK TK,2020-08-15,shot,knife,,M,,Denver,CO,False,attack,Not fleeing,False
-6042,TK TK,2020-08-16,shot,undetermined,,M,W,Maury County,TN,False,undetermined,Other,False
+6042,Thomas Moles,2020-08-16,shot,undetermined,35,M,W,Maury County,TN,False,other,Other,False
 6043,Jose Manuel Castro,2020-08-16,shot,knife,27,M,H,Dos Palos,CA,False,other,Not fleeing,False
-6044,TK TK,2020-08-16,shot,gun,,M,,Las Vegas,NV,True,other,Not fleeing,False
+6044,Jeffrey Hubbard,2020-08-16,shot,gun,67,M,W,Las Vegas,NV,True,other,Not fleeing,False
 6045,TK TK,2020-08-16,shot,gun,30,M,,Hemet,CA,False,other,Car,False
