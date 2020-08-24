@@ -5547,13 +5547,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6051,Jonathan Jefferson,2020-08-08,shot,knife,34,M,B,Bossier City,LA,True,other,Not fleeing,False
 6052,Matthew Hilbelink,2020-08-08,shot,gun,39,M,,Holladay,UT,False,undetermined,Not fleeing,True
 6054,Ryan Shane Hinojo,2020-08-09,shot,gun,26,M,,El Paso,TX,False,attack,Foot,False
-6056,"Earl Barton, Jr.",2020-08-09,shot,knife,42,M,,Tulsa,OK,False,attack,Foot,False
+6056,Earl Barton,2020-08-09,shot,knife,42,M,,Tulsa,OK,False,attack,Foot,False
 6057,Donald Anderson,2020-08-09,shot,gun,39,M,,Graham,WA,False,attack,Not fleeing,False
 6059,Joshua Squires,2020-08-10,shot,gun,32,M,W,Las Vegas,NV,True,attack,Not fleeing,True
 6060,Jose Vallejos,2020-08-10,shot,undetermined,,M,,Albuquerque,NM,False,undetermined,,False
 6061,Bobby Christopher Minor,2020-08-10,shot,gun,35,M,,Robbins,NC,True,other,Foot,False
 6062,Kenneth Reiss,2020-08-10,shot,gun,50,M,W,Albuquerque,NM,False,attack,Foot,False
-6063,"Americo Reyes, Jr.",2020-08-10,shot,knife,40,M,,Grand Island,NE,True,attack,Not fleeing,False
+6063,Americo Reyes,2020-08-10,shot,knife,40,M,,Grand Island,NE,True,attack,Not fleeing,False
 6058,Lyana Gilmore,2020-08-11,shot,gun,48,M,,Pueblo,CO,True,attack,Not fleeing,False
 6064,TK TK,2020-08-11,shot,vehicle,,M,,Rogers County,OK,False,attack,Car,False
 6094,Bryan Keith Hamilton,2020-08-11,shot,undetermined,21,M,,Anderson,SC,False,other,Other,False
