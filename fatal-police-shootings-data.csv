@@ -5541,7 +5541,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6086,Nicholas Kocolis,2020-08-07,shot,gun,51,M,W,Dover,FL,True,attack,Not fleeing,False
 6087,Anthony Budduke,2020-08-07,shot,gun,26,M,,St. Charles County,MO,False,attack,Car,False
 6088,Julian Edward Roosevelt Thompson,2020-08-07,shot,unarmed,60,M,B,Sylvania,GA,False,undetermined,Car,False
-6032,TK TK,2020-08-08,shot,knife,,M,,St. Croix Falls,WI,False,attack,Not fleeing,False
+6032,Terry Treleven,2020-08-08,shot,knife,45,M,,St. Croix Falls,WI,False,attack,Not fleeing,False
 6033,Jonathan Randell,2020-08-08,shot,knife,25,M,W,Tulsa,OK,True,other,Not fleeing,False
 6050,Aaron Michael Griffin,2020-08-08,shot,gun,21,M,W,Clinton,UT,False,attack,Car,False
 6051,Jonathan Jefferson,2020-08-08,shot,knife,34,M,B,Bossier City,LA,True,other,Not fleeing,False
@@ -5557,19 +5557,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6058,Lyana Gilmore,2020-08-11,shot,gun,48,M,,Pueblo,CO,True,attack,Not fleeing,False
 6064,TK TK,2020-08-11,shot,vehicle,,M,,Rogers County,OK,False,attack,Car,False
 6094,Bryan Keith Hamilton,2020-08-11,shot,gun,21,M,,Anderson,SC,False,attack,Other,False
-6049,TK TK,2020-08-13,shot,gun,39,M,,Phoenix,AZ,False,attack,Not fleeing,False
+6049,Derick Manuel Bonilla,2020-08-13,shot,gun,39,M,H,Phoenix,AZ,False,attack,Not fleeing,False
 6053,Joshua Gay,2020-08-14,shot,gun,,M,W,Dania Beach,FL,False,attack,,False
 6089,TK TK,2020-08-14,shot,knife,,M,,North Miami,FL,False,attack,Not fleeing,False
-6041,Fred John Henry Arcera,2020-08-15,shot,knife,41,M,,Oak Ridge,TN,False,undetermined,Not fleeing,False
+6041,Fred John Henry Arcera,2020-08-15,shot,knife,41,M,,Oak Ridge,TN,False,other,Not fleeing,False
 6046,Anthony McClain,2020-08-15,shot,gun,32,M,B,Pasadena,CA,False,other,Foot,True
 6047,Rick Lee Miller,2020-08-15,shot,gun,51,M,W,Marion County,FL,False,attack,,False
 6048,TK TK,2020-08-15,shot,knife,,M,,Denver,CO,False,attack,Not fleeing,False
-6042,Thomas Moles,2020-08-16,shot,undetermined,35,M,W,Maury County,TN,False,other,Other,False
-6043,Jose Manuel Castro,2020-08-16,shot,knife,27,M,H,Dos Palos,CA,False,other,Not fleeing,False
-6044,Jeffrey Hubbard,2020-08-16,shot,gun,67,M,W,Las Vegas,NV,True,other,Not fleeing,False
+6042,Thomas Moles,2020-08-16,shot,vehicle,35,M,W,Maury County,TN,False,attack,Other,False
+6043,Jose Manuel Castro,2020-08-16,shot,knife,27,M,H,Dos Palos,CA,False,other,Not fleeing,True
+6044,Jeffrey Hubbard,2020-08-16,shot,gun,67,M,W,Las Vegas,NV,True,attack,Not fleeing,False
 6045,TK TK,2020-08-16,shot,gun,30,M,,Hemet,CA,False,other,Car,False
 6095,Marco Antonio Sigala,2020-08-17,shot,gun,27,M,H,Weslaco,TX,False,attack,Foot,False
-6096,Everardo Gonzalez Santana,2020-08-17,shot,knife,65,M,,Bakersfield,CA,False,other,Car,False
+6096,Everardo Gonzalez Santana,2020-08-17,shot,knife,65,M,H,Bakersfield,CA,False,other,Car,False
 6097,Santos Anthony Villegas,2020-08-17,shot,gun,36,M,H,San Bernardino,CA,False,attack,Foot,False
 6093,Adrian Jason Roberts,2020-08-18,shot,machete,37,M,B,Cumberland County,NC,True,undetermined,,False
 6098,Trevor Edwards,2020-08-18,shot,undetermined,37,M,,Pollocksville,NC,False,undetermined,,False
@@ -5577,9 +5577,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6103,Ronald Stuart Chipman,2020-08-19,shot,gun,39,M,,Lake Havasu City,AZ,False,attack,Not fleeing,False
 6104,Samuel Mata,2020-08-19,shot,gun,21,M,,San Benito,TX,False,attack,Not fleeing,False
 6100,Nathan Harrington,2020-08-20,shot,gun,43,M,W,Wimberley,TX,True,attack,Car,False
-6101,Jeffrey Wratten,2020-08-20,shot,undetermined,37,M,,Cabot,AR,False,undetermined,,False
+6101,Jeffrey Wratten,2020-08-20,shot,gun,37,M,,Cabot,AR,False,other,Car,False
 6102,TK TK,2020-08-20,shot,gun,,M,,Brooksville,FL,False,attack,,False
-6106,TK TK,2020-08-21,shot,knife,39,M,,Asbury Park,NJ,False,other,,False
+6106,Hasani Best,2020-08-21,shot,knife,39,M,,Asbury Park,NJ,False,other,,False
 6105,Trayford Pellerin,2020-08-21,shot and Tasered,knife,31,M,B,Lafayette,LA,True,other,Foot,False
 6107,TK TK,2020-08-22,shot,gun,29,M,,Rancho Cordova,CA,False,attack,Foot,False
 6108,Gearil Leonard Williams,2020-08-23,shot,knife,47,M,,Kingsland,GA,False,attack,Not fleeing,False
