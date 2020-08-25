@@ -31,6 +31,7 @@ The file `fatal-police-shootings-data.csv` contains data about each fatal shooti
 `armed`: dndicates that the victim was armed with some sort of implement that a police officer believed could inflict harm
 - `undetermined`: it is not known whether or not the victim had a weapon
 - `unknown`: the victim was armed, but it is not known what the object was
+- `unarmed`: the victim was not armed
 
 `age`: the age of the victim
 
@@ -48,7 +49,7 @@ The file `fatal-police-shootings-data.csv` contains data about each fatal shooti
 - `O`: Other
 - `None`: unknown
 
-`city`: the city where the fatal shooting took place
+`city`: the municipality where the fatal shooting took place. Note that in some cases where the shooting
 
 `state`: two-letter postal code abbreviation
 
