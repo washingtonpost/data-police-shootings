@@ -49,7 +49,7 @@ The file `fatal-police-shootings-data.csv` contains data about each fatal shooti
 - `O`: Other
 - `None`: unknown
 
-`city`: the municipality where the fatal shooting took place. Note that in some cases where the shooting
+`city`: the municipality where the fatal shooting took place. Note that in some cases this field may contain a county name where a more specific municipality is unavailable or unknown.
 
 `state`: two-letter postal code abbreviation
 
