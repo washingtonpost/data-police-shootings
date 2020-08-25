@@ -5581,3 +5581,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6102,TK TK,2020-08-20,shot,gun,,M,,Brooksville,FL,False,attack,,False
 6106,TK TK,2020-08-21,shot,knife,39,M,,Asbury Park,NJ,False,other,,False
 6105,Trayford Pellerin,2020-08-21,shot and Tasered,knife,31,M,B,Lafayette,LA,True,other,Foot,False
+6107,TK TK,2020-08-22,shot,gun,29,M,,Rancho Cordova,CA,False,attack,Foot,False
+6108,Gearil Leonard Williams,2020-08-23,shot,knife,47,M,,Kingsland,GA,False,attack,Not fleeing,False
