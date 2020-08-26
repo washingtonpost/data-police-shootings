@@ -5571,15 +5571,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6095,Marco Antonio Sigala,2020-08-17,shot,gun,27,M,H,Weslaco,TX,False,attack,Foot,False
 6096,Everardo Gonzalez Santana,2020-08-17,shot,knife,65,M,H,Bakersfield,CA,False,other,Car,False
 6097,Santos Anthony Villegas,2020-08-17,shot,gun,36,M,H,San Bernardino,CA,False,attack,Foot,False
-6093,Adrian Jason Roberts,2020-08-18,shot,machete,37,M,B,Cumberland County,NC,True,undetermined,,False
+6093,Adrian Jason Roberts,2020-08-18,shot,machete,37,M,B,Cumberland County,NC,True,other,,False
 6098,Trevor Edwards,2020-08-18,shot,undetermined,37,M,,Pollocksville,NC,False,undetermined,,False
-6099,,2020-08-19,shot,gun,,M,,Chickamauga,GA,False,attack,,False
+6099,Jack Lamar Harris,2020-08-19,shot,gun,60,M,,Chickamauga,GA,False,attack,,False
 6103,Ronald Stuart Chipman,2020-08-19,shot,gun,39,M,,Lake Havasu City,AZ,False,attack,Not fleeing,False
 6104,Samuel Mata,2020-08-19,shot,gun,21,M,,San Benito,TX,False,attack,Not fleeing,False
 6100,Nathan Harrington,2020-08-20,shot,gun,43,M,W,Wimberley,TX,True,attack,Car,False
 6101,Jeffrey Wratten,2020-08-20,shot,gun,37,M,,Cabot,AR,False,other,Car,False
 6102,,2020-08-20,shot,gun,,M,,Brooksville,FL,False,attack,,False
 6106,Hasani Best,2020-08-21,shot,knife,39,M,,Asbury Park,NJ,False,other,,False
+6110,Scott Huffman,2020-08-21,shot,gun,42,M,W,Nipomo,CA,False,attack,Not fleeing,False
 6105,Trayford Pellerin,2020-08-21,shot and Tasered,knife,31,M,B,Lafayette,LA,True,other,Foot,False
 6107,,2020-08-22,shot,gun,29,M,,Rancho Cordova,CA,False,attack,Foot,False
+6111,Brandon R. Laducer,2020-08-22,shot,undetermined,35,M,,Belcourt,ND,False,undetermined,,False
 6108,Gearil Leonard Williams,2020-08-23,shot,knife,47,M,,Kingsland,GA,False,attack,Not fleeing,False
+6109,,2020-08-24,shot,undetermined,,M,,Albuquerque,NM,False,undetermined,,False
