@@ -1,16 +1,18 @@
 # Fatal Force
 
-The Washington Post is [compiling a database of every fatal shooting](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/) in the United States by a police officer in the line of duty since Jan. 1, 2015.
+The Washington Post's database contains records of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015.
 
-Download the data: https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv
+*\[[Download the data](https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv)\]*
 
-[In 2015](https://www.washingtonpost.com/graphics/national/police-shootings/), The Post began tracking more than a dozen details about each killing — including the race of the deceased, the circumstances of the shooting, whether the person was armed and whether the victim was experiencing a mental-health crisis — by culling local news reports, law enforcement websites and social media and by monitoring independent databases such as Killed by Police and Fatal Encounters. The Post conducted additional reporting in many cases.
+In 2015, The Post began tracking more than a dozen details about each killing — including the race of the deceased, the circumstances of the shooting, whether the person was armed and whether the person was experiencing a mental-health crisis — by culling local news reports, law enforcement websites and social media, and by monitoring independent databases such as Killed by Police and Fatal Encounters. The Post conducted additional reporting in many cases.
 
-The Post is documenting only those shootings in which a police officer, in the line of duty, shot and killed a civilian — the circumstances that most closely parallel the 2014 killing of Michael Brown in Ferguson, Mo., which began the protest movement culminating in Black Lives Matter and an increased focus on police accountability nationwide. The Post is not tracking deaths of people in police custody, fatal shootings by off-duty officers or non-shooting deaths.
+*\[[Explore the interactive database](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/)\]*
 
-The FBI and the Centers for Disease Control and Prevention log fatal shootings by police, but officials acknowledge that their data is incomplete. In 2015, The Post documented more than two times more fatal shootings by police than had been recorded by the FBI. Last year, the FBI announced plans to overhaul how it tracks fatal police encounters.
+The Post is documenting only those shootings in which a police officer, in the line of duty, shoots and kills a civilian — the circumstances that most closely parallel the 2014 killing of Michael Brown in Ferguson, Mo., which began the protest movement culminating in Black Lives Matter and an increased focus on police accountability nationwide. The Post is not tracking deaths of people in police custody, fatal shootings by off-duty officers or non-shooting deaths.
 
-The best way to contribute to the data, make suggestions or provide information about fatal police shootings since Jan. 1, 2015, is to send us an email at policeshootingsfeedback@washpost.com. The Post is also interested in obtaining original videos of fatal encounters with police.
+The FBI and the Centers for Disease Control and Prevention log fatal shootings by police, but officials acknowledge that their data is incomplete. Since 2015, The Post has documented more than twice as many fatal shootings by police as recorded on average annually.
+
+The Post’s database is updated regularly as fatal shootings are reported and as facts emerge about individual cases. The Post seeks to make the database as comprehensive as possible. To provide information about fatal police shootings since Jan. 1, 2015, send us an email at [policeshootingsfeedback@washpost.com](mailto:policeshootingsfeedback@washpost.com).
 
 ## About the data
 
@@ -66,7 +68,7 @@ The threat column and the fleeing column are not necessarily related. For exampl
 
 ## Contributing
 
-We welcome assistance in making the our data as complete and accurate as possible. The best way to contribute to the data, make suggestions or provide information about fatal police shootings since Jan. 1, 2015, is to send us an email at policeshootingsfeedback@washpost.com. Please note that we do not accept pull requests as the data file is generated downstream of our internal database.
+We welcome assistance in making the our data as complete and accurate as possible. The best way to contribute to the data, make suggestions or provide information about fatal police shootings since Jan. 1, 2015, is to send us an email at [policeshootingsfeedback@washpost.com](mailto:policeshootingsfeedback@washpost.com). Please note that we do not accept pull requests as the data file is generated downstream of our internal database.
 
 ## Licensing
 
@@ -74,7 +76,7 @@ The data is published under an [Attribution-NonCommercial-ShareAlike 4.0 Interna
 
 ## Contact
 
-Contact policeshootingsfeedback@washpost.com with any questions about the data, feedback, updated information or corrections.
+Contact [policeshootingsfeedback@washpost.com](mailto:policeshootingsfeedback@washpost.com) with any questions about the data, feedback, updated information or corrections.
 
 ## Credits
 
