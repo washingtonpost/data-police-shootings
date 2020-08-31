@@ -5569,7 +5569,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6044,Jeffrey Hubbard,2020-08-16,shot,gun,67,M,W,Las Vegas,NV,True,attack,Not fleeing,False
 6045,,2020-08-16,shot,gun,30,M,,Hemet,CA,False,other,Car,False
 6095,Marco Antonio Sigala,2020-08-17,shot,gun,27,M,H,Weslaco,TX,False,attack,Foot,False
-6096,Everardo Gonzalez Santana,2020-08-17,shot,knife,65,M,H,Bakersfield,CA,False,other,Car,False
+6096,Everardo Gonzalez Santana,2020-08-17,shot,knife,65,M,H,Bakersfield,CA,False,other,Car,True
 6097,Santos Anthony Villegas,2020-08-17,shot,gun,36,M,H,San Bernardino,CA,False,attack,Foot,False
 6093,Adrian Jason Roberts,2020-08-18,shot,machete,37,M,B,Cumberland County,NC,True,other,,False
 6098,Trevor Edwards,2020-08-18,shot,undetermined,37,M,,Pollocksville,NC,False,undetermined,,False
@@ -5579,15 +5579,21 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6100,Nathan Harrington,2020-08-20,shot,gun,43,M,W,Wimberley,TX,True,attack,Car,False
 6101,Jeffrey Wratten,2020-08-20,shot,gun,37,M,,Cabot,AR,False,other,Car,False
 6102,,2020-08-20,shot,gun,,M,,Brooksville,FL,False,attack,,False
-6106,Hasani Best,2020-08-21,shot,knife,39,M,,Asbury Park,NJ,False,other,,False
+6106,Hasani Best,2020-08-21,shot,knife,39,M,B,Asbury Park,NJ,False,other,,False
 6110,Scott Huffman,2020-08-21,shot,gun,42,M,W,Nipomo,CA,True,attack,Not fleeing,False
 6105,Trayford Pellerin,2020-08-21,shot and Tasered,knife,31,M,B,Lafayette,LA,True,other,Foot,False
-6107,,2020-08-22,shot,gun,29,M,,Rancho Cordova,CA,False,attack,Foot,False
+6107,Christopher Walker,2020-08-22,shot,gun,29,M,,Rancho Cordova,CA,False,attack,Foot,False
 6111,Brandon R. Laducer,2020-08-22,shot,undetermined,35,M,,Belcourt,ND,False,undetermined,,False
 6108,Gearil Leonard Williams,2020-08-23,shot,knife,47,M,,Kingsland,GA,False,attack,Not fleeing,False
 6109,,2020-08-24,shot,gun,,M,,Albuquerque,NM,False,attack,,False
+6124,Corey Lee Cutler,2020-08-24,shot,gun,31,M,,Lincoln County,NC,False,attack,Not fleeing,False
 6116,Charles Garland,2020-08-25,shot,gun,30,M,,Barbourville,KY,False,attack,Not fleeing,False
+6123,Casper Brown,2020-08-25,shot,gun,47,M,,Eckford Township,MI,False,attack,Not fleeing,False
 6117,Damian Lamar Daniels,2020-08-25,shot and Tasered,gun,31,M,,San Antonio,TX,True,attack,Not fleeing,False
 6114,Joey Middleton,2020-08-26,shot,undetermined,41,M,W,Knox County,KY,False,undetermined,,False
+6121,,2020-08-26,shot,gun,17,M,,Tucson,AZ,False,attack,Foot,True
+6122,,2020-08-26,shot,gun,,M,,Houston,TX,False,attack,Foot,False
 6113,,2020-08-27,shot,gun,,M,W,Salt Lake City,UT,False,other,Foot,False
 6112,Julio Cesar Moran-Ruiz,2020-08-28,shot,vehicle,36,M,,Elkridge,MD,False,other,Car,False
+6118,,2020-08-29,shot,gun,,M,,Loma,CO,False,other,Not fleeing,False
+6120,Michael Harris,2020-08-29,shot,gun,44,M,,Holly Hill,FL,False,attack,Not fleeing,True
