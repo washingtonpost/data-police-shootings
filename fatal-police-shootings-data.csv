@@ -2887,7 +2887,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3195,Frank Lopez,2017-12-10,shot and Tasered,knife,48,M,,Artesia,CA,False,attack,Not fleeing,False
 3198,,2017-12-11,shot,gun,,M,,Seattle,WA,False,attack,Car,True
 3199,Stacy Micheletti,2017-12-11,shot,unknown weapon,51,M,W,Great Falls,MT,False,other,,False
-3201,Marcia Metzger Aiken,2017-12-12,shot,gun,50,F,W,Rincon,GA,True,other,Not fleeing,False
+3201,Marcia Metzger Aiken,2017-12-12,shot,undetermined,50,F,W,Rincon,GA,True,other,Not fleeing,False
 3200,Jeremy Patscheck,2017-12-13,shot,vehicle,,M,,Northglenn,CO,False,attack,,False
 3211,,2017-12-13,shot,unknown weapon,,M,,Hamilton,AL,False,other,Not fleeing,False
 3213,Zoe Dowdell,2017-12-14,shot,,20,M,B,New Britain,CT,False,other,Car,False
@@ -5590,7 +5590,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6111,Brandon R. Laducer,2020-08-22,shot,undetermined,35,M,,Belcourt,ND,False,undetermined,,False
 6129,Mark Dawson,2020-08-22,shot,knife,39,M,,Rancho Cucamonga,CA,False,other,Not fleeing,False
 6108,Gearil Leonard Williams,2020-08-23,shot,knife,47,M,,Kingsland,GA,False,attack,Not fleeing,False
-6109,,2020-08-24,shot,gun,,M,,Albuquerque,NM,False,attack,,False
+6109,David Sanchez,2020-08-24,shot,gun,,M,,Albuquerque,NM,False,attack,,False
 6124,Corey Lee Cutler,2020-08-24,shot,gun,31,M,W,Lincoln County,NC,False,attack,Not fleeing,False
 6116,Charles Garland,2020-08-25,shot,gun,30,M,W,Barbourville,KY,False,attack,Not fleeing,False
 6123,Casper Brown,2020-08-25,shot,gun,47,M,,Eckford Township,MI,False,attack,Not fleeing,False
@@ -5598,10 +5598,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6114,Joseph R. Middleton,2020-08-26,shot,gun,41,M,W,Knox County,KY,False,attack,,False
 6121,,2020-08-26,shot,gun,17,M,,Tucson,AZ,False,attack,Foot,True
 6122,Julius Kehyei,2020-08-26,shot,gun,29,M,,Houston,TX,False,attack,Foot,False
-6125,Damien Evans,2020-08-27,shot,gun,38,M,,Salt Lake City,UT,False,other,Foot,False
+6125,Damien Evans,2020-08-27,shot,gun,38,M,W,Salt Lake City,UT,False,other,Foot,False
 6112,Julio Cesar Moran-Ruiz,2020-08-28,shot,vehicle,36,M,H,Elkridge,MD,False,other,Car,False
-6118,,2020-08-29,shot,gun,,M,,Loma,CO,False,other,Not fleeing,False
+6118,Kurt Phelps,2020-08-29,shot,gun,52,M,,Loma,CO,False,other,Not fleeing,False
 6120,Michael Harris,2020-08-29,shot,gun,44,M,,Holly Hill,FL,False,attack,Not fleeing,True
 6126,Jesse David Nava,2020-08-29,shot,knife,25,M,H,Anaheim,CA,False,other,Not fleeing,True
 6127,,2020-08-29,shot,gun,43,M,,Dearborn Heights,MI,False,attack,Not fleeing,False
 6128,Michael Harris,2020-08-29,shot,gun,,M,B,Daytona Beach,FL,False,attack,Not fleeing,True
+6135,Jesse David Nava,2020-08-29,shot,knife,25,M,H,Anaheim,CA,False,other,,False
+6134,,2020-08-31,shot,undetermined,,M,B,Los Angeles,CA,False,attack,Foot,False
+6136,Marco Benito,2020-08-31,shot,undetermined,36,M,H,Aztec,NM,False,other,Other,True
+6137,,2020-08-31,shot,gun,,M,,Meridian,ID,False,attack,Not fleeing,True
