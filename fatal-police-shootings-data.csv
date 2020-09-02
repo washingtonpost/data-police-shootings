@@ -5529,7 +5529,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6026,Andrew S. Gwynn,2020-08-04,shot,gun,30,M,,Kearns,UT,False,attack,Foot,False
 6028,David Lee Rigg,2020-08-04,shot,gun,44,M,W,Warren,OH,True,other,Not fleeing,False
 6034,Melissa Halda,2020-08-04,shot,knife,39,F,,Fort Dodge,IA,False,other,Not fleeing,False
-6037,David James Pruitte,2020-08-04,shot,,36,M,W,Port Orchard,WA,True,undetermined,,False
+6037,David James Pruitte,2020-08-04,shot,undetermined,36,M,W,Port Orchard,WA,True,undetermined,,False
 6038,Christopher Lawings,2020-08-04,shot,gun and knife,67,M,,James Island,SC,False,attack,Not fleeing,False
 6035,Roberto Hernandez,2020-08-05,shot,gun,29,M,H,San Angelo,TX,False,attack,Other,False
 6030,Amir Johnson,2020-08-06,shot,bottle,30,M,,Ventnor,NJ,False,other,Not fleeing,False
@@ -5572,10 +5572,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6095,Marco Antonio Sigala,2020-08-17,shot,gun,27,M,H,Weslaco,TX,False,attack,Foot,False
 6096,Everardo Gonzalez Santana,2020-08-17,shot,knife,65,M,H,Bakersfield,CA,False,other,Car,True
 6097,Santos Anthony Villegas,2020-08-17,shot,gun,36,M,H,San Bernardino,CA,False,attack,Foot,False
-6131,Jimmy Ferrer,2020-08-17,shot,pepper spray,35,M,,Barstow,CA,False,attack,,False
+6131,Jimmy Ferrer,2020-08-17,shot,pepper spray,35,M,W,Barstow,CA,False,attack,,False
 6093,Adrian Jason Roberts,2020-08-18,shot,machete,37,M,B,Cumberland County,NC,True,other,,False
 6098,Trevor Edwards,2020-08-18,shot,undetermined,37,M,,Pollocksville,NC,False,undetermined,,False
-6132,Keith Fileger,2020-08-18,shot,gun,34,M,,Avon Park,FL,False,attack,Foot,False
+6132,Keith Allen Fileger,2020-08-18,shot,gun and machete,34,M,,Avon Park,FL,False,attack,Foot,False
 6099,Jack Lamar Harris,2020-08-19,shot,gun,60,M,,Chickamauga,GA,False,attack,,False
 6103,Ronald Stuart Chipman,2020-08-19,shot,gun,39,M,,Lake Havasu City,AZ,False,attack,Not fleeing,False
 6104,Samuel Mata,2020-08-19,shot,gun,21,M,,San Benito,TX,False,attack,Not fleeing,False
@@ -5588,12 +5588,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6105,Trayford Pellerin,2020-08-21,shot and Tasered,knife,31,M,B,Lafayette,LA,True,other,Foot,False
 6107,Christopher Walker,2020-08-22,shot,gun,29,M,,Rancho Cordova,CA,False,attack,Foot,False
 6111,Brandon R. Laducer,2020-08-22,shot,undetermined,35,M,,Belcourt,ND,False,undetermined,,False
-6129,Mark Dawson,2020-08-22,shot,knife,39,M,,Rancho Cucamonga,CA,False,other,Not fleeing,False
 6108,Gearil Leonard Williams,2020-08-23,shot,knife,47,M,,Kingsland,GA,False,attack,Not fleeing,False
 6109,David Sanchez,2020-08-24,shot,gun,,M,,Albuquerque,NM,False,attack,,False
 6124,Corey Lee Cutler,2020-08-24,shot,gun,31,M,W,Lincoln County,NC,False,attack,Not fleeing,False
 6116,Charles Garland,2020-08-25,shot,gun,30,M,W,Barbourville,KY,False,attack,Not fleeing,False
 6123,Casper Brown,2020-08-25,shot,gun,47,M,,Eckford Township,MI,False,attack,Not fleeing,False
+6129,Mark Dawson,2020-08-25,shot,knife,39,M,,Rancho Cucamonga,CA,False,other,Not fleeing,False
 6117,Damian Lamar Daniels,2020-08-25,shot and Tasered,gun,31,M,B,San Antonio,TX,True,attack,Not fleeing,False
 6114,Joseph R. Middleton,2020-08-26,shot,gun,41,M,W,Knox County,KY,False,attack,,False
 6121,,2020-08-26,shot,gun,17,M,,Tucson,AZ,False,attack,Foot,True
@@ -5602,10 +5602,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6112,Julio Cesar Moran-Ruiz,2020-08-28,shot,vehicle,36,M,H,Elkridge,MD,False,other,Car,False
 6118,Kurt Phelps,2020-08-29,shot,gun,52,M,,Loma,CO,False,other,Not fleeing,False
 6120,Michael Harris,2020-08-29,shot,gun,44,M,,Holly Hill,FL,False,attack,Not fleeing,True
-6126,Jesse David Nava,2020-08-29,shot,knife,25,M,H,Anaheim,CA,False,other,Not fleeing,True
 6127,,2020-08-29,shot,gun,43,M,,Dearborn Heights,MI,False,attack,Not fleeing,False
-6128,Michael Harris,2020-08-29,shot,gun,,M,B,Daytona Beach,FL,False,attack,Not fleeing,True
+6128,Michael Anthony Harris,2020-08-29,shot,gun,,M,B,Daytona Beach,FL,False,attack,Not fleeing,True
 6135,Jesse David Nava,2020-08-29,shot,knife,25,M,H,Anaheim,CA,False,other,,False
-6134,,2020-08-31,shot,undetermined,,M,B,Los Angeles,CA,False,attack,Foot,False
+6119,Nikolas Frazier,2020-08-30,shot,gun,26,M,,Clovis,CA,False,other,Not fleeing,False
+6134,Dijon Kizzee,2020-08-31,shot,undetermined,29,M,B,Los Angeles,CA,False,attack,Foot,False
 6136,Marco Benito,2020-08-31,shot,undetermined,36,M,H,Aztec,NM,False,other,Other,True
 6137,,2020-08-31,shot,gun,,M,,Meridian,ID,False,attack,Not fleeing,True
