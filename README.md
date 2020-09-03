@@ -2,7 +2,7 @@
 
 The Washington Post's database contains records of every fatal shooting in the United States by a police officer in the line of duty since Jan. 1, 2015.
 
-*\[[Download the data](https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv)\]*
+*\[[Download the data](https://github.com/washingtonpost/data-police-shootings/releases/download/v0.1/fatal-police-shootings-data.csv)\]*
 
 In 2015, The Post began tracking more than a dozen details about each killing — including the race of the deceased, the circumstances of the shooting, whether the person was armed and whether the person was experiencing a mental-health crisis — by culling local news reports, law enforcement websites and social media, and by monitoring independent databases such as Killed by Police and Fatal Encounters. The Post conducted additional reporting in many cases.
 
@@ -16,7 +16,7 @@ The Post’s database is updated regularly as fatal shootings are reported and a
 
 ## About the data
 
-The file `fatal-police-shootings-data.csv` contains data about each fatal shooting in CSV format. The file can be [downloaded at this URL](https://raw.githubusercontent.com/washingtonpost/data-police-shootings/master/fatal-police-shootings-data.csv). Each row has the following variables:
+The file `fatal-police-shootings-data.csv` contains data about each fatal shooting in CSV format. The file can be [downloaded at this URL](https://github.com/washingtonpost/data-police-shootings/releases/download/v0.1/fatal-police-shootings-data.csv). Each row has the following variables:
 
 `id`: a unique identifier for each victim
 
@@ -65,6 +65,10 @@ The file `fatal-police-shootings-data.csv` contains data about each fatal shooti
 The threat column and the fleeing column are not necessarily related. For example, there is an incident in which the suspect is fleeing and at the same time turns to fire at gun at the officer. Also, attacks represent a status immediately before fatal shots by police while fleeing could begin slightly earlier and involve a chase.
 
 `body_camera`: News reports have indicated an officer was wearing a body camera and it may have recorded some portion of the incident.
+
+`latitude` and `longitude`: the location of the shooting expressed as WGS84 coordinates, geocoded from addresses. The coordinates are rounded to 3 decimal places, meaning they have a precision of about 80-100 meters within the contiguous U.S.
+
+`is_geocoding_exact`: reflects the accuracy of the coordinates. `true` means that the coordinates are for the location of the shooting (within approximately 100 meters), while `false` means that coordinates are for the centroid of a larger region, such as the city or county where the shooting happened.
 
 ## Contributing
 
