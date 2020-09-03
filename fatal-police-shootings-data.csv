@@ -5605,7 +5605,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6127,,2020-08-29,shot,gun,43,M,,Dearborn Heights,MI,False,attack,Not fleeing,False
 6128,Michael Anthony Harris,2020-08-29,shot,gun,,M,B,Daytona Beach,FL,False,attack,Not fleeing,True
 6135,Jesse David Nava,2020-08-29,shot,knife,25,M,H,Anaheim,CA,False,other,,False
-6119,Nikolas Frazier,2020-08-30,shot,gun,26,M,,Clovis,CA,False,other,Not fleeing,False
+6119,Nikolas Frazier,2020-08-30,shot,Airsoft pistol,26,M,,Clovis,CA,False,attack,Not fleeing,True
 6134,Dijon Kizzee,2020-08-31,shot,undetermined,29,M,B,Los Angeles,CA,False,attack,Foot,False
-6136,Marco Benito,2020-08-31,shot,undetermined,36,M,H,Aztec,NM,False,other,Other,True
-6137,,2020-08-31,shot,gun,,M,,Meridian,ID,False,attack,Not fleeing,True
+6136,Marco Antonio Benito,2020-08-31,shot,undetermined,36,M,H,Aztec,NM,False,other,Other,True
+6137,Arthur Zalman Ferrel,2020-08-31,shot,gun,58,M,,Meridian,ID,False,attack,Not fleeing,True
