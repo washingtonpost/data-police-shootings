@@ -28,14 +28,14 @@ The file `fatal-police-shootings-data.csv` contains data about each fatal shooti
 - `shot`
 - `shot and Tasered`
 
-`armed`: dndicates that the victim was armed with some sort of implement that a police officer believed could inflict harm
+`armed`: indicates that the victim was armed with some sort of implement that a police officer believed could inflict harm
 - `undetermined`: it is not known whether or not the victim had a weapon
 - `unknown`: the victim was armed, but it is not known what the object was
 - `unarmed`: the victim was not armed
 
 `age`: the age of the victim
 
-`gender`:
+`gender`: the gender of the victim. The Post identifies victims by the gender they identify with if reports indicate that it differs from their biological sex.
 - `M`: Male
 - `F`: Female
 - `None`: unknown
