@@ -5609,3 +5609,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6134,Dijon Kizzee,2020-08-31,shot,undetermined,29,M,B,Los Angeles,CA,False,attack,Foot,False,-118.296,33.936,True
 6136,Marco Antonio Benito,2020-08-31,shot,undetermined,36,M,H,Aztec,NM,False,other,Other,True,-108.036,36.798,True
 6137,Arthur Zalman Ferrel,2020-08-31,shot,gun,58,M,,Meridian,ID,False,attack,Not fleeing,True,-116.394,43.601,True
+6149,Miguel Vega,2020-08-31,shot,gun,26,M,H,Chicago,IL,False,attack,,True,-87.633,41.871,True
+6147,Albert Wheeler,2020-09-01,shot,gun,50,M,,Sacramento,CA,False,attack,Foot,True,-121.474,38.62,True
+6138,Deon Kay,2020-09-02,shot,gun,18,M,B,Washington,DC,False,other,Other,True,-77.003,38.846,True
+6139,Michael Reinoehl,2020-09-03,shot,gun,48,M,B,Lacey,WA,False,other,Not fleeing,False,-122.823,47.036,True
+6150,,2020-09-03,shot,gun,,M,W,California City,CA,False,attack,Not fleeing,False,-117.987,35.312,True
+6152,,2020-09-03,shot,knife,53,M,W,Bettendorf,IA,False,attack,Not fleeing,False,,,True
+6141,Steve D. Smith,2020-09-04,shot,gun,33,M,,Syracuse,NY,False,other,Not fleeing,False,-76.148,43.053,True
+6143,Joshua Beedie,2020-09-04,shot,gun,38,M,W,Lucerne,CA,False,attack,Not fleeing,False,-116.832,34.438,True
+6146,,2020-09-05,shot,vehicle,22,M,,Battle Creek,MI,False,attack,Car,False,-85.272,42.305,True
+6151,Major Baldwin,2020-09-05,shot,knife,61,M,,San Antonio,TX,False,attack,Not fleeing,False,,,True
+6148,,2020-09-05,shot and Tasered,knife,,M,,Chicago,IL,False,attack,Not fleeing,True,-87.747,41.803,True
+6142,,2020-09-06,shot,knife,,M,,Summerlin,NV,False,attack,Not fleeing,False,,,True
+6144,,2020-09-06,shot,knife,,M,,Virginia Beach,VA,False,other,Not fleeing,False,-76.083,36.831,True
+6145,Vernon Billy Styles,2020-09-06,shot,knife,54,M,,Spruce Pine,NC,False,undetermined,,False,-82.065,35.918,True
+6140,Jeffrey Meyer,2020-09-07,shot,,51,M,W,Altoona,IA,False,undetermined,,False,-93.498,41.661,True
