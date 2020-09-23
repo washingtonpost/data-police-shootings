@@ -5274,7 +5274,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5779,,2020-05-01,shot,knife,,M,,Hialeah,FL,False,undetermined,Foot,False,-80.13,25.811,True
 5780,Brent Martin,2020-05-01,shot,gun,32,M,B,Little Rock,AR,False,other,Not fleeing,False,-92.378,34.737,True
 5781,Said Joquin,2020-05-01,shot,gun,26,M,B,Lakewood,WA,False,attack,Not fleeing,False,-122.522,47.176,True
-6169,Spencer Calvert,2020-05-01,shot,knife,21,M,W,Portland,IN,True,other,Not fleeing,True,-70.265,43.656,True
+6169,Spencer Calvert,2020-05-01,shot and Tasered,knife,21,M,W,Portland,IN,True,other,Not fleeing,True,-70.265,43.656,True
 5769,Michael Ferguson,2020-05-03,shot,gun,54,M,W,Fort Lauderdale,FL,False,other,Not fleeing,False,-80.099,26.177,True
 5770,Kortney Shawn Price,2020-05-03,shot,gun,44,M,W,Caldwell County,NC,False,other,Car,True,-82.345,35.802,True
 5771,Michael Faries,2020-05-03,shot,gun,69,M,W,Oakland City,IN,True,other,Not fleeing,False,-87.279,38.319,True
@@ -5635,12 +5635,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6164,Jonathan Darsaw,2020-09-10,shot,gun,49,M,B,Moscow,TN,False,attack,Not fleeing,False,-89.404,35.062,True
 6165,,2020-09-10,shot,gun,,M,,Los Angeles,CA,False,attack,Not fleeing,False,-118.203,33.892,True
 6166,Glenn Alvin Eldridge,2020-09-10,shot,gun,48,M,W,Fayetteville,NC,False,other,,False,-79.035,35.033,True
-6175,Joshua Clayton Brant,2020-09-11,shot,gun,31,M,,Spokane,WA,False,undetermined,Car,False,-117.319,47.664,True
+6175,Joshua Clayton Brant,2020-09-11,shot,gun,31,M,,Spokane,WA,False,attack,Car,False,-117.319,47.664,True
 6159,Robert Coleman,2020-09-12,shot,gun,88,M,B,West Sacramento,CA,True,other,Not fleeing,True,-121.534,38.58,True
 6160,Christopher Escobedo,2020-09-12,shot,gun,,M,H,Denver,CO,True,attack,Other,False,-105.036,39.742,True
 6162,,2020-09-12,shot,gun,,M,,Newberry,SC,False,attack,Car,False,-81.619,34.275,True
 6157,Ricardo Munoz,2020-09-13,shot,knife,27,M,H,Lancaster,PA,True,other,Not fleeing,True,-76.314,40.031,True
-6171,,2020-09-15,shot,gun,27,M,W,Bountiful,UT,True,attack,Not fleeing,False,-111.883,40.9,True
+6171,Clay A. Reynolds,2020-09-15,shot,gun,27,M,W,Bountiful,UT,True,attack,Not fleeing,False,-111.883,40.9,True
 6172,,2020-09-15,shot,gun,,M,W,Denver,CO,False,attack,Not fleeing,False,-104.94,39.673,True
 6173,Darrell Zemault,2020-09-15,shot,gun,55,M,B,San Antonio,TX,False,attack,Not fleeing,True,-98.575,29.445,True
-6174,,2020-09-17,shot,shovel,,M,,Immokalee,FL,False,undetermined,Not fleeing,False,-81.391,26.407,True
+6174,Nicholas Morales-Bessannia,2020-09-17,shot,shovel,37,M,,Immokalee,FL,False,other,Not fleeing,False,-81.391,26.407,True
+6182,Scott Heisler,2020-09-18,shot,undetermined,45,M,W,West Des Moines,IA,True,other,Not fleeing,False,-93.763,41.588,True
+6181,Charles Eric Moses,2020-09-19,shot,gun,33,M,B,Brunswick,GA,False,attack,Foot,False,-81.495,31.148,True
+6180,,2020-09-20,shot,gun,39,F,,Redmond,WA,False,attack,Not fleeing,False,-122.127,47.68,True
+6176,Patches Holmes,2020-09-21,shot,gun,26,M,,St. Louis,MO,False,attack,Other,False,-90.224,38.751,True
+6177,,2020-09-21,shot,knife,,M,,Noglaes,AZ,False,attack,,False,-110.934,31.34,True
+6179,Dearian Bell,2020-09-21,shot,gun,28,M,B,Atlanta,GA,False,other,Not fleeing,False,-84.368,33.716,True
+6178,Jeffrey Blunk,2020-09-22,shot,gun,30,M,W,Geneseo,NY,False,other,Foot,False,-90.166,41.448,True
