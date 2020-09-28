@@ -5536,7 +5536,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6037,David James Pruitte,2020-08-04,shot,undetermined,36,M,W,Port Orchard,WA,True,undetermined,Not fleeing,False,-122.663,47.527,True
 6038,Christopher Lawings,2020-08-04,shot,gun and knife,67,M,,James Island,SC,False,attack,Not fleeing,False,-79.988,32.756,True
 6035,Roberto Hernandez,2020-08-05,shot,gun,29,M,H,San Angelo,TX,False,attack,Other,False,-100.509,31.438,True
-6030,Amir Johnson,2020-08-06,shot,bottle,30,M,B,Ventnor,NJ,False,other,Not fleeing,False,-74.474,39.355,True
+6030,Amir Johnson,2020-08-06,shot,bottle,30,M,B,Ventnor,NJ,False,other,Not fleeing,True,-74.474,39.355,True
 6031,Vasquinho Bettencourt,2020-08-06,shot,gun,35,M,H,San Leandro,CA,False,attack,Other,False,-122.177,37.736,True
 6092,,2020-08-06,shot,metal pipe,44,M,,Ontario,CA,False,other,Other,False,-117.576,34.065,True
 6036,Jeffrey Scott Haarsma,2020-08-07,shot,unarmed,55,M,W,St. Petersburg,FL,True,attack,Not fleeing,False,-82.639,27.809,True
@@ -5646,8 +5646,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6174,Nicholas Morales-Bessannia,2020-09-17,shot,shovel,37,M,,Immokalee,FL,False,other,Not fleeing,False,-81.391,26.407,True
 6182,Scott Heisler,2020-09-18,shot,undetermined,45,M,W,West Des Moines,IA,True,other,Not fleeing,False,-93.763,41.588,True
 6181,Charles Eric Moses,2020-09-19,shot,gun,33,M,B,Brunswick,GA,False,attack,Foot,False,-81.495,31.148,True
-6180,,2020-09-20,shot,gun,39,F,,Redmond,WA,False,attack,Not fleeing,False,-122.127,47.68,True
+6180,Andrea Churna,2020-09-20,shot,gun,39,F,W,Redmond,WA,False,other,Not fleeing,False,-122.127,47.68,True
 6176,Patches Holmes,2020-09-21,shot,gun,26,M,,St. Louis,MO,False,attack,Other,False,-90.224,38.751,True
 6177,,2020-09-21,shot,knife,,M,,Noglaes,AZ,False,attack,,False,-110.934,31.34,True
 6179,Dearian Bell,2020-09-21,shot,gun,28,M,B,Atlanta,GA,False,other,Not fleeing,False,-84.368,33.716,True
-6178,Jeffrey Blunk,2020-09-22,shot,gun,30,M,W,Geneseo,NY,False,other,Foot,False,-90.166,41.448,True
+6178,Jeffrey Ryan Blunk,2020-09-22,shot,gun,30,M,W,Geneseo,IL,False,attack,Foot,False,-90.166,41.448,True
