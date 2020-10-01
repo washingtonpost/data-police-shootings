@@ -5645,9 +5645,26 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6173,Darrell Zemault,2020-09-15,shot,gun,55,M,B,San Antonio,TX,False,attack,Not fleeing,True,-98.575,29.445,True
 6174,Nicholas Morales-Bessannia,2020-09-17,shot,shovel,37,M,,Immokalee,FL,False,other,Not fleeing,False,-81.391,26.407,True
 6182,Scott Heisler,2020-09-18,shot,undetermined,45,M,W,West Des Moines,IA,True,other,Not fleeing,False,-93.763,41.588,True
+6191,,2020-09-18,shot,unknown weapon,39,M,,Redlands,CA,False,attack,,False,-117.174,34.07,True
+6193,,2020-09-18,shot,undetermined,,M,A,Stanton,CA,False,undetermined,Car,False,-117.985,33.81,True
+6194,Rickey Wayne Riney,2020-09-18,shot,undetermined,41,M,W,West Odessa,TX,False,undetermined,,False,-102.5,31.883,True
+6195,Matthew Lyvon Paul,2020-09-18,shot,gun,46,M,W,Lakewood,CO,False,attack,Foot,False,-105.082,39.722,True
+6196,Matthew C. Knowlden,2020-09-18,shot,gun,22,M,W,Midvale,UT,False,attack,Other,False,-111.914,40.621,True
 6181,Charles Eric Moses,2020-09-19,shot,gun,33,M,B,Brunswick,GA,False,attack,Foot,False,-81.495,31.148,True
+6186,Josh Sarrett,2020-09-19,shot,undetermined,32,M,W,Auburn,WA,False,undetermined,,False,-122.222,47.301,True
+6192,Derek Cooper,2020-09-19,shot,gun,52,M,B,Talking Rock,GA,False,attack,,False,-84.505,34.509,True
 6180,Andrea Churna,2020-09-20,shot,gun,39,F,W,Redmond,WA,False,other,Not fleeing,False,-122.127,47.68,True
 6176,Patches Holmes,2020-09-21,shot,gun,26,M,,St. Louis,MO,False,attack,Other,False,-90.224,38.751,True
 6177,,2020-09-21,shot,knife,,M,,Noglaes,AZ,False,attack,,False,-110.934,31.34,True
 6179,Dearian Bell,2020-09-21,shot,gun,28,M,B,Atlanta,GA,False,other,Not fleeing,False,-84.368,33.716,True
+6190,Julia Anne Moss,2020-09-21,shot and Tasered,knife,40,F,W,Athens,GA,True,other,Not fleeing,True,-83.406,33.91,True
 6178,Jeffrey Ryan Blunk,2020-09-22,shot,gun,30,M,W,Geneseo,IL,False,attack,Foot,False,-90.166,41.448,True
+6187,Victor Sanchez,2020-09-22,shot,gun,44,M,H,San Antonio,TX,False,attack,Not fleeing,False,-98.597,29.448,True
+6184,Kurt Andras Reinhold,2020-09-23,shot,undetermined,42,M,B,San Clemente,CA,False,attack,,False,-117.601,33.415,True
+6183,Christopher Michael Straub,2020-09-24,shot,gun,38,M,W,Templeton,CA,False,attack,Foot,False,-120.698,35.573,True
+6185,Randy Fedorchuk,2020-09-24,shot,gun,66,M,,La Quinta,CA,False,attack,,False,-116.296,33.677,True
+6189,Jessie A. Hudnall,2020-09-24,shot,gun,29,M,,Whitehall,LA,False,attack,Not fleeing,False,,,True
+6199,Erik Mahoney,2020-09-24,shot,gun,43,M,W,Airway Heights,WA,False,undetermined,Not fleeing,True,-117.539,47.644,True
+6188,Matthew Nocerino,2020-09-24,shot and Tasered,gun,30,M,W,Sebring,FL,False,attack,Foot,False,-81.512,27.426,True
+6198,Angel Benitez,2020-09-25,shot,undetermined,21,M,H,Tempe,AZ,False,other,Car,True,-111.883,33.422,True
+6197,James Lucachevitz,2020-09-27,shot,knife,43,M,W,Dearborn,MI,False,attack,,False,-83.176,42.322,True
