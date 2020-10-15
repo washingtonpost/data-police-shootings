@@ -5690,10 +5690,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6218,Tyran Dent,2020-10-08,shot,gun,24,M,B,New York,NY,False,attack,Other,False,-73.933,40.851,True
 6225,Justin Caldwell,2020-10-08,shot,gun,47,M,,Palm City,FL,True,attack,Not fleeing,False,-80.3,27.186,True
 6214,Sylvia Kirchner,2020-10-09,shot,gun,41,F,W,Horry County,SC,True,undetermined,,False,-79.056,33.606,True
-6215,Anthony Michael Legato,2020-10-09,shot,gun,25,M,,Pine County,MN,False,attack,Car,False,-92.888,46.105,True
+6215,Anthony Michael Legato,2020-10-09,shot,gun,25,M,,Pine County,MN,False,attack,Car,True,-92.888,46.105,True
 6216,Kalun Purucker,2020-10-09,shot,undetermined,29,M,W,Salina,KS,False,undetermined,Car,False,-97.63,38.825,True
 6226,Ariel Esau Lujan,2020-10-09,shot,gun,29,M,,Houston,TX,False,attack,,False,-95.309,29.621,True
 6213,Cesar Vargas,2020-10-10,shot,knife,21,M,H,San Francisco,CA,False,other,Car,True,-122.42,37.772,True
 6227,,2020-10-12,shot,undetermined,,M,,Billings,MT,False,attack,,False,-108.572,45.786,True
 6229,Anthony Jones,2020-10-12,shot,unarmed,24,M,,Bethel Springs,TN,False,other,Car,False,,,True
 6228,Marcos Ramirez,2020-10-13,shot,knife,27,M,H,Bakersfield,CA,False,attack,Foot,True,-118.994,35.373,True
+6230,,2020-10-14,shot,knife,,M,W,Chico,CA,False,attack,Foot,False,,,True
+6231,,2020-10-14,shot,gun,,M,,South Los Angeles,CA,False,attack,Not fleeing,False,,,True
+6232,,2020-10-14,shot,spear,,M,,Cookson,OK,False,attack,Not fleeing,False,,,True
