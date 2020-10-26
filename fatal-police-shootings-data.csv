@@ -3764,7 +3764,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4132,Kimberly Norris,2018-10-20,shot,gun,34,F,W,Darlington County,SC,False,attack,Not fleeing,True,-80.221,34.365,True
 4118,Cedric Pritchard,2018-10-21,shot,gun,,M,B,Washington,NC,False,other,Not fleeing,True,-77.056,35.556,True
 4119,,2018-10-21,shot,undetermined,,M,,Quincy,FL,False,undetermined,Car,False,-84.591,30.588,True
-4121,Jason Whittle,2018-10-22,shot,knife,26,M,W,Riverton,UT,False,attack,Not fleeing,False,-111.931,40.537,True
+4121,Jason Whittle,2018-10-22,shot,knife,26,M,W,Riverton,UT,True,attack,Not fleeing,False,-111.931,40.537,True
 4123,William David Williamson,2018-10-22,shot,unknown weapon,61,M,W,Newport,TN,False,attack,Not fleeing,False,-83.182,36.073,True
 4120,Tafahree Maynard,2018-10-22,shot and Tasered,lawn mower blade,18,M,B,Snellville,GA,False,other,Not fleeing,False,,,True
 4127,Shaunday Mullins,2018-10-23,shot,gun,37,M,N,Tulsa,OK,False,attack,Not fleeing,False,-95.923,36.148,True
@@ -5698,20 +5698,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6229,Anthony Jones,2020-10-12,shot and Tasered,gun,24,M,,Bethel Springs,TN,False,other,Car,False,,,True
 6228,Jose Marcos Ramirez,2020-10-13,shot,knife,27,M,H,Bakersfield,CA,False,attack,Foot,True,-118.994,35.373,True
 6231,,2020-10-14,shot,gun,,M,,South Los Angeles,CA,False,attack,Not fleeing,False,,,True
-6239,Yoel Arnaldo Mejia Santel,2020-10-14,shot,machete,38,M,H,Frostproof,FL,False,other,Not fleeing,False,-81.531,27.746,True
-6240,,2020-10-14,shot,gun,,M,,Los Angeles,CA,False,attack,,False,-118.283,33.935,True
+6239,Yoel Arnaldo Mejia Santel,2020-10-14,shot,machete,28,M,H,Frostproof,FL,True,other,Not fleeing,False,-81.531,27.746,True
+6240,Kevin Carr,2020-10-14,shot,gun,23,M,,Los Angeles,CA,False,attack,,False,-118.283,33.935,True
 6230,Steven Vest,2020-10-14,shot and Tasered,knife,30,M,W,Chico,CA,False,attack,Foot,False,,,True
 6232,,2020-10-14,shot and Tasered,spear,,M,,Cookson,OK,False,attack,Not fleeing,False,,,True
-6234,,2020-10-16,shot,gun,,M,,Sioux Falls,IA,False,undetermined,Not fleeing,False,-96.756,43.556,True
+6234,,2020-10-16,shot,gun,,M,,Sioux Falls,SD,False,attack,Not fleeing,False,-96.756,43.556,True
 6237,Alberto Rivas,2020-10-16,shot,gun,57,M,,Huntsville,AL,False,attack,Not fleeing,False,-86.572,34.628,True
 6238,Fred Williams,2020-10-16,shot,gun,25,M,B,Los Angeles,CA,False,attack,Foot,False,-118.265,33.923,True
 6246,Akbar Muhammad Eaddy,2020-10-16,shot,gun,27,M,B,Rock Island,IL,False,attack,Other,True,-90.568,41.5,True
 6235,,2020-10-17,shot,gun,,M,,Laguna,NM,False,attack,Car,False,-107.38,35.032,True
-6236,,2020-10-17,shot,,,M,,Muhlenberg County,KY,True,other,Not fleeing,False,-87.142,37.177,True
-6241,Paul Baily,2020-10-17,shot,undetermined,21,M,,Wood County,WV,False,undetermined,,False,-81.436,39.215,True
+6236,Darren W. Randolph,2020-10-17,shot,gun,53,M,,Muhlenberg County,KY,True,attack,Not fleeing,False,-87.142,37.177,True
+6241,Paul Matthew Baily,2020-10-17,shot,undetermined,21,M,W,Wood County,WV,False,undetermined,,False,-81.436,39.215,True
 6233,,2020-10-18,shot,gun,,M,,Sunrise,FL,True,attack,Not fleeing,False,-80.329,26.134,True
 6245,Gregory Putnik,2020-10-18,shot,gun,32,M,W,Fresno,CA,False,attack,Foot,False,-119.821,36.758,True
 6247,Tutuila Pine Koonwaiyou,2020-10-18,shot,gun,37,M,,Tooele,UT,False,other,Not fleeing,False,-112.298,40.531,True
 6242,,2020-10-19,shot,gun,43,M,,South Milwaukee,WI,False,attack,Not fleeing,False,-87.856,42.899,True
-6243,Paul Sulkowski,2020-10-19,shot,knife,46,M,,Coram,NY,False,other,,False,-73.01,40.875,True
-6244,,2020-10-19,shot,gun,,M,,Emmitsburg,MD,False,attack,Other,False,-79.677,34.609,True
+6244,Bryan Paul Selmer,2020-10-19,shot,gun,,M,W,Emmitsburg,MD,False,attack,Other,False,-79.677,34.609,True
+6243,Paul Sulkowski,2020-10-19,shot and Tasered,knife,46,M,,Coram,NY,False,other,,False,-73.01,40.875,True
