@@ -5032,7 +5032,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5523,Daniel Murillo,2020-02-05,shot,knife,56,M,W,Washoe,NV,False,other,Not fleeing,False,-119.799,39.548,True
 5565,Gaston A. Nava-Saucedo,2020-02-05,shot,vehicle,33,M,H,Topeka,KS,False,attack,Car,False,-95.669,39.05,True
 5512,Sean Patrick Constance,2020-02-06,shot,gun,37,M,W,Port Charlotte,FL,False,attack,Car,False,-82.146,27.013,True
-5514,Juston Root,2020-02-07,shot,gun,41,M,W,Brookline,MA,True,attack,Car,False,,,True
+5514,Juston Root,2020-02-07,shot,toy weapon,41,M,W,Brookline,MA,True,attack,Car,False,,,True
 5524,Michael Collins,2020-02-07,shot,knife,38,M,W,Sapulpa,OK,True,other,Not fleeing,False,-96.107,35.975,True
 5562,Joshua Downing,2020-02-07,shot,gun,32,M,,Kansas City,MO,False,attack,Not fleeing,False,-94.546,39.103,True
 5518,Douglas Harold Hart,2020-02-08,shot,gun,67,M,W,Vestavia Hills,AL,False,attack,Not fleeing,False,-86.7,33.488,True
@@ -5716,7 +5716,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6244,Bryan Paul Selmer,2020-10-19,shot,gun,,M,W,Emmitsburg,MD,False,attack,Other,False,-79.677,34.609,True
 6243,Paul Sulkowski,2020-10-19,shot and Tasered,knife,46,M,,Coram,NY,False,other,,False,-73.01,40.875,True
 6248,Marcellis Stinnette,2020-10-20,shot,unarmed,19,M,B,Waukegan,IL,False,other,Car,False,-87.833,42.349,True
-6250,,2020-10-20,shot,undetermined,,M,,Phoenix,AZ,False,attack,Not fleeing,False,-112.035,33.509,True
+6250, ,2020-10-20,shot,undetermined,,M,,Phoenix,AZ,False,attack,Not fleeing,False,-112.035,33.509,True
 6251,Rodney Arnez Barnes,2020-10-20,shot,gun,48,M,B,Elmwood Place,OH,False,attack,Not fleeing,False,-84.49,39.187,True
 6252,James Collins,2020-10-20,shot,gun,61,M,,Spring Hill,FL,False,attack,Not fleeing,False,-82.603,28.448,True
 6261,,2020-10-20,shot,gun,,M,,Perdido Key,FL,True,attack,Not fleeing,False,-87.426,30.298,True
