@@ -5725,7 +5725,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6258,Francisco Danny Flores,2020-10-22,shot,gun,30,M,H,Casa Grande,AZ,False,attack,Car,False,-111.757,32.894,True
 6259,Mark Matthew Bender,2020-10-22,shot,gun,35,M,B,San Bernardino,CA,False,attack,Not fleeing,False,,,True
 6262,Keith Beecroft,2020-10-22,shot,gun,43,M,,Eagle River,AK,True,attack,Not fleeing,False,-149.558,61.309,True
-6263,,2020-10-22,shot,unknown weapon,,M,,Roane County,WV,False,other,,False,-81.478,38.585,True
+6263,Michael Nichols,2020-10-22,shot,unknown weapon,63,M,,Roane County,WV,False,other,,False,-81.478,38.585,True
 6256,Wesley Jordan,2020-10-23,shot,gun,32,M,,Coffeyville,KS,False,other,Car,False,-95.596,37.041,True
 6257,,2020-10-23,shot,gun,,M,,Goodman,WI,False,attack,Car,False,-88.359,45.629,True
 6260,Marc Nevarez,2020-10-23,shot,gun,25,M,,Chicago,IL,False,attack,Foot,False,-87.717,41.844,True
@@ -5734,3 +5734,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6255,Jakerion Shmond Jackson,2020-10-24,shot,undetermined,19,M,B,Sylvester,GA,False,undetermined,Other,False,-83.829,31.53,True
 6253,,2020-10-25,shot,gun,,M,,Phoenix,AZ,False,attack,Not fleeing,False,-112.119,33.734,True
 6266,Walter Wallace,2020-10-26,shot,knife,27,M,B,Philadelphia,PA,True,other,Not fleeing,False,-75.244,39.958,True
+6268,,2020-10-27,shot,undetermined,,M,,Herriman,UT,False,undetermined,,False,-112.017,40.509,True
+6269,Clifton Gorman Spencer,2020-10-27,shot,gun,35,M,,Chattanooga,TN,False,other,,False,-85.112,35.04,True
