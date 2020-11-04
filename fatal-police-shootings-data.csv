@@ -5744,6 +5744,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6281,Daniel Johnston,2020-10-31,shot,gun,44,M,,Maryville,TN,False,other,,False,-84.004,35.72,True
 6278,,2020-11-01,shot,undetermined,,M,,Puyallup,WA,False,undetermined,,False,-122.263,47.175,True
 6279,,2020-11-01,shot,gun,,M,,Seymour,IN,False,other,Foot,False,-85.908,38.951,True
-6274,,2020-11-02,shot,knife,,M,,Winchester,MA,False,other,Not fleeing,False,-71.135,42.461,True
+6274,Thomas Celona,2020-11-02,shot,knife,35,M,,Winchester,MA,False,other,Not fleeing,False,-71.135,42.461,True
 6275,Caleb Slay,2020-11-02,shot,undetermined,25,M,,Springfield,MO,False,undetermined,,False,-93.28,37.182,True
 6280,John Mellone,2020-11-02,shot,vehicle,39,M,W,Lynn,MA,False,attack,Car,False,-70.963,42.46,True
+6284,,2020-11-03,shot,gun,59,M,,Beaumont,TX,False,attack,Not fleeing,False,-94.211,30.179,True
+6285,,2020-11-03,shot,gun,,M,,San Antonio,TX,False,other,Not fleeing,False,-98.761,29.463,True
+6283,,2020-11-04,shot,gun,,M,,Fort Carson,CO,False,attack,Not fleeing,False,-104.79,38.753,True
