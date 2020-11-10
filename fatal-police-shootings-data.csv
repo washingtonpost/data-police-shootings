@@ -5748,4 +5748,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6275,Caleb Slay,2020-11-02,shot,undetermined,25,M,,Springfield,MO,False,undetermined,,False,-93.28,37.182,True
 6280,John Mellone,2020-11-02,shot,vehicle,39,M,W,Lynn,MA,False,attack,Car,False,-70.963,42.46,True
 6285,,2020-11-03,shot,gun,,M,,San Antonio,TX,False,other,Not fleeing,False,-98.761,29.463,True
+6286,Jason Neo Bourne,2020-11-03,shot,gun,38,M,,Henderson,NV,False,attack,,False,-115.05,36.037,True
+6291,John Wesley Seymour,2020-11-03,shot,gun,59,M,,Jefferson County,TX,False,attack,Not fleeing,False,-94.214,30.176,True
 6283,,2020-11-04,shot,gun,,M,,Fort Carson,CO,False,attack,Not fleeing,False,-104.79,38.753,True
+6287,,2020-11-04,shot,knife,,M,,Sacramento,CA,False,attack,Not fleeing,False,-121.519,38.494,True
+6288,Justin Hammack,2020-11-04,shot,gun,26,M,W,Lewistown,IL,False,attack,,False,-90.152,40.405,True
+6289,Justin Reed,2020-11-04,shot,gun,33,M,,Jacksonville,FL,False,attack,Not fleeing,False,-81.645,30.385,True
+6290,,2020-11-04,shot,gun,,,,Kent,WA,False,attack,Foot,False,-122.169,47.419,True
+6298,Jacob Rucker,2020-11-05,shot,vehicle,36,M,W,Tulsa,OK,False,attack,Not fleeing,False,-95.851,36.167,True
+6299,Javier Magana,2020-11-05,shot,gun,32,M,,Ventura,CA,False,other,Car,False,-119.27,34.265,True
+6294,Michael Gurley,2020-11-07,shot,undetermined,50,M,,Cheatham County,TN,False,undetermined,,False,-87.131,36.259,True
+6296,Stephen Campos,2020-11-07,shot,gun,43,M,,Lilburn,GA,False,attack,Not fleeing,False,-84.077,33.846,True
+6297,Jesse James Kale Brown,2020-11-07,shot,knife,34,M,,Missoula,MT,False,attack,,False,-114.035,46.874,True
+6292,Rodriguez Duandre Pam,2020-11-08,shot,gun,33,M,,Evansville,IN,False,other,,True,-87.567,37.969,True
+6295,Terry David Fox,2020-11-08,shot,gun,58,M,,Nashville,TN,False,other,Not fleeing,False,-87.164,36.055,True
+6293,,2020-11-09,shot,gun,,M,,Baltimore,MD,False,attack,Not fleeing,False,-76.671,39.308,True
