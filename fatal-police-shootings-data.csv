@@ -5744,16 +5744,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6281,Matthew Daniel Johnston,2020-10-31,shot,gun,44,M,,Maryville,TN,False,other,,False,-84.004,35.72,True
 6278,Quincy Ivan Bishop,2020-11-01,shot,undetermined,30,M,,Puyallup,WA,False,undetermined,,False,-122.263,47.175,True
 6279,Jason S. Cline,2020-11-01,shot,gun,43,M,,Seymour,IN,False,other,Foot,False,-85.908,38.951,True
-6274,Thomas Celona,2020-11-02,shot,knife,35,M,,Winchester,MA,False,other,Not fleeing,False,-71.135,42.461,True
 6275,Caleb Slay,2020-11-02,shot,undetermined,25,M,,Springfield,MO,False,undetermined,,False,-93.28,37.182,True
 6280,John Mellone,2020-11-02,shot,vehicle,39,M,W,Lynn,MA,False,attack,Car,False,-70.963,42.46,True
-6285,,2020-11-03,shot,gun,,M,,San Antonio,TX,False,other,Not fleeing,False,-98.761,29.463,True
+6274,Thomas Celona,2020-11-02,shot and Tasered,knife,35,M,,Winchester,MA,False,other,Not fleeing,False,-71.135,42.461,True
+6285,,2020-11-03,shot,gun,,M,,San Antonio,TX,False,attack,Not fleeing,False,-98.761,29.463,True
 6286,Jason Neo Bourne,2020-11-03,shot,gun,38,M,,Henderson,NV,False,attack,,False,-115.05,36.037,True
 6291,John Wesley Seymour,2020-11-03,shot,gun,59,M,,Jefferson County,TX,False,attack,Not fleeing,False,-94.214,30.176,True
 6283,,2020-11-04,shot,gun,,M,,Fort Carson,CO,False,attack,Not fleeing,False,-104.79,38.753,True
 6287,,2020-11-04,shot,knife,,M,,Sacramento,CA,False,attack,Not fleeing,False,-121.519,38.494,True
 6288,Justin Hammack,2020-11-04,shot,gun,26,M,W,Lewistown,IL,False,attack,,False,-90.152,40.405,True
-6289,Justin Reed,2020-11-04,shot,gun,33,M,,Jacksonville,FL,False,attack,Not fleeing,False,-81.645,30.385,True
+6289,Justin Darryel Reed,2020-11-04,shot,gun,33,M,B,Jacksonville,FL,False,attack,Not fleeing,False,-81.645,30.385,True
 6290,,2020-11-04,shot,gun,,,,Kent,WA,False,attack,Foot,False,-122.169,47.419,True
 6298,Jacob Rucker,2020-11-05,shot,vehicle,36,M,W,Tulsa,OK,False,attack,Not fleeing,False,-95.851,36.167,True
 6299,Javier Magana,2020-11-05,shot,gun,32,M,,Ventura,CA,False,other,Car,False,-119.27,34.265,True
