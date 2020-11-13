@@ -5313,11 +5313,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5835,David Tylek Atkinson,2020-05-13,shot,gun,24,M,B,Raleigh,NC,False,attack,Foot,False,-78.587,35.79,True
 5827,Rayshard Scales,2020-05-14,shot,toy weapon,30,M,B,Houston,TX,True,attack,Not fleeing,False,-95.366,29.684,True
 5831,Robert Tincher,2020-05-14,shot,knife,49,M,W,Union Township,OH,True,other,Not fleeing,False,-84.255,39.086,True
-5834,Anthony Ysaac,2020-05-14,shot,gun,26,M,,Los Angeles,CA,False,other,Not fleeing,False,-118.289,33.921,True
+5834,Anthony Ysaac,2020-05-14,shot,gun,26,M,H,Los Angeles,CA,False,other,Not fleeing,True,-118.289,33.921,True
 5890,Donny Leek,2020-05-14,shot,gun,47,M,W,San Angelo,TX,True,attack,Not fleeing,False,,,True
 5893,Anthony Angel,2020-05-14,shot,gun,30,M,,Rapid City,SD,False,attack,Car,False,-103.167,44.068,True
-5829,Roy Ogden,2020-05-15,shot,gun,65,M,,Ladson,SC,False,attack,Car,False,-80.089,33.015,True
-5830,,2020-05-15,shot,gun,42,M,,San Leandro,CA,False,attack,Not fleeing,False,-122.101,37.693,True
+5830,Thuc Pham,2020-05-15,shot,gun,42,M,A,San Leandro,CA,False,attack,Not fleeing,False,-122.101,37.693,True
 5832,Robert Avila,2020-05-15,shot,vehicle,31,M,W,Pueblo,CO,False,attack,Car,False,-104.577,38.271,True
 5833,Hunter Carlstrom,2020-05-15,shot,gun,33,M,W,Oxford,MS,False,attack,Car,False,-89.522,34.335,True
 5823,Robert Johnson,2020-05-16,shot,gun,29,M,B,Essex,MD,False,other,Not fleeing,True,-76.44,39.31,True
@@ -5329,9 +5328,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5817,Robert Wayne Lawson,2020-05-18,shot,gun,64,M,W,St. Francis County,AR,False,attack,Not fleeing,False,-90.787,34.993,True
 5821,Jacob Bubb,2020-05-18,shot,gun,28,M,W,Suring,WI,False,other,Not fleeing,False,-88.372,44.999,True
 5819,Levi Morse,2020-05-19,shot,gun,32,M,W,Chunchula,AL,False,attack,Not fleeing,False,-88.164,30.951,True
-5820,Wilbon Cleveland Woodard,2020-05-19,shot,unknown weapon,69,M,W,Tallahassee,FL,False,other,Not fleeing,False,-84.3,30.477,True
+5820,Wilbon Cleveland Woodard,2020-05-19,shot,unknown weapon,69,M,B,Tallahassee,FL,False,other,Not fleeing,False,-84.3,30.477,True
 5824,Tyler Hays,2020-05-19,shot,unarmed,29,M,W,Sale Creek,TN,False,attack,Not fleeing,False,-85.035,35.383,True
-5816,,2020-05-19,shot and Tasered,knife,,M,,Seattle,WA,False,undetermined,Foot,True,-122.352,47.614,True
+5816,Terry Caver,2020-05-19,shot and Tasered,knife,57,M,B,Seattle,WA,False,undetermined,Foot,True,-122.352,47.614,True
 5815,,2020-05-20,shot,gun,,M,,Viera,FL,True,attack,Not fleeing,False,-80.741,28.227,True
 5894,Tobby Wiggins,2020-05-20,shot,undetermined,45,M,B,Atmore,AL,False,other,Foot,False,-87.494,31.024,True
 5923,Stoney Ramirez,2020-05-20,shot,vehicle,23,M,,Hayward,CA,False,attack,Car,True,-122.062,37.684,True
@@ -5586,9 +5585,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6100,Nathan Harrington,2020-08-20,shot,gun,43,M,W,Wimberley,TX,True,attack,Car,False,-98.102,30.003,True
 6101,Jeffrey Wratten,2020-08-20,shot,gun,37,M,W,Cabot,AR,True,other,Car,False,-92.072,35.026,True
 6102,,2020-08-20,shot,gun,,M,,Brooksville,FL,False,attack,,False,-82.473,28.592,True
+6105,Trayford Pellerin,2020-08-21,shot and Tasered,knife,31,M,B,Lafayette,LA,True,other,Foot,False,-92.001,30.204,True
 6106,Hasani Best,2020-08-21,shot,knife,39,M,B,Asbury Park,NJ,False,other,,False,-74.012,40.225,True
 6110,Scott Huffman,2020-08-21,shot,gun,42,M,W,Nipomo,CA,True,attack,Not fleeing,False,-120.485,35.037,True
-6105,Trayford Pellerin,2020-08-21,shot and Tasered,knife,31,M,B,Lafayette,LA,True,other,Foot,False,-92.001,30.204,True
 6107,Christopher Walker,2020-08-22,shot,gun,29,M,B,Rancho Cordova,CA,True,attack,Foot,False,-121.318,38.577,True
 6111,Brandon R. Laducer,2020-08-22,shot,undetermined,35,M,N,Belcourt,ND,False,undetermined,,False,-99.745,48.839,True
 6108,Gearil Leonard Williams,2020-08-23,shot,knife,47,M,B,Kingsland,GA,False,attack,Not fleeing,False,-81.643,30.79,True
