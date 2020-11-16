@@ -5460,64 +5460,64 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5969,James Porter Garcia,2020-07-04,shot,undetermined,28,M,H,Phoenix,AZ,False,undetermined,Not fleeing,True,-112.208,33.495,True
 5974,Axel Perez,2020-07-04,shot,machete,17,M,H,Jacksonville,FL,True,other,Not fleeing,False,-81.815,30.255,True
 5968,,2020-07-05,shot,undetermined,,M,,Chino,CA,False,undetermined,,False,-117.731,34.023,True
-5971,Taylor Christian Warner,2020-07-05,shot,toy weapon,30,M,,Muncie,IN,True,attack,,True,-85.386,40.193,True
-5972,Rodney Liveringhouse,2020-07-05,shot,gun,70,M,,Mesa,AZ,True,attack,Not fleeing,False,-111.719,33.423,True
+5971,Taylor Christian Warner,2020-07-05,shot,toy weapon,30,M,W,Muncie,IN,True,attack,,True,-85.386,40.193,True
+5972,Rodney Liveringhouse,2020-07-05,shot,gun,70,M,W,Mesa,AZ,True,attack,Not fleeing,False,-111.719,33.423,True
 5970,Joseph W. Denton,2020-07-06,shot,gun,35,M,B,Milwaukee,WI,False,other,,False,-87.976,43.021,True
 5973,Joey Hoffman,2020-07-06,shot,gun,40,M,,Smithfield Township,PA,True,attack,Not fleeing,False,-75.074,41.028,True
-5965,Paul Eugene Armstrong,2020-07-07,shot,gun,62,M,,Etowah,TN,False,attack,Not fleeing,False,-84.518,35.323,True
-5967,Carlos Baires,2020-07-07,shot,vehicle,36,M,,Fresno,CA,False,attack,Not fleeing,False,-119.776,36.736,True
+5965,Paul Eugene Armstrong,2020-07-07,shot,gun,62,M,W,Etowah,TN,False,attack,Not fleeing,False,-84.518,35.323,True
+5967,Carlos Baires,2020-07-07,shot,vehicle,36,M,H,Fresno,CA,False,attack,Not fleeing,False,-119.776,36.736,True
 5977,,2020-07-07,shot,gun,,M,,Harris County,TX,True,attack,Not fleeing,False,-95.429,29.96,True
 5978,Wade Phillips,2020-07-08,shot,gun,49,M,,Horry County,SC,False,attack,,False,-79.009,33.698,True
-6167,Adam Lucas Carroll,2020-07-08,shot,knife,37,M,,Pascagoula,MS,True,other,Not fleeing,False,-88.519,30.359,True
+6167,Adam Lucas Carroll,2020-07-08,shot,knife,37,M,W,Pascagoula,MS,True,other,Not fleeing,False,-88.519,30.359,True
 6168,Wade Protus Phillips,2020-07-08,shot,gun,49,M,W,Myrtle Beach,SC,True,other,Not fleeing,False,,,True
-5987,Richard Lewis Price,2020-07-09,shot,toy weapon,49,M,,San Diego,CA,False,attack,Not fleeing,True,-117.094,32.756,True
+5987,Richard Lewis Price,2020-07-09,shot,toy weapon,49,M,,San Diego,CA,True,attack,Not fleeing,True,-117.094,32.756,True
 5979,Kevin Michael Norton,2020-07-10,shot,gun,60,M,W,Forksville,PA,False,undetermined,Not fleeing,False,-76.684,41.523,True
 5981,Hakim Littleton,2020-07-10,shot,gun,20,M,B,Detroit,MI,False,attack,Not fleeing,True,-83.146,42.417,True
-5986,Kanavis Dujuan Glass,2020-07-10,shot,gun,31,M,,Panama City,FL,False,attack,Not fleeing,False,-85.804,30.177,True
-5982,Antonio Mancinone,2020-07-11,shot,gun,23,M,,Monument,CO,False,attack,Car,False,-104.858,39.123,True
-5983,Michael Joseph Culbertson,2020-07-11,shot,gun,26,M,,Greenville,SC,False,attack,Not fleeing,False,-82.436,34.9,True
+5986,Kanavis Dujuan Glass,2020-07-10,shot,gun,31,M,B,Panama City,FL,False,attack,Not fleeing,False,-85.804,30.177,True
+5982,Antonio Mancinone,2020-07-11,shot,gun,23,M,W,Monument,CO,False,attack,Car,False,-104.858,39.123,True
+5983,Michael Joseph Culbertson,2020-07-11,shot,gun,26,M,W,Greenville,SC,False,attack,Not fleeing,False,-82.436,34.9,True
 5980,Marcos Reyes,2020-07-12,shot,gun,28,M,,Chamblee,GA,False,attack,Not fleeing,False,-84.293,33.877,True
 5984,Terena Nicole Thurman,2020-07-12,shot,vehicle,36,F,W,Butler Township,OH,False,attack,Car,False,-79.918,40.841,True
-5985,Rodney Morrison,2020-07-12,shot,knife,47,M,,Leesburg,GA,False,other,Foot,False,-84.178,31.727,True
-6076,Marcos Reyes,2020-07-12,shot,gun,28,M,,Chamblee,GA,False,attack,Not fleeing,False,-84.293,33.877,True
+5985,Rodney Morrison,2020-07-12,shot,knife,47,M,,Leesburg,GA,True,other,Foot,False,-84.178,31.727,True
+6076,Marcos Reyes,2020-07-12,shot,gun,28,M,H,Chamblee,GA,False,attack,Not fleeing,False,-84.293,33.877,True
 5989,Glenn Farse Young,2020-07-13,shot,gun,59,M,,Rockwood,TN,False,other,Car,False,-84.686,35.866,True
 6077,Arlan Kaleb Schultz,2020-07-13,shot,gun,31,M,W,Chaska,MN,False,attack,Not fleeing,True,-93.595,44.796,True
 5988,Sean Ernest Ruis,2020-07-14,shot,knife,43,M,W,Delta Township,MI,False,other,Car,True,-84.644,42.683,True
-5990,Vincent Demario Truitt,2020-07-14,shot,gun,17,M,,Cobb County,GA,False,attack,Other,False,-84.561,33.775,True
+5990,Vincent Demario Truitt,2020-07-14,shot,gun,17,M,B,Cobb County,GA,False,attack,Other,False,-84.561,33.775,True
 5991,Cristhian Eliud Ramos-Murillo,2020-07-14,shot,gun,32,M,H,Knoxville,TN,False,attack,Car,False,-83.926,35.97,True
 5994,Julio Jaramillo,2020-07-14,shot,gun,28,M,H,Deming,NM,False,attack,Foot,False,-107.745,32.261,True
-5996,Timothy O'Shea,2020-07-14,shot,toy weapon,24,M,,Morris Township,NJ,True,attack,Not fleeing,False,-74.487,40.822,True
-5993,Antwane Burrise,2020-07-15,shot,vehicle,39,M,,Stockton,CA,False,attack,Not fleeing,False,-121.374,38.048,True
+5996,Timothy O'Shea,2020-07-14,shot,toy weapon,24,M,W,Morris Township,NJ,True,attack,Not fleeing,False,-74.487,40.822,True
+5993,Antwane Burrise,2020-07-15,shot,vehicle,39,M,B,Stockton,CA,False,attack,Not fleeing,False,-121.374,38.048,True
 6078,Tyler Blevens,2020-07-15,shot,gun,22,M,W,Shepherdsville,KY,True,attack,Not fleeing,False,-85.718,38.005,True
 5992,Aaron Olsvik,2020-07-16,shot,knife,23,M,W,Shoreline,WA,False,other,Foot,False,-122.353,47.756,True
 5995,,2020-07-16,shot,gun,60,M,W,North Fort Myers,FL,True,attack,Not fleeing,False,-81.905,26.719,True
 5997,Chase Roundtree,2020-07-16,shot,gun,33,M,W,Knox County,TX,False,attack,Not fleeing,False,-99.812,33.673,True
-6000,David Martin,2020-07-17,shot,gun,28,M,,Fruita,CO,False,other,,False,-108.72,39.157,True
-6001,Malcolm Comeaux,2020-07-17,shot,toy weapon,24,M,,Houston,TX,False,other,Not fleeing,False,-95.333,29.657,True
+6000,David Martin,2020-07-17,shot,gun,28,M,W,Fruita,CO,False,other,,False,-108.72,39.157,True
+6001,Malcolm Comeaux,2020-07-17,shot,toy weapon,24,M,B,Houston,TX,False,other,Not fleeing,False,-95.333,29.657,True
 5998,Darius Washington,2020-07-18,shot,gun,24,M,B,Chicago Heights,IL,False,attack,Foot,False,-87.623,41.503,True
 6079,Grant King,2020-07-19,shot,gun,35,M,,Indianapolis,IN,False,attack,Not fleeing,False,-86.113,39.822,True
 5999,Vincent Harris,2020-07-20,shot,gun,51,M,B,Baton Rouge,LA,False,attack,Not fleeing,True,-91.183,30.393,True
-6002,David Angulo,2020-07-20,shot,gun,33,M,,Chula Vista,CA,False,attack,Other,False,-116.983,32.646,True
+6002,David Angulo,2020-07-20,shot,gun,33,M,H,Chula Vista,CA,False,attack,Other,False,-116.983,32.646,True
 6003,Kyle Elrod,2020-07-21,shot,gun,30,M,W,Oklahoma City,OK,False,attack,Not fleeing,True,-97.548,35.377,True
 6004,Southern Jeremy,2020-07-21,shot,gun,22,M,B,Sacramento,CA,False,attack,Not fleeing,True,-121.418,38.549,True
 6005,Deborah White,2020-07-22,shot,gun,49,F,,Largo,FL,False,attack,Foot,False,-82.714,27.916,True
 6080,Scott M. Kontowicz,2020-07-22,shot,gun,37,M,W,Waukesha,WI,True,other,Not fleeing,False,-88.249,42.949,True
-6008,,2020-07-23,shot,gun,,M,,Detroit,MI,False,attack,Other,True,-83.046,42.331,True
+6008,,2020-07-23,shot,gun,,M,B,Detroit,MI,False,attack,Other,True,-83.046,42.331,True
 6017,John Karl Sieger,2020-07-23,shot,gun,51,M,W,Eureka,CA,True,attack,Not fleeing,True,-124.168,40.783,True
 6015,,2020-07-24,shot,toy weapon,,M,,Stockton,CA,False,attack,Not fleeing,False,-121.228,37.999,True
 6016,,2020-07-24,shot,vehicle,,M,,West Kendall,FL,False,other,Car,False,-80.457,25.684,True
 6022,David Earl Brooks,2020-07-24,shot,gun,45,M,B,Roxboro,NC,False,attack,Not fleeing,False,-79.006,36.39,True
-6081,Dane Norris,2020-07-24,shot,gun,41,M,,Baytown,TX,True,attack,,False,-94.96,29.845,True
+6081,Dane Norris,2020-07-24,shot,gun,41,M,W,Baytown,TX,True,attack,,False,-94.96,29.845,True
 6009,Christopher Poor,2020-07-25,shot,baseball bat,49,M,W,The Village,OK,False,other,Not fleeing,True,-97.55,35.565,True
 6013,Andrew Jacob Preece,2020-07-25,shot,knife,34,M,W,Salt Lake City,UT,True,other,Not fleeing,True,-111.877,40.76,True
-6006,Samuel Solomon Cochran,2020-07-26,shot,knife,22,M,,Mt. Airy,NC,False,attack,Not fleeing,False,-80.618,36.519,True
+6006,Samuel Solomon Cochran,2020-07-26,shot,knife,22,M,W,Mt. Airy,NC,True,attack,Not fleeing,False,-80.618,36.519,True
 6010,David Earl Brooks,2020-07-27,shot,gun,45,M,B,Roxboro,NC,True,other,,False,-78.979,36.372,True
 6211,Julio Caesar Virula,2020-07-27,shot,gun,26,M,H,Carmel,IN,True,attack,Foot,True,-86.069,39.995,True
 6007,Jacob Wilbur Wright,2020-07-28,shot,gun,32,M,,Canton,NC,False,attack,Not fleeing,False,-82.814,35.536,True
-6012,Howard Owens,2020-07-28,shot,gun,47,M,,North Port,FL,True,attack,Not fleeing,False,-82.234,27.069,True
+6012,Howard Owens,2020-07-28,shot,gun,47,M,W,North Port,FL,True,attack,Not fleeing,False,-82.234,27.069,True
 6011,Giovanni Cedano-Amaro,2020-07-29,shot,machete,21,M,,Las Vegas,NV,False,attack,Not fleeing,False,-115.125,36.192,True
 6024,,2020-07-29,shot,knife,,M,,Bothell,WA,True,other,Not fleeing,False,-122.207,47.791,True
-6025,Winston Joseph Latour,2020-07-29,shot,gun,37,M,,Lake Charles,LA,False,other,Car,False,-93.208,30.212,True
+6025,Winston Joseph Latour,2020-07-29,shot,gun,37,M,B,Lake Charles,LA,False,other,Car,False,-93.208,30.212,True
 6082,Jason Matthew Henke,2020-07-29,shot,gun,42,M,,Kingman,AZ,False,attack,Not fleeing,False,,,True
 6083,Gary Hardy,2020-07-30,shot,knife,41,M,,Chino,CA,False,other,Not fleeing,False,-117.686,34.029,True
 6084,Gabriel Salinas,2020-07-30,shot,gun,39,M,H,Mission,TX,False,attack,Not fleeing,False,-98.312,26.19,True
@@ -5585,9 +5585,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6100,Nathan Harrington,2020-08-20,shot,gun,43,M,W,Wimberley,TX,True,attack,Car,False,-98.102,30.003,True
 6101,Jeffrey Wratten,2020-08-20,shot,gun,37,M,W,Cabot,AR,True,other,Car,False,-92.072,35.026,True
 6102,,2020-08-20,shot,gun,,M,,Brooksville,FL,False,attack,,False,-82.473,28.592,True
-6105,Trayford Pellerin,2020-08-21,shot and Tasered,knife,31,M,B,Lafayette,LA,True,other,Foot,False,-92.001,30.204,True
 6106,Hasani Best,2020-08-21,shot,knife,39,M,B,Asbury Park,NJ,False,other,,False,-74.012,40.225,True
 6110,Scott Huffman,2020-08-21,shot,gun,42,M,W,Nipomo,CA,True,attack,Not fleeing,False,-120.485,35.037,True
+6105,Trayford Pellerin,2020-08-21,shot and Tasered,knife,31,M,B,Lafayette,LA,True,other,Foot,False,-92.001,30.204,True
 6107,Christopher Walker,2020-08-22,shot,gun,29,M,B,Rancho Cordova,CA,True,attack,Foot,False,-121.318,38.577,True
 6111,Brandon R. Laducer,2020-08-22,shot,undetermined,35,M,N,Belcourt,ND,False,undetermined,,False,-99.745,48.839,True
 6108,Gearil Leonard Williams,2020-08-23,shot,knife,47,M,B,Kingsland,GA,False,attack,Not fleeing,False,-81.643,30.79,True
@@ -5765,8 +5765,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6305,Ronny Dunning,2020-11-09,shot,gun,22,M,,Renton,WA,True,attack,Not fleeing,False,-122.208,47.48,True
 6303,Daron Jones,2020-11-10,shot,gun,29,M,,Nederland,TX,False,attack,Foot,False,-93.971,29.986,True
 6304,Daniel Reyes,2020-11-10,shot,knife,27,M,,Oildale,CA,False,other,Foot,True,-119.034,35.415,True
-6307,Vusumuzi Kunene,2020-11-10,shot,gun,36,M,,Lanham,MD,True,attack,Car,False,-76.883,38.956,True
+6307,Vusumuzi Kunene,2020-11-10,shot,gun and vehicle,36,M,,Lanham,MD,True,attack,Car,False,-76.883,38.956,True
 6301,Curtis Mellon,2020-11-11,shot,gun,61,M,,Phoenix,AZ,False,attack,Not fleeing,False,-111.874,33.698,True
 6306,Brandon Milburn,2020-11-11,shot,gun,37,M,B,Oklahoma City,OK,False,attack,Car,False,-97.528,35.479,True
 6300,,2020-11-12,shot,gun,39,M,,Philadelphia,PA,False,attack,Foot,False,-75.121,39.991,True
 6302,Henry Frankowski III,2020-11-12,shot,gun,,M,,Gulfport,MS,True,attack,Not fleeing,False,-89.093,30.38,True
+6308,David Donovan,2020-11-15,shot,undetermined,35,M,,Meredith,NH,False,undetermined,,False,-71.5,43.658,True
