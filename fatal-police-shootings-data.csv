@@ -5764,10 +5764,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6293,,2020-11-09,shot,gun,,M,,Baltimore,MD,False,attack,Not fleeing,False,-76.671,39.308,True
 6305,Ronny Dunning,2020-11-09,shot,gun,22,M,,Renton,WA,True,attack,Not fleeing,False,-122.208,47.48,True
 6303,Daron Jones,2020-11-10,shot,gun,29,M,,Nederland,TX,False,attack,Foot,False,-93.971,29.986,True
-6304,Daniel Reyes,2020-11-10,shot,knife,27,M,,Oildale,CA,False,other,Foot,True,-119.034,35.415,True
+6304,Daniel David Reyes,2020-11-10,shot,knife,27,M,,Oildale,CA,False,other,Foot,True,-119.034,35.415,True
 6307,Vusumuzi Kunene,2020-11-10,shot,gun and vehicle,36,M,,Lanham,MD,True,attack,Car,False,-76.883,38.956,True
-6301,Curtis Mellon,2020-11-11,shot,gun,61,M,,Phoenix,AZ,False,attack,Not fleeing,False,-111.874,33.698,True
+6301,Curtis A. Mellon,2020-11-11,shot,gun,61,M,,Scottsdale,AZ,False,attack,Not fleeing,False,-111.874,33.698,True
 6306,Brandon Milburn,2020-11-11,shot,gun,37,M,B,Oklahoma City,OK,False,attack,Car,False,-97.528,35.479,True
-6300,,2020-11-12,shot,gun,39,M,,Philadelphia,PA,False,attack,Foot,False,-75.121,39.991,True
-6302,Henry Frankowski III,2020-11-12,shot,gun,,M,,Gulfport,MS,True,attack,Not fleeing,False,-89.093,30.38,True
+6300,,2020-11-12,shot,gun,39,M,,Philadelphia,PA,False,attack,Other,True,-75.121,39.991,True
+6302,Henry Frankowski,2020-11-12,shot,gun,,M,,Gulfport,MS,True,attack,Not fleeing,False,-89.093,30.38,True
 6308,David Donovan,2020-11-15,shot,undetermined,35,M,,Meredith,NH,False,undetermined,,False,-71.5,43.658,True
