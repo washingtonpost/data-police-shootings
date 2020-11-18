@@ -1258,7 +1258,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1430,Melissa Boarts,2016-04-03,shot,unknown weapon,36,F,W,Macon County,AL,True,other,Not fleeing,True,-85.685,32.373,True
 1431,Darrin Andrew Martin,2016-04-03,shot,gun,25,M,W,Austin,TX,False,attack,Foot,False,-97.751,30.27,True
 1433,David Mack,2016-04-03,shot,Taser,69,M,W,Eau Claire,WI,False,attack,Not fleeing,False,-91.546,44.824,True
-1845,Preston Paul Perez,2016-04-03,shot,undetermined,48,M,W,Raceland,LA,False,undetermined,,False,-90.62,29.736,True
+1845,Preston Paul Perez,2016-04-03,shot,unarmed,48,M,W,Raceland,LA,False,undetermined,,False,-90.62,29.736,True
 1428,Raul Salvador Marquez Heraldes,2016-04-04,shot,knife,50,M,H,Minneapolis,MN,True,attack,Not fleeing,False,-93.244,44.962,True
 1437,Peter J. Doherty,2016-04-05,shot,knife,52,M,W,West Springfield,MA,True,other,Not fleeing,False,-72.627,42.133,True
 1438,Kevin Hicks,2016-04-05,shot,unarmed,44,M,B,Indianapolis,IN,False,attack,Not fleeing,True,-86.117,39.797,True
@@ -5393,7 +5393,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5901,Gregory Lee Turnure,2020-06-06,shot,metal pipe,37,M,W,Clarkrange,TN,True,attack,Not fleeing,False,-85.017,36.183,True
 5907,Jeffrey McClure,2020-06-07,shot,pellet gun,26,M,W,East Northport,NY,False,other,Not fleeing,False,-73.214,40.73,True
 5908,Jarrid Hurst,2020-06-07,shot,knife,35,M,W,Industry,CA,True,other,Not fleeing,False,-117.93,34.004,True
-5935,Donald L. Hunter,2020-06-07,shot,gun,39,M,,Adrian,MO,False,attack,Not fleeing,False,,,True
+5935,Donald L. Hunter,2020-06-07,shot,gun,39,M,B,Adrian,MO,False,attack,Not fleeing,False,,,True
 5909,Michael Seltzer,2020-06-08,shot,gun,81,M,W,Las Cruces,NM,True,attack,Not fleeing,False,-106.775,32.317,True
 5910,Marcus James Uribe,2020-06-09,shot,gun,31,M,W,Englewood,CO,False,attack,,False,-104.998,39.655,True
 5911,Lewis Ruffin,2020-06-09,shot,gun,38,M,B,Orlando,FL,False,attack,Not fleeing,False,-81.409,28.487,True
