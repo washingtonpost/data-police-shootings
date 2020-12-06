@@ -5775,7 +5775,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6285,Jessee Bowers,2020-11-03,shot,gun,55,M,H,San Antonio,TX,False,attack,Not fleeing,True,-98.761,29.463,True
 6286,Jason Neo Bourne,2020-11-03,shot,gun,38,M,,Henderson,NV,False,attack,Not fleeing,True,-115.05,36.037,True
 6291,John Wesley Seymour,2020-11-03,shot,gun,59,M,W,Jefferson County,TX,False,attack,Not fleeing,False,-94.214,30.176,True
-6358,,2020-11-03,shot,undetermined,20,M,,Oakland,CA,False,undetermined,Other,False,-122.173,37.749,True
+6358,Jonathan Torres Ramirez,2020-11-03,shot,undetermined,20,M,H,Oakland,CA,False,undetermined,Other,False,-122.173,37.749,True
 6359,Guy Bradley Able,2020-11-03,shot,gun,56,M,W,New Port Richey,FL,False,other,Not fleeing,False,-82.719,28.249,True
 6283,Dean Trasente,2020-11-04,shot,gun,33,M,W,Fort Carson,CO,False,attack,Not fleeing,True,-104.79,38.753,True
 6287,Michael Wright,2020-11-04,shot,knife,52,M,B,Sacramento,CA,False,attack,Not fleeing,False,-121.519,38.494,True
@@ -5786,7 +5786,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6298,Jacob C. Rucker,2020-11-05,shot,vehicle,36,M,W,Tulsa,OK,False,attack,Not fleeing,False,-95.851,36.167,True
 6299,Javier P. Magana,2020-11-05,shot,gun,32,M,H,Ventura,CA,False,other,Car,False,-119.27,34.265,True
 6343,Reginald Alexander,2020-11-05,shot,gun,25,M,B,El Centro,TX,False,attack,,True,-115.579,32.786,True
-6356,Luis Zaragoza,2020-11-05,shot,gun,36,M,H,Crestview,FL,False,attack,Not fleeing,False,-86.568,30.729,True
+6356,Luis Robert Zaragoza Barbosa,2020-11-05,shot,gun,37,M,H,Crestview,FL,False,attack,Not fleeing,False,-86.568,30.729,True
 6355,David Viveros,2020-11-06,shot and Tasered,knife,26,M,H,Rialto,CA,False,attack,Not fleeing,False,-117.368,34.107,True
 6294,Michael Gurley,2020-11-07,shot,undetermined,50,M,W,Cheatham County,TN,False,undetermined,,False,-87.131,36.259,True
 6296,Steven Campos,2020-11-07,shot,gun,43,M,W,Lilburn,GA,False,attack,Not fleeing,False,-84.077,33.846,True
@@ -5797,7 +5797,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6353,Frederick Cox,2020-11-08,shot,gun,18,M,B,High Point,NC,False,other,,False,-79.981,35.951,True
 6293,Rodney Eubanks,2020-11-09,shot,gun,25,M,B,Baltimore,MD,False,attack,Not fleeing,False,-76.671,39.308,True
 6305,Ronny Dunning,2020-11-09,shot,gun,22,M,,Renton,WA,True,attack,Not fleeing,False,-122.208,47.48,True
-6352,,2020-11-09,shot,knife,,M,,Santa Fe Springs,CA,False,other,Not fleeing,False,-118.073,33.942,True
+6352,,2020-11-09,shot,knife,,M,,Santa Fe Springs,CA,False,attack,Not fleeing,False,-118.073,33.942,True
 6303,Daron Jones,2020-11-10,shot,gun,29,M,,Nederland,TX,False,attack,Foot,False,-93.971,29.986,True
 6304,Daniel David Reyes,2020-11-10,shot,knife,27,M,,Oildale,CA,False,other,Foot,True,-119.034,35.415,True
 6307,Vusumuzi Kunene,2020-11-10,shot,gun and vehicle,36,M,B,Lanham,MD,True,attack,Car,False,-76.883,38.956,True
@@ -5810,7 +5810,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6311,Sincere Pierce,2020-11-13,shot,undetermined,18,M,B,Cocoa,FL,False,other,Not fleeing,False,-80.765,28.374,True
 6312,Angelo Crooms,2020-11-13,shot,undetermined,16,M,B,Cocoa,FL,False,other,Car,False,,,True
 6318,Arthur Keith,2020-11-13,shot,gun,19,M,B,Cleveland,OH,False,attack,,False,-81.647,41.489,True
-6347,Tracey Leon McKinney,2020-11-13,shot,gun,41,M,,Gulfport,MS,False,attack,Not fleeing,False,-89.056,30.4,True
+6347,Tracey Leon McKinney,2020-11-13,shot,gun,41,M,B,Gulfport,MS,False,attack,Not fleeing,False,-89.056,30.4,True
 6348,Cody Amman,2020-11-13,shot,gun,31,M,W,Gillette,WY,False,attack,Car,False,-105.488,44.277,True
 6349,Charles Craig Meeks,2020-11-13,shot,undetermined,38,M,W,Stillwater County,MT,False,other,Car,False,-109.392,45.701,True
 6310,Jake Settle,2020-11-14,shot,vehicle,40,M,W,Pensacola,FL,False,other,Car,False,-87.235,30.442,True
@@ -5839,8 +5839,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6327,Nicholas Kaussaen,2020-11-22,shot,vehicle,41,M,W,Spokane Valley,WA,False,attack,Car,False,-117.261,47.657,True
 6337,Stavian Rodriguez,2020-11-23,shot,gun,15,M,H,Oklahoma City,OK,False,other,,False,-97.53,35.388,True
 6335,Lorenzo Aguilar,2020-11-24,shot,gun,37,M,H,Deming,NM,False,attack,Car,False,-107.762,32.267,True
-6336,Rondell Goppy,2020-11-24,shot,gun,41,M,B,New York,NY,True,attack,,False,-73.767,40.664,True
-6341,Ellis A. Frye,2020-11-26,shot,gun,62,M,B,Culpeper,VA,False,other,Not fleeing,False,-78.019,38.52,True
+6336,Rondell Goppy,2020-11-24,shot,gun,41,M,B,Queens,NY,False,attack,,False,-73.767,40.664,True
+6341,Ellis Acy Frye,2020-11-26,shot,gun,62,M,B,Culpeper,VA,False,other,Not fleeing,False,-78.019,38.52,True
 6342,Michael Anthony Pena,2020-11-26,shot,undetermined,31,M,H,Lubbock,TX,False,undetermined,,False,-102.03,33.543,True
 6338,Duane Rich,2020-11-27,shot,gun,74,M,,Marinette County,WI,False,other,Car,False,-88.065,45.358,True
 6340,,2020-11-27,shot,gun,,M,,Wilsonville,OR,True,other,,False,-122.834,45.278,True
