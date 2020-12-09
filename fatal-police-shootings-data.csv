@@ -5241,7 +5241,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5669,Mason Workman,2020-04-19,shot,gun,40,M,W,Henderson,NV,False,attack,Not fleeing,True,-115.085,35.978,True
 5761,Virgill Thrope,2020-04-19,shot,gun,28,M,B,Colorado Springs,CO,False,attack,Not fleeing,False,-104.813,38.785,True
 5756,Chase Rosa,2020-04-21,shot,gun,24,M,B,Las Vegas,NV,False,attack,Car,True,-115.153,36.121,True
-5762,Nicholas Chavez,2020-04-21,shot,sharp object,27,M,H,Houston,TX,True,other,Foot,False,-95.304,29.773,True
 5775,Nicolas Chavez,2020-04-21,shot and Tasered,Taser,27,M,H,Houston,TX,True,other,Not fleeing,True,-95.304,29.774,True
 5759,Elmer L. Mack,2020-04-22,shot,gun,40,M,B,Florence,SC,False,attack,Not fleeing,False,-79.746,34.219,True
 5760,Christopher Lawson,2020-04-22,shot,gun,31,M,,Springfield,CO,False,attack,Not fleeing,False,-102.683,37.528,True
@@ -5848,16 +5847,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6363,,2020-11-30,shot,BB gun,,M,,Phoenix,AZ,False,attack,Not fleeing,False,-112.112,33.495,True
 6364,Adam Lee Mendez,2020-11-30,shot,knife,38,M,H,San Angelo,TX,False,other,Not fleeing,False,-100.475,31.469,True
 6365,,2020-11-30,shot,gun,,M,,Pensacola,FL,False,other,Other,False,-87.197,30.488,True
-6407,,2020-11-30,shot,gun,28,M,,Detroit,MI,False,attack,Car,False,-82.968,42.384,True
 6395,Ethan Tyler Calton,2020-12-01,shot,gun,28,M,W,Rutherford County,NC,False,attack,Not fleeing,False,-81.948,35.33,True
+6407,,2020-12-01,shot,gun,28,M,,Detroit,MI,False,attack,Car,False,-82.968,42.384,True
 6397,Dolores Hernandez,2020-12-02,shot,vehicle,62,F,,Redding,CA,False,attack,Not fleeing,False,-122.348,40.586,True
-6398,Dominique Harris,2020-12-02,shot,gun,20,M,B,St. Petersburg,FL,False,attack,Car,False,-82.671,27.752,True
-6396,Demeatris Roberson,2020-12-03,shot,gun,30,M,,Phoenix,AZ,False,attack,Not fleeing,False,-112.099,33.568,True
+6398,Dominique Harris,2020-12-02,shot,gun and vehicle,20,M,B,St. Petersburg,FL,False,attack,Car,False,-82.671,27.752,True
+6396,Maurice Jackson,2020-12-03,shot,gun,42,M,,Phoenix,AZ,False,attack,Not fleeing,False,-112.099,33.568,True
 6399,Craig Wright,2020-12-03,shot,gun,60,M,,Washington Township,OH,True,attack,,False,-82.556,40.711,True
-6402,Casey Crhistopher Goodson,2020-12-04,shot,gun,23,M,B,Columbus,OH,False,other,,False,-82.974,40.049,True
-6405,,2020-12-04,shot,gun,,M,,Wayne County,WV,False,attack,Not fleeing,False,-82.572,38.306,True
+6402,Casey Christopher Goodson,2020-12-04,shot,gun,23,M,B,Columbus,OH,False,other,,False,-82.974,40.049,True
+6405,Randy Lee Ward,2020-12-04,shot,gun,34,M,,Wayne County,WV,False,attack,Not fleeing,False,-82.572,38.306,True
 6403,,2020-12-05,shot,straight edge razor,,M,,Savannah,GA,False,other,Not fleeing,False,-81.17,31.979,True
 6406,Kwamaine O'Neal,2020-12-05,shot,gun,,M,B,Toledo,OH,True,attack,Not fleeing,True,-83.52,41.63,True
 6404,Estavon Elioff,2020-12-05,shot and Tasered,undetermined,19,M,,Mountain Iron,MN,False,undetermined,Foot,False,-92.571,47.519,True
-6400,,2020-12-06,shot,,,M,,Rowland Heights,CA,False,undetermined,,False,-117.904,33.988,True
+6400,Christian Juarez,2020-12-06,shot,vehicle,28,M,H,Rowland Heights,CA,False,attack,Car,False,-117.904,33.988,True
 6401,Mark Brewer,2020-12-06,shot,screwdriver,28,M,,St. Louis,MO,False,other,Not fleeing,False,-90.26,38.586,True
