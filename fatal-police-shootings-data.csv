@@ -5833,6 +5833,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6333,,2020-11-20,shot,undetermined,,M,,Upper Darby,PA,False,attack,Foot,False,-75.273,39.968,True
 6329,Matthew Thomas,2020-11-21,shot,gun,25,M,W,New Smyrna Beach,FL,False,attack,Car,True,-80.946,29.045,True
 6330,Douglas Hatfield,2020-11-21,shot,gun,75,M,,Oro Valley,AZ,False,other,,False,-110.986,32.405,True
+6433,Brittany Nicole Yoder,2020-11-21,shot,gun,34,F,W,Ohatchee,AL,False,attack,Not fleeing,False,-85.946,33.799,True
 6325,Randy LaCoursiere,2020-11-22,shot,knife,37,M,W,Eau Claire,WI,False,other,,False,-91.468,44.787,True
 6326,Brian Allen Thurman,2020-11-22,shot,undetermined,49,M,W,Louisville,KY,False,undetermined,,True,-85.783,38.266,True
 6327,Nicholas Kaussaen,2020-11-22,shot,vehicle,41,M,W,Spokane Valley,WA,False,attack,Car,False,-117.261,47.657,True
@@ -5875,11 +5876,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6425,Evelio Rivera,2020-12-10,shot,gun,37,M,H,Rehoboth Beach,DE,False,attack,Not fleeing,False,-75.117,38.719,True
 6419,Bennie Edwards,2020-12-11,shot,knife,60,M,B,Oklahoma City,OK,True,other,Not fleeing,False,-97.549,35.58,True
 6421,,2020-12-11,shot,gun,35,M,,Trout Creek,MT,False,attack,Foot,False,-115.591,47.838,True
-6422,tk tk,2020-12-11,shot,gun,,M,,Houston,TX,False,other,Car,False,-95.474,29.884,True
+6422,Charles Jones,2020-12-11,shot,gun,36,M,,Houston,TX,False,other,Car,False,-95.474,29.884,True
 6424,Dewayne Taylor,2020-12-11,shot,gun,31,M,B,Cleveland,OH,False,attack,,False,-81.689,41.461,True
-6413,,2020-12-13,shot,gun,,M,,Huntington,IN,False,attack,Other,False,,,True
+6413,Matthew Melzoni,2020-12-13,shot,gun,36,M,W,Huntington,IN,False,attack,Other,False,,,True
 6414,Joseph Evans,2020-12-13,shot,gun,29,M,,Farmington,UT,False,other,Not fleeing,True,-111.9,40.981,True
 6415,Luis Vasquez,2020-12-13,shot,gun,52,M,H,New York,NY,True,attack,,False,-73.963,40.804,True
 6416,,2020-12-13,shot,knife,,M,,Sacramento,CA,False,other,Not fleeing,False,-121.534,38.642,True
-6429,,2020-12-14,shot,gun,,M,,Houston,TX,True,other,Car,False,-95.249,29.604,True
+6429,Michael Anthony Dilbeck,2020-12-14,shot,gun,34,M,W,Houston,TX,True,other,Car,False,-95.249,29.604,True
 6430,,2020-12-15,shot,gun,,M,W,Pearland,TX,False,attack,,False,-95.372,29.573,True
+6431,,2020-12-16,shot,gun,29,M,,Concord,NC,False,attack,Foot,False,-80.709,35.367,True
+6432,Adam Robertson,2020-12-16,shot,gun,34,M,,Orlando,FL,False,attack,Not fleeing,False,-81.317,28.575,True
