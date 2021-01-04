@@ -5751,6 +5751,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6266,Walter Wallace,2020-10-26,shot,knife,27,M,B,Philadelphia,PA,True,other,Not fleeing,True,-75.244,39.958,True
 6270,Michael K. Nelson,2020-10-26,shot,gun,27,M,W,Alexandria,VA,False,attack,Foot,False,-77.044,38.815,True
 6388,Bruce Allan Shumaker,2020-10-26,shot,gun,64,M,,Citrus Heighs,CA,False,attack,Not fleeing,False,-121.262,38.719,True
+6267,Ryan Fallo,2020-10-27,shot,knife,20,M,,Lake Worth,FL,False,other,Not fleeing,False,-80.165,26.622,True
 6268,Isaac Lemoine Christensen,2020-10-27,shot,gun,38,M,W,Herriman,UT,False,other,,True,-112.017,40.509,True
 6269,Clifton Gorman Spencer,2020-10-27,shot,gun,35,M,,Chattanooga,TN,False,other,,False,-85.112,35.04,True
 6277,Maurice Parker,2020-10-27,shot,gun,34,M,B,Las Vegas,NV,False,other,Not fleeing,True,-115.098,36.205,True
@@ -5928,3 +5929,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6476,Christian Joseph Hall,2020-12-30,shot,gun,19,M,,Hamilton Township,PA,True,attack,Not fleeing,False,-75.285,40.957,True
 6475,,2020-12-31,shot,gun,39,M,,Beaumont,TX,True,attack,Not fleeing,False,-94.172,30.068,True
 6477,Jeffrey Marvin,2020-12-31,shot,vehicle,63,M,,Starke County,IN,False,attack,Car,False,-86.469,41.411,True
+6480,,2021-01-01,shot,undetermined,39,M,,Newark,NJ,False,undetermined,,False,-74.202,40.739,True
+6483,Isaac Matheny,2021-01-01,shot,toy weapon,37,M,,Valley Falls,OR,False,other,,False,-120.282,42.484,True
+6482,,2021-01-02,shot,gun,,M,,San Gabriel,CA,False,other,,False,-118.091,34.077,True
+6478,,2021-01-03,shot,undetermined,49,M,,Jefferson City,MO,False,undetermined,,False,-92.249,38.58,True
+6479,,2021-01-03,shot,gun,,M,,Homestead,FL,False,attack,Foot,False,-80.475,25.437,True
