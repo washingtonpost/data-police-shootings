@@ -5935,13 +5935,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6478,James Reising,2021-01-03,shot,knife,49,M,,Jefferson City,MO,False,other,,False,-92.249,38.58,True
 6479,La Garion Lamar Smith,2021-01-03,shot,gun,27,M,B,Homestead,FL,False,attack,Foot,False,-80.475,25.437,True
 6484,Ashli Babbitt,2021-01-06,shot,unarmed,35,F,W,Washington,DC,False,attack,Not fleeing,False,-77.009,38.89,True
-6491,Brian Andren,2021-01-08,shot,knife,47,M,,Robbinsdale,MN,False,other,Car,False,-93.339,45.021,True
-6488,Betty Francois,2021-01-09,shot,gun,91,F,,Victorville,CA,False,attack,Not fleeing,False,-117.293,34.536,True
+6491,Brian Andren,2021-01-08,shot and Tasered,knife,47,M,W,Robbinsdale,MN,False,other,Car,True,-93.339,45.021,True
+6488,Betty Francois,2021-01-09,shot,gun,91,F,W,Victorville,CA,False,attack,Not fleeing,False,-117.293,34.536,True
 6489,Matthew Oxendine,2021-01-09,shot,gun,46,M,W,Pembroke,NC,False,attack,Not fleeing,False,-79.158,34.705,True
 6485,,2021-01-10,shot,undetermined,,M,,Killeen,TX,True,undetermined,Not fleeing,False,-97.723,31.096,True
-6492,Brian Williams,2021-01-10,shot,knife,37,M,,Bentonville,AR,False,undetermined,Not fleeing,False,-94.217,36.379,True
+6492,Brian Williams,2021-01-10,shot,knife,37,M,,Bentonville,AR,False,attack,Not fleeing,False,-94.217,36.379,True
 6495,Xzavier D. Hill,2021-01-10,shot,gun,18,M,,Goochland County,VA,False,attack,Car,False,-77.921,37.803,True
-6496,,2021-01-10,shot,knife,,M,,Altadena,CA,False,attack,Not fleeing,False,-118.16,34.187,True
-6486,Joseph Howell,2021-01-11,shot,gun,49,M,,North Topeka,KS,True,attack,Car,False,-95.664,39.098,True
+6496,Allen Mirzayan,2021-01-10,shot,knife,48,M,,Altadena,CA,False,attack,Not fleeing,False,-118.16,34.187,True
+6486,Joseph W. Howell,2021-01-11,shot,gun,49,M,,North Topeka,KS,True,attack,Car,False,-95.664,39.098,True
 6487,,2021-01-11,shot,undetermined,,M,,Edinburg,TX,False,attack,Not fleeing,False,-98.189,26.323,True
-6494,Daryl Dye,2021-01-11,shot,knife,45,M,,Warrenville,SC,False,other,Not fleeing,False,-81.814,33.519,True
+6494,Daryl Dye,2021-01-11,shot,knife,45,M,W,Warrenville,SC,False,other,Not fleeing,False,-81.814,33.519,True
