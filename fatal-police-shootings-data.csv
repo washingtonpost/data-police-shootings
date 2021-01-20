@@ -5331,7 +5331,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5820,Wilbon Cleveland Woodard,2020-05-19,shot,unknown weapon,69,M,B,Tallahassee,FL,False,other,Not fleeing,False,-84.3,30.477,True
 5824,Tyler Hays,2020-05-19,shot,unarmed,29,M,W,Sale Creek,TN,False,attack,Not fleeing,False,-85.035,35.383,True
 5816,Terry Caver,2020-05-19,shot and Tasered,knife,57,M,B,Seattle,WA,False,undetermined,Foot,True,-122.352,47.614,True
-6517,Keith Young,2020-05-19,shot,vehicle,30,M,B,Macon,GA,True,attack,Car,False,-83.691,32.713,True
+6517,Keith Young,2020-05-19,shot,vehicle,30,M,,Macon,GA,False,attack,Car,False,-83.691,32.713,True
 5815,,2020-05-20,shot,gun,,M,,Viera,FL,True,attack,Not fleeing,False,-80.741,28.227,True
 5894,Tobby Wiggins,2020-05-20,shot,gun,45,M,B,Atmore,AL,False,other,Foot,False,-87.494,31.024,True
 5923,Stoney Ramirez,2020-05-20,shot,vehicle,23,M,,Hayward,CA,False,attack,Car,True,-122.062,37.684,True
@@ -5921,6 +5921,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6470,Aliana Burns,2020-12-28,shot,gun,31,F,,Warrenton,OR,False,attack,Not fleeing,False,-123.933,46.101,True
 6472,Larry Hamm,2020-12-28,shot,gun,47,M,B,Denver,CO,False,attack,Foot,False,-104.912,39.731,True
 6473,,2020-12-28,shot,gun,,M,,Holyoke,CO,False,attack,Car,False,-102.306,40.75,True
+6519,Jordan Crawford,2020-12-28,shot,unarmed,30,M,W,Phoenix,AZ,False,other,Foot,True,-112.117,33.546,True
 6463,Samuel Lorenzo,2020-12-29,shot,machete,18,M,,New York,NY,False,attack,Not fleeing,False,-73.913,40.662,True
 6464,Jaquan Haynes,2020-12-29,shot,gun,18,M,B,Atlanta,GA,False,attack,Not fleeing,False,-84.406,33.725,True
 6465,Jason Cooper,2020-12-29,shot,gun,28,M,B,Charleston,SC,False,attack,Not fleeing,False,-79.943,32.812,True
@@ -5952,7 +5953,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6491,Brian Andren,2021-01-08,shot and Tasered,knife,47,M,W,Robbinsdale,MN,False,other,Car,True,-93.339,45.021,True
 6488,Betty Francois,2021-01-09,shot,gun,91,F,W,Victorville,CA,False,attack,Not fleeing,False,-117.293,34.536,True
 6489,Matthew Oxendine,2021-01-09,shot,toy weapon,46,M,W,Pembroke,NC,False,attack,Not fleeing,False,-79.158,34.705,True
-6485,Patrick Lynn Warren,2021-01-10,shot,unarmed,52,M,B,Killeen,TX,True,other,Not fleeing,False,-97.723,31.096,True
+6485,Patrick Lynn Warren,2021-01-10,shot,unarmed,52,M,B,Killeen,TX,True,other,Not fleeing,True,-97.723,31.096,True
 6492,Brian Williams,2021-01-10,shot,knife,37,M,,Bentonville,AR,False,attack,Not fleeing,False,-94.217,36.379,True
 6495,Xzavier D. Hill,2021-01-10,shot,gun,18,M,,Goochland County,VA,False,attack,Car,False,-77.921,37.803,True
 6496,Allen Mirzayan,2021-01-10,shot,knife,48,M,,Altadena,CA,False,attack,Not fleeing,False,-118.16,34.187,True
@@ -5973,5 +5974,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6525,,2021-01-16,shot,gun,65,M,,Prescott Valley,AZ,True,attack,,False,-112.307,34.668,True
 6524,Daniel Young,2021-01-17,shot,vehicle,25,M,,Marion,IN,False,attack,Not fleeing,False,-85.634,40.532,True
 6527,Zonterious Johnson,2021-01-17,shot,undetermined,24,M,,Lawton,OK,False,undetermined,Foot,False,-98.404,34.597,True
-6528,,2021-01-18,shot,gun,,M,,Sacramento,CA,False,attack,Car,False,-121.42,38.589,True
+6528,Adam Gibson,2021-01-18,shot,gun,31,M,,Sacramento,CA,False,attack,Car,False,-121.42,38.589,True
 6529,Christopher Harris,2021-01-18,shot,gun,27,M,,Toledo,OH,False,attack,Foot,False,-83.55,41.664,True
