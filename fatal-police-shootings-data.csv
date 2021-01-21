@@ -3188,7 +3188,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3518,Joel Pflum,2018-03-20,shot,gun,32,M,W,Scott County,KY,False,attack,Not fleeing,False,-84.546,38.231,True
 3519,Kent Earl Pittman,2018-03-20,shot,gun,56,M,W,Timberlake,NC,True,attack,Not fleeing,False,-78.935,36.331,True
 3528,Chance Christopher Haegele,2018-03-20,shot,gun,20,M,W,Winter Haven,FL,True,attack,Not fleeing,False,,,True
-3533,Scott Mielentz,2018-03-20,shot,gun,56,M,W,Princeton,NJ,False,other,Not fleeing,False,-74.658,40.35,True
+3533,Scott Mielentz,2018-03-20,shot,BB gun,56,M,W,Princeton,NJ,True,other,Not fleeing,False,-74.658,40.35,True
 3523,Duane Preciado,2018-03-21,shot,gun,39,M,N,Owasso,OK,True,attack,Not fleeing,True,-95.807,36.312,True
 3524,Mark Allen Lunn,2018-03-21,shot,knife,47,M,W,Mannford,OK,True,other,Not fleeing,False,-96.357,36.122,True
 3525,Jason M. Raffaeli,2018-03-21,shot,gun,25,M,W,Amelia Island,FL,True,attack,Not fleeing,False,-81.445,30.59,True
@@ -5976,3 +5976,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6527,Zonterious Johnson,2021-01-17,shot,undetermined,24,M,,Lawton,OK,False,undetermined,Foot,False,-98.404,34.597,True
 6528,Adam Gibson,2021-01-18,shot,gun,31,M,,Sacramento,CA,False,attack,Car,False,-121.42,38.589,True
 6529,Christopher Harris,2021-01-18,shot,gun,27,M,,Toledo,OH,False,attack,Foot,False,-83.55,41.664,True
+6531,Kevin Darion Wells,2021-01-18,shot,gun,56,M,W,St. Clair County,AL,False,attack,Not fleeing,False,-86.331,33.475,True
+6530,,2021-01-19,shot,gun,,M,,Greeley,CO,False,other,Other,False,-104.716,40.385,True
+6532,Bull Robert Laudell,2021-01-19,shot,gun,55,M,,Perryville,AR,False,attack,Not fleeing,False,-92.875,34.975,True
+6533,,2021-01-20,shot,undetermined,,M,,Fresno,CA,False,attack,Not fleeing,False,-119.748,36.736,True
