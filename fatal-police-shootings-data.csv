@@ -613,7 +613,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 740,Asshams Pharoah Manley,2015-08-14,shot,unarmed,30,M,B,District Heights,MD,True,attack,Foot,False,-76.916,38.865,True
 750,Christopher Anderson,2015-08-14,shot and Tasered,box cutter,53,M,W,Bolton,CT,False,attack,Car,False,-72.447,41.79,True
 742,Allen Matthew Baker,2015-08-15,shot,gun,23,M,B,Sunnyvale,CA,False,attack,Not fleeing,False,-122.027,37.395,True
-743,Benjamin Peter Ashley,2015-08-15,shot,,34,M,B,Inyokern,CA,False,attack,Not fleeing,False,-117.87,35.702,True
+743,Benjamin Peter Ashley,2015-08-15,shot,gun,34,M,B,Inyokern,CA,True,attack,Not fleeing,False,-117.87,35.702,True
 744,Jonathon  Pope,2015-08-15,shot,gun,30,M,W,Carson City,NV,False,attack,Not fleeing,False,-119.722,39.184,True
 741,John Unsworth,2015-08-15,shot and Tasered,unarmed,43,M,W,Hanover,IN,False,attack,Not fleeing,False,-70.877,42.064,True
 745,Matthew Castillo,2015-08-16,shot,gun,29,M,H,San Jose,CA,False,other,Not fleeing,False,-121.834,37.295,True
@@ -5937,7 +5937,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6482,,2021-01-02,shot,gun,,M,,San Gabriel,CA,False,other,,False,-118.091,34.077,True
 6478,James Reising,2021-01-03,shot,knife,49,M,,Jefferson City,MO,False,other,,False,-92.249,38.58,True
 6479,La Garion Lamar Smith,2021-01-03,shot,gun,27,M,B,Homestead,FL,False,attack,Foot,False,-80.475,25.437,True
-6514,Henry Martinez,2021-01-03,shot,knife,49,M,H,Ontario,CA,False,other,Not fleeing,False,-116.945,44.02,True
+6514,Henry Martinez,2021-01-03,shot,knife,49,M,H,Ontario,OR,False,other,Not fleeing,False,-116.945,44.02,True
 6509,Michael Romo,2021-01-04,shot,knife,28,M,,Payson,AZ,False,other,Not fleeing,False,-111.321,34.245,True
 6510,Amanda Faulkner,2021-01-04,shot,vehicle,,F,,Columbiana,AL,False,attack,Not fleeing,False,-86.581,33.157,True
 6507,Michael Conlon,2021-01-05,shot,knife,28,M,W,Newton,MA,True,other,Not fleeing,False,-71.207,42.321,True
@@ -5966,17 +5966,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6502,Antonio Carbajal,2021-01-12,shot,gun,23,M,,Phoenix,AZ,False,other,Other,True,,,True
 6497,Lymond Moses,2021-01-13,shot,vehicle,30,M,,Wilmington,DE,False,other,Car,False,,,True
 6498,Joshua Van Machado,2021-01-13,shot,gun,43,M,W,Visalia,CA,False,attack,Not fleeing,False,-119.288,36.313,True
-6515,Jeffrey Kite,2021-01-14,shot,gun,36,M,W,Chesterfield,VA,False,attack,Not fleeing,False,-77.405,37.287,True
+6515,Jeffrey D. Kite,2021-01-14,shot,gun,36,M,,Chesterfield,VA,False,attack,Not fleeing,False,-77.405,37.287,True
 6523,Justin Pegues,2021-01-14,shot,undetermined,26,M,W,Cherokee County,TX,False,undetermined,,False,-95.025,31.769,True
 6520,,2021-01-15,shot,gun,,M,,El Paso,TX,False,other,,False,-106.582,31.876,True
-6521,Reginald Johnson,2021-01-15,shot,undetermined,48,M,,Biloxi,MS,False,undetermined,,False,-88.887,30.401,True
+6521,Reginald Johnson,2021-01-15,shot,knife,48,M,,Biloxi,MS,False,other,Not fleeing,False,-88.887,30.401,True
 6522,,2021-01-15,shot,undetermined,,M,,Carmichael,CA,False,undetermined,Not fleeing,False,-121.324,38.648,True
 6525,,2021-01-16,shot,gun,65,M,,Prescott Valley,AZ,True,attack,,False,-112.307,34.668,True
 6524,Daniel Young,2021-01-17,shot,vehicle,25,M,,Marion,IN,False,attack,Not fleeing,False,-85.634,40.532,True
 6527,Zonterious Johnson,2021-01-17,shot,undetermined,24,M,,Lawton,OK,False,undetermined,Foot,False,-98.404,34.597,True
 6528,Adam Gibson,2021-01-18,shot,gun,31,M,,Sacramento,CA,False,attack,Car,False,-121.42,38.589,True
-6529,Christopher Harris,2021-01-18,shot,gun,27,M,,Toledo,OH,False,attack,Foot,False,-83.55,41.664,True
+6529,Christopher Harris,2021-01-18,shot,gun,27,M,,Toledo,OH,True,attack,Foot,False,-83.55,41.664,True
 6531,Kevin Darion Wells,2021-01-18,shot,gun,56,M,W,St. Clair County,AL,False,attack,Not fleeing,False,-86.331,33.475,True
 6530,,2021-01-19,shot,gun,,M,,Greeley,CO,False,other,Other,False,-104.716,40.385,True
 6532,Bull Robert Laudell,2021-01-19,shot,gun,55,M,,Perryville,AR,False,attack,Not fleeing,False,-92.875,34.975,True
-6533,,2021-01-20,shot,undetermined,,M,,Fresno,CA,False,attack,Not fleeing,False,-119.748,36.736,True
+6533,Frank Gonzales,2021-01-20,shot,metal hand tool,38,M,H,Fresno,CA,False,attack,Not fleeing,True,-119.748,36.736,True
