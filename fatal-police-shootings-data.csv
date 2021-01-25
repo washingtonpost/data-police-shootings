@@ -5973,9 +5973,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6522,,2021-01-15,shot,undetermined,,M,,Carmichael,CA,False,undetermined,Not fleeing,False,-121.324,38.648,True
 6525,,2021-01-16,shot,gun,65,M,,Prescott Valley,AZ,True,attack,,False,-112.307,34.668,True
 6524,Daniel Young,2021-01-17,shot,vehicle,25,M,,Marion,IN,False,attack,Not fleeing,False,-85.634,40.532,True
-6527,Zonterious Johnson,2021-01-17,shot,undetermined,24,M,,Lawton,OK,False,undetermined,Foot,False,-98.404,34.597,True
-6528,Adam Gibson,2021-01-18,shot,gun,31,M,,Sacramento,CA,False,attack,Car,False,-121.42,38.589,True
-6529,Christopher Harris,2021-01-18,shot,gun,27,M,,Toledo,OH,True,attack,Foot,False,-83.55,41.664,True
+6527,Zonterious Johnson,2021-01-17,shot,gun,24,M,,Lawton,OK,False,attack,Foot,False,-98.404,34.597,True
+6528,Robert Stephen Calderon,2021-01-18,shot,gun,46,M,,Sacramento,CA,False,attack,Car,False,-121.42,38.589,True
+6529,Christopher Harris,2021-01-18,shot,gun,27,M,B,Toledo,OH,True,attack,Foot,False,-83.55,41.664,True
 6531,Kevin Darion Wells,2021-01-18,shot,gun,56,M,W,St. Clair County,AL,False,attack,Not fleeing,False,-86.331,33.475,True
 6530,,2021-01-19,shot,gun,,M,,Greeley,CO,False,other,Other,False,-104.716,40.385,True
 6532,Bull Robert Laudell,2021-01-19,shot,gun,55,M,,Perryville,AR,False,attack,Not fleeing,False,-92.875,34.975,True
