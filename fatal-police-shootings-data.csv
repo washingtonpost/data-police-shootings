@@ -5489,7 +5489,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6078,Tyler Blevens,2020-07-15,shot,gun,22,M,W,Shepherdsville,KY,True,attack,Not fleeing,False,-85.718,38.005,True
 5992,Aaron Olsvik,2020-07-16,shot,knife,23,M,W,Shoreline,WA,False,other,Foot,False,-122.353,47.756,True
 5995,,2020-07-16,shot,gun,60,M,W,North Fort Myers,FL,True,attack,Not fleeing,False,-81.905,26.719,True
-5997,Chase Roundtree,2020-07-16,shot,gun,33,M,W,Knox County,TX,False,attack,Not fleeing,False,-99.812,33.673,True
+5997,Chase Rountree,2020-07-16,shot,gun,33,M,W,Knox County,TX,False,attack,Not fleeing,False,-99.812,33.673,True
 6000,David Martin,2020-07-17,shot,gun,28,M,W,Fruita,CO,False,other,,False,-108.72,39.157,True
 6001,Malcolm Comeaux,2020-07-17,shot,toy weapon,24,M,B,Houston,TX,False,other,Not fleeing,False,-95.333,29.657,True
 5998,Darius Washington,2020-07-18,shot,gun,24,M,B,Chicago Heights,IL,False,attack,Foot,False,-87.623,41.503,True
@@ -5983,11 +5983,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6532,Robert Laudell Bull,2021-01-19,shot,gun,55,M,,Perryville,AR,False,attack,Not fleeing,False,-92.875,34.975,True
 6533,Frank Gonzales,2021-01-20,shot,metal hand tool,38,M,H,Fresno,CA,False,attack,Not fleeing,True,-119.748,36.736,True
 6534,Eusi Malik Kater,2021-01-20,shot,gun,21,M,,Birmingham,AL,False,attack,Foot,False,-86.832,33.492,True
-6539,Bradley Alexander Lewis,2021-01-20,shot,undetermined,19,M,,Tucson,AZ,False,other,Car,False,-111.013,32.372,True
+6539,Bradley Alexander Lewis,2021-01-20,shot,vehicle,19,M,,Tucson,AZ,False,attack,Car,False,-111.013,32.372,True
 6535,,2021-01-21,shot,knife,,M,,New York,NY,False,other,Not fleeing,False,-73.855,40.892,True
 6537,Ryan D. Stallings,2021-01-21,shot,gun,33,M,W,College Station,TX,False,other,Not fleeing,False,-96.29,30.608,True
-6538,David Tovar,2021-01-21,shot,undetermined,27,M,H,San Jose,CA,False,undetermined,,False,-121.83,37.379,True
+6538,David Tovar,2021-01-21,shot,undetermined,27,M,H,San Jose,CA,False,other,,False,-121.83,37.379,True
 6543,Brian Abbott,2021-01-21,shot,knife,34,M,,Caneyville,KY,False,other,Not fleeing,False,-86.486,37.429,True
 6544,Steven Verdone,2021-01-22,shot,knife,,M,,Homosassa,FL,False,other,Not fleeing,False,-82.537,28.764,True
-6540,Caleb McCree,2021-01-24,shot,undetermined,43,M,,Slidell,LA,False,attack,,False,-89.825,30.318,True
-6541,,2021-01-24,shot,vehicle,,M,,Wichita Falls,TX,False,attack,Car,False,-98.431,33.883,True
+6541,Tyree Kajuan Rogers,2021-01-24,shot,vehicle,38,M,,Wichita Falls,TX,False,attack,Car,False,-98.431,33.883,True
+6540,Caleb McCree,2021-01-24,shot and Tasered,box cutter,43,M,W,Slidell,LA,True,attack,,False,-89.825,30.318,True
