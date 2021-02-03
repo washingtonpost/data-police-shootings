@@ -657,7 +657,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 788,Felix Kumi,2015-08-28,shot,unarmed,61,M,B,Mount Vernon,NY,False,other,Not fleeing,False,-73.825,40.908,True
 793,Devin Brian Dial,2015-08-28,shot,gun,23,M,W,Longview,TX,False,attack,Not fleeing,False,-94.783,32.526,True
 787,James Marcus Brown,2015-08-29,shot,gun,25,M,B,North Las Vegas,NV,False,attack,Foot,False,-115.125,36.22,True
-789,Roger Albrecht,2015-08-29,shot,knife,,M,W,San Antonio,TX,False,other,Not fleeing,False,-98.616,29.554,True
+789,Roger Albrecht,2015-08-29,shot,knife,43,M,W,San Antonio,TX,False,other,Not fleeing,False,-98.616,29.554,True
 795,Rafael Cruz Jr,2015-08-29,shot,unarmed,29,M,H,Chicago,IL,False,undetermined,Car,False,-87.671,41.851,True
 790,Shawn Hall,2015-08-30,shot,gun,20,M,W,Cushing,OK,False,attack,Not fleeing,False,-96.768,35.976,True
 791,David M.  Leon,2015-08-30,shot,gun,40,M,H,Tucson,AZ,False,attack,Not fleeing,False,-110.96,32.147,True
@@ -699,14 +699,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 827,Jeffrey Eugene Brooks,2015-09-13,shot,gun,29,M,W,Clute,TX,False,attack,Car,False,-95.305,29.003,True
 828,Joseph Thompson Johnson-Shanks,2015-09-14,shot,gun,25,M,B,Princeton,KY,False,attack,Car,False,-87.88,36.969,True
 829,David Todd Powell,2015-09-14,shot,unarmed,28,M,W,Barstow,CA,True,attack,Not fleeing,False,-117.019,34.884,True
-830,Tyrone Bass,2015-09-15,shot,unknown weapon,21,M,B,Chalmette,LA,False,attack,Not fleeing,False,-89.953,29.93,True
+830,Tyrone Bass,2015-09-15,shot,railroad spikes,21,M,B,Chalmette,LA,False,attack,Not fleeing,False,-89.953,29.93,True
 832,Florencio Chaidez,2015-09-15,shot,gun,32,M,H,Panorama City,CA,False,attack,Not fleeing,True,-118.438,34.23,True
 833,Jorge  Suarez-Ruiz,2015-09-15,shot,gun,51,M,H,Miami,FL,True,undetermined,Car,False,-80.453,25.727,True
 834,Carlos Wilhelm,2015-09-15,shot,gun,39,M,H,Los Angeles,CA,False,attack,Not fleeing,False,-118.267,34.132,True
 837,Bobby R. Anderson,2015-09-15,shot,gun,27,M,B,Alexandria,LA,False,other,Not fleeing,False,-92.445,31.268,True
 835,Rory Lynn Gunderman,2015-09-16,shot,gun,31,M,W,Lead,SD,True,attack,Foot,False,-103.802,44.305,True
 838,Mark Gary,2015-09-17,shot,gun,50,M,W,Beaverton,MI,False,attack,Not fleeing,False,-84.426,43.886,True
-839,Lawrence Price,2015-09-17,shot,gun,,M,W,Brodhead,KY,False,attack,Not fleeing,False,-84.419,37.386,True
+839,Lawrence Price,2015-09-17,shot,gun,61,M,W,Brodhead,KY,False,attack,Not fleeing,False,-84.419,37.386,True
 843,Nicholas Alan Johnson,2015-09-18,shot,,32,M,W,San Bernardino,CA,False,undetermined,Car,False,-117.365,34.211,True
 844,Gregory Herrell,2015-09-18,shot,undetermined,47,M,W,Dickson,TN,False,undetermined,Not fleeing,False,-87.388,36.077,True
 842,Lucien Rolland,2015-09-19,shot,gun,46,M,W,Slidell,LA,False,attack,Car,False,-89.749,30.284,True
@@ -718,7 +718,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 849,Tina Money,2015-09-21,shot,gun,23,F,W,Sand City,CA,False,attack,Not fleeing,False,-121.844,36.622,True
 851,Timothy Wagner,2015-09-21,shot,gun,26,M,W,Barberville,FL,False,attack,Not fleeing,False,-81.424,29.184,True
 852,Dominic Fuller,2015-09-21,shot,stapler,34,M,H,Auburndale,FL,False,other,Foot,False,-81.844,28.076,True
-850,Steven McKenny,2015-09-21,shot and Tasered,unarmed,21,M,W,Paris,TX,False,attack,Not fleeing,False,-95.632,33.657,True
+850,Garrett Steven McKinney,2015-09-21,shot and Tasered,unarmed,21,M,W,Paris,TX,False,attack,Not fleeing,False,-95.632,33.657,True
 853,Dante Osborne,2015-09-22,shot,gun,32,M,B,Oakland,CA,False,attack,Car,False,-119.207,36.295,True
 854,Joel Dixon Smith,2015-09-22,shot,gun,33,M,W,Niceville,FL,True,attack,Not fleeing,False,-86.496,30.523,True
 855,Tim Kyle Torngren,2015-09-22,shot,gun,55,M,W,Happy Valley,CA,True,attack,Not fleeing,False,-122.389,40.481,True
@@ -5991,3 +5991,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6544,Steven Verdone,2021-01-22,shot,knife,,M,,Homosassa,FL,False,other,Not fleeing,False,-82.537,28.764,True
 6541,Tyree Kajuan Rogers,2021-01-24,shot,vehicle,38,M,,Wichita Falls,TX,False,attack,Car,False,-98.431,33.883,True
 6540,Caleb McCree,2021-01-24,shot and Tasered,box cutter,43,M,W,Slidell,LA,True,attack,,False,-89.825,30.318,True
+6548,,2021-01-25,shot,knife,,M,,Graham,WA,False,other,,False,-122.298,47.081,True
+6545,Mark Meza,2021-01-26,shot,vehicle,61,M,,Vacaville,CA,False,attack,Foot,False,-121.986,38.347,True
+6546,,2021-01-26,shot,gun,,M,,Homeland,CA,False,attack,,False,-117.47,33.926,True
+6547,,2021-01-26,shot,gun,,F,,Adams County,CO,False,undetermined,Other,False,-104.583,39.752,True
+6552,Felix Santos,2021-01-26,shot,gun,48,M,H,San Antonio,TX,False,attack,Car,False,-98.65,29.4,True
+6549,Edward Bittner,2021-01-26,shot and Tasered,knife,37,M,W,Mobile,AL,False,other,Foot,True,-88.038,30.69,True
+6551,Erick Mejia,2021-01-27,shot,gun,26,M,H,San Antonio,TX,False,other,Foot,True,-98.534,29.351,True
+6550,Roger D. Hipskind,2021-01-28,shot,undetermined,37,M,,Wabash,IN,False,undetermined,,False,-85.82,40.798,True
+6557,,2021-01-29,shot,gun,,M,,La Quinta,CA,False,attack,Not fleeing,False,-116.269,33.7,True
+6554,,2021-01-30,shot,vehicle,,M,,Shepherdsville,KY,False,attack,Car,False,,,True
+6556,Kenneth Michael Dallas,2021-01-30,shot,gun,61,M,,Paradise Valley,AZ,False,attack,Not fleeing,False,-111.928,33.541,True
+6555,,2021-01-31,shot,gun,,M,,Dixon,CA,False,other,Not fleeing,False,-121.841,38.46,True
+6558,,2021-01-31,shot,gun,,M,,Albuquerque,NM,False,attack,Foot,True,,,True
+6553,Andrew Scott Kislek,2021-02-01,shot,vehicle,34,M,,Tucson,AZ,False,attack,Other,False,-110.968,32.186,True
