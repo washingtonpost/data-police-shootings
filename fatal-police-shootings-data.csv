@@ -5806,7 +5806,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6351,Douglas Rash,2020-11-10,shot,gun,44,M,W,New Lyme Township,OH,True,attack,Not fleeing,False,-80.761,41.587,True
 6301,Curtis A. Mellon,2020-11-11,shot,gun,61,M,,Scottsdale,AZ,False,attack,Not fleeing,False,-111.874,33.698,True
 6306,Brandon Milburn,2020-11-11,shot,gun,37,M,B,Oklahoma City,OK,False,attack,Car,False,-97.528,35.479,True
-6350,Eric Lyn Clark,2020-11-11,shot,gun,52,M,W,Winchester,VA,True,attack,Not fleeing,False,-78.188,39.159,True
+6350,Eric Lyn Clark,2020-11-11,shot,gun,52,M,W,Winchester,VA,True,attack,Not fleeing,True,-78.188,39.159,True
 6300,,2020-11-12,shot,gun,39,M,,Philadelphia,PA,False,attack,Other,True,-75.121,39.991,True
 6302,Henry Frankowski,2020-11-12,shot,gun,,M,W,Gulfport,MS,True,attack,Not fleeing,False,-89.093,30.38,True
 6311,Sincere Pierce,2020-11-13,shot,undetermined,18,M,B,Cocoa,FL,False,other,Not fleeing,False,-80.765,28.374,True
@@ -5966,7 +5966,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6499,Ty Spencer Walvatne-Donahey,2021-01-12,shot,gun,32,M,,Lakewood,CO,False,attack,Foot,False,-105.101,39.741,True
 6500,Gary Rodriguez,2021-01-12,shot,gun,54,M,,Montegut,LA,False,attack,Not fleeing,False,-90.565,29.454,True
 6502,Antonio Carbajal,2021-01-12,shot,gun,23,M,,Phoenix,AZ,False,other,Other,True,,,True
-6497,Lymond Moses,2021-01-13,shot,vehicle,30,M,,Wilmington,DE,False,other,Car,False,,,True
+6497,Lymond Moses,2021-01-13,shot,vehicle,30,M,B,Wilmington,DE,False,other,Car,False,,,True
 6498,Joshua Van Machado,2021-01-13,shot,gun,43,M,W,Visalia,CA,False,attack,Not fleeing,False,-119.288,36.313,True
 6515,Jeffrey D. Kite,2021-01-14,shot,gun,36,M,,Chesterfield,VA,False,attack,Not fleeing,False,-77.405,37.287,True
 6523,Justin Pegues,2021-01-14,shot,undetermined,26,M,W,Cherokee County,TX,False,undetermined,,False,-95.025,31.769,True
@@ -5983,7 +5983,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6532,Robert Laudell Bull,2021-01-19,shot,gun,55,M,,Perryville,AR,False,attack,Not fleeing,False,-92.875,34.975,True
 6533,Frank Gonzales,2021-01-20,shot,metal hand tool,38,M,H,Fresno,CA,False,attack,Not fleeing,True,-119.748,36.736,True
 6534,Eusi Malik Kater,2021-01-20,shot,gun,21,M,,Birmingham,AL,False,attack,Foot,False,-86.832,33.492,True
-6539,Bradley Alexander Lewis,2021-01-20,shot,vehicle,19,M,,Tucson,AZ,False,attack,Car,False,-111.013,32.372,True
+6539,Bradley Alexander Lewis,2021-01-20,shot,unarmed,19,M,,Tucson,AZ,False,attack,Car,False,-111.013,32.372,True
 6535,,2021-01-21,shot,knife,,M,,New York,NY,False,other,Not fleeing,False,-73.855,40.892,True
 6537,Ryan D. Stallings,2021-01-21,shot,gun,33,M,W,College Station,TX,False,other,Not fleeing,False,-96.29,30.608,True
 6538,David Tovar,2021-01-21,shot,undetermined,27,M,H,San Jose,CA,False,other,,False,-121.83,37.379,True
@@ -6001,6 +6001,33 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6557,,2021-01-29,shot,gun,,M,,La Quinta,CA,False,attack,Not fleeing,False,-116.269,33.7,True
 6554,,2021-01-30,shot,vehicle,,M,,Shepherdsville,KY,False,attack,Car,False,,,True
 6556,Kenneth Michael Dallas,2021-01-30,shot,gun,61,M,,Paradise Valley,AZ,False,other,Not fleeing,False,-111.928,33.541,True
-6555,,2021-01-31,shot,gun,,M,,Dixon,CA,False,other,Not fleeing,False,-121.841,38.46,True
+6555,Karl Walker,2021-01-31,shot,gun,29,M,B,Dixon,CA,False,attack,Not fleeing,False,-121.841,38.46,True
 6558,,2021-01-31,shot,gun,,M,,Albuquerque,NM,False,attack,Foot,True,,,True
 6553,Andrew Scott Kislek,2021-02-01,shot,vehicle,34,M,,Tucson,AZ,False,attack,Other,False,-110.968,32.186,True
+6560,Franklin Gray,2021-02-01,shot,gun,39,M,,Broken Bow,OK,False,attack,Not fleeing,False,-94.739,34.029,True
+6562,Richard Thomas,2021-02-01,shot,unarmed,58,M,W,Caroline County,VA,False,undetermined,Not fleeing,False,-77.573,38.032,True
+6564,Kevin Hayes,2021-02-01,shot,gun,57,M,W,Snyder,TX,False,attack,,False,-100.866,32.705,True
+6561,Joshua Crites,2021-02-02,shot,unknown weapon,19,M,,East Peoria,IL,False,attack,Car,False,-89.535,40.676,True
+6563,,2021-02-02,shot,gun,,M,,Sunrise,FL,False,attack,Not fleeing,False,-80.289,26.178,True
+6565,,2021-02-02,shot,knife,,M,,Meridian,MS,False,other,Foot,False,-88.709,32.37,True
+6587,,2021-02-02,shot,gun,,M,,Franklinton,NC,False,other,Not fleeing,False,-78.572,36.182,True
+6581,,2021-02-03,shot,undetermined,,M,,Deming,NM,False,undetermined,,False,-107.769,32.272,True
+6582,,2021-02-03,shot,gun,,M,,Kewaskum,WI,False,attack,Foot,False,-88.159,43.486,True
+6583,Tracy Hope Walter-Hensley,2021-02-03,shot,gun,56,F,,Lenoir City,TN,False,attack,Not fleeing,False,-84.272,35.791,True
+6576,Omar Felix Cueva,2021-02-04,shot,gun,39,M,,Las Cruces,NM,False,attack,Car,False,-106.795,32.283,True
+6577,Ariella Sage Eloise Crawford,2021-02-04,shot,knife,33,F,,Alta Sierra,CA,False,attack,,False,-121.064,39.141,True
+6578,Tilford Barton,2021-02-04,shot,gun,30,M,,Oklahoma City,OK,True,attack,,False,-97.623,35.484,True
+6579,Treyh Webster,2021-02-04,shot,gun,18,M,B,Mobile,AL,False,attack,Not fleeing,False,-88.212,30.689,True
+6580,Dontae Green,2021-02-04,shot,gun,34,M,B,Baltimore,MD,False,attack,Not fleeing,False,-76.645,39.304,True
+6585,Josue Drumond-Cruz,2021-02-04,shot,gun,34,M,B,High Point,NC,True,other,Not fleeing,False,-80.042,35.931,True
+6572,,2021-02-05,shot,gun,,M,,Ogden,UT,False,attack,Other,False,-111.973,41.212,True
+6574,Andrew Hogan,2021-02-05,shot,knife,25,M,B,Trotwood,OH,False,other,Foot,False,-84.296,39.818,True
+6575,,2021-02-05,shot,gun,,M,,Martinsville,VA,False,attack,Not fleeing,False,-79.856,36.688,True
+6568,,2021-02-06,shot,gun,,M,,Long Beach,CA,False,attack,,False,-118.198,33.784,True
+6569,Kevin Costlow,2021-02-06,shot,piece of wood,52,M,W,Laytonsville,MD,False,attack,Not fleeing,False,-77.121,39.189,True
+6571,,2021-02-06,shot,gun,,M,,Kearns,UT,False,attack,Not fleeing,False,-112.034,40.648,True
+6573,,2021-02-06,shot,gun,,M,,Sarasota,FL,False,attack,Not fleeing,False,-82.522,27.328,True
+6584,,2021-02-06,shot,gun,23,M,,Mesa,AZ,True,other,Not fleeing,False,-111.875,33.408,True
+6586,Anthony Greco,2021-02-06,shot,gun,29,M,,Phoenix,AZ,False,attack,Foot,False,-112.151,33.596,True
+6567,,2021-02-07,shot,hatchet,,M,,Lacy Lakeview,TX,False,other,Foot,False,-97.09,31.643,True
+6570,,2021-02-07,shot,gun,,M,,Bettendorf,IA,False,other,Not fleeing,False,-90.517,41.534,True
