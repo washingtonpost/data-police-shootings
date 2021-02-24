@@ -948,7 +948,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1090,Michael  Thomason,2015-12-14,shot,undetermined,56,M,W,Humboldt,TN,False,undetermined,Not fleeing,False,-88.845,35.852,True
 1091,Brenda Dean Kimberling,2015-12-14,shot,gun,48,F,W,Las Vegas,NV,True,attack,Not fleeing,False,-115.057,36.244,True
 1092,Mharloun Verdejo  Saycon,2015-12-14,shot,knife,39,M,A,Long Beach,CA,False,other,Not fleeing,False,-118.189,33.803,True
-1093,Hector Alvarez,2015-12-14,shot,undetermined,19,M,H,Gilroy,CA,False,undetermined,,True,-121.573,36.995,True
+1093,Hector Alvarez,2015-12-14,shot,unarmed,19,M,H,Gilroy,CA,False,other,Not fleeing,True,-121.573,36.995,True
 1094,Roberto Sanchez,2015-12-14,shot,gun,45,M,H,Las Vegas,NV,False,attack,Not fleeing,False,-115.09,36.229,True
 1095,Mark Toney,2015-12-14,shot,gun,33,M,W,Mount Hope,WV,False,attack,Not fleeing,False,-81.159,37.895,True
 1088,Jeffrey Gene Evans,2015-12-14,shot and Tasered,knife,52,M,W,Middle River,MD,True,other,Not fleeing,False,-76.372,39.304,True
