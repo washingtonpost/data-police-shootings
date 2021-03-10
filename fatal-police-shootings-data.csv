@@ -5822,7 +5822,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6324,Augustine Bernardo Morales,2020-11-14,shot,gun,38,M,H,Sacramento,CA,False,attack,,True,-121.424,38.62,True
 6308,David Donovan,2020-11-15,shot,knife,35,M,W,Meredith,NH,True,other,Not fleeing,False,-71.5,43.658,True
 6309,Christa Markwell,2020-11-15,shot,unknown weapon,50,F,,Lubbock,TX,True,other,Not fleeing,True,-101.927,33.549,True
-6658,,2020-11-15,shot,gun,,M,,Los Angeles,CA,False,attack,Other,False,-118.318,33.935,True
+6658,,2020-11-15,shot,gun,,M,B,Los Angeles,CA,False,attack,Other,False,-118.318,33.935,True
 6313,Shane K. Jones,2020-11-16,shot,gun,38,M,B,Dania Beach,FL,False,other,Car,False,-80.164,26.048,True
 6314,Joshua D. Evans,2020-11-16,shot,gun,32,M,W,Batesville,IN,False,attack,Not fleeing,False,-85.234,39.294,True
 6319,Javon Brice,2020-11-17,shot,gun,39,M,B,La Vergne,TN,False,attack,Car,False,-86.556,36.015,True
@@ -5835,7 +5835,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6323,Kenneth Jones,2020-11-19,shot,gun,35,M,B,Omaha,NE,False,other,Not fleeing,True,-95.953,41.191,True
 6344,Rodney Applewhite,2020-11-19,shot,gun,25,M,B,Los Lunas,NM,False,other,Car,False,-106.678,34.724,True
 6345,Duane Scott Murray,2020-11-19,shot,gun,30,M,W,Lawton,OK,False,other,,False,-98.48,34.625,True
-6660,Michael Dansby,2020-11-19,shot,gun,43,M,W,Oklahoma City,OK,False,other,Not fleeing,True,-97.525,35.522,True
+6660,Michael Dansby,2020-11-19,shot,gun,43,M,W,Oklahoma City,OK,False,attack,Not fleeing,True,-97.525,35.522,True
 6328,Jordan D. Patterson,2020-11-20,shot,undetermined,27,M,W,Tangipahoa Parish,LA,False,undetermined,,False,-90.335,30.512,True
 6332,Peter Russell,2020-11-20,shot,gun and machete,43,M,W,Evansville,IN,False,attack,Car,False,-87.557,38.011,True
 6333,,2020-11-20,shot,undetermined,,M,,Upper Darby,PA,False,attack,Foot,False,-75.273,39.968,True
@@ -6007,7 +6007,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6539,Bradley Alexander Lewis,2021-01-20,shot,unarmed,19,M,,Tucson,AZ,False,attack,Car,False,-111.013,32.372,True
 6535,,2021-01-21,shot,knife,,M,,New York,NY,False,other,Not fleeing,False,-73.855,40.892,True
 6537,Ryan D. Stallings,2021-01-21,shot,gun,33,M,W,College Station,TX,False,other,Not fleeing,False,-96.29,30.608,True
-6538,David Tovar,2021-01-21,shot,undetermined,27,M,H,San Jose,CA,False,other,,False,-121.83,37.379,True
+6538,David Tovar,2021-01-21,shot,unarmed,27,M,H,San Jose,CA,False,other,Foot,True,-121.83,37.379,True
 6543,Brian Abbott,2021-01-21,shot,knife,34,M,,Caneyville,KY,False,other,Not fleeing,False,-86.486,37.429,True
 6544,Steven Verdone,2021-01-22,shot,knife,,M,,Homosassa,FL,False,other,Not fleeing,False,-82.537,28.764,True
 6541,Tyree Kajuan Rogers,2021-01-24,shot,vehicle,38,M,,Wichita Falls,TX,False,attack,Car,False,-98.431,33.883,True
@@ -6106,12 +6106,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6643,Frederick Earl Height,2021-02-26,shot,undetermined,26,M,W,Walker County,AL,True,undetermined,,False,-87.302,33.856,True
 6648,Isaiah Strong,2021-02-26,shot,piece of wood,41,M,,Kalispell,MT,False,attack,Foot,False,-114.288,48.165,True
 6650,Dakota G. Richards,2021-02-26,shot,gun,29,M,,Stanley,VA,False,attack,Foot,False,-78.482,38.575,True
-6651,,2021-02-26,shot and Tasered,gun,,M,,San Antonio,TX,False,attack,Foot,False,-98.452,29.429,True
+6651,Thomas Mack,2021-02-26,shot and Tasered,gun,39,M,,San Antonio,TX,False,attack,Foot,False,-98.452,29.429,True
 6644,Roger Dale Gibson,2021-02-27,shot,undetermined,27,M,,Dora,AL,False,undetermined,,False,-87.09,33.729,True
 6645,Shannon Savela,2021-02-27,shot,gun,36,M,,Wadena County,MN,False,attack,Not fleeing,False,-94.937,46.616,True
 6646,David Savela,2021-02-27,shot,gun,43,M,,Wadena County,MN,False,attack,,False,-94.937,46.616,True
 6647,Rudy Duvivier,2021-02-27,shot,gun,32,M,,Clay County,FL,False,attack,,False,-81.751,30.162,True
-6653,Farrah Rauch,2021-02-28,shot,gun,,F,,Muskogee,OK,False,attack,Other,False,-95.394,35.77,True
+6653,Farrah Rauch,2021-02-28,shot,gun,,F,,Muskogee,OK,False,attack,Other,True,-95.394,35.77,True
 6652,Fred Bowman Trundle,2021-02-28,shot and Tasered,gun,54,M,,Catoosa County,GA,False,attack,Foot,False,-85.14,34.843,True
 6654,Adam Cunningham,2021-03-01,shot,baseball bat,46,M,,Ozark,AR,False,other,Other,False,-93.938,35.486,True
 6655,,2021-03-03,shot,gun,,M,,Houston,TX,False,other,Car,False,-95.37,29.76,True
@@ -6122,3 +6122,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6678,,2021-03-05,shot,gun,,M,,Gainesville,FL,False,attack,,False,-82.268,29.63,True
 6676,Jessie Peter,2021-03-06,shot,gun,27,M,,Fairbanks,AK,False,attack,,False,-147.87,64.824,True
 6673,Howayne Gayle,2021-03-07,shot,gun,35,M,B,Lakeland,FL,False,attack,Not fleeing,False,-81.942,28.113,True
+6688,,2021-03-09,shot,undetermined,,M,,Reedsport,OR,False,undetermined,Not fleeing,False,-124.111,43.699,True
