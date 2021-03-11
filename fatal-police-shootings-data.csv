@@ -6122,4 +6122,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6678,,2021-03-05,shot,gun,,M,,Gainesville,FL,False,attack,,False,-82.268,29.63,True
 6676,Jessie Peter,2021-03-06,shot,gun,27,M,,Fairbanks,AK,False,attack,,False,-147.87,64.824,True
 6673,Howayne Gayle,2021-03-07,shot,gun,35,M,B,Lakeland,FL,False,attack,Not fleeing,False,-81.942,28.113,True
+6692,Joel R. Weldon,2021-03-07,shot,gun,43,M,,Sparkman,AR,False,attack,Car,False,-92.848,33.917,True
+6691,,2021-03-08,shot,gun,,M,,Burbank,CA,False,other,,False,-118.338,34.196,True
 6688,,2021-03-09,shot,undetermined,,M,,Reedsport,OR,False,undetermined,Not fleeing,False,-124.111,43.699,True
+6689,,2021-03-09,shot,undetermined,,M,,Minneola,KS,False,undetermined,,False,-100.015,37.443,True
+6693,,2021-03-09,shot,gun,,M,,Riverside,CA,False,other,Foot,False,-117.344,33.976,True
+6690,,2021-03-10,shot,knife,,M,,Rochester,NY,True,other,Foot,False,-77.617,43.157,True
