@@ -5877,20 +5877,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6400,Christian Juarez,2020-12-06,shot,vehicle,28,M,H,Rowland Heights,CA,False,attack,Car,False,-117.904,33.988,True
 6401,Mark Brewer,2020-12-06,shot,screwdriver,28,M,B,St. Louis,MO,False,other,Not fleeing,False,-90.26,38.586,True
 6411,Donald Edwin Saunders,2020-12-06,shot,gun,37,M,B,Dayton,OH,False,attack,Not fleeing,False,-84.138,39.772,True
-6664,Donald Guest,2020-12-07,shot,gun,56,M,,Cave Junction,OR,True,attack,Not fleeing,False,-123.65,42.143,True
+6664,Donald J. Guest,2020-12-07,shot,gun,56,M,,Cave Junction,OR,True,attack,Not fleeing,False,-123.65,42.143,True
 6665,Thomas Reeder,2020-12-07,shot,gun,44,M,B,Flint,MI,False,attack,,False,-83.709,42.989,True
 6408,Nathaniel Sironen,2020-12-08,shot,hammer,40,M,W,Las Vegas,NV,False,attack,Not fleeing,True,-115.286,36.096,True
 6409,Brad Tyler Masters,2020-12-08,shot,BB gun,27,M,W,Gates,OR,False,attack,Car,False,-122.417,44.756,True
 6410,Dylan Ray Scott,2020-12-08,shot,unarmed,27,M,W,Riverview,FL,True,attack,Car,True,-82.32,27.893,True
 6412,Joshua Feast,2020-12-09,shot,gun,22,M,B,La Marque,TX,False,other,Foot,True,-94.977,29.37,True
 6444,Evatt Hernandez,2020-12-09,shot,unarmed,27,F,H,Brewster County,TX,False,attack,Not fleeing,False,-103.359,29.663,True
-6666,Joseph Crawford-Lamal,2020-12-09,shot,gun,23,M,B,Fort Atkinson,WI,False,attack,Foot,False,-88.837,42.929,True
+6666,Joseph R. Crawford-Lamal,2020-12-09,shot,gun,23,M,B,Fort Atkinson,WI,False,attack,Foot,False,-88.837,42.929,True
 6417,Earl Robert Caperton,2020-12-10,shot,gun,55,M,W,Kearneysville,WV,True,attack,Not fleeing,False,-77.964,39.456,True
 6418,Kurtis Kay Frevert,2020-12-10,shot,gun,79,M,W,Dumfries,VA,True,attack,Foot,False,-77.319,38.599,True
 6420,Kenneth Miller,2020-12-10,shot,gun,47,M,W,Oxford,MS,False,attack,Not fleeing,True,-89.541,34.345,True
 6423,Eric Drake Feenstra,2020-12-10,shot,gun,47,M,W,Cass County,TX,False,attack,,False,-94.315,33.094,True
 6425,Evelio Rivera,2020-12-10,shot,gun,37,M,H,Rehoboth Beach,DE,False,attack,Not fleeing,False,-75.117,38.719,True
-6667,Whitney Crawley,2020-12-10,shot,gun,23,M,,Gary,IN,False,attack,Foot,False,-87.401,41.6,True
+6667,Whitney J. Crawley,2020-12-10,shot,gun,23,M,,Gary,IN,False,attack,Foot,False,-87.401,41.6,True
 6668,Remigio Pineda,2020-12-10,shot,gun,40,M,H,Odessa,TX,False,attack,Other,False,-102.38,31.834,True
 6421,,2020-12-11,shot,gun,35,M,,Trout Creek,MT,False,attack,Foot,False,-115.591,47.838,True
 6422,Charles Jones,2020-12-11,shot,gun,36,M,,Houston,TX,False,other,Car,False,-95.474,29.884,True
@@ -6125,6 +6125,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6692,Joel R. Weldon,2021-03-07,shot,gun,43,M,,Sparkman,AR,False,attack,Car,False,-92.848,33.917,True
 6691,,2021-03-08,shot,gun,,M,,Burbank,CA,False,other,,False,-118.338,34.196,True
 6688,,2021-03-09,shot,undetermined,,M,,Reedsport,OR,False,undetermined,Not fleeing,False,-124.111,43.699,True
-6689,,2021-03-09,shot,undetermined,,M,,Minneola,KS,False,undetermined,,False,-100.015,37.443,True
+6689,Jim Wright,2021-03-09,shot,gun,67,M,,Minneola,KS,False,other,Car,False,-100.015,37.441,True
 6693,,2021-03-09,shot,gun,,M,,Riverside,CA,False,other,Foot,False,-117.344,33.976,True
-6690,,2021-03-10,shot,knife,,M,,Rochester,NY,True,other,Foot,False,-77.617,43.157,True
+6690,,2021-03-10,shot,knife,,M,,Rochester,NY,True,other,Foot,True,-77.617,43.157,True
