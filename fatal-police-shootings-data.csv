@@ -6074,10 +6074,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6605,,2021-02-13,shot,gun,,M,,Pocatello,ID,False,attack,Other,False,-112.449,42.872,True
 6686,Daverion Kinard,2021-02-13,shot,unarmed,28,M,B,Fontana,CA,False,other,Foot,True,-117.444,34.158,True
 6616,Adam Bruce Connors,2021-02-14,shot,gun,32,M,,El Paso,TX,True,other,Other,False,-106.286,31.792,True
+6687,Bruce Diehl,2021-02-14,shot,gun,51,M,,Bingham County,ID,False,attack,Not fleeing,False,-112.327,43.312,True
 6613,Troy Alton Allen,2021-02-15,shot,undetermined,50,M,,Rexburg,ID,False,other,,False,-111.793,43.817,True
 6614,,2021-02-15,shot,undetermined,,M,,El Monte,CA,False,attack,Foot,False,-118.011,34.064,True
 6615,Royce Robertson,2021-02-15,shot,gun,33,M,W,Indian Wells,CA,False,other,Car,False,-116.292,33.712,True
-6687,Bruce Diehl,2021-02-15,shot,gun,51,M,,Bingham County,ID,False,attack,Not fleeing,False,-112.327,43.312,True
 6618,Derek J. Hayden,2021-02-16,shot,knife,44,M,,Seattle,WA,True,other,Foot,True,-122.34,47.605,True
 6619,Juan Carlos Pena-Noda,2021-02-16,shot,gun,51,M,H,Miami,FL,False,other,Not fleeing,False,-80.2,25.849,True
 6620,William Clayton Blackwell,2021-02-18,shot,gun,39,M,,Greer,SC,False,attack,Not fleeing,False,-82.231,34.997,True
@@ -6098,7 +6098,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6634,,2021-02-24,shot,gun,,M,,St. Michaels,AZ,False,attack,Car,False,-109.096,35.645,True
 6677,Alonte Murphy,2021-02-24,shot,gun,22,M,B,Garden City,MI,False,attack,Not fleeing,False,-83.347,42.324,True
 6631,Benjamin Tyson,2021-02-25,shot,gun,35,M,B,Baltimore,MD,False,attack,Foot,True,-76.624,39.288,True
-6632,Adam John Lundt,2021-02-25,shot,undetermined,24,M,,West Sacramento,CA,False,undetermined,,False,-121.549,38.589,True
+6632,Adam John Lundt,2021-02-25,shot,toy weapon,24,M,,West Sacramento,CA,False,attack,,True,-121.549,38.589,True
 6633,Donald Francis Hairston,2021-02-25,shot,gun,44,M,,Culpeper,VA,True,attack,Not fleeing,False,-78.023,38.52,True
 6640,Juan Carter Hernandez,2021-02-25,shot,unknown weapon,33,M,H,New Wilmington,PA,False,attack,Not fleeing,False,-80.336,41.114,True
 6649,David Joseph Wayne Conwell,2021-02-25,shot,gun,37,M,W,Duluth,MN,False,attack,,True,-92.131,46.768,True
@@ -6116,7 +6116,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6654,Adam Cunningham,2021-03-01,shot,baseball bat,46,M,,Ozark,AR,False,other,Other,False,-93.938,35.486,True
 6655,,2021-03-03,shot,gun,,M,,Houston,TX,False,other,Car,False,-95.37,29.76,True
 6656,Dwight Brown,2021-03-03,shot,gun,41,M,W,Abbeville,LA,True,attack,,True,-92.124,29.965,True
-6672,Judson Albahm,2021-03-04,shot,undetermined,17,M,,Jamesville,NY,True,attack,Foot,False,-76.075,42.981,True
+6672,Judson Albahm,2021-03-04,shot,toy weapon,17,M,,Jamesville,NY,True,attack,Foot,False,-76.075,42.981,True
 6674,Andrew Teague,2021-03-05,shot,gun,43,M,B,Columbus,OH,False,attack,Car,False,-83.048,39.898,True
 6675,,2021-03-05,shot,gun,,M,,Odessa,TX,False,attack,,False,-102.317,31.855,True
 6678,,2021-03-05,shot,gun,,M,,Gainesville,FL,False,attack,,False,-82.268,29.63,True
@@ -6127,5 +6127,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6688,,2021-03-09,shot,undetermined,,M,,Reedsport,OR,False,undetermined,Not fleeing,False,-124.111,43.699,True
 6689,Jim Wright,2021-03-09,shot,gun,67,M,,Minneola,KS,False,other,Car,False,-100.015,37.441,True
 6693,,2021-03-09,shot,gun,,M,,Riverside,CA,False,other,Foot,False,-117.344,33.976,True
-6690,,2021-03-10,shot,knife,,M,,Rochester,NY,True,other,Foot,True,-77.617,43.157,True
+6690,Tyshon Jones,2021-03-10,shot,knife,29,M,B,Rochester,NY,True,other,Foot,True,-77.617,43.157,True
 6694,Michael Laudca,2021-03-10,shot,unarmed,42,M,,Red River Parish,LA,False,other,Other,False,-93.379,32.084,True
+6702,Christopher Lefande,2021-03-11,shot,gun,49,M,W,Cape Coral,FL,False,attack,Not fleeing,False,-82.029,26.67,True
+6696,Nika Nicole Holbert,2021-03-12,shot,gun,31,F,B,Memphis,TN,False,attack,Not fleeing,True,-86.781,36.22,True
+6698,Raymond Tarbox II,2021-03-12,shot,knife,43,M,,Valdosta,GA,False,other,Not fleeing,False,-83.336,30.849,True
+6703,Gary Brown,2021-03-12,shot,knife,43,M,W,Harrison Township,OH,False,attack,Not fleeing,False,-84.191,39.808,True
+6695,Dustin Black,2021-03-13,shot,gun,24,M,,Austin,AR,False,attack,Not fleeing,False,-91.988,34.981,True
+6697,Kelly Shannon Bowen,2021-03-13,shot,gun,51,M,,Reidsville,GA,False,other,Other,False,-82.11,32.1,True
+6700,,2021-03-13,shot,undetermined,,M,,Monahans,TX,False,undetermined,,False,,,True
+6701,Douglas Stroble,2021-03-13,shot,gun,25,M,,Wasilla,AK,False,attack,Not fleeing,False,,,True
+6699,,2021-03-14,shot,gun,28,M,B,Palm Bay,FL,False,attack,Foot,False,-80.613,28.009,True
