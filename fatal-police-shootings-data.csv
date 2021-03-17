@@ -1078,7 +1078,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1231,Justin Prescott,2016-02-02,shot and Tasered,knife,30,M,W,Rancho Cordova,CA,True,other,Not fleeing,False,-121.291,38.596,True
 1233,John Henry Neuman,2016-02-03,shot,gun,53,M,W,Schulter,OK,False,attack,Not fleeing,False,-95.953,35.532,True
 1234,Cristiaan Oliver Dubrino,2016-02-03,shot,gun,31,M,H,Ocala,FL,True,attack,Not fleeing,False,-82.053,29.168,True
-1235,Raymond Gassman,2016-02-03,shot,gun,22,M,N,Rosebud,SD,False,attack,Not fleeing,True,-100.626,43.188,True
+1235,Raymond Gassman,2016-02-03,shot,undetermined,22,M,N,Rosebud,SD,False,attack,Not fleeing,True,-100.626,43.188,True
 1236,Kayden Clarke,2016-02-04,shot,knife,24,M,W,Mesa,AZ,True,other,Not fleeing,True,-111.659,33.437,True
 1237,Antronie Scott,2016-02-04,shot,unarmed,36,M,B,San Antonio,TX,False,other,Not fleeing,False,-98.493,29.529,True
 1238,Scott Harless,2016-02-04,shot,gun,47,M,W,Kansas City,MO,False,attack,Foot,False,-94.511,38.918,True
@@ -6111,11 +6111,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6645,Shannon Savela,2021-02-27,shot,gun,36,M,,Wadena County,MN,False,attack,Not fleeing,False,-94.937,46.616,True
 6646,David Savela,2021-02-27,shot,gun,43,M,,Wadena County,MN,False,attack,,False,-94.937,46.616,True
 6647,Rudy Duvivier,2021-02-27,shot,gun,32,M,,Clay County,FL,False,attack,,False,-81.751,30.162,True
-6653,Farrah Rauch,2021-02-28,shot,gun,,F,,Muskogee,OK,False,attack,Other,True,-95.394,35.77,True
+6653,Farrah Rauch,2021-02-28,shot,gun,17,F,W,Muskogee,OK,False,attack,Other,True,-95.394,35.77,True
 6652,Fred Bowman Trundle,2021-02-28,shot and Tasered,gun,54,M,,Catoosa County,GA,False,attack,Foot,False,-85.14,34.843,True
 6654,Adam Cunningham,2021-03-01,shot,baseball bat,46,M,,Ozark,AR,False,other,Other,False,-93.938,35.486,True
 6655,,2021-03-03,shot,gun,,M,,Houston,TX,False,other,Car,False,-95.37,29.76,True
-6656,Dwight Brown,2021-03-03,shot,gun,41,M,W,Abbeville,LA,True,attack,,True,-92.124,29.965,True
+6656,Dwight Brown,2021-03-03,shot,gun,41,M,B,Abbeville,LA,True,attack,,True,-92.124,29.965,True
 6672,Judson Albahm,2021-03-04,shot,toy weapon,17,M,,Jamesville,NY,True,attack,Foot,False,-76.075,42.981,True
 6674,Andrew Teague,2021-03-05,shot,gun,43,M,B,Columbus,OH,False,attack,Car,False,-83.048,39.898,True
 6675,,2021-03-05,shot,gun,,M,,Odessa,TX,False,attack,,False,-102.317,31.855,True
@@ -6137,4 +6137,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6697,Kelly Shannon Bowen,2021-03-13,shot,gun,51,M,,Reidsville,GA,False,other,Other,False,-82.11,32.1,True
 6700,,2021-03-13,shot,undetermined,,M,,Monahans,TX,False,undetermined,,False,,,True
 6701,Douglas Stroble,2021-03-13,shot,gun,25,M,,Wasilla,AK,False,attack,Not fleeing,False,,,True
-6699,,2021-03-14,shot,gun,28,M,B,Palm Bay,FL,False,attack,Foot,False,-80.613,28.009,True
+6699,Christopher Ruffin,2021-03-14,shot,gun,28,M,B,Palm Bay,FL,False,attack,Foot,False,-80.613,28.009,True
