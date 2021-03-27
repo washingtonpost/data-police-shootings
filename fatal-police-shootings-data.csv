@@ -5723,7 +5723,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6375,Christopher John Kitts,2020-10-18,shot,gun,43,M,W,Catoosa County,GA,False,attack,Foot,False,-85.245,34.978,True
 6242,,2020-10-19,shot,gun,43,M,,South Milwaukee,WI,True,attack,Not fleeing,False,-87.856,42.899,True
 6244,Bryan Paul Selmer,2020-10-19,shot,gun,,M,W,Emmitsburg,MD,False,attack,Other,False,-79.677,34.609,True
-6376,Ethan Freeman,2020-10-19,shot,undetermined,37,M,,Thornton,NH,False,undetermined,Not fleeing,False,-71.661,43.925,True
+6376,Ethan Freeman,2020-10-19,shot,unarmed,37,M,W,Thornton,NH,True,undetermined,Not fleeing,True,-71.661,43.925,True
 6243,Paul Sulkowski,2020-10-19,shot and Tasered,knife,46,M,W,Coram,NY,False,other,,False,-73.01,40.875,True
 6378,Jose Alfredo Casto-Gutierrez,2020-10-19,shot and Tasered,metal pole,39,M,H,San Diego,CA,True,attack,Not fleeing,True,-117.118,32.703,True
 6248,Marcellis Stinnette,2020-10-20,shot,unarmed,19,M,B,Waukegan,IL,False,other,Car,True,-87.833,42.349,True
@@ -6130,11 +6130,27 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6690,Tyshon Jones,2021-03-10,shot,knife,29,M,B,Rochester,NY,True,other,Foot,True,-77.617,43.157,True
 6694,Michael Laudca,2021-03-10,shot,unarmed,42,M,,Red River Parish,LA,False,other,Other,False,-93.379,32.084,True
 6702,Christopher J. Lefande,2021-03-11,shot,gun,49,M,W,Cape Coral,FL,False,attack,Not fleeing,False,-82.029,26.67,True
+6717,Tyrell Wilson,2021-03-11,shot,knife,32,M,B,Danville,CA,False,other,Not fleeing,False,-121.991,37.811,True
 6696,Nika Nicole Holbert,2021-03-12,shot and Tasered,gun,31,F,B,Memphis,TN,False,attack,Car,True,-86.781,36.22,True
-6698,Raymond Whitfield Tarbox,2021-03-12,shot and Tasered,knife,43,M,,Valdosta,GA,False,other,Not fleeing,False,-83.336,30.849,True
+6698,Raymond Whitfield Tarbox,2021-03-12,shot and Tasered,knife,43,M,W,Valdosta,GA,False,other,Not fleeing,False,-83.336,30.849,True
 6703,Benjamin P. Cotton,2021-03-12,shot and Tasered,knife,24,M,W,Harrison Township,OH,False,other,Not fleeing,False,-84.191,39.808,True
 6695,Dustin Roy Black,2021-03-13,shot,gun,24,M,W,Austin,AR,False,attack,Not fleeing,False,-91.988,34.981,True
 6700,,2021-03-13,shot,undetermined,,M,,Monahans,TX,False,undetermined,,False,,,True
 6701,Douglas William Stroble,2021-03-13,shot,gun,25,M,,Wasilla,AK,False,attack,Not fleeing,False,,,True
 6697,Kelly Shannon Bowen,2021-03-14,shot,gun and vehicle,51,M,W,Reidsville,GA,False,attack,Other,False,-82.11,32.1,True
 6699,Christopher Ruffin,2021-03-14,shot,gun,28,M,B,Palm Bay,FL,False,attack,Foot,False,-80.613,28.009,True
+6707,Ryan White Mountain-Soft,2021-03-14,shot,undetermined,30,M,N,McLaughlin,SD,False,undetermined,,False,-100.81,45.814,True
+6711,,2021-03-14,shot,knife,34,M,,Los Angeles,CA,True,other,Not fleeing,False,-118.187,34.036,True
+6704,Stephen James Hughes,2021-03-15,shot and Tasered,knife,62,M,,Muhlenberg Township,PA,False,other,Not fleeing,False,-75.928,40.412,True
+6712,,2021-03-16,shot,gun,37,M,H,Los Angeles,CA,True,attack,Not fleeing,False,-118.256,34.024,True
+6718,,2021-03-16,shot,vehicle,,M,,Hayward,CA,False,attack,Car,False,-122.065,37.607,True
+6710,Shawn Myers,2021-03-17,shot,gun,36,M,,Wylie,TX,False,other,Not fleeing,False,-96.548,33.007,True
+6716,,2021-03-17,shot,gun,,M,,Pensacola,FL,False,other,Not fleeing,False,-87.143,30.333,True
+6708,David Suarez,2021-03-17,shot and Tasered,undetermined,44,M,,Devils Lake,ND,False,other,Other,False,-99.126,47.975,True
+6714,,2021-03-18,shot,gun,,M,,Miami,FL,False,attack,Other,False,-80.352,25.607,True
+6715,Leonard John Popa,2021-03-18,shot,gun,79,M,W,Pasadena,MD,True,attack,Not fleeing,False,-76.442,39.138,True
+6719,Juan Jimenez-Salas,2021-03-18,shot,gun,46,M,H,Arlington,TX,False,attack,Not fleeing,False,-97.085,32.708,True
+6713,,2021-03-19,shot,hatchet,,M,,Los Angeles,CA,False,attack,Foot,True,-118.274,34.057,True
+6705,Gerald Wayne Marlin,2021-03-20,shot,gun,41,M,,Odenville,AL,False,attack,Car,False,-86.407,33.676,True
+6706,Shawn Michael Evanuk,2021-03-20,shot,knife,48,M,,Centerville,GA,False,attack,Not fleeing,False,-83.699,32.626,True
+6709,Eduardo Parra,2021-03-21,shot,unarmed,24,M,H,Sylvania Township,OH,False,other,Foot,False,-83.666,41.711,True
