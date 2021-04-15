@@ -5125,7 +5125,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5659,Pablo Elias,2020-03-10,shot,unarmed,44,M,H,Bell Gardens,CA,True,undetermined,,False,-118.165,33.963,True
 5660,Joshua Christopher Noles,2020-03-11,shot,gun,38,M,W,Elkton,FL,False,attack,Car,False,-81.426,29.783,True
 5661,Mary Kate Field,2020-03-11,shot,gun,32,F,W,Anchor Point,AK,False,attack,,False,-151.743,59.791,True
-5626,Breonna Taylor,2020-03-12,shot,unarmed,26,F,B,Louisville,KY,False,undetermined,Not fleeing,False,-85.817,38.148,True
+5626,Breonna Taylor,2020-03-12,shot,unarmed,26,F,B,Louisville,KY,False,other,Not fleeing,False,-85.817,38.148,True
 5662,Duncan Socrates Lemp,2020-03-12,shot,gun,21,M,W,Potomac,MD,False,attack,Not fleeing,True,-77.206,39.057,True
 5663,Donnie Sanders,2020-03-12,shot,unarmed,47,M,B,Kansas City,MO,False,undetermined,Foot,False,-94.556,39.034,True
 5628,Jorge Martinez,2020-03-13,shot,undetermined,30,M,H,Claremore,OK,False,attack,Foot,False,,,True
@@ -6169,7 +6169,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6737,Eric Leach,2021-03-26,shot,gun,36,M,W,Quincy,MA,False,other,Car,False,-71.005,42.243,True
 6732,Krys Brandon Ruiz,2021-03-28,shot,undetermined,26,M,H,Lompoc,CA,False,other,,False,-120.458,34.639,True
 6728,Matthew Blaylock,2021-03-29,shot,gun,38,M,B,Los Angeles,CA,False,other,Foot,False,-118.264,34.051,True
-6729,Adam Toledo,2021-03-29,shot,gun,13,M,,Chicago,IL,False,other,Foot,True,-87.708,41.85,True
+6729,Adam Toledo,2021-03-29,shot,unarmed,13,M,,Chicago,IL,False,other,Foot,True,-87.708,41.85,True
 6731,Robert Lee Canchola,2021-03-29,shot,gun,33,M,,Corpus Christi,TX,False,attack,Foot,True,-97.407,27.711,True
 6739,Shelby Jean Berkheimer,2021-03-30,shot,gun,41,F,W,Lithia Springs,GA,False,attack,Not fleeing,False,-84.621,33.787,True
 6752,Michael Leon Hughes,2021-03-30,shot,Taser,32,M,B,Jacksonville,FL,False,attack,Not fleeing,True,-81.743,30.197,True
@@ -6208,5 +6208,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6770,,2021-04-10,shot,gun,,M,,Metairie,LA,False,attack,,False,-90.21,30.003,True
 6771,,2021-04-10,shot,undetermined,,M,,Rockford,IL,False,undetermined,,False,,,True
 6775,,2021-04-10,shot,knife,,M,,San Marcos,TX,False,attack,Not fleeing,False,-97.933,29.874,True
-6767,Daunte Wright,2021-04-11,shot,undetermined,20,M,B,Brooklyn,MN,False,undetermined,,True,-93.341,45.07,True
+6767,Daunte Wright,2021-04-11,shot,undetermined,20,M,B,Brooklyn,MN,False,other,,True,-93.341,45.07,True
 6768,,2021-04-12,shot,gun,,M,,Bremen,GA,False,attack,Car,False,-84.992,33.628,True
+6778,Peyton Ham,2021-04-13,shot,knife,16,M,,Leonardtown,MD,False,attack,Not fleeing,False,-76.634,38.3,True
+6779,,2021-04-14,shot,unknown weapon,,M,,Mars Hill,NH,False,undetermined,,False,-67.867,46.526,True
+6780,Marcelo Garcia,2021-04-14,shot and Tasered,knife,46,M,H,Houston,TX,True,other,,False,-95.157,29.812,True
