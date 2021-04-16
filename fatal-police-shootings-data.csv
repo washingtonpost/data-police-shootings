@@ -97,7 +97,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 133,Vincent Cordaro,2015-02-08,shot,gun,57,M,W,New City,NY,True,attack,Not fleeing,False,-74.001,41.152,True
 134,Joseph Paffen,2015-02-08,shot,gun,46,M,W,Orange County,FL,False,attack,Not fleeing,False,-81.329,28.482,True
 135,Larry Hostetter,2015-02-08,shot,gun,41,M,W,Nocona,TX,False,attack,Not fleeing,False,-97.712,33.787,True
-136,Kenneth Kreyssig,2015-02-09,shot,gun,61,M,W,Smyrna,ME,True,undetermined,Not fleeing,False,-68.104,46.159,True
+136,Kenneth Kreyssig,2015-02-09,shot,gun,61,M,W,Smyrna,ME,True,attack,Not fleeing,False,-68.104,46.159,True
 137,Desmond Luster,2015-02-09,shot,gun,45,M,B,Dallas,TX,False,attack,Not fleeing,False,-96.751,32.655,True
 139,Anthony Bess,2015-02-10,shot,gun,49,M,B,Whitehaven,TN,False,attack,Not fleeing,False,-90.054,35.025,True
 140,Brian Fritze,2015-02-10,shot,gun,45,M,W,New Castle,CO,True,attack,Car,False,-107.454,39.573,True
@@ -144,7 +144,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 183,Rodney Biggs,2015-02-26,shot,unarmed,49,M,W,Gulfport,MS,False,other,Not fleeing,False,-89.092,30.425,True
 184,Crystal Lee Miley Harry,2015-02-26,shot,gun,34,F,W,Sylvester,GA,False,attack,Car,False,-83.902,31.55,True
 180,Alexander Phillip Long,2015-02-26,shot and Tasered,unarmed,31,M,W,Terre Haute,IN,False,other,Not fleeing,False,-87.379,39.463,True
-185,Ernesto Javiar Canepa Diaz,2015-02-27,shot,unarmed,27,M,H,Santa Ana,CA,False,undetermined,Not fleeing,False,-117.879,33.747,True
+185,Ernesto Javiar Canepa Diaz,2015-02-27,shot,unarmed,27,M,H,Santa Ana,CA,False,other,Not fleeing,False,-117.879,33.747,True
 186,Chazsten Freeman,2015-02-28,shot,gun,24,M,W,Pelzer,SC,False,attack,Not fleeing,False,-82.408,34.633,True
 188,Thomas Allen,2015-02-28,shot,unarmed,34,M,B,St Louis,MO,False,other,Car,False,-90.232,38.598,True
 189,Jessica Uribe,2015-02-28,shot,knife,28,F,H,Tucson,AZ,False,other,Not fleeing,False,-110.99,32.23,True
@@ -164,7 +164,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 201,Sergio Alexander Navas,2015-03-05,shot,unarmed,36,M,H,Burbank,CA,False,other,Car,False,-118.345,34.151,True
 202,Tyson Hubbard,2015-03-05,shot,gun,34,M,W,Lincoln,NE,False,attack,Not fleeing,False,-96.682,40.875,True
 203,Tony Robinson,2015-03-06,shot,unarmed,19,M,B,Madison,WI,False,attack,Foot,False,-89.365,43.083,True
-269,Naeschylus  Vinzant,2015-03-06,shot,unarmed,37,M,B,Aurora,CO,False,undetermined,Foot,False,-104.916,39.735,True
+269,Naeschylus Vinzant,2015-03-06,shot,unarmed,37,M,B,Aurora,CO,False,other,Foot,False,-104.916,39.735,True
 270,Andrew Anthony Williams,2015-03-06,shot,,48,M,B,Putnam Hall,FL,False,other,Not fleeing,False,-81.959,29.743,True
 271,Adam Reinhart,2015-03-07,shot,gun,29,M,W,Phoenix,AZ,False,attack,Not fleeing,False,-112.043,33.469,True
 204,Monique Jenee Deckard,2015-03-08,shot,knife,43,F,B,Anaheim,CA,True,other,Not fleeing,True,-117.94,33.819,True
@@ -200,7 +200,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 217,Declan Owen,2015-03-17,shot,gun,24,M,W,Dublin,NC,False,attack,Foot,False,-78.751,34.64,True
 221,Alice Brown,2015-03-17,shot,vehicle,24,F,W,San Francisco,CA,True,other,Not fleeing,False,-122.422,37.789,True
 290,Eugene Smith,2015-03-17,shot,gun,20,M,W,Onalaska,TX,True,attack,Not fleeing,False,-95.104,30.815,True
-292,Roberto Leon,2015-03-17,shot,unarmed,22,M,H,Sacramento,CA,False,undetermined,Car,False,-121.504,38.682,True
+292,Roberto Leon,2015-03-17,shot,unarmed,22,M,H,Sacramento,CA,False,other,Car,False,-121.504,38.682,True
 225,Kaylene Stone,2015-03-18,shot,gun,49,F,W,Glendale,AZ,False,attack,Not fleeing,False,-112.203,33.582,True
 226,Garland Lee Wingo,2015-03-18,shot,gun,64,M,W,Tallahassee,FL,False,attack,Not fleeing,False,-84.279,30.461,True
 294,Jeff Alexander,2015-03-18,shot,knife,47,M,W,Bakersfield,CA,False,other,Not fleeing,False,-119.015,35.376,True
@@ -277,9 +277,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 357,Richard Dale Weaver,2015-04-12,shot,machete,83,M,W,Oklahoma City,OK,True,other,Not fleeing,False,-97.34,35.404,True
 362,Jason Lee Evans,2015-04-12,shot,gun,32,M,W,Salemburg,NC,True,attack,Car,False,-78.491,35.064,True
 356,Isaac Jimenez,2015-04-13,shot,gun,27,M,H,Alton,IL,False,attack,Not fleeing,False,-90.135,38.892,True
-363,Colby Robinson,2015-04-14,shot,undetermined,26,M,B,DeSoto,TX,False,undetermined,Foot,False,-96.823,32.662,True
+363,Colby Robinson,2015-04-14,shot,undetermined,26,M,B,DeSoto,TX,False,other,Foot,False,-96.823,32.662,True
 364,Christopher Grant Finley,2015-04-14,shot,machete,31,M,W,Jonesboro,AR,True,attack,Not fleeing,False,-90.718,35.834,True
-365,Tevin Barkley,2015-04-15,shot,gun,22,M,B,Miami,FL,False,undetermined,Foot,False,-80.212,25.844,True
+365,Tevin Barkley,2015-04-15,shot,gun,22,M,B,Miami,FL,False,other,Foot,False,-80.212,25.844,True
 366,Dante Noble,2015-04-15,shot,knife,41,M,B,Spartanburg,SC,False,attack,Not fleeing,False,-81.912,34.904,True
 367,Frank Shephard,2015-04-15,shot,unarmed,41,M,B,Houston,TX,False,other,Car,False,-95.173,29.806,True
 368,Mark W. Adair,2015-04-15,shot,toy weapon,51,M,W,Columbia,MO,False,attack,Car,True,-92.326,38.948,True
@@ -298,7 +298,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 398,Kimber Key,2015-04-21,shot,knife,59,M,W,Irmo,SC,True,other,Not fleeing,False,-81.2,34.073,True
 495,Luis Martinez,2015-04-21,shot,knife,35,M,H,Los Angeles,CA,True,other,Not fleeing,False,-118.205,34.072,True
 537,Daniel Wolfe,2015-04-21,shot,,35,M,B,Trenton,NJ,False,attack,Not fleeing,False,-74.252,40.713,True
-391,William Chapman,2015-04-22,shot,unarmed,18,M,B,Portsmouth,VA,False,undetermined,Not fleeing,False,-76.34,36.83,True
+391,William Chapman,2015-04-22,shot,unarmed,18,M,B,Portsmouth,VA,False,other,Not fleeing,False,-76.34,36.83,True
 394,Carlos Saavedra Ramirez,2015-04-22,shot,knife,51,M,H,Bisbee,AZ,False,other,Not fleeing,False,-109.917,31.401,True
 395,Jonathan Efraim,2015-04-22,shot,gun,30,M,W,Queens,NY,True,attack,Foot,False,-73.794,40.71,True
 396,Reginald McGregor,2015-04-22,shot,gun,31,M,B,Fort Worth,TX,False,attack,Foot,False,-97.304,32.769,True
@@ -631,7 +631,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 760,Charles S. Hall,2015-08-21,shot,,30,M,W,North East,MD,False,attack,Car,False,-75.951,39.61,True
 761,Alan Joseph Rushton,2015-08-21,shot,knife,38,M,W,Wake Forest,NC,False,other,Not fleeing,False,-78.511,36.008,True
 762,Adam Schneider,2015-08-22,shot,gun,31,M,W,Cohasset,MN,False,attack,Not fleeing,False,-93.629,47.263,True
-764,Jason Lee Alderman,2015-08-22,shot,carjack,29,M,W,Bakersfield,CA,False,undetermined,Not fleeing,False,-119.047,35.411,True
+764,Jason Lee Alderman,2015-08-22,shot,carjack,29,M,W,Bakersfield,CA,False,other,Not fleeing,False,-119.047,35.411,True
 765,Nicholas Garner,2015-08-22,shot,,26,M,W,Wichita,KS,False,attack,Car,False,-97.413,37.673,True
 766,Kenneth Henry Morgan,2015-08-22,shot,knife,64,M,W,King George,VA,False,other,Not fleeing,False,-77.17,38.265,True
 763,Thaddeus Faison,2015-08-22,shot and Tasered,gun,39,M,B,Troy,NY,False,attack,Foot,False,-73.707,42.723,True
@@ -6169,7 +6169,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6737,Eric Leach,2021-03-26,shot,gun,36,M,W,Quincy,MA,False,other,Car,False,-71.005,42.243,True
 6732,Krys Brandon Ruiz,2021-03-28,shot,undetermined,26,M,H,Lompoc,CA,False,other,,False,-120.458,34.639,True
 6728,Matthew Blaylock,2021-03-29,shot,gun,38,M,B,Los Angeles,CA,False,other,Foot,False,-118.264,34.051,True
-6729,Adam Toledo,2021-03-29,shot,unarmed,13,M,,Chicago,IL,False,other,Foot,True,-87.708,41.85,True
+6729,Adam Toledo,2021-03-29,shot,undetermined,13,M,,Chicago,IL,False,other,Foot,True,-87.708,41.85,True
 6731,Robert Lee Canchola,2021-03-29,shot,gun,33,M,,Corpus Christi,TX,False,attack,Foot,True,-97.407,27.711,True
 6739,Shelby Jean Berkheimer,2021-03-30,shot,gun,41,F,W,Lithia Springs,GA,False,attack,Not fleeing,False,-84.621,33.787,True
 6752,Michael Leon Hughes,2021-03-30,shot,Taser,32,M,B,Jacksonville,FL,False,attack,Not fleeing,True,-81.743,30.197,True
