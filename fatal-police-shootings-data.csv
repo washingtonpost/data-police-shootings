@@ -6202,14 +6202,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6776,James Alexander,2021-04-07,shot,gun,24,M,B,Philadelphia,PA,False,attack,Not fleeing,False,-75.147,40.035,True
 6773,,2021-04-08,shot,gun,,M,,Tallahassee,FL,False,attack,Not fleeing,True,-84.317,30.452,True
 6772,,2021-04-09,shot,tire iron,,M,,Whitewater,CA,False,other,Not fleeing,False,-116.642,33.924,True
-6774,Douglas Barton,2021-04-09,shot,gun,50,M,,Bethel Township,OH,False,attack,Not fleeing,False,-83.946,39.979,True
+6774,Douglas C. Barton,2021-04-09,shot,gun,50,M,,Bethel Township,OH,False,attack,Not fleeing,False,-83.946,39.979,True
 6777,DeShund Tanner,2021-04-09,shot,gun,31,M,B,Georgetown,KY,False,other,Foot,False,-84.534,38.224,True
 6769,,2021-04-10,shot,gun,48,M,,San Fernando,CA,False,attack,Not fleeing,False,-118.438,34.289,True
-6770,,2021-04-10,shot,gun,,M,,Metairie,LA,False,attack,,False,-90.21,30.003,True
-6771,,2021-04-10,shot,undetermined,,M,,Rockford,IL,False,undetermined,,False,,,True
+6770,Joshua Mitchell,2021-04-10,shot,gun,30,M,,Metairie,LA,False,attack,,False,-90.21,30.003,True
+6771,,2021-04-10,shot,metal pipe,27,M,,Rockford,IL,False,other,Not fleeing,False,,,True
 6775,,2021-04-10,shot,knife,,M,,San Marcos,TX,False,attack,Not fleeing,False,-97.933,29.874,True
-6767,Daunte Wright,2021-04-11,shot,undetermined,20,M,B,Brooklyn,MN,False,other,,True,-93.341,45.07,True
-6768,,2021-04-12,shot,gun,,M,,Bremen,GA,False,attack,Car,False,-84.992,33.628,True
-6778,Peyton Ham,2021-04-13,shot,knife,16,M,,Leonardtown,MD,False,attack,Not fleeing,False,-76.634,38.3,True
-6779,,2021-04-14,shot,unknown weapon,,M,,Mars Hill,NH,False,undetermined,,False,-67.867,46.526,True
+6767,Daunte Wright,2021-04-11,shot,undetermined,20,M,B,Brooklyn Center,MN,False,other,,True,-93.341,45.07,True
+6768,Pier Alexander Shelton,2021-04-12,shot,gun,28,M,B,Bremen,GA,False,attack,Car,False,-84.992,33.628,True
+6778,Peyton Ham,2021-04-13,shot,knife,16,M,W,Leonardtown,MD,False,attack,Not fleeing,False,-76.634,38.3,True
+6779,Jacob Wood,2021-04-14,shot,unknown weapon,28,M,,Mars Hill,ME,False,undetermined,,False,-67.867,46.526,True
 6780,Marcelo Garcia,2021-04-14,shot and Tasered,knife,46,M,H,Houston,TX,True,other,,False,-95.157,29.812,True
