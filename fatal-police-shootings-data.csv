@@ -1105,6 +1105,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1258,Alijah Jackson,2016-02-11,shot,knife,35,M,W,Maiden,NC,True,other,Not fleeing,False,-81.193,35.561,True
 1261,Matthew Quinn,2016-02-11,shot,ax,45,M,W,Lancaster,CA,False,other,Not fleeing,False,-118.08,34.682,True
 1263,Mohamed Barry,2016-02-11,shot,machete,30,M,B,Columbus,OH,False,attack,Car,False,-82.864,40.064,True
+6588,Jerand Ross,2016-02-11,shot,gun,24,M,B,Riverdale,GA,False,attack,Not fleeing,False,-84.417,33.575,True
 1262,Peter Fanfan,2016-02-12,shot,gun,29,M,B,Boston,MA,True,attack,Not fleeing,False,-71.078,42.308,True
 1273,David Glen Watson,2016-02-12,shot,gun,53,M,W,Fort Worth,TX,False,other,Not fleeing,False,-97.446,32.723,True
 1276,Sahlah Ridgeway,2016-02-12,shot,gun,32,F,B,Syracuse,NY,True,other,Not fleeing,False,-76.144,43.069,True
@@ -5125,9 +5126,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5659,Pablo Elias,2020-03-10,shot,unarmed,44,M,H,Bell Gardens,CA,True,undetermined,,False,-118.165,33.963,True
 5660,Joshua Christopher Noles,2020-03-11,shot,gun,38,M,W,Elkton,FL,False,attack,Car,False,-81.426,29.783,True
 5661,Mary Kate Field,2020-03-11,shot,gun,32,F,W,Anchor Point,AK,False,attack,,False,-151.743,59.791,True
-5626,Breonna Taylor,2020-03-12,shot,unarmed,26,F,B,Louisville,KY,False,other,Not fleeing,False,-85.817,38.148,True
 5662,Duncan Socrates Lemp,2020-03-12,shot,gun,21,M,W,Potomac,MD,False,attack,Not fleeing,True,-77.206,39.057,True
 5663,Donnie Sanders,2020-03-12,shot,unarmed,47,M,B,Kansas City,MO,False,undetermined,Foot,False,-94.556,39.034,True
+5626,Breonna Taylor,2020-03-13,shot,unarmed,26,F,B,Louisville,KY,False,other,Not fleeing,False,-85.817,38.148,True
 5628,Jorge Martinez,2020-03-13,shot,undetermined,30,M,H,Claremore,OK,False,attack,Foot,False,,,True
 5635,Marc Morgan,2020-03-13,shot,gun,62,M,W,New Kensington,PA,True,attack,,False,-79.755,40.557,True
 5654,Rosario Angel Alvarado,2020-03-13,shot,toy weapon,41,M,H,Chandler,AZ,False,attack,Not fleeing,False,-111.836,33.305,True
@@ -6262,10 +6263,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6809,Joe Robideau,2021-04-29,shot,gun,21,M,,Lincoln County,MO,False,attack,Car,False,-90.982,39.067,True
 6817,Hanad Abdiaziz,2021-04-30,shot,gun,25,M,,Kansas City,MO,False,attack,Not fleeing,False,-94.576,39.104,True
 6820,Terrance Maurice Parker,2021-04-30,shot,gun,36,M,,Washington,DC,False,other,,True,-77.017,38.878,True
-6815,,2021-05-01,shot,undetermined,28,M,,Canon City,CO,False,undetermined,,False,-105.234,38.443,True
+6815,Dalton Buckholz,2021-05-01,shot,undetermined,28,M,,Canon City,CO,False,undetermined,,False,-105.234,38.443,True
 6816,Jacob Griffin,2021-05-01,shot,gun,23,M,,Nashville,TN,True,attack,,True,-86.691,35.998,True
 6819,Alexander Tuzinski,2021-05-01,shot,gun,30,M,,South Haven,IN,False,other,,False,-87.143,41.538,True
+6847,Bruce Pofahl,2021-05-01,shot,gun,62,M,,Green Bay,WI,False,attack,Not fleeing,False,-88.121,44.497,True
 6813,Anthony Williams,2021-05-02,shot,gun,57,M,,Hamilton Township,OH,True,attack,Not fleeing,False,-84.23,39.284,True
 6814,Latoya Denise James,2021-05-04,shot,gun,37,F,,Camden County,GA,False,attack,Not fleeing,False,-81.665,30.702,True
-6833,Ashton Pinke,2021-05-04,shot,knife,27,M,,Mesquite,TX,True,attack,Not fleeing,False,-96.623,32.84,True
-6837,,2021-05-05,shot,gun,,M,,Las Vegas,NV,False,attack,Not fleeing,False,-115.108,36.159,True
+6833,Ashton Pinke,2021-05-04,shot,knife,27,M,,Mesquite,TX,True,attack,Not fleeing,True,-96.623,32.84,True
+6837,William Holt,2021-05-05,shot,gun,49,M,,Las Vegas,NV,False,attack,Not fleeing,False,-115.108,36.159,True
+6843,Robbie Leigh Hodge,2021-05-07,shot,gun,52,M,,Rutledge,TN,False,attack,Not fleeing,False,-83.472,36.279,True
+6839,Adonis Traughber,2021-05-08,shot,gun,54,M,,Clarksville,TN,False,attack,Not fleeing,False,-87.356,36.585,True
+6840,,2021-05-08,shot,undetermined,,M,,Oklahoma City,OK,False,attack,,False,-97.583,35.505,True
+6845,Felix Jerry Marquez,2021-05-08,shot,gun,34,M,,Riverside,CA,False,attack,Not fleeing,False,-117.392,33.958,True
+6846,Sagar Ghimire,2021-05-08,shot,gun,,M,O,Baltimore,MD,True,attack,Not fleeing,False,,,True
+6841,Jeffrey Mark Murray,2021-05-09,shot,gun,62,M,,Greenville,SC,False,attack,Not fleeing,False,,,True
+6842,,2021-05-09,shot,gun,,M,,Lancaster,TX,False,attack,,False,-96.806,32.604,True
+6844,,2021-05-09,shot,gun,,M,W,Leicester,MA,False,attack,Not fleeing,False,-71.903,42.244,True
