@@ -4791,7 +4791,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 5188,,2019-11-16,shot,unknown weapon,,M,,Lake Elsinore,CA,False,other,Not fleeing,False,-117.389,33.695,True
 5189,Garrett Ryberg,2019-11-16,shot,gun,27,M,W,Mesa,AZ,False,attack,Not fleeing,False,-111.858,33.411,True
 5196,Robert Sikon,2019-11-16,shot,unarmed,41,M,W,Alliance,OH,False,attack,Foot,False,-81.146,40.621,True
-5194,Dante Redmond Jones,2019-11-18,shot,gun,28,M,B,Franklin County,WA,False,attack,Car,False,-119.177,46.664,True
+5194,Dante Redmond Jones,2019-11-18,shot,vehicle,28,M,B,Franklin County,WA,False,attack,Car,False,-119.177,46.664,True
 5201,Cody McClintick,2019-11-18,shot,gun,26,M,W,Kansas City,MO,False,attack,,False,-94.495,39.162,True
 5198,Joel Avery,2019-11-19,shot,gun,,M,W,Horn Lake,MS,False,other,Not fleeing,False,-90.079,34.943,True
 5199,Alex Flores,2019-11-19,shot,knife,34,M,H,Los Angeles,CA,False,other,,False,-118.256,34.017,True
@@ -6194,7 +6194,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6743,Jose Arenas,2021-04-03,shot,gun,26,M,,Phoenix,AZ,False,attack,Foot,False,-112.221,33.495,True
 6745,Jeffrey W. Appelt,2021-04-03,shot,knife,32,M,W,Corvallis,OR,False,other,,True,-123.26,44.576,True
 6760,Gabriel Casso,2021-04-03,shot,undetermined,21,M,H,New York,NY,False,undetermined,Not fleeing,False,-73.914,40.83,True
-6838,Desmon Montez Ray,2021-04-04,shot,gun,28,M,,Birmingham,AL,False,attack,Other,True,-86.841,33.515,True
+6838,Desmon Montez Ray,2021-04-04,shot,gun,28,M,B,Birmingham,AL,False,attack,Other,True,-86.841,33.515,True
 6759,Silas Lambert,2021-04-05,shot,gun,25,M,,Anadarko,OK,False,attack,,False,-98.246,35.081,True
 6763,Iremamber Sykap,2021-04-05,shot,toy weapon,16,M,,Honolulu,HI,False,other,Car,False,-157.825,21.275,True
 6766,Roy K. Jackel,2021-04-05,shot,undetermined,41,M,,Buena Vista,NJ,False,other,Car,False,-74.931,39.496,True
@@ -6220,7 +6220,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6832,Miles Jackson,2021-04-12,shot and Tasered,gun,27,M,B,Westerville,OH,False,attack,Not fleeing,True,-82.946,40.115,True
 6778,Peyton Ham,2021-04-13,shot,knife,16,M,W,Leonardtown,MD,False,attack,Not fleeing,False,-76.634,38.3,True
 6829,Thomas Andrew Bunde,2021-04-13,shot,gun,58,M,,Garden City,ID,False,attack,Not fleeing,False,-116.265,43.649,True
-6830,Keith Tafoya,2021-04-13,shot,gun,67,M,,Saltlick Township,PA,False,attack,Not fleeing,False,-79.436,40.061,True
+6830,Keith Robert Tafoya,2021-04-13,shot,gun,67,M,,Saltlick Township,PA,False,attack,Not fleeing,False,-79.436,40.061,True
 6831,Christopher Templo Marquez,2021-04-13,shot,gun,36,M,,San Diego,CA,False,other,Other,False,-117.153,32.72,True
 6779,Jacob Wood,2021-04-14,shot,unknown weapon,28,M,,Mars Hill,ME,False,other,,False,-67.867,46.526,True
 6780,Marcelo Garcia,2021-04-14,shot and Tasered,knife,46,M,H,Houston,TX,True,other,Not fleeing,True,-95.157,29.812,True
@@ -6228,11 +6228,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6786,,2021-04-15,shot,gun,,M,,San Antonio,TX,True,attack,,False,-98.468,29.531,True
 6792,Jeffrey Guy Sacks,2021-04-15,shot,knife,26,M,W,North Lauderdale,FL,True,other,Not fleeing,False,-80.222,26.207,True
 6826,Victor Ivan Barron,2021-04-15,shot,gun,22,M,,Roswell,NM,False,other,Other,False,,,True
-6827,Roderick Inge,2021-04-15,shot,gun,29,M,,Tuscaloosa,AL,False,attack,Other,True,-87.539,33.166,True
-6828,"Innes Lee, Jr.",2021-04-15,shot,gun,25,M,,Cleveland,OH,False,attack,Foot,True,,,True
-6787,Sammie Barbosa,2021-04-16,shot,undetermined,33,M,,San Antonio,TX,False,undetermined,Not fleeing,True,-98.624,29.407,True
-6788,Alex Garcia,2021-04-16,shot,gun,25,M,H,San Antonio,TX,False,attack,,False,-98.624,29.407,True
-6789,Robert Douglas Delgado,2021-04-16,shot,toy weapon,46,M,,Portland,OR,True,other,,False,-122.572,45.487,True
+6827,Roderick Marcell Inge,2021-04-15,shot,gun,29,M,,Tuscaloosa,AL,False,attack,Other,True,-87.539,33.166,True
+6828,Innes Lee,2021-04-15,shot,gun,25,M,,Cleveland,OH,False,attack,Foot,True,,,True
+6787,Sammie Joe Barbosa,2021-04-16,shot,undetermined,33,M,,San Antonio,TX,False,undetermined,Not fleeing,True,-98.624,29.407,True
+6788,Alex Anthony Garcia,2021-04-16,shot,gun,25,M,H,San Antonio,TX,False,attack,,True,-98.624,29.407,True
+6789,Robert Douglas Delgado,2021-04-16,shot,toy weapon,46,M,,Portland,OR,False,other,,False,-122.572,45.487,True
 6785,,2021-04-17,shot,gun,,M,,Alameda County,CA,False,attack,,False,-122.061,37.668,False
 6821,Smoky Crockett,2021-04-17,shot,gun,60,M,,Fort Lupton,CO,False,attack,Not fleeing,False,-104.762,40.109,True
 6823,,2021-04-17,shot,undetermined,,M,,Kingman,AZ,False,undetermined,Car,False,-114.039,35.267,True
