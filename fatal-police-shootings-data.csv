@@ -6147,6 +6147,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6718,,2021-03-16,shot,vehicle,,M,,Hayward,CA,False,attack,Car,False,-122.065,37.607,True
 6710,Shawn Myers,2021-03-17,shot,gun,36,M,W,Wylie,TX,False,other,Not fleeing,False,-96.548,33.007,True
 6716,,2021-03-17,shot,gun,,M,,Pensacola,FL,False,other,Not fleeing,False,-87.143,30.333,True
+6850,Matthew Hurlock,2021-03-17,shot,knife,35,M,,Cypress,TX,False,other,,True,-95.65,29.965,True
 6708,David Suarez,2021-03-17,shot and Tasered,undetermined,44,M,N,Devils Lake,ND,False,other,Other,False,-99.126,47.975,True
 6714,Daryl L. Jordan,2021-03-18,shot,gun,50,M,B,Miami,FL,True,attack,Other,False,-80.352,25.607,True
 6715,Leonard John Popa,2021-03-18,shot,gun,79,M,W,Pasadena,MD,True,attack,Not fleeing,False,-76.442,39.138,True
@@ -6168,7 +6169,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6733,Donovon W. Lynch,2021-03-26,shot,undetermined,25,M,B,Virginia Beach,VA,False,undetermined,,False,-75.977,36.847,True
 6735,Steven Michael Kielian,2021-03-26,shot,gun,32,M,W,Weld County,CO,False,attack,Foot,False,-104.564,40.493,True
 6737,Eric Leach,2021-03-26,shot,gun,36,M,W,Quincy,MA,False,other,Car,False,-71.005,42.243,True
-6732,Krys Brandon Ruiz,2021-03-28,shot,knife,26,M,H,Lompoc,CA,False,other,Not fleeing,False,-120.458,34.639,True
+6732,Krys Brandon Ruiz,2021-03-28,shot,knife,26,M,H,Lompoc,CA,False,other,Not fleeing,True,-120.458,34.639,True
 6728,Matthew Blaylock,2021-03-29,shot,gun,38,M,B,Los Angeles,CA,False,other,Foot,False,-118.264,34.051,True
 6729,Adam Toledo,2021-03-29,shot,undetermined,13,M,H,Chicago,IL,False,other,Foot,True,-87.708,41.85,True
 6731,Robert Lee Canchola,2021-03-29,shot,gun,33,M,,Corpus Christi,TX,False,attack,Foot,True,-97.407,27.711,True
@@ -6258,7 +6259,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6801,Benjamin Ridley,2021-04-24,shot,gun,29,M,W,Webbers Falls,OK,False,other,,False,-95.171,35.553,True
 6802,Marvin Veiga,2021-04-24,shot,knife,32,M,,Nashville,TN,False,other,Not fleeing,True,-86.831,36.194,True
 6804,Richard Solitro,2021-04-24,shot,undetermined,34,M,W,Los Angeles,CA,True,other,Not fleeing,True,-118.362,34.098,True
-6810,Dalton James Gerrit Kooiman,2021-04-27,shot,gun,20,M,,Bakersfield,CA,False,attack,Other,False,-118.943,35.347,True
+6810,Dalton James Gerrit Kooiman,2021-04-27,shot,gun,20,M,,Bakersfield,CA,False,attack,Other,True,-118.943,35.347,True
 6808,,2021-04-29,shot,gun,,M,,Los Angeles,CA,False,attack,,False,-117.827,34.598,True
 6809,Joe Robideau,2021-04-29,shot,gun,21,M,,Lincoln County,MO,False,attack,Car,False,-90.982,39.067,True
 6817,Hanad Abdiaziz,2021-04-30,shot,gun,25,M,,Kansas City,MO,False,attack,Not fleeing,False,-94.576,39.104,True
@@ -6273,9 +6274,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6837,William Holt,2021-05-05,shot,gun,49,M,,Las Vegas,NV,False,attack,Not fleeing,False,-115.108,36.159,True
 6843,Robbie Leigh Hodge,2021-05-07,shot,gun,52,M,,Rutledge,TN,False,attack,Not fleeing,False,-83.472,36.279,True
 6839,Adonis Traughber,2021-05-08,shot,gun,54,M,,Clarksville,TN,False,attack,Not fleeing,False,-87.356,36.585,True
-6840,,2021-05-08,shot,undetermined,,M,,Oklahoma City,OK,False,attack,,False,-97.583,35.505,True
+6840,Daniel Hobbs,2021-05-08,shot,Taser,,M,,Oklahoma City,OK,False,attack,,True,-97.583,35.505,True
 6845,Felix Jerry Marquez,2021-05-08,shot,gun,34,M,,Riverside,CA,False,attack,Not fleeing,False,-117.392,33.958,True
 6846,Sagar Ghimire,2021-05-08,shot,gun,,M,O,Baltimore,MD,True,attack,Not fleeing,False,,,True
 6841,Jeffrey Mark Murray,2021-05-09,shot,gun,62,M,,Greenville,SC,False,attack,Not fleeing,False,,,True
-6842,,2021-05-09,shot,gun,,M,,Lancaster,TX,False,attack,,False,-96.806,32.604,True
-6844,,2021-05-09,shot,gun,,M,W,Leicester,MA,False,attack,Not fleeing,False,-71.903,42.244,True
+6842,Kalon Horton,2021-05-09,shot,gun,29,M,,Lancaster,TX,True,attack,,False,-96.806,32.604,True
+6844,Zachary Richardson,2021-05-09,shot,gun,24,M,W,Leicester,MA,False,attack,Not fleeing,False,-71.903,42.244,True
+6857,Christian Castro,2021-05-11,shot,knife,27,M,,Boynton Beach,FL,False,undetermined,,False,-80.092,26.552,True
+6859,Lance Lowe,2021-05-11,shot,gun,30,M,B,Stockton,CA,False,attack,Not fleeing,False,-121.296,37.993,True
+6853,Demilo Hodge,2021-05-12,shot,gun,45,M,,Emeryville,CA,False,attack,Car,False,-122.296,37.838,True
+6851,Aaron Schneider,2021-05-14,shot,gun,33,M,,Fremont,NE,True,attack,,False,-96.476,41.429,True
+6852,Mark Gaskill,2021-05-14,shot,gun,28,M,,Rochester,NY,False,other,Car,False,-77.64,43.161,True
+6854,,2021-05-14,shot,gun,,M,,Pennington County,SD,False,attack,,False,-103.091,44.07,True
+6855,,2021-05-14,shot,gun,,M,,Denver,CO,False,other,Car,False,-105.04,39.718,True
+6848,,2021-05-15,shot,gun,,M,W,Birmingham,AL,False,undetermined,,False,-86.8,33.5,True
+6849,,2021-05-16,shot,knife,,M,,Baltimore,MD,False,other,,True,-76.593,39.311,True
+6858,,2021-05-16,shot,gun,,M,W,Omaha,NE,False,attack,Not fleeing,False,-95.975,41.22,True
