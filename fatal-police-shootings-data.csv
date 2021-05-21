@@ -6236,7 +6236,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6789,Robert Douglas Delgado,2021-04-16,shot,toy weapon,46,M,,Portland,OR,False,other,,False,-122.572,45.487,True
 6785,,2021-04-17,shot,gun,,M,,Alameda County,CA,False,attack,,False,-122.061,37.668,False
 6821,Smoky Crockett,2021-04-17,shot,gun,60,M,,Fort Lupton,CO,False,attack,Not fleeing,False,-104.762,40.109,True
-6823,,2021-04-17,shot,undetermined,,M,,Kingman,AZ,False,undetermined,Car,False,-114.039,35.267,True
+6823,Bradley Rose,2021-04-17,shot,undetermined,29,M,,Kingman,AZ,False,other,Car,False,-114.039,35.267,True
 6824,Matthew Harry,2021-04-17,shot,gun,26,M,,Hayward,CA,False,attack,Not fleeing,True,-122.06,37.668,True
 6825,Juan James Cordova,2021-04-17,shot,gun,51,M,,Ventana Ranch,NM,False,attack,Not fleeing,False,,,True
 6782,Larry Jenkins,2021-04-17,shot and Tasered,gun,52,M,B,Winter Haven,FL,False,other,Not fleeing,False,-81.68,28.009,True
@@ -6285,8 +6285,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6853,Demilo Hodge,2021-05-12,shot,gun,45,M,,Emeryville,CA,False,attack,Car,False,-122.296,37.838,True
 6851,Aaron Schneider,2021-05-14,shot,gun,33,M,,Fremont,NE,True,attack,,False,-96.476,41.429,True
 6852,Mark Gaskill,2021-05-14,shot,gun,28,M,,Rochester,NY,False,other,Car,False,-77.64,43.161,True
-6854,,2021-05-14,shot,gun,,M,,Pennington County,SD,False,attack,,False,-103.091,44.07,True
+6854,,2021-05-14,shot,gun,,M,,Pennington County,SD,True,attack,,False,-103.091,44.07,True
 6855,,2021-05-14,shot,gun,,M,,Denver,CO,False,other,Car,False,-105.04,39.718,True
 6848,,2021-05-15,shot,gun,,M,W,Birmingham,AL,False,undetermined,,False,-86.8,33.5,True
-6849,,2021-05-16,shot,knife,,M,,Baltimore,MD,False,other,,True,-76.593,39.311,True
-6858,,2021-05-16,shot,gun,,M,W,Omaha,NE,False,attack,Not fleeing,False,-95.975,41.22,True
+6849,Timothy Fleming,2021-05-16,shot,knife,49,M,,Baltimore,MD,False,other,,True,-76.593,39.311,True
+6858,Deven Telford,2021-05-16,shot,gun,34,M,W,Omaha,NE,True,attack,Not fleeing,False,-95.975,41.22,True
