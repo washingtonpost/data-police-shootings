@@ -6319,3 +6319,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6884,Darren Dejuan Chandler,2021-05-25,shot,gun,34,M,,Lenexa,KS,False,other,,False,-94.706,38.983,True
 6889,James Sears,2021-05-26,shot,gun,38,M,,Columbia,MO,False,other,,False,-92.308,38.93,True
 6890,Efren Gomez,2021-05-26,shot,scissors,80,M,,San Tan Valley,AZ,False,other,Not fleeing,False,-111.617,33.176,True
+6897,Ryan Bernal,2021-05-30,shot,gun,32,M,,Louisville,KY,False,attack,Not fleeing,False,-85.793,38.195,True
+6899,Hank Miller,2021-05-30,shot,vehicle,48,M,,Antlers,OK,False,other,Car,False,,,True
+6901,Shannon Wright,2021-05-30,shot,gun,29,M,,Denver,CO,False,attack,Not fleeing,False,-105.005,39.711,True
+6894,Joshua Lee Moore,2021-05-31,shot,gun,33,M,,Tucson,AZ,False,attack,Not fleeing,False,-110.973,32.272,True
+6895,"David Tovar, Jr.",2021-05-31,shot,gun,27,M,,San Jose,CA,False,attack,Not fleeing,False,-121.866,37.384,True
+6896,Roger Dale Keller,2021-05-31,shot,gun,71,M,,Jemison,AL,False,attack,Not fleeing,False,-86.77,33.052,True
+6900,,2021-05-31,shot,gun,49,M,,Milwaukee,WI,False,attack,Not fleeing,False,-87.951,42.996,True
+6893,,2021-06-01,shot,gun,,M,,Independence,KY,False,attack,Not fleeing,False,-84.514,38.951,True
+6898,Robert Pearce,2021-06-01,shot,toy weapon,37,M,,Berwick,LA,False,other,Foot,False,-91.221,29.692,True
