@@ -480,7 +480,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 600,Bryan David Bauer,2015-07-04,shot,gun,36,M,W,Henderson,NV,False,attack,Not fleeing,False,-115.043,36.057,True
 592,John Deming,2015-07-05,shot,unarmed,19,M,W,Pleasanton,CA,False,attack,Foot,False,-121.872,37.662,True
 593,Michael Holt,2015-07-05,shot,gun,35,M,W,Austin,TX,False,attack,Foot,False,-97.74,30.269,True
-605,Johnny Ray Anderson,2015-07-05,shot,unarmed,43,M,W,Hawaiian Gardens,CA,False,other,Not fleeing,False,-118.071,33.833,True
+605,Johnny Ray Anderson,2015-07-05,shot,unarmed,43,M,H,Hawaiian Gardens,CA,False,other,Not fleeing,False,-118.071,33.833,True
 594,Richard Munroe,2015-07-05,shot and Tasered,toy weapon,25,M,W,Austin,TX,True,attack,Not fleeing,False,-97.702,30.38,True
 590,Tyler Rogers,2015-07-06,shot,gun,20,M,W,Oklahoma City,OK,False,attack,Not fleeing,False,-97.576,35.418,True
 606,Hagen Esty-Lennon,2015-07-06,shot,knife,42,M,W,Bath,NH,True,other,Not fleeing,True,-71.976,44.153,True
@@ -953,7 +953,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1095,Mark Toney,2015-12-14,shot,gun,33,M,W,Mount Hope,WV,False,attack,Not fleeing,False,-81.159,37.895,True
 1088,Jeffrey Gene Evans,2015-12-14,shot and Tasered,knife,52,M,W,Middle River,MD,True,other,Not fleeing,False,-76.372,39.304,True
 1096,Ronnie Dubose Carter,2015-12-15,shot,,51,M,B,Dallas,NC,False,attack,Car,False,-81.202,35.38,True
-1097,Bryant Neil Duncan,2015-12-16,shot,knife,,M,W,Camarillo,CA,True,attack,Not fleeing,False,-119.051,34.219,True
+1097,Bryant Neil Duncan,2015-12-16,shot,knife,23,M,W,Camarillo,CA,True,attack,Not fleeing,False,-119.051,34.219,True
 1098,Douglas Yon,2015-12-17,shot,machete,25,M,W,Kent,OH,True,other,Not fleeing,False,-81.34,41.163,True
 1099,Christopher Fletcher,2015-12-17,shot,gun,24,M,W,Modesto,CA,False,attack,Other,False,-120.999,37.639,True
 1100,Erica Lauro,2015-12-18,shot,gun,22,F,W,Northwood,OH,False,attack,Other,False,-83.462,41.618,True
@@ -1552,7 +1552,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1835,Michael Adams,2016-07-27,shot,knife,33,M,W,Estill Springs,TN,False,other,Foot,True,-86.132,35.265,True
 1737,Jorge Moreno-Aguirre,2016-07-28,shot,gun,41,M,H,Sparks,NV,False,other,Not fleeing,False,-119.745,39.551,True
 1741,Jeffrey Smith,2016-07-28,shot,undetermined,47,M,B,La Quinta,CA,False,other,Car,False,-116.269,33.697,True
-1742,Paul O'Neal,2016-07-28,shot,,18,M,B,Chicago,IL,False,other,Car,True,,,True
+1742,Paul O'Neal,2016-07-28,shot,unarmed,18,M,B,Chicago,IL,False,other,Car,True,,,True
 1743,Jesus Rael,2016-07-28,shot,gun,31,M,H,Tucson,AZ,False,attack,Other,False,-110.969,32.178,True
 1744,Donnell Thompson,2016-07-28,shot,unarmed,27,M,B,Compton,CA,False,attack,Other,False,-118.246,33.91,True
 1745,Omar Gonzalez,2016-07-28,shot,undetermined,36,M,H,City Terrace,CA,False,other,Car,True,-118.193,34.053,True
@@ -6331,12 +6331,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6898,Robert Pearce,2021-06-01,shot,toy weapon,37,M,,Berwick,LA,False,other,Foot,False,-91.221,29.692,True
 6904,Donald Myers,2021-06-01,shot,knife,48,M,W,Ray City,GA,False,other,Not fleeing,False,-83.197,31.066,True
 6914,Christopher Dyess,2021-06-01,shot,undetermined,43,M,,Sumrall,MS,False,undetermined,,False,-89.555,31.423,True
-6906,,2021-06-02,shot,gun,,M,,Arvada,CO,False,attack,Car,False,-105.102,39.845,True
-6903,,2021-06-02,shot and Tasered,gun,,M,,Hot Springs,AR,False,attack,Other,False,-93.195,34.502,True
+6906,Eugene Matthews,2021-06-02,shot,gun,24,M,,Arvada,CO,False,attack,Car,False,-105.102,39.845,True
+6903,Timothy Andrew Kemp,2021-06-02,shot and Tasered,gun,,M,,Hot Springs,AR,False,attack,Other,False,-93.195,34.502,True
+6923,Winston Smith,2021-06-03,shot,gun,32,M,,Minneapolis,MN,False,other,,False,-93.296,44.948,True
 6910,Raymond Edwards,2021-06-04,shot,sharp object,45,M,,Tucson,AZ,False,other,Not fleeing,False,-110.815,32.216,True
 6911,,2021-06-04,shot,gun,,M,,Whittier,CA,False,other,,False,-118.045,33.973,True
 6915,Timothy Flowers,2021-06-04,shot,gun,,M,,Rochester,NY,False,attack,,False,-77.608,43.181,True
+6924,Jerry Henley,2021-06-04,shot,undetermined,42,M,,Overton County,TN,False,undetermined,,False,-85.424,36.344,True
 6908,,2021-06-05,shot,gun,28,M,,Tulsa,OK,False,attack,,False,-95.993,36.154,True
 6909,Muang Tway,2021-06-05,shot,knife,34,M,,Green Forest,AR,False,other,,False,-93.439,36.333,True
 6913,Stephen Neil Weigand,2021-06-05,shot,gun,29,M,,Spalding County,GA,False,attack,Car,False,-84.29,33.319,True
-6907,,2021-06-07,shot,undetermined,,M,,Happy Valley,OR,False,other,Other,False,-122.538,45.433,True
+6907,Jeremiah Lee Wright,2021-06-07,shot,undetermined,,M,,Happy Valley,OR,False,other,Other,False,-122.538,45.433,True
+6918,Daniel Ojeda,2021-06-07,shot,undetermined,47,M,,Scottsbluff,NE,False,undetermined,,False,-103.69,41.863,True
+6920,Clay Willingham,2021-06-07,shot,gun,32,M,,Jefferson City,MO,False,other,Not fleeing,False,-92.255,38.589,True
+6921,Antonio Diaz,2021-06-07,shot,gun,39,M,,Round Rock,TX,False,other,,True,-97.687,30.48,True
+6922,,2021-06-07,shot,knife,,M,,Bayonne,NJ,True,other,,False,-74.135,40.646,True
+6917,Kevin Christopher Caldwell,2021-06-08,shot,gun,33,M,,Columbus,GA,False,attack,Car,False,-84.82,32.541,True
+6919,Terrell Gas,2021-06-09,shot,gun,36,M,,Atlanta,GA,False,other,Other,False,-84.473,33.616,True
