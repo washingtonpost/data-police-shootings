@@ -6356,15 +6356,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6930,Luis Rey Ruiz,2021-06-13,shot,gun,20,M,H,Acworth,GA,False,attack,Foot,False,-84.721,34.054,True
 6943,Ryan Santos,2021-06-13,shot,gun,34,M,,Hilo,HI,False,attack,Not fleeing,True,-155.093,19.742,True
 6945,Duane Manzanares,2021-06-13,shot,gun,30,M,,Denver,CO,False,other,Not fleeing,False,-104.885,39.74,True
-6942,,2021-06-14,shot,knife,,M,,Calexico,CA,False,attack,Not fleeing,False,-115.497,32.668,True
+6942,,2021-06-14,shot,knife,65,M,H,Calexico,CA,False,attack,Not fleeing,True,-115.497,32.668,True
 6944,Evin Kimberly Payne,2021-06-14,shot,unknown weapon,54,M,,Abbeville,SC,False,other,Not fleeing,False,-82.632,34.243,True
 6946,Anthony Hannon,2021-06-14,shot,gun,52,M,,Pittsfield,NH,False,attack,Not fleeing,False,-71.333,43.307,True
 6990,Jose Antonio Ruiz,2021-06-14,shot,gun,25,M,H,Bakersfield,CA,False,attack,Other,True,-118.985,35.352,True
-6939,Solomon Jamison,2021-06-15,shot,gun,28,M,,Jackson,MS,True,attack,Not fleeing,False,-90.151,32.359,True
-6940,Perry Boyd,2021-06-15,shot,gun,56,M,,Wolcott,IN,False,attack,Not fleeing,False,,,True
-6941,Nathaniel Damien Raabe,2021-06-15,shot,gun,48,M,,Westmoreland,TN,True,attack,Not fleeing,False,,,True
-6956,,2021-06-15,shot,gun,,M,,Temecula,CA,False,other,Other,False,-117.182,33.743,True
-6958,Perry Boyd,2021-06-15,shot,gun,56,M,,Wolcott,IN,False,attack,Foot,False,-87.045,40.757,True
+6939,Solomon Jamison,2021-06-15,shot,gun,28,M,B,Jackson,MS,True,attack,Not fleeing,False,-90.151,32.359,True
+6941,Nathaniel Damien Raabe,2021-06-15,shot,gun,48,M,W,Westmoreland,TN,True,attack,Not fleeing,False,,,True
+6956,,2021-06-15,shot,vehicle and gun,,M,,Menifee,CA,False,attack,Other,False,-117.182,33.743,True
+6958,Perry E. Boyd,2021-06-15,shot,gun,56,M,W,Wolcott,IN,False,attack,Foot,False,-87.045,40.757,True
 6935,Kendall A. Jamerson,2021-06-16,shot,gun,35,M,,Amherst County,VA,False,attack,Other,False,-79.246,37.774,True
 6937,Billy Barker,2021-06-16,shot,undetermined,44,M,W,Bessemer City,NC,False,other,Foot,False,-81.279,35.294,True
 6938,John Earle Barnes,2021-06-16,shot,toy weapon,,M,,Alford,FL,True,attack,Not fleeing,False,-85.398,30.658,True
