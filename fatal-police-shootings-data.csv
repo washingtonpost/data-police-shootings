@@ -6364,18 +6364,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6941,Nathaniel Damien Raabe,2021-06-15,shot,gun,48,M,W,Westmoreland,TN,True,attack,Not fleeing,False,,,True
 6956,,2021-06-15,shot,vehicle and gun,,M,,Menifee,CA,False,attack,Other,False,-117.182,33.743,True
 6958,Perry E. Boyd,2021-06-15,shot,gun,56,M,W,Wolcott,IN,False,attack,Foot,False,-87.045,40.757,True
-6935,Kendall A. Jamerson,2021-06-16,shot,gun,35,M,,Amherst County,VA,False,attack,Other,False,-79.246,37.774,True
+6934,Ansy Dolce,2021-06-16,shot,vehicle,29,M,B,Holly Springs,GA,False,attack,Not fleeing,False,,,True
+6935,Kendall Allen Jamerson,2021-06-16,shot,vehicle and gun,35,M,W,Amherst County,VA,False,attack,Other,False,-79.246,37.774,True
 6937,Billy Barker,2021-06-16,shot,undetermined,44,M,W,Bessemer City,NC,False,other,Foot,False,-81.279,35.294,True
 6938,John Earle Barnes,2021-06-16,shot,toy weapon,,M,,Alford,FL,True,attack,Not fleeing,False,-85.398,30.658,True
 6955,David Aaron King,2021-06-16,shot,knife,40,M,,Harrison,AR,False,other,Not fleeing,False,-93.109,36.252,True
 6957,,2021-06-16,shot,undetermined,,M,,Leonia,NJ,False,undetermined,,False,-73.986,40.874,True
-6934,Ansy Dolce,2021-06-17,shot,vehicle,29,M,,Holly Springs,GA,False,attack,Not fleeing,False,,,True
 6954,Daniel Ray,2021-06-17,shot,gun,35,M,,Covington,KY,False,attack,Not fleeing,False,-84.502,39.054,True
 6951,Daniel Buckingham,2021-06-18,shot,knife,31,M,,Hilo,HI,False,attack,Not fleeing,True,-155.071,19.699,True
 6953,Eric Scott Anderson,2021-06-18,shot,gun,40,M,,Encinitas,CA,False,other,,False,-117.297,33.073,True
 6947,Briana Sykes,2021-06-19,shot,gun,19,F,,Flint,MI,False,attack,,False,-83.676,42.99,True
 6950,Tyler Hodge,2021-06-19,shot,gun,28,M,,Wichita,KS,False,attack,Not fleeing,True,-97.342,37.631,True
-6952,Jeff Melvin,2021-06-19,shot,gun,20,M,,Lee County,AL,True,attack,,False,-85.181,32.502,True
+6952,Jeff Melvin,2021-06-19,shot,gun,20,M,B,Lee County,AL,True,attack,,False,-85.181,32.502,True
 6948,Dario Dominguez,2021-06-20,shot,gun,25,M,H,Kansas City,KS,False,attack,Other,True,-94.65,39.129,True
 6978,Mickey Ray Rice,2021-06-20,shot,undetermined,31,M,,Graham County,NC,False,undetermined,,False,-83.768,35.271,True
 6972,John Hurley,2021-06-21,shot,gun,40,M,,Arvada,CO,False,attack,Not fleeing,False,-105.08,39.801,True
