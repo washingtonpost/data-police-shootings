@@ -6373,17 +6373,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6954,Daniel Ray,2021-06-17,shot,gun,35,M,,Covington,KY,False,attack,Not fleeing,False,-84.502,39.054,True
 6951,Daniel Buckingham,2021-06-18,shot,knife,31,M,,Hilo,HI,False,attack,Not fleeing,True,-155.071,19.699,True
 6953,Eric Scott Anderson,2021-06-18,shot,gun,40,M,,Encinitas,CA,False,other,,False,-117.297,33.073,True
-6947,Briana Sykes,2021-06-19,shot,gun,19,F,,Flint,MI,False,attack,,False,-83.676,42.99,True
+6947,Briana Sykes,2021-06-19,shot,gun,19,F,B,Flint,MI,False,attack,,False,-83.676,42.99,True
 6950,Tyler Hodge,2021-06-19,shot,gun,28,M,,Wichita,KS,False,attack,Not fleeing,True,-97.342,37.631,True
 6952,Jeff Melvin,2021-06-19,shot,gun,20,M,B,Lee County,AL,True,attack,,False,-85.181,32.502,True
 6948,Dario Dominguez,2021-06-20,shot,gun,25,M,H,Kansas City,KS,False,attack,Other,True,-94.65,39.129,True
-6978,Mickey Ray Rice,2021-06-20,shot,undetermined,31,M,,Graham County,NC,False,undetermined,,False,-83.768,35.271,True
-6972,John Hurley,2021-06-21,shot,gun,40,M,,Arvada,CO,False,attack,Not fleeing,False,-105.08,39.801,True
-6973,Hunter Brittain,2021-06-21,shot,undetermined,17,M,,Lonoke,AR,False,undetermined,,False,-91.9,34.784,True
+6978,Mickey Ray Rice,2021-06-20,shot,BB gun,31,M,W,Graham County,NC,False,other,Car,False,-83.768,35.271,True
+6972,John Hurley,2021-06-21,shot,gun,40,M,W,Arvada,CO,False,attack,Not fleeing,False,-105.08,39.801,True
+6973,Hunter Brittain,2021-06-21,shot,undetermined,17,M,W,Lonoke,AR,False,undetermined,,False,-91.9,34.784,True
 6988,Alexander Matthew Collins,2021-06-22,shot,gun,27,M,,Covington,GA,False,attack,,False,-83.915,33.478,True
 6998,Willie Salazar,2021-06-22,shot,gun,33,M,,Murray,UT,False,attack,,False,-111.871,40.654,True
 7000,De'Shon Hill,2021-06-22,shot,gun,39,M,,Luray,VA,True,attack,Not fleeing,False,-78.468,38.666,True
-7001,Noah Sharp,2021-06-22,shot,gun,26,M,,De Soto,MO,False,attack,,False,-90.559,38.152,True
+7001,Noah D. Sharp,2021-06-22,shot,gun,26,M,,De Soto,MO,False,attack,,False,-90.559,38.152,True
 6993,Francisco Javier Lino-Gutierrez,2021-06-23,shot,gun,29,M,,Santa Fe,NM,False,attack,Foot,False,-105.938,35.686,True
 6994,Robert Alan Blackburn,2021-06-23,shot,knife,39,M,,Walnut,MS,True,attack,Foot,False,-88.715,34.935,True
 6995,,2021-06-23,shot,gun,,M,,Surprise,AZ,False,attack,Not fleeing,False,-112.418,33.691,True
