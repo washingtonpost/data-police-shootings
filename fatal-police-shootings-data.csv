@@ -6385,20 +6385,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7000,De'Shon Hill,2021-06-22,shot,gun,39,M,B,Luray,VA,True,attack,Not fleeing,False,-78.468,38.666,True
 7001,Noah D. Sharp,2021-06-22,shot,gun,26,M,,De Soto,MO,False,attack,,False,-90.559,38.152,True
 6993,Francisco Javier Lino-Gutierrez,2021-06-23,shot,gun,29,M,,Santa Fe,NM,False,attack,Foot,False,-105.938,35.686,True
-6994,Robert Alan Blackburn,2021-06-23,shot,knife,39,M,,Walnut,MS,True,attack,Foot,False,-88.715,34.935,True
 6995,Michael Gerhart,2021-06-23,shot,gun,22,M,,Surprise,AZ,False,attack,Not fleeing,False,-112.418,33.691,True
 6996,,2021-06-23,shot,vehicle and gun,,M,,Santa Fe,NM,False,attack,Car,False,-105.993,35.659,True
 6997,Earl Fitzgerald Hunter,2021-06-23,shot,gun,40,M,B,Greenville,SC,False,other,,False,-82.458,34.916,True
 6999,,2021-06-23,shot,undetermined,,M,B,Norwalk,CA,False,other,Car,False,-118.077,33.888,True
+6994,Robert Alan Blackburn,2021-06-23,shot and Tasered,knife,39,M,,Walnut,MS,True,other,Foot,False,-88.715,34.935,True
 6966,Gary Deering,2021-06-24,shot,gun,,M,,Stockton Lake,MO,True,undetermined,Not fleeing,False,,,True
 6971,Michael Ray Townsend,2021-06-24,shot,undetermined,40,M,W,Portland,OR,True,undetermined,Not fleeing,False,-122.661,45.53,True
 6983,Yonatan Aguilera,2021-06-24,shot,gun,40,M,,Cumming,GA,False,other,Not fleeing,False,-84.129,34.225,True
 6984,,2021-06-24,shot,undetermined,45,M,,Iron River,MI,False,undetermined,,False,-88.642,46.093,True
-6985,Chad Necessary,2021-06-24,shot,unknown weapon,48,M,,Washington,NC,False,other,,False,-77.142,35.579,True
-6986,Ted Frank Tippy,2021-06-24,shot,gun,52,M,,Monroe,GA,False,attack,Not fleeing,False,-83.749,33.85,True
-6987,Steven Jesse Dylan Thompson,2021-06-24,shot,gun,29,M,,Barrow County,GA,False,other,Car,False,-83.835,33.995,True
+6985,Chad Necessary,2021-06-24,shot,unknown weapon,48,M,W,Washington,NC,False,other,,False,-77.142,35.579,True
+6986,Ted Frank Tippy,2021-06-24,shot,gun,52,M,W,Monroe,GA,False,attack,Not fleeing,False,-83.749,33.85,True
+6987,Steven Jesse Dylan Thompson,2021-06-24,shot,gun,29,M,,Barrow County,GA,False,attack,Car,False,-83.835,33.995,True
 6991,Abraham Torres Meza,2021-06-24,shot,gun,30,M,,Bakersfield,CA,False,other,Other,False,-119.023,35.337,True
-6992,William Dean Hewitt,2021-06-24,shot,gun,,M,,Whiteville,NC,False,other,,False,-78.723,34.302,True
+6992,William Dean Hewett,2021-06-24,shot,gun,54,M,W,Whiteville,NC,False,other,,False,-78.723,34.302,True
 6965,Michael Anthony Frederick,2021-06-25,shot,gun,54,M,,McDonald,TN,True,attack,Not fleeing,True,-84.983,35.113,True
 6967,Dimitri Lanahan,2021-06-25,shot,toy weapon,23,M,W,Fairbanks,AK,False,attack,Not fleeing,False,-147.864,64.816,True
 6979,Dennis Delgado,2021-06-25,shot,gun,60,M,,Kansas City,KS,False,other,,False,-94.693,39.049,True
