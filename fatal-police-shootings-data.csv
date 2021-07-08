@@ -6382,13 +6382,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6973,Hunter Brittain,2021-06-21,shot,undetermined,17,M,W,Lonoke,AR,False,undetermined,,False,-91.9,34.784,True
 6988,Alexander Matthew Collins,2021-06-22,shot,gun,27,M,,Covington,GA,False,attack,,False,-83.915,33.478,True
 6998,Willie Salazar,2021-06-22,shot,gun,33,M,,Murray,UT,False,attack,,False,-111.871,40.654,True
-7000,De'Shon Hill,2021-06-22,shot,gun,39,M,,Luray,VA,True,attack,Not fleeing,False,-78.468,38.666,True
+7000,De'Shon Hill,2021-06-22,shot,gun,39,M,B,Luray,VA,True,attack,Not fleeing,False,-78.468,38.666,True
 7001,Noah D. Sharp,2021-06-22,shot,gun,26,M,,De Soto,MO,False,attack,,False,-90.559,38.152,True
 6993,Francisco Javier Lino-Gutierrez,2021-06-23,shot,gun,29,M,,Santa Fe,NM,False,attack,Foot,False,-105.938,35.686,True
 6994,Robert Alan Blackburn,2021-06-23,shot,knife,39,M,,Walnut,MS,True,attack,Foot,False,-88.715,34.935,True
-6995,,2021-06-23,shot,gun,,M,,Surprise,AZ,False,attack,Not fleeing,False,-112.418,33.691,True
-6996,,2021-06-23,shot,gun,,M,,Santa Fe,NM,False,attack,Car,False,-105.993,35.659,True
-6997,Earl Fitzgerald Hunter,2021-06-23,shot,gun,40,M,,Greenville,SC,False,other,,False,-82.458,34.916,True
+6995,Michael Gerhart,2021-06-23,shot,gun,22,M,,Surprise,AZ,False,attack,Not fleeing,False,-112.418,33.691,True
+6996,,2021-06-23,shot,vehicle and gun,,M,,Santa Fe,NM,False,attack,Car,False,-105.993,35.659,True
+6997,Earl Fitzgerald Hunter,2021-06-23,shot,gun,40,M,B,Greenville,SC,False,other,,False,-82.458,34.916,True
 6999,,2021-06-23,shot,undetermined,,M,B,Norwalk,CA,False,other,Car,False,-118.077,33.888,True
 6966,Gary Deering,2021-06-24,shot,gun,,M,,Stockton Lake,MO,True,undetermined,Not fleeing,False,,,True
 6971,Michael Ray Townsend,2021-06-24,shot,undetermined,40,M,W,Portland,OR,True,undetermined,Not fleeing,False,-122.661,45.53,True
