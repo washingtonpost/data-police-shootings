@@ -6379,17 +6379,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6948,Dario Dominguez,2021-06-20,shot,gun,25,M,H,Kansas City,KS,False,attack,Other,True,-94.65,39.129,True
 6978,Mickey Ray Rice,2021-06-20,shot,BB gun,31,M,W,Graham County,NC,False,other,Car,False,-83.768,35.271,True
 6972,John Hurley,2021-06-21,shot,gun,40,M,W,Arvada,CO,False,attack,Not fleeing,False,-105.08,39.801,True
-6973,Hunter Brittain,2021-06-21,shot,undetermined,17,M,W,Lonoke,AR,False,undetermined,,False,-91.9,34.784,True
+6973,Hunter Brittain,2021-06-21,shot,undetermined,17,M,W,Lonoke,AR,False,undetermined,,True,-91.9,34.784,True
 6988,Alexander Matthew Collins,2021-06-22,shot,gun,27,M,,Covington,GA,False,attack,,False,-83.915,33.478,True
 6998,Willie Salazar,2021-06-22,shot,gun,33,M,,Murray,UT,False,attack,,False,-111.871,40.654,True
 7000,De'Shon Hill,2021-06-22,shot,gun,39,M,B,Luray,VA,True,attack,Not fleeing,False,-78.468,38.666,True
-7001,Noah D. Sharp,2021-06-22,shot,gun,26,M,,De Soto,MO,False,attack,,False,-90.559,38.152,True
+7001,Noah D. Sharp,2021-06-22,shot,gun,26,M,W,De Soto,MO,False,attack,,False,-90.559,38.152,True
 6993,Francisco Javier Lino-Gutierrez,2021-06-23,shot,gun,29,M,,Santa Fe,NM,False,attack,Foot,False,-105.938,35.686,True
 6995,Michael Gerhart,2021-06-23,shot,gun,22,M,,Surprise,AZ,False,attack,Not fleeing,False,-112.418,33.691,True
-6996,Nathan Roybal,2021-06-23,shot,vehicle and gun,32,M,,Santa Fe,NM,False,attack,Other,False,-105.993,35.659,True
+6996,Nathan Roybal,2021-06-23,shot,vehicle and gun,32,M,H,Santa Fe,NM,False,attack,Other,False,-105.993,35.659,True
 6997,Earl Fitzgerald Hunter,2021-06-23,shot,gun,40,M,B,Greenville,SC,False,other,,False,-82.458,34.916,True
 6999,,2021-06-23,shot,undetermined,,M,B,Norwalk,CA,False,other,Car,False,-118.077,33.888,True
-6994,Robert Alan Blackburn,2021-06-23,shot and Tasered,knife,39,M,,Walnut,MS,True,other,Foot,False,-88.715,34.935,True
+6994,Robert Alan Blackburn,2021-06-23,shot and Tasered,knife,39,M,W,Walnut,MS,True,other,Foot,False,-88.715,34.935,True
 6966,Gary Deering,2021-06-24,shot,undetermined,,M,,Stockton Lake,MO,True,undetermined,Not fleeing,False,,,True
 6971,Michael Ray Townsend,2021-06-24,shot,undetermined,40,M,W,Portland,OR,True,undetermined,Not fleeing,False,-122.661,45.53,True
 6983,Yonatan Aguilera,2021-06-24,shot,gun,40,M,,Cumming,GA,False,other,Not fleeing,False,-84.129,34.225,True
@@ -6409,29 +6409,50 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6980,Nicole Dechant,2021-06-27,shot,gun,29,F,W,Plainville,KS,False,other,,False,-99.298,39.229,True
 7003,Oscar Najera,2021-06-27,shot and Tasered,undetermined,25,M,,Roswell,NM,False,other,Car,False,-104.561,33.39,True
 6963,Tristan Trevino,2021-06-28,shot,gun,24,M,,Corpus Christi,TX,False,other,Not fleeing,False,-97.41,27.711,True
-6969,Robert Alire,2021-06-28,shot,knife,,M,,Commerce City,CO,True,attack,Not fleeing,False,-104.931,39.822,True
+6969,Robert Alire,2021-06-28,shot,knife,,M,H,Commerce City,CO,True,attack,Not fleeing,False,-104.931,39.822,True
 6970,,2021-06-28,shot,knife,,M,,Azusa,CA,False,other,Not fleeing,False,-117.918,34.141,True
 6977,,2021-06-28,shot,gun,,M,,Siskiyou County,CA,False,attack,Car,False,-122.192,41.635,True
-6962,Philip Sanders,2021-06-29,shot,gun,32,M,,Flour Bluff,TX,False,attack,Foot,False,-97.295,27.679,True
-6975,Larry Hunt,2021-06-29,shot,undetermined,58,M,,Bayard,NE,False,undetermined,,False,-103.322,41.752,True
-6974,John Hayden Inabinet,2021-06-30,shot,gun,51,M,,Calhoun County,SC,True,attack,,False,-80.86,33.634,True
+6962,Philip Sanders,2021-06-29,shot,gun,32,M,W,Flour Bluff,TX,False,attack,Foot,False,-97.295,27.679,True
+6975,Larry Hunt,2021-06-29,shot,undetermined,58,M,W,Bayard,NE,False,undetermined,,False,-103.322,41.752,True
+6974,John Hayden Inabinet,2021-06-30,shot,gun,51,M,W,Calhoun County,SC,True,attack,,False,-80.86,33.634,True
 6976,Joseph Lee Humbles,2021-06-30,shot,gun,29,M,,Atlanta,GA,False,attack,Not fleeing,False,-84.385,33.774,True
 7002,,2021-06-30,shot,gun,,M,,Florence,KY,False,attack,,False,-84.624,38.945,True
 7004,Lisa A. Short,2021-07-01,shot,gun,54,F,W,Kingsport,TN,False,other,,False,-82.572,36.559,True
-7005,John Reuben Turbe,2021-07-04,shot,gun,40,M,,Tampa,FL,False,attack,Foot,True,-82.401,27.978,True
-7013,Craig Locklear,2021-07-04,shot,gun,49,M,,Salemburg,NC,False,attack,Other,False,-78.487,35.009,True
+7005,John Reuben Turbe,2021-07-04,shot,gun,40,M,B,Tampa,FL,False,attack,Foot,True,-82.401,27.978,True
+7013,Craig Locklear,2021-07-04,shot,gun,49,M,N,Salemburg,NC,False,attack,Other,False,-78.487,35.009,True
 7020,Ricardo Torres,2021-07-04,shot,undetermined,32,M,,Olivia,MN,False,undetermined,,False,-94.988,44.777,True
 7022,,2021-07-04,shot,undetermined,,M,,Newton,NJ,False,undetermined,,False,-74.753,41.042,True
-7024,Matthew J. Morse,2021-07-04,shot,gun,36,M,,Ravenna Township,OH,False,other,,False,-81.273,41.19,True
+7024,Matthew J. Morse,2021-07-04,shot,gun,36,M,W,Ravenna Township,OH,False,other,,False,-81.273,41.19,True
 7018,Joseph D. McGrath,2021-07-06,shot,gun,52,M,W,Carterville,IL,False,attack,Not fleeing,False,-89.078,37.756,True
 7019,Steven Adam Calderon,2021-07-06,shot,gun,32,M,,Paso Robles,CA,False,attack,,False,-120.659,35.603,True
 7021,,2021-07-06,shot,gun,,M,,Houston,TX,False,attack,,False,-95.293,29.685,True
-7023,Shelby Ray Hardin,2021-07-06,shot,knife,33,M,,Danville,KY,False,attack,,False,-84.767,37.618,True
+7023,Shelby Ray Hardin,2021-07-06,shot,knife,33,M,W,Danville,KY,False,attack,,False,-84.767,37.618,True
 7007,,2021-07-07,shot,undetermined,,,,Tesuque,NM,False,undetermined,,False,-105.922,35.744,True
-7017,Jerry Allan Gunter,2021-07-07,shot,knife,34,M,,Medford,OR,False,other,Not fleeing,True,-122.855,42.372,True
+7017,Jerry Allan Gunter,2021-07-07,shot,knife,34,M,W,Medford,OR,False,other,Not fleeing,True,-122.855,42.372,True
 7010,,2021-07-08,shot,gun,,M,,New York,NY,False,attack,Foot,True,-73.918,40.696,True
 7012,,2021-07-08,shot,toy weapon,64,M,,Phoenix,AZ,True,attack,Not fleeing,False,-112.117,33.553,True
 7016,Shannon M. Wilcox,2021-07-08,shot,gun,53,M,,Presque Isle,ME,False,attack,,False,-68.016,46.672,True
 7009,Arcadia Castillo,2021-07-09,shot,knife,22,M,,Salem,OR,True,attack,,False,-122.987,44.956,True
 7011,Klevontaye White,2021-07-09,shot,gun,34,M,,Chicago,IL,False,attack,Not fleeing,True,-87.743,41.879,True
 7006,Randy Lee Jenkins,2021-07-10,shot,gun,37,M,W,Bennington Township,MI,False,attack,,False,-84.183,42.908,True
+7026,Jonathan Balchunas,2021-07-11,shot,gun,24,M,,North East,MD,False,other,Not fleeing,False,-75.958,39.629,True
+7044,Shawn Thomas,2021-07-11,shot,gun,36,M,H,Shiprock,NM,False,other,Car,False,-108.696,36.778,True
+7025,,2021-07-12,shot,undetermined,,M,,Ontario,CA,False,other,Car,False,-117.651,34.087,True
+7027,Johnny Ray Kirk,2021-07-12,shot,gun,22,M,,Escambia County,FL,False,attack,Not fleeing,True,-87.235,30.442,True
+7045,Jesse Joe Carranza,2021-07-13,shot,Taser,21,M,,Horizon City,TX,False,other,Not fleeing,False,-106.242,31.699,True
+7032,Craig Heinzen,2021-07-16,shot,gun,64,M,,Roswell,NM,False,attack,,False,-104.534,33.364,True
+7043,,2021-07-16,shot,gun,51,F,,Hailey,ID,False,attack,Car,False,-114.315,43.52,True
+7031,Maurice Mincey,2021-07-17,shot,gun,36,M,B,Savannah,GA,False,other,Not fleeing,True,-81.084,32.063,True
+7040,Jeffrey Scott,2021-07-17,shot,gun,30,M,,Las Vegas,NM,False,attack,Not fleeing,False,-105.235,35.586,True
+7042,Quentin Bogard,2021-07-17,shot,gun,,M,,Canton,MS,False,attack,Not fleeing,False,-90.067,32.608,True
+7039,Clint Dearman,2021-07-18,shot,gun,35,M,W,Malbis,AL,False,other,Car,True,-87.853,30.66,True
+7041,,2021-07-18,shot,gun,,M,,Houston,TX,False,attack,Not fleeing,False,-95.474,29.82,True
+7036,Jason Fralick,2021-07-19,shot,vehicle,43,M,,Cairo,GA,False,other,Car,True,-84.118,30.839,True
+7037,Michael Clifton,2021-07-19,shot,gun,50,M,W,Toledo,OH,True,attack,Other,True,,,True
+7030,Gerardo Martinez,2021-07-20,shot,BB gun,19,M,H,Salinas,CA,False,other,Not fleeing,True,,,True
+7038,Mitchell Shuller,2021-07-20,shot,gun,35,M,W,West Hanover Township,PA,True,attack,Not fleeing,False,-76.781,40.392,True
+7033,Shawn Tillison,2021-07-22,shot,gun,43,M,W,Duncan,OK,True,attack,Not fleeing,False,-97.95,34.499,True
+7034,Cullen Condon,2021-07-22,shot,gun,25,M,,Boerne,TX,False,attack,Not fleeing,False,-98.715,29.796,True
+7035,,2021-07-22,shot,gun,,M,,Philadelphia,PA,False,attack,Not fleeing,False,-75.129,39.995,True
+7028,,2021-07-24,shot,gun,,M,,Boise,ID,False,attack,Not fleeing,True,-116.215,43.634,True
+7029,Gabriel Parker,2021-07-25,shot,undetermined,38,M,B,Atlanta,GA,False,undetermined,Not fleeing,False,-84.475,33.797,True
