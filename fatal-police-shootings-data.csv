@@ -6480,4 +6480,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7066,Ent Wright,2021-08-03,shot,gun,76,M,,Waco,TX,False,attack,Not fleeing,False,-97.203,31.518,True
 7070,Antonio King,2021-08-03,shot,gun,22,M,,Nashville,TN,False,attack,Not fleeing,False,,,True
 7065,,2021-08-04,shot,unknown weapon,,M,,Mifflin Township,OH,False,other,Not fleeing,False,-82.393,40.758,True
-7067,,2021-08-04,shot,gun,,M,,Glendora,CA,False,attack,Not fleeing,False,-117.862,34.133,True
+7067,Dylan Harmer,2021-08-04,shot,gun,21,M,,Glendora,CA,False,attack,Not fleeing,False,-117.862,34.133,True
+7077,Joseph John Howard,2021-08-05,shot,unarmed,35,M,,White River Junction,VT,False,attack,,False,-72.319,43.649,True
+7079,,2021-08-05,shot,gun,22,M,,Seattle,WA,False,attack,Not fleeing,True,-122.361,47.514,True
+7080,Chad Fiscus,2021-08-05,shot,gun,35,M,,Putnamville,IN,False,attack,Not fleeing,False,-86.865,39.574,True
+7075,Nathan Larry Parsons,2021-08-06,shot,undetermined,49,M,,Cullman County,AL,False,undetermined,,False,-86.863,34.119,True
+7076,,2021-08-06,shot,undetermined,,M,,La Habra,CA,False,undetermined,,False,-117.946,33.932,True
+7072,,2021-08-08,shot,gun,,M,,Baltimore,MD,True,attack,Not fleeing,False,-76.546,39.351,True
+7073,,2021-08-08,shot,gun,,M,,Detroit,MI,False,attack,,False,-83.086,42.365,True
