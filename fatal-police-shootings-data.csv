@@ -6453,11 +6453,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7047,,2021-07-17,shot,unknown weapon,16,M,,Wise County,VA,False,attack,,False,-82.734,36.969,True
 7039,Clint Dearman,2021-07-18,shot,gun,35,M,W,Malbis,AL,False,other,Car,True,-87.853,30.66,True
 7041,,2021-07-18,shot,gun,,M,,Houston,TX,False,attack,Not fleeing,False,-95.474,29.82,True
-7036,Jason Fralick,2021-07-19,shot,vehicle,43,M,,Cairo,GA,False,other,Car,True,-84.118,30.839,True
+7036,Jason Lee Fralick,2021-07-19,shot,vehicle,43,M,,Cairo,GA,False,other,Car,True,-84.118,30.839,True
 7037,Michael Clifton,2021-07-19,shot,gun,50,M,W,Toledo,OH,True,attack,Other,True,,,True
 7030,Gerardo Martinez,2021-07-20,shot,BB gun,19,M,H,Salinas,CA,False,other,Not fleeing,True,,,True
 7038,Mitchell Shuller,2021-07-20,shot,gun,35,M,W,West Hanover Township,PA,True,attack,Not fleeing,False,-76.781,40.392,True
-7068,Miguel Hernandez-Rodriguez,2021-07-20,shot,knife,31,M,H,Phoenix,AZ,False,attack,Not fleeing,False,-112.017,33.459,True
+7068,Miguel F. Hernandez-Rodriguez,2021-07-20,shot,knife,31,M,H,Phoenix,AZ,False,attack,Not fleeing,False,-112.017,33.459,True
 7033,Shawn Tillison,2021-07-22,shot,gun,43,M,W,Duncan,OK,True,attack,Not fleeing,False,-97.95,34.499,True
 7034,Cullen Condon,2021-07-22,shot,gun,25,M,,Boerne,TX,False,attack,Not fleeing,False,-98.715,29.796,True
 7035,Carlos Rodriguez,2021-07-22,shot,gun,40,M,,Philadelphia,PA,False,attack,Not fleeing,False,-75.129,39.995,True
@@ -6471,7 +6471,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7052,Losardo Lucas,2021-07-27,shot,gun,55,M,,Calumet City,IL,False,other,,False,-87.564,41.623,True
 7053,,2021-07-27,shot,vehicle,,M,,Las Vegas,NV,False,other,Car,False,-114.267,36.779,True
 7054,Alexis C. Wilson,2021-07-27,shot,vehicle,19,F,B,Dolton,IL,False,attack,Car,True,-87.607,41.623,True
-7055,,2021-07-27,shot,unknown weapon,,M,,Westfield,PA,False,other,,False,-77.539,41.919,True
+7055,Robert P. Uhler,2021-07-27,shot,unknown weapon,56,M,,Gaines Township,PA,False,other,,False,-77.539,41.734,True
 7063,James Haynes,2021-07-29,shot,knife,31,M,,Mansfield,OH,False,attack,Not fleeing,False,-82.527,40.75,True
 7062,Luis Fernando Flores,2021-07-30,shot,unknown weapon,44,M,,Celina,TX,False,other,Not fleeing,False,-96.794,33.324,True
 7061,,2021-07-31,shot,knife,39,M,,Yulee,FL,True,attack,Not fleeing,False,-81.539,30.67,True
@@ -6482,9 +6482,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7065,,2021-08-04,shot,unknown weapon,,M,,Mifflin Township,OH,False,other,Not fleeing,False,-82.393,40.758,True
 7067,Dylan Harmer,2021-08-04,shot,gun,21,M,,Glendora,CA,False,attack,Not fleeing,False,-117.862,34.133,True
 7077,Joseph John Howard,2021-08-05,shot,unarmed,35,M,,White River Junction,VT,False,attack,,False,-72.319,43.649,True
-7079,,2021-08-05,shot,gun,22,M,,Seattle,WA,False,attack,Not fleeing,True,-122.361,47.514,True
+7079,Isaiah Hinds,2021-08-05,shot,gun,22,M,,Seattle,WA,False,attack,Not fleeing,True,-122.361,47.514,True
 7080,Chad Fiscus,2021-08-05,shot,gun,35,M,,Putnamville,IN,False,attack,Not fleeing,False,-86.865,39.574,True
 7075,Nathan Larry Parsons,2021-08-06,shot,undetermined,49,M,,Cullman County,AL,False,undetermined,,False,-86.863,34.119,True
-7076,,2021-08-06,shot,undetermined,,M,,La Habra,CA,False,undetermined,,False,-117.946,33.932,True
+7076,Matthew Tran,2021-08-06,shot,gun,22,M,,La Habra,CA,False,other,Not fleeing,False,-117.946,33.932,True
 7072,,2021-08-08,shot,gun,,M,,Baltimore,MD,True,attack,Not fleeing,False,-76.546,39.351,True
 7073,,2021-08-08,shot,gun,,M,,Detroit,MI,False,attack,,False,-83.086,42.365,True
