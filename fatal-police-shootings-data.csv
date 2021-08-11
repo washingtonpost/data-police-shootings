@@ -6458,7 +6458,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7030,Gerardo Martinez,2021-07-20,shot,BB gun,19,M,H,Salinas,CA,False,other,Not fleeing,True,,,True
 7038,Mitchell Shuller,2021-07-20,shot,gun,35,M,W,West Hanover Township,PA,True,attack,Not fleeing,False,-76.781,40.392,True
 7068,Miguel F. Hernandez-Rodriguez,2021-07-20,shot,knife,31,M,H,Phoenix,AZ,False,attack,Not fleeing,False,-112.017,33.459,True
-7033,Shawn Tillison,2021-07-22,shot,gun,43,M,W,Duncan,OK,True,attack,Not fleeing,False,-97.95,34.499,True
+7033,Shawn Tillison,2021-07-22,shot,gun,43,M,W,Duncan,OK,False,attack,Not fleeing,False,-97.95,34.499,True
 7034,Cullen Condon,2021-07-22,shot,gun,25,M,,Boerne,TX,False,attack,Not fleeing,False,-98.715,29.796,True
 7035,Carlos Rodriguez,2021-07-22,shot,gun,40,M,,Philadelphia,PA,False,attack,Not fleeing,False,-75.129,39.995,True
 7056,Jesus Salvador Valeta,2021-07-23,shot,gun,22,M,H,San Diego,CA,False,other,Other,False,-117.079,32.758,True
