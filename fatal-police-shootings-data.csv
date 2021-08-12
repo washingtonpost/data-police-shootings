@@ -6469,9 +6469,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7058,,2021-07-26,shot,knife,,M,,Los Angeles,CA,False,attack,Not fleeing,False,-118.427,34.01,True
 7051,Kevlin Wallace,2021-07-27,shot,gun,39,M,B,Riverside,OH,False,attack,Not fleeing,False,-84.139,39.793,True
 7052,Losardo Lucas,2021-07-27,shot,gun,55,M,,Calumet City,IL,False,other,,False,-87.564,41.623,True
-7053,,2021-07-27,shot,vehicle,,M,,Las Vegas,NV,False,other,Car,False,-114.267,36.779,True
+7053,Douglas Claiborne,2021-07-27,shot,vehicle,60,M,W,Las Vegas,NV,False,other,Car,False,-114.267,36.779,True
 7054,Alexis C. Wilson,2021-07-27,shot,vehicle,19,F,B,Dolton,IL,False,attack,Car,True,-87.607,41.623,True
-7055,Robert P. Uhler,2021-07-27,shot,unknown weapon,56,M,,Gaines Township,PA,False,other,,False,-77.539,41.734,True
+7055,Robert P. Uhler,2021-07-27,shot,unknown weapon,56,M,W,Gaines Township,PA,False,other,,False,-77.539,41.734,True
 7063,James Haynes,2021-07-29,shot,knife,31,M,,Mansfield,OH,False,attack,Not fleeing,False,-82.527,40.75,True
 7062,Luis Fernando Flores,2021-07-30,shot,unknown weapon,44,M,,Celina,TX,False,other,Not fleeing,False,-96.794,33.324,True
 7061,,2021-07-31,shot,knife,39,M,,Yulee,FL,True,attack,Not fleeing,False,-81.539,30.67,True
