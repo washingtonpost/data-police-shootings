@@ -6473,29 +6473,29 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7054,Alexis C. Wilson,2021-07-27,shot,vehicle,19,F,B,Dolton,IL,False,attack,Car,True,-87.607,41.623,True
 7055,Robert P. Uhler,2021-07-27,shot,unknown weapon,56,M,W,Gaines Township,PA,False,other,,False,-77.539,41.734,True
 7063,James Haynes,2021-07-29,shot,knife,31,M,,Mansfield,OH,False,attack,Not fleeing,False,-82.527,40.75,True
-7062,Luis Fernando Flores,2021-07-30,shot,unknown weapon,44,M,,Celina,TX,False,other,Not fleeing,False,-96.794,33.324,True
-7061,,2021-07-31,shot,knife,39,M,,Yulee,FL,True,attack,Not fleeing,False,-81.539,30.67,True
+7062,Luis Fernando Flores,2021-07-30,shot,unknown weapon,44,M,,Celina,TX,False,undetermined,Not fleeing,False,-96.794,33.324,True
+7061,,2021-07-31,shot,knife,39,M,,Yulee,FL,True,other,Not fleeing,False,-81.539,30.67,True
 7069,Ruben Isaac Sanchez,2021-07-31,shot,gun,31,M,H,Woodville,CA,False,attack,Other,False,-119.201,36.095,True
 7064,,2021-08-03,shot,gun,22,M,,Conshohocken,PA,False,attack,Not fleeing,False,-75.299,40.086,True
 7066,Ent Wright,2021-08-03,shot,gun,76,M,,Waco,TX,False,attack,Not fleeing,False,-97.203,31.518,True
-7070,Antonio King,2021-08-03,shot,gun,22,M,,Nashville,TN,False,attack,Not fleeing,False,,,True
+7070,Antonio D. King,2021-08-03,shot,gun,22,M,,Nashville,TN,False,attack,Not fleeing,False,,,True
 7065,,2021-08-04,shot,unknown weapon,,M,,Mifflin Township,OH,False,other,Not fleeing,False,-82.393,40.758,True
-7067,Dylan Harmer,2021-08-04,shot,gun,21,M,,Glendora,CA,False,attack,Not fleeing,False,-117.862,34.133,True
-7077,Joseph John Howard,2021-08-05,shot,unarmed,35,M,,White River Junction,VT,False,attack,,False,-72.319,43.649,True
+7067,Dylan Harmer,2021-08-04,shot,gun,21,M,,Glendora,CA,False,attack,Foot,False,-117.862,34.133,True
+7077,Joseph John Howard,2021-08-05,shot,unarmed,35,M,,Hartford,VT,False,attack,,False,-72.319,43.649,True
 7079,Isaiah Hinds,2021-08-05,shot,gun,22,M,,Seattle,WA,False,attack,Not fleeing,True,-122.361,47.514,True
-7080,Chad Fiscus,2021-08-05,shot,gun,35,M,,Putnamville,IN,False,attack,Not fleeing,False,-86.865,39.574,True
+7080,Chad M. Fiscus,2021-08-05,shot,gun,35,M,,Putnamville,IN,False,attack,Not fleeing,False,-86.865,39.574,True
 7075,Nathan Larry Parsons,2021-08-06,shot,undetermined,49,M,,Cullman County,AL,False,undetermined,,False,-86.863,34.119,True
-7076,Matthew Tran,2021-08-06,shot,gun,22,M,,La Habra,CA,False,other,Not fleeing,False,-117.946,33.932,True
+7076,Matthew Tuan Tran,2021-08-06,shot,gun,22,M,,La Habra,CA,False,other,Not fleeing,False,-117.946,33.932,True
 7081,Che Noe Zuniga,2021-08-07,shot,gun,21,M,,Bakersfield,CA,False,attack,Car,False,-119.057,35.303,True
 7072,Marcus Martin,2021-08-08,shot,gun,40,M,,Baltimore,MD,True,attack,Not fleeing,False,-76.546,39.351,True
-7073,,2021-08-08,shot,gun,,M,,Detroit,MI,False,attack,,False,-83.086,42.365,True
+7073,,2021-08-08,shot,gun and vehicle,,M,,Detroit,MI,False,attack,,False,-83.086,42.365,True
 7082,,2021-08-08,shot,gun,,M,,Spring,TX,False,attack,Car,False,-95.514,30.074,True
 7086,Steven Ray Bailey,2021-08-09,shot,gun,63,M,,Rocky Face,GA,False,attack,,False,-85.025,34.804,True
-7087,Christopher Robinson,2021-08-09,shot,gun,40,M,,Seguin,TX,False,attack,Car,False,-97.984,29.59,True
+7087,Christopher Robinson,2021-08-09,shot,gun,48,M,,Seguin,TX,False,attack,Car,False,-97.984,29.59,True
 7084,Johan Alexis Salaza,2021-08-10,shot,gun,21,M,,El Mirage,AZ,False,attack,Foot,False,-112.324,33.597,True
 7091,Marvin Richard Hitchcock,2021-08-10,shot,gun,71,M,,Grantsboro,NC,False,other,Not fleeing,False,-76.894,35.026,True
-7083,,2021-08-11,shot,knife,,M,,Nashville,TN,False,attack,Not fleeing,False,-86.926,36.115,True
+7083,,2021-08-11,shot,knife,31,M,,Nashville,TN,False,other,Not fleeing,True,-86.926,36.115,True
 7085,,2021-08-11,shot,gun,,M,,Juniata,NE,False,attack,Not fleeing,False,-98.502,40.587,True
 7088,,2021-08-11,shot,machete,41,M,,Honolulu,HI,False,attack,Not fleeing,True,-157.866,21.331,True
-7089,,2021-08-11,shot,vehicle,,M,H,Castaic,CA,False,other,Other,False,-118.675,34.588,True
+7089,,2021-08-11,shot,vehicle,,M,H,Castaic,CA,False,attack,Other,False,-118.675,34.588,True
 7090,,2021-08-11,shot,gun,,M,,Adams County,CO,False,other,Foot,False,-105.006,39.824,True
