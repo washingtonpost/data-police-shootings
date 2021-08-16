@@ -978,6 +978,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1122,Gregory Sanders,2015-12-24,shot,gun,54,M,,Pride,LA,True,attack,Not fleeing,False,-90.972,30.694,True
 1126,Terrozza Tyree Griffin,2015-12-24,shot,gun,24,M,B,Lansing,MI,False,attack,Not fleeing,False,-84.578,42.673,True
 1127,Omar Ventura,2015-12-24,shot,knife,23,M,H,Porterville,CA,False,other,Not fleeing,False,-119.006,36.069,True
+2158,Daquan Antonio Westbrook,2015-12-24,shot,gun,18,M,B,Charlotte,NC,False,other,Not fleeing,False,-80.851,35.352,True
 1125,William David Raff,2015-12-25,shot,knife,31,M,W,Palo Alto,CA,True,attack,Not fleeing,False,-122.156,37.448,True
 1121,Lonnie Niesen,2015-12-26,shot,brick,41,M,W,Phoenix,AZ,True,other,Not fleeing,False,-112.062,33.68,True
 1123,Bettie Jones,2015-12-26,shot,unarmed,55,F,B,Chicago,IL,False,other,,False,-87.744,41.893,True
@@ -1843,7 +1844,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2052,Joseph Leland Fletcher,2016-11-18,shot and Tasered,gun,35,M,W,Fort Walton Beach,FL,True,other,Not fleeing,False,-86.642,30.43,True
 2056,Samson Fleurant,2016-11-18,shot and Tasered,machete,25,M,B,Port St. Lucie,FL,True,other,Not fleeing,False,-80.365,27.311,True
 2058,Gabriel Parker,2016-11-18,shot and Tasered,machete,48,M,,Casa Grande,AZ,True,other,Not fleeing,False,-111.759,32.882,True
-2053,Adalid Flores,2016-11-19,shot,,29,M,H,Anaheim,CA,False,attack,Foot,True,-117.907,33.852,True
+2053,Adalid Flores,2016-11-19,shot,unarmed,29,M,H,Anaheim,CA,False,attack,Foot,True,-117.907,33.852,True
 2055,Steve Dwayne Vananda,2016-11-19,shot,gun,55,M,,Chickasha,OK,False,attack,Not fleeing,True,-97.958,35.026,True
 2062,Erickson Brito,2016-11-19,shot,baton,21,M,B,Brooklyn,NY,True,attack,Not fleeing,False,-73.906,40.667,True
 2054,Luke Smith,2016-11-19,shot and Tasered,knife,15,M,A,Watsonville,CA,False,other,Foot,True,-121.791,36.971,True
@@ -1851,7 +1852,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2063,Jacob C. Stevens,2016-11-20,shot,gun,18,M,W,Kansas City,MO,False,other,Foot,False,-94.594,39.179,True
 2060,George Bush III,2016-11-21,shot,gun,19,M,B,St. Louis,MO,False,attack,Foot,False,-90.299,38.607,True
 2064,Michael Giles,2016-11-21,shot,knife,27,M,W,Lompoc,CA,True,other,Foot,False,-120.458,34.654,True
-2065,Mark Daniel Sly,2016-11-22,shot,gun,45,M,H,La Mirada,CA,False,attack,Not fleeing,False,-117.977,33.909,True
+2065,Mark Daniel Sly,2016-11-22,shot,gun,45,M,W,La Mirada,CA,False,attack,Not fleeing,False,-117.977,33.909,True
 2066,Ivory C. Pantallion,2016-11-22,shot,gun,36,M,B,Baytown,TX,False,other,Car,False,,,True
 2067,Frank Nathaniel Clark,2016-11-22,shot,gun,34,M,B,Durham,NC,False,attack,Not fleeing,False,-78.89,35.973,True
 2068,Talif Scudder,2016-11-22,shot,gun,23,M,B,Newark,NJ,False,attack,Not fleeing,False,-74.228,40.739,True
@@ -1869,7 +1870,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2083,Abdul Razak Ali Artan,2016-11-28,shot,knife,18,M,O,Columbus,OH,False,attack,Not fleeing,False,-83.01,39.998,True
 2085,Pablo Renato Cartagena,2016-11-28,shot,gun,23,M,H,Los Angeles,CA,False,other,Foot,False,-118.266,34.023,True
 2086,Irecas Valentine,2016-11-28,shot,,41,M,B,Hickory,NC,False,other,Car,False,-81.307,35.743,True
-2084,Michael McInnis,2016-11-29,shot,gun,41,M,W,Lynn,MA,False,other,Not fleeing,False,-70.955,42.456,True
+2084,Michael McInnis,2016-11-29,shot,unarmed,41,M,W,Lynn,MA,False,other,Not fleeing,False,-70.955,42.456,True
 2088,Toby Cummins,2016-11-29,shot,rock,55,M,W,Friendswood,TX,False,other,Car,True,-95.206,29.534,True
 2089,Bradley King,2016-11-29,shot,knife,29,M,W,Avon,IN,True,other,Not fleeing,False,-86.398,39.78,True
 2090,Alexander Chance Partain,2016-11-29,shot,unarmed,31,M,W,Iva,SC,False,attack,Foot,False,-82.647,34.343,True
@@ -1925,13 +1926,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2152,Raymond Salaiz,2016-12-21,shot,,38,M,H,Reno,NV,False,attack,Car,False,-119.825,39.528,True
 2153,Benjamin Ortiz,2016-12-21,shot,knife,25,M,,Fayetteville,AR,True,other,Not fleeing,False,-94.164,36.054,True
 2154,,2016-12-21,shot,knife,,M,,Stockton,CA,False,undetermined,Not fleeing,False,-121.265,37.974,True
-2156,Matthew Blake Richardson,2016-12-21,shot,gun,27,M,W,Saraland,AL,False,attack,Not fleeing,False,-88.097,30.835,True
 2157,Anthony Lovell Eddington,2016-12-21,shot,gun,24,M,B,Coalinga,CA,False,attack,Not fleeing,False,-120.371,36.145,True
 2150,Terrence Thomas,2016-12-22,shot,gun,19,M,B,Capitol Heights,MD,False,attack,Not fleeing,False,-76.937,38.867,True
 2167,Stanley Eversol,2016-12-23,shot,crossbow,55,M,,Palm Harbor,FL,False,attack,Not fleeing,False,-82.77,28.066,True
 2168,,2016-12-23,shot,,,M,,El Monte,CA,False,other,Car,False,-118.035,34.075,True
 2165,Michael Tyler Jacques,2016-12-23,shot and Tasered,vehicle,31,M,W,Bend,OR,True,other,Not fleeing,False,-121.314,44.057,True
-2158,Daquan Antonio Westbrook,2016-12-24,shot,gun,18,M,B,Charlotte,NC,False,other,Not fleeing,False,-80.851,35.352,True
 2163,Miriam Ann Savino,2016-12-24,shot,knife,53,F,W,Lake Wales,FL,False,other,Not fleeing,False,-81.568,28.006,True
 2164,Orande Kandie Hayes,2016-12-24,shot,gun,,M,,Gadsden,AL,False,attack,Foot,False,-86.019,34.022,True
 2166,Zhonghua Li,2016-12-24,shot,scissors,48,M,A,Pico Rivera,CA,True,attack,Not fleeing,False,-118.064,34.018,True
@@ -1966,7 +1965,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2194,Luis Vargas,2017-01-05,shot,gun,20,M,H,Dinuba,CA,False,attack,Not fleeing,False,-119.395,36.555,True
 2195,Randy Wayne Cole,2017-01-05,shot,gun,41,M,W,Monteagle,TN,True,attack,Not fleeing,False,-85.84,35.24,True
 2197,Sean Ryan Hake,2017-01-06,shot,knife,23,M,W,Sharon,PA,True,other,Not fleeing,False,-80.499,41.248,True
-2200,Jamal Parks,2017-01-06,shot,gun,32,M,B,Deerfield,IL,False,attack,Other,False,-87.845,42.171,True
 2196,Daniel Scott Giberson,2017-01-07,shot,knife,25,M,W,Princeton,WV,False,other,Car,False,-81.146,37.329,True
 2198,Travis Edward Baker,2017-01-07,shot,gun,42,M,W,Fairland,OK,False,attack,Other,False,-94.847,36.751,True
 2199,William Tucker Mathis,2017-01-07,shot,unarmed,41,M,W,Elkridge,MD,True,attack,Not fleeing,False,-76.777,39.196,True
@@ -5590,9 +5588,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6109,David Sanchez,2020-08-24,shot,gun,,M,H,Albuquerque,NM,False,attack,,False,-106.57,35.184,True
 6124,Corey Lee Cutler,2020-08-24,shot,gun,31,M,W,Lincoln County,NC,False,attack,Not fleeing,False,-81.208,35.29,True
 6116,Charles Garland,2020-08-25,shot,gun,30,M,W,Barbourville,KY,False,attack,Not fleeing,False,-83.978,36.94,True
+6117,Damian Lamar Daniels,2020-08-25,shot and Tasered,gun,31,M,B,San Antonio,TX,True,attack,Not fleeing,False,-98.712,29.512,True
 6123,Casper Brown,2020-08-25,shot,gun,47,M,W,Eckford Township,MI,False,attack,Not fleeing,False,-84.905,42.25,True
 6129,Mark Dawson,2020-08-25,shot,knife,39,M,,Rancho Cucamonga,CA,False,other,Not fleeing,False,-117.56,34.082,True
-6117,Damian Lamar Daniels,2020-08-25,shot and Tasered,gun,31,M,B,San Antonio,TX,True,attack,Not fleeing,False,-98.712,29.512,True
 6114,Joseph R. Middleton,2020-08-26,shot,gun,41,M,W,Knox County,KY,False,attack,,False,-83.89,36.926,True
 6121,Simon Pancho,2020-08-26,shot,gun,17,M,H,Tucson,AZ,False,attack,Foot,True,-110.992,32.171,True
 6122,Julius Kehyei,2020-08-26,shot,gun,29,M,B,Houston,TX,False,attack,Foot,False,-95.394,29.747,True
@@ -6385,7 +6383,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7000,De'Shon Hill,2021-06-22,shot,gun,39,M,B,Luray,VA,True,attack,Not fleeing,False,-78.468,38.666,True
 7001,Noah D. Sharp,2021-06-22,shot,gun,26,M,W,De Soto,MO,False,attack,,False,-90.559,38.152,True
 6993,Francisco Javier Lino-Gutierrez,2021-06-23,shot,gun,29,M,,Santa Fe,NM,False,attack,Foot,False,-105.938,35.686,True
-6995,Michael Gerhart,2021-06-23,shot,gun,22,M,,Surprise,AZ,False,attack,Not fleeing,False,-112.418,33.691,True
 6996,Nathan Roybal,2021-06-23,shot,vehicle and gun,32,M,H,Santa Fe,NM,False,attack,Other,False,-105.993,35.659,True
 6997,Earl Fitzgerald Hunter,2021-06-23,shot,gun,40,M,B,Greenville,SC,False,other,,False,-82.458,34.916,True
 6999,,2021-06-23,shot,undetermined,,M,B,Norwalk,CA,False,other,Car,False,-118.077,33.888,True
@@ -6452,7 +6449,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7042,Quentin Bogard,2021-07-17,shot,gun,,M,B,Canton,MS,False,attack,Not fleeing,False,-90.067,32.608,True
 7047,,2021-07-17,shot,unknown weapon,16,M,,Wise County,VA,False,attack,,False,-82.734,36.969,True
 7039,Clint Dearman,2021-07-18,shot,gun,35,M,W,Malbis,AL,False,other,Car,True,-87.853,30.66,True
-7041,,2021-07-18,shot,gun,,M,,Houston,TX,False,attack,Not fleeing,False,-95.474,29.82,True
+7041,,2021-07-18,shot,gun,,M,,Houston,TX,False,attack,Not fleeing,True,-95.474,29.82,True
 7036,Jason Lee Fralick,2021-07-19,shot,vehicle,43,M,,Cairo,GA,False,other,Car,True,-84.118,30.839,True
 7037,Michael Clifton,2021-07-19,shot,gun,50,M,W,Toledo,OH,True,attack,Other,True,,,True
 7030,Gerardo Martinez,2021-07-20,shot,BB gun,19,M,H,Salinas,CA,False,other,Not fleeing,True,,,True
@@ -6467,7 +6464,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7059,,2021-07-25,shot,gun,,M,,Crowley,LA,False,attack,,False,-92.391,30.213,True
 7057,Jacob Bender,2021-07-26,shot,knife,39,M,W,Gobles,MI,False,attack,Not fleeing,False,-85.879,42.363,True
 7058,,2021-07-26,shot,knife,,M,,Los Angeles,CA,False,attack,Not fleeing,False,-118.427,34.01,True
-7051,Kevlin Wallace,2021-07-27,shot,gun,39,M,B,Riverside,OH,False,attack,Not fleeing,False,-84.139,39.793,True
 7052,Losardo Lucas,2021-07-27,shot,gun,55,M,,Calumet City,IL,False,other,,False,-87.564,41.623,True
 7053,Douglas Claiborne,2021-07-27,shot,vehicle,60,M,W,Las Vegas,NV,False,other,Car,False,-114.267,36.779,True
 7054,Alexis C. Wilson,2021-07-27,shot,vehicle,19,F,B,Dolton,IL,False,attack,Car,True,-87.607,41.623,True
@@ -6495,7 +6491,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7084,Johan Alexis Salaza,2021-08-10,shot,gun,21,M,,El Mirage,AZ,False,attack,Foot,False,-112.324,33.597,True
 7091,Marvin Richard Hitchcock,2021-08-10,shot,gun,71,M,,Grantsboro,NC,False,other,Not fleeing,False,-76.894,35.026,True
 7083,,2021-08-11,shot,knife,31,M,,Nashville,TN,False,other,Not fleeing,True,-86.926,36.115,True
-7085,,2021-08-11,shot,gun,,M,,Juniata,NE,False,attack,Not fleeing,False,-98.502,40.587,True
+7085,Brooks Hacker,2021-08-11,shot,gun,35,M,,Juniata,NE,False,attack,Not fleeing,False,-98.502,40.587,True
 7088,,2021-08-11,shot,machete,41,M,,Honolulu,HI,False,attack,Not fleeing,True,-157.866,21.331,True
-7089,,2021-08-11,shot,vehicle,,M,H,Castaic,CA,False,attack,Other,False,-118.675,34.588,True
+7089,Adrian Joel Sanchez,2021-08-11,shot,vehicle,34,M,H,Castaic,CA,False,attack,Other,False,-118.675,34.588,True
 7090,,2021-08-11,shot,gun,,M,,Adams County,CO,False,other,Foot,False,-105.006,39.824,True
+7092,Brendon Galbreath,2021-08-12,shot,gun,21,M,,Missoula,MT,False,attack,Car,False,-114.012,46.851,True
+7100,Aler Escobar,2021-08-12,shot,Taser,36,M,,Webb City,MO,False,attack,,False,-94.456,37.127,True
+7101,William Sellers,2021-08-12,shot,gun,73,M,,Orlando,FL,True,other,Not fleeing,False,-81.345,28.431,True
+7098,,2021-08-13,shot,undetermined,,M,,Bakersfield,CA,True,undetermined,Not fleeing,True,-119.035,35.353,True
+7094,Stephanie Gerardi,2021-08-14,shot,knife,38,F,,Saugus,MA,True,other,Not fleeing,False,-71.02,42.496,True
+7096,,2021-08-14,shot,gun,,M,,Galesburg,MI,False,attack,Other,False,-85.336,42.231,True
+7099,John Vogel,2021-08-14,shot,gun,80,M,,St. Paul,NE,False,attack,Not fleeing,False,-98.454,41.215,True
+7093,Katelyn L. Harris,2021-08-15,shot,gun,29,F,,Greene County,TN,False,other,Car,False,-82.678,36.378,True
+7095,,2021-08-15,shot,gun,,M,,Albuquerque,NM,False,attack,Foot,False,-106.55,35.105,True
+7097,Phillip John Walden,2021-08-15,shot,undetermined,40,M,,Lexington County,SC,False,other,Car,False,-81.106,33.978,True
