@@ -6480,6 +6480,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7077,Joseph John Howard,2021-08-05,shot,unarmed,35,M,,Hartford,VT,False,attack,,False,-72.319,43.649,True
 7079,Isaiah Hinds,2021-08-05,shot,gun,22,M,,Seattle,WA,False,attack,Not fleeing,True,-122.361,47.514,True
 7080,Chad M. Fiscus,2021-08-05,shot,gun,35,M,,Putnamville,IN,False,attack,Not fleeing,False,-86.865,39.574,True
+7100,Aler Escobar,2021-08-05,shot,Taser,36,M,,Webb City,MO,False,attack,,False,-94.456,37.127,True
 7075,Nathan Larry Parsons,2021-08-06,shot,undetermined,49,M,,Cullman County,AL,False,undetermined,,False,-86.863,34.119,True
 7076,Matthew Tuan Tran,2021-08-06,shot,gun,22,M,,La Habra,CA,False,other,Not fleeing,False,-117.946,33.932,True
 7081,Che Noe Zuniga,2021-08-07,shot,gun,21,M,,Bakersfield,CA,False,attack,Car,False,-119.057,35.303,True
@@ -6495,16 +6496,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7088,,2021-08-11,shot,machete,41,M,,Honolulu,HI,False,attack,Not fleeing,True,-157.866,21.331,True
 7089,Adrian Joel Sanchez,2021-08-11,shot,vehicle,34,M,H,Castaic,CA,False,attack,Other,False,-118.675,34.588,True
 7090,,2021-08-11,shot,gun,,M,,Adams County,CO,False,other,Foot,False,-105.006,39.824,True
-7100,Aler Escobar,2021-08-12,shot,Taser,36,M,,Webb City,MO,False,attack,,False,-94.456,37.127,True
-7101,William Sellers,2021-08-12,shot,gun,73,M,,Orlando,FL,True,other,Not fleeing,False,-81.345,28.431,True
+7101,William Sellers,2021-08-12,shot,gun,73,M,,Orlando,FL,True,other,Not fleeing,True,-81.345,28.431,True
 7098,,2021-08-13,shot,undetermined,,M,,Bakersfield,CA,True,undetermined,Not fleeing,True,-119.035,35.353,True
 7094,Stephanie Gerardi,2021-08-14,shot,knife,38,F,,Saugus,MA,True,other,Not fleeing,False,-71.02,42.496,True
-7096,,2021-08-14,shot,gun,,M,,Galesburg,MI,False,attack,Other,False,-85.336,42.231,True
+7096,Kyle Anthony Goidosik,2021-08-14,shot,gun,35,M,W,Galesburg,MI,False,attack,Other,False,-85.336,42.231,True
 7099,John Vogel,2021-08-14,shot,gun,80,M,,St. Paul,NE,False,attack,Not fleeing,False,-98.454,41.215,True
-7093,Katelyn L. Harris,2021-08-15,shot,gun,29,F,,Greene County,TN,False,other,Car,False,-82.678,36.378,True
+7093,Katelyn L. Harris,2021-08-15,shot,gun and car,29,F,W,Greene County,TN,False,other,Car,False,-82.678,36.378,True
 7095,,2021-08-15,shot,gun,,M,,Albuquerque,NM,False,attack,Foot,False,-106.55,35.105,True
-7097,Phillip John Walden,2021-08-15,shot,undetermined,40,M,,Lexington County,SC,False,other,Car,False,-81.106,33.978,True
+7097,Phillip John Walden,2021-08-15,shot and Tasered,unknown weapon,40,M,,Lexington County,SC,False,other,Car,False,-81.106,33.978,True
 7103,Broderick Shelton,2021-08-16,shot,gun,42,M,,Milwaukee,WI,True,attack,Not fleeing,False,-87.947,43.064,True
-7105,Antonio Jackson,2021-08-16,shot,vehicle,26,M,,Memphis,TN,False,attack,,False,-89.939,35.082,True
-7104,,2021-08-17,shot,undetermined,,F,,Arvada,CO,False,undetermined,Other,False,-105.11,39.828,False
+7105,Antonio Jackson,2021-08-16,shot,vehicle,27,M,B,Memphis,TN,False,attack,,False,-89.939,35.082,True
+7104,Destinee Thompson,2021-08-17,shot,undetermined,27,F,,Arvada,CO,False,undetermined,Other,False,-105.11,39.828,False
 7102,,2021-08-18,shot,unknown weapon,,D,,Pflugerville,TX,False,undetermined,,True,-97.64,30.466,False
