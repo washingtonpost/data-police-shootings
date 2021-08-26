@@ -6517,10 +6517,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7120,,2021-08-19,shot,gun,,M,,El Cajon,CA,False,attack,,False,-116.941,32.795,True
 7107,George Michael Mireles,2021-08-20,shot,gun,34,,,Amarillo,TX,False,attack,,False,-101.82,35.198,True
 7113,Brandon Lee Schlichting,2021-08-20,shot,gun,28,M,,Chanute,KS,False,attack,,False,-95.449,37.678,True
-7112,Daryl Jay Carr,2021-08-21,shot,undetermined,45,M,,Allenhurst,GA,False,undetermined,Not fleeing,False,-81.609,31.785,False
+7112,Daryl Jay Carr,2021-08-21,shot,undetermined,45,M,,Allenhurst,GA,False,other,Not fleeing,False,-81.609,31.785,False
 7114,Shannon Trevor McKinley,2021-08-21,shot,gun,28,M,,Florence,MS,False,attack,Foot,False,-90.005,32.155,False
 7110,Juan Luis Olvera-Preciado,2021-08-22,shot,unarmed,59,M,,Guadalupe,CA,False,other,Not fleeing,False,-120.571,34.958,True
-7111,,2021-08-22,shot,gun,31,M,,Milwaukee,WI,False,attack,Car,True,-87.936,43.007,True
+7111,Tyran Lamb,2021-08-22,shot,gun,31,M,B,Milwaukee,WI,False,attack,Car,True,-87.936,43.007,True
 7106,John Ebberts,2021-08-23,shot,knife,35,M,,Butler,PA,False,attack,,False,-79.899,40.861,True
 7108,Trinidad Marry,2021-08-23,shot,gun,42,M,,Amarillo,TX,False,attack,,False,-101.809,35.205,True
 7109,,2021-08-24,shot,unarmed,31,M,,Payson,AZ,False,other,,False,-111.323,34.241,False
