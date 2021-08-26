@@ -6524,3 +6524,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7106,John Ebberts,2021-08-23,shot,knife,35,M,,Butler,PA,False,attack,,False,-79.899,40.861,True
 7108,Trinidad Marry,2021-08-23,shot,gun,42,M,,Amarillo,TX,False,attack,,False,-101.809,35.205,True
 7109,,2021-08-24,shot,unarmed,31,M,,Payson,AZ,False,other,,False,-111.323,34.241,False
+7126,Paul Rasmussen,2021-08-24,shot,gun,48,M,,Provo,UT,False,attack,Car,False,-111.675,40.229,True
+7129,Tory Brown,2021-08-24,shot,unarmed,22,M,,College Park,GA,False,undetermined,,False,-84.459,33.616,True
+7122,Antwan Gilmore,2021-08-25,shot,gun,27,M,,Washington,DC,False,other,Not fleeing,True,-77.005,38.909,True
+7123,,2021-08-25,shot,undetermined,33,M,,Rutland,VT,False,other,Foot,False,-72.97,43.596,True
+7125,,2021-08-25,shot,knife,,M,,Grantsville,UT,False,attack,,False,-112.426,40.6,True
+7127,,2021-08-25,shot,gun and knife,,M,,Redondo Beach,CA,False,attack,Foot,False,-118.391,33.839,True
+7128,,2021-08-25,shot,gun,,M,,Fremont,CA,False,attack,,True,-121.959,37.512,True
+7124,Samuel Kirk,2021-08-26,shot,gun,26,M,,Sanford,FL,False,attack,Not fleeing,False,-81.294,28.821,True
