@@ -6533,12 +6533,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7128,Kevin Victor Johnson,2021-08-25,shot,gun,25,M,,Fremont,CA,False,attack,,True,-121.959,37.512,True
 7138,Robert Anderson,2021-08-25,shot,knife,38,M,B,Crescent City,CA,False,other,Not fleeing,True,-124.163,41.788,True
 7124,Samuel Kirk,2021-08-26,shot,gun,26,M,,Sanford,FL,False,attack,Not fleeing,False,-81.294,28.821,True
-7135,Zaqua Radle-Maxson,2021-08-26,shot,toy weapon,27,M,,Wasilla,AL,False,other,Car,False,-149.511,61.599,True
-7137,,2021-08-26,shot,gun,,M,,Nampa,ID,False,other,Not fleeing,False,-116.56,43.567,True
+7135,Zaqua Radle-Maxson,2021-08-26,shot,BB gun,27,M,,Wasilla,AK,False,other,Car,False,-149.511,61.599,True
+7137,Vladislav Fomin,2021-08-26,shot,gun,53,M,,Nampa,ID,False,other,Not fleeing,False,-116.56,43.567,True
 7134,Christopher Corey Moore,2021-08-27,shot,unarmed,41,M,,Greensboro,NC,False,attack,Not fleeing,False,-79.793,36.069,True
-7136,Daniel Wandell,2021-08-27,shot,gun,53,M,,Elmira,NY,False,other,Foot,False,-76.827,42.104,True
+7136,David G. Wandell,2021-08-27,shot,gun,53,M,,Elmira,NY,False,other,Foot,False,-76.827,42.104,True
 7139,Alexander Tadros,2021-08-27,shot,gun,30,M,,Portland,OR,False,attack,Not fleeing,False,-122.683,45.584,True
 7130,,2021-08-29,shot,undetermined,,M,,Falls Township,PA,False,undetermined,,False,-74.817,40.201,True
-7131,,2021-08-29,shot,undetermined,,M,,Missoula,MT,False,undetermined,,False,-114.337,47.016,True
+7131,,2021-08-29,shot,machete,,M,,Missoula,MT,False,other,,False,-114.337,47.016,True
 7132,,2021-08-29,shot,gun,,M,,Atlanta,GA,False,other,Car,False,-84.399,33.782,True
 7133,,2021-08-29,shot,metal pipe,,M,,Atlanta,GA,False,other,,True,-84.385,33.779,True
