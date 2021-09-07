@@ -6394,7 +6394,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6985,Chad Necessary,2021-06-24,shot,unknown weapon,48,M,W,Washington,NC,False,other,,False,-77.142,35.579,True
 6986,Ted Frank Tippy,2021-06-24,shot,gun,52,M,W,Monroe,GA,False,attack,Not fleeing,False,-83.749,33.85,True
 6987,Steven Jesse Dylan Thompson,2021-06-24,shot,gun,29,M,,Barrow County,GA,False,attack,Car,False,-83.835,33.995,True
-6991,Abraham Torres Meza,2021-06-24,shot,gun,30,M,H,Bakersfield,CA,False,other,Other,False,-119.023,35.337,True
+6991,Abraham Torres Meza,2021-06-24,shot,gun,30,M,H,Bakersfield,CA,False,other,Other,True,-119.023,35.337,True
 6992,William Dean Hewett,2021-06-24,shot,gun,54,M,W,Whiteville,NC,False,other,,False,-78.723,34.302,True
 6965,Michael Anthony Frederick,2021-06-25,shot,gun,54,M,,McDonald,TN,True,attack,Not fleeing,True,-84.983,35.113,True
 6967,Dimitri Lanahan,2021-06-25,shot,toy weapon,23,M,W,Fairbanks,AK,False,attack,Not fleeing,False,-147.864,64.816,True
@@ -6549,3 +6549,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7143,Jeremy Michael Berg,2021-08-31,shot,knife,45,M,,Martelle,IA,False,other,,False,-91.346,41.999,True
 7145,George D. Watson,2021-08-31,shot,toy weapon,34,M,,Washington,DC,False,attack,Not fleeing,True,-77.032,38.918,True
 7142,James Williams,2021-09-01,shot,gun,33,M,,Indianapolis,IN,False,other,,False,-86.074,39.796,True
+7148,Estevan Ramirez,2021-09-03,shot,gun,18,M,,Fort Worth,TX,False,attack,Car,False,-97.435,32.735,True
+7153,,2021-09-03,shot,undetermined,,M,,Buena Park,CA,False,other,Car,False,-118.015,33.859,True
+7154,David Marshall,2021-09-03,shot,gun,31,M,,Oak Creek,WI,True,other,Other,False,-87.95,42.924,True
+7152,,2021-09-04,shot,gun,25,M,,Lakewood,WA,False,attack,,False,-122.537,47.121,True
+7150,Robert Gutierrez,2021-09-06,shot,gun,59,M,,Springfield,OR,False,attack,,False,-122.898,44.067,True
+7151,Frederick Thomas,2021-09-06,shot,gun,41,M,,Miami Township,OH,False,attack,Not fleeing,True,-84.224,39.61,True
+7149,Josue Arias,2021-09-07,shot,gun,32,M,,Clearwater,FL,False,attack,Not fleeing,False,-82.748,28.005,True
