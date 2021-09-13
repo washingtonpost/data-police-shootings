@@ -6544,15 +6544,27 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7133,,2021-08-29,shot,metal pipe,,M,,Atlanta,GA,False,other,,True,-84.385,33.779,True
 7140,Martin Luther Bowman,2021-08-30,shot,undetermined,80,M,,Pearlington,MS,False,undetermined,,False,-89.591,30.241,True
 7144,Brittni Muldrew,2021-08-30,shot,vehicle,36,F,,Coconut Creek,FL,False,other,,False,-80.183,26.317,True
-7146,,2021-08-30,shot,undetermined,,M,,Normal,IL,False,undetermined,,False,-88.983,40.542,True
+7146,Ronald Reiner,2021-08-30,shot,gun,66,M,,Normal,IL,False,attack,,True,-88.983,40.542,True
 7147,Etianna Planellas,2021-08-30,shot,toy weapon,48,F,,Miami Shores,FL,True,other,Not fleeing,False,-80.195,25.862,True
+7166,Paris Wilder,2021-08-30,shot,gun,,M,,West Melbourne,FL,False,attack,Not fleeing,False,-80.653,28.079,True
 7143,Jeremy Michael Berg,2021-08-31,shot,knife,45,M,,Martelle,IA,False,other,,False,-91.346,41.999,True
 7145,George D. Watson,2021-08-31,shot,toy weapon,34,M,,Washington,DC,False,attack,Not fleeing,True,-77.032,38.918,True
 7142,James Williams,2021-09-01,shot,gun,33,M,,Indianapolis,IN,False,other,,False,-86.074,39.796,True
+7162,Connor Riley McDaniel,2021-09-01,shot,gun,26,M,,Peyton,CO,True,attack,Not fleeing,False,-104.51,39.067,True
 7148,Estevan Ramirez,2021-09-03,shot,gun,18,M,,Fort Worth,TX,False,attack,Car,False,-97.435,32.735,True
 7153,Cedric Baxter,2021-09-03,shot,undetermined,60,M,,Buena Park,CA,False,other,Car,False,-118.015,33.859,True
 7154,David Marshall,2021-09-03,shot,gun,31,M,,Oak Creek,WI,True,other,Other,False,-87.95,42.924,True
+7156,Mark Danley,2021-09-03,shot,undetermined,53,M,,Weston,WV,False,other,Car,False,-80.389,39.038,True
+7159,Lisa Bernadette Garcia,2021-09-03,shot,gun,52,F,,Denver,CO,False,attack,Foot,False,-104.9,39.67,True
+7161,Drew Lucero,2021-09-03,shot,gun,37,M,,Denver,CO,False,attack,,False,-104.829,39.79,True
 7152,,2021-09-04,shot,gun,25,M,,Lakewood,WA,False,attack,,False,-122.537,47.121,True
 7150,Robert Gutierrez,2021-09-06,shot,gun,59,M,,Springfield,OR,False,attack,,False,-122.898,44.067,True
 7151,Frederick A. Thomas,2021-09-06,shot,gun,41,M,,Miami Township,OH,False,attack,Not fleeing,True,-84.224,39.61,True
+7155,Cimmeron Christy,2021-09-06,shot,gun,46,M,,Moriarty,NM,False,attack,Not fleeing,False,-106.003,35.02,True
+7160,,2021-09-06,shot,gun,,M,,Sacramento,CA,False,attack,Not fleeing,False,-121.424,38.541,True
 7149,Josue Arias,2021-09-07,shot,gun,32,M,,Clearwater,FL,False,other,Not fleeing,False,-82.748,28.005,True
+7157,,2021-09-07,shot,gun,,M,,Fruit Cove,FL,False,attack,Not fleeing,False,-81.629,30.097,True
+7158,Anthony Cravo,2021-09-07,shot,gun,52,M,,Lufkin,TX,False,attack,Not fleeing,True,-94.723,31.345,True
+7165,Cedric Williams,2021-09-10,shot,toy weapon,29,M,,Oxon Hill,MD,True,other,,False,-76.982,38.818,True
+7163,Desmond Lewis,2021-09-11,shot,gun,30,M,,Shreveport,LA,False,attack,Foot,False,-93.763,32.414,True
+7164,,2021-09-11,shot,undetermined,,M,,Horry County,SC,False,other,Other,False,-78.83,33.926,True
