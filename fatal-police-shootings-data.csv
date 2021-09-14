@@ -6554,7 +6554,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7148,Estevan Ramirez,2021-09-03,shot,gun,18,M,,Fort Worth,TX,False,attack,Car,False,-97.435,32.735,True
 7153,Cedric Baxter,2021-09-03,shot,undetermined,60,M,,Buena Park,CA,False,other,Car,False,-118.015,33.859,True
 7154,David Marshall,2021-09-03,shot,gun,31,M,,Oak Creek,WI,True,other,Other,False,-87.95,42.924,True
-7156,Mark Danley,2021-09-03,shot,undetermined,53,M,,Weston,WV,False,other,Car,False,-80.389,39.038,True
+7156,Mark Danley,2021-09-03,shot,vehicle and gun,53,M,,Weston,WV,False,attack,Car,False,-80.389,39.038,True
 7159,Lisa Bernadette Garcia,2021-09-03,shot,gun,52,F,,Denver,CO,False,attack,Foot,False,-104.9,39.67,True
 7161,Drew Lucero,2021-09-03,shot,gun,37,M,,Denver,CO,False,attack,,False,-104.829,39.79,True
 7152,,2021-09-04,shot,gun,25,M,,Lakewood,WA,False,attack,,False,-122.537,47.121,True
