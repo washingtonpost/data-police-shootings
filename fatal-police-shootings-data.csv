@@ -6541,7 +6541,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7130,,2021-08-29,shot,undetermined,,M,,Falls Township,PA,False,undetermined,,False,-74.817,40.201,True
 7131,,2021-08-29,shot,machete,,M,,Missoula,MT,False,other,,False,-114.337,47.016,True
 7132,Gray Bell,2021-08-29,shot,gun,40,M,,Atlanta,GA,False,other,Car,False,-84.399,33.782,True
-7133,,2021-08-29,shot,metal pipe,,M,,Atlanta,GA,False,other,,True,-84.385,33.779,True
 7140,Martin Luther Bowman,2021-08-30,shot,undetermined,80,M,,Pearlington,MS,False,undetermined,,False,-89.591,30.241,True
 7144,Brittni Muldrew,2021-08-30,shot,vehicle,36,F,,Coconut Creek,FL,False,other,,False,-80.183,26.317,True
 7146,Ronald Reiner,2021-08-30,shot,gun,66,M,,Normal,IL,False,attack,,True,-88.983,40.542,True
@@ -6563,8 +6562,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7155,Cimmeron Christy,2021-09-06,shot,gun,46,M,,Moriarty,NM,False,attack,Not fleeing,False,-106.003,35.02,True
 7160,,2021-09-06,shot,gun,,M,,Sacramento,CA,False,attack,Not fleeing,False,-121.424,38.541,True
 7149,Josue Arias,2021-09-07,shot,gun,32,M,,Clearwater,FL,False,other,Not fleeing,False,-82.748,28.005,True
-7157,,2021-09-07,shot,gun,,M,,Fruit Cove,FL,False,attack,Not fleeing,False,-81.629,30.097,True
 7158,Anthony Cravo,2021-09-07,shot,gun,52,M,,Lufkin,TX,False,attack,Not fleeing,True,-94.723,31.345,True
 7165,Cedric Williams,2021-09-10,shot,toy weapon,29,M,,Oxon Hill,MD,True,other,,False,-76.982,38.818,True
-7163,Desmond Lewis,2021-09-11,shot,gun,30,M,,Shreveport,LA,False,attack,Foot,False,-93.763,32.414,True
-7164,,2021-09-11,shot,undetermined,,M,,Horry County,SC,False,other,Other,False,-78.83,33.926,True
+7163,Desmond D. Lewis,2021-09-11,shot,gun,30,M,,Shreveport,LA,False,attack,Foot,False,-93.763,32.414,True
+7164,Tristan Vereen,2021-09-11,shot,Taser,33,M,,Horry County,SC,False,attack,Other,False,-78.83,33.926,True
