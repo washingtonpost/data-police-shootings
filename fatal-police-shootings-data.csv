@@ -6566,7 +6566,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7165,Cedric Williams,2021-09-10,shot,toy weapon,29,M,,Oxon Hill,MD,True,other,,False,-76.982,38.818,True
 7163,Desmond D. Lewis,2021-09-11,shot,gun,30,M,,Shreveport,LA,False,attack,Foot,False,-93.763,32.414,True
 7164,Tristan Vereen,2021-09-11,shot,Taser,33,M,,Horry County,SC,False,attack,Other,False,-78.83,33.926,True
+7182,,2021-09-14,shot,undetermined,,M,,Mantua Township,NJ,False,undetermined,,False,-75.166,39.788,True
+7180,Christopher George,2021-09-15,shot,gun,25,M,,Davis,OK,True,attack,,False,-97.108,34.494,True
+7181,Kenzie Keyes,2021-09-15,shot,gun,30,F,,Phoenix,AZ,False,attack,Foot,False,-112.03,33.48,True
+7178,,2021-09-16,shot,gun,,M,,Huntsville,TX,False,attack,Not fleeing,False,-95.498,30.548,True
 7177,,2021-09-17,shot,gun,38,M,,Escondido,CA,False,attack,Car,False,-117.048,33.147,True
+7179,Joseph Matthew Wilbanks,2021-09-17,shot,knife,41,M,,Marietta,GA,False,other,Not fleeing,False,-84.492,34.065,True
 7171,,2021-09-18,shot,gun,,M,,Gallatin County,KY,False,attack,,False,-85.0,38.736,True
 7172,Dishawn Sanders,2021-09-18,shot,gun,,M,,Jackson,MS,False,attack,Not fleeing,False,-90.21,32.259,True
 7173,Christopher E. Rush,2021-09-18,shot,sharp object,34,M,,Mahoning Township,PA,False,attack,Not fleeing,False,-80.507,41.016,True
