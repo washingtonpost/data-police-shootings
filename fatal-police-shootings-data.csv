@@ -6578,7 +6578,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7174,Adrian Cameron,2021-09-18,shot,gun,47,M,,Nashville,TN,False,attack,Not fleeing,False,-86.631,36.153,True
 7175,Unsfored Lewis Thurmond,2021-09-18,shot,gun,27,M,,Smyrna,GA,True,attack,,False,-84.471,33.892,True
 7176,Jason Husted,2021-09-18,shot,gun,47,M,,West Ashley,SC,False,attack,,False,-80.05,32.835,True
-7169,Deon Ledet,2021-09-20,shot,gun,30,M,,Houston,TX,False,attack,Not fleeing,False,-95.313,29.935,True
-7170,,2021-09-20,shot,knife,,M,,Signal Hill,CA,False,attack,Foot,False,-118.171,33.804,True
-7167,,2021-09-21,shot,gun,,M,,Las Vegas,NV,False,attack,,False,-115.136,36.163,True
-7168,,2021-09-21,shot,undetermined,,,,Henderson,NV,False,undetermined,,False,-115.108,36.159,True
+7169,Deon Ledet,2021-09-20,shot,gun,30,M,B,Houston,TX,False,attack,Not fleeing,True,-95.313,29.935,True
+7170,Phillip Lopez,2021-09-20,shot,knife,42,M,,Signal Hill,CA,False,attack,Foot,False,-118.171,33.804,True
+7167,Trent Leach,2021-09-21,shot,gun,30,M,,Las Vegas,NV,False,attack,,False,-115.136,36.163,True
+7168,Jose Antonio Oyuela-Palma,2021-09-21,shot,gun,49,M,,Henderson,NV,False,attack,,False,-115.108,36.159,True
