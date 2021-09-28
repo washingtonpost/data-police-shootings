@@ -2093,7 +2093,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2335,Drey Krause,2017-02-13,shot,gun,53,M,W,Golden Shores,AZ,False,attack,Not fleeing,False,-114.496,34.767,True
 2337,Raynard Burton,2017-02-13,shot,unarmed,19,M,B,Detroit,MI,False,attack,Other,False,-83.129,42.377,True
 2338,Michael Lee Morris,2017-02-14,shot,knife,53,M,W,Columbus,OH,True,other,Not fleeing,False,-83.075,39.947,True
-2339,David Zimmerman,2017-02-14,shot,,35,M,W,Vincennes,IN,False,other,Other,False,-87.528,38.652,True
+2339,David Zimmerman,2017-02-14,shot,gun,35,M,W,Vincennes,IN,False,other,Other,False,-87.528,38.652,True
 2709,Steven C. Oliger,2017-02-14,shot,gun,64,M,W,Shelbyville,IN,False,attack,Not fleeing,False,-85.794,39.498,True
 2342,Kenneth Lee Bailey,2017-02-15,shot,gun,24,M,B,Durham,NC,False,attack,Foot,False,-78.878,36.027,True
 2344,Andrew McClendon,2017-02-15,shot,knife,33,M,W,Cape Girardeau,MO,False,other,Not fleeing,False,-89.575,37.316,True
@@ -6567,18 +6567,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7165,Cedric Williams,2021-09-10,shot,toy weapon,29,M,,Oxon Hill,MD,True,other,,False,-76.982,38.818,True
 7163,Desmond D. Lewis,2021-09-11,shot,gun,30,M,,Shreveport,LA,False,attack,Foot,False,-93.763,32.414,True
 7164,Tristan Vereen,2021-09-11,shot,Taser,33,M,,Horry County,SC,False,attack,Other,True,-78.83,33.926,True
-7194,James Anderson,2021-09-11,shot,gun,48,M,,Thompson,IA,False,other,,False,-93.772,43.37,True
+7194,James Anderson,2021-09-11,shot,gun,48,M,,Thompson,IA,False,attack,,False,-93.772,43.37,True
 7182,Charles Sharp,2021-09-14,shot,undetermined,49,M,,Mantua Township,NJ,False,undetermined,,False,-75.166,39.788,True
 7180,Christopher George,2021-09-15,shot,gun,25,M,,Davis,OK,True,attack,,False,-97.108,34.494,True
 7181,Kenzie Keyes,2021-09-15,shot,gun,30,F,,Phoenix,AZ,False,attack,Foot,False,-112.03,33.48,True
-7192,Cody Harrison,2021-09-15,shot,gun,33,M,,Independence,MO,False,attack,,False,-94.451,39.078,True
-7178,,2021-09-16,shot,gun,,M,,Huntsville,TX,False,attack,Not fleeing,False,-95.498,30.548,True
+7192,Cody L. Harrison,2021-09-15,shot,gun,33,M,,Independence,MO,False,attack,,False,-94.451,39.078,True
+7178,,2021-09-16,shot,gun,38,M,,Huntsville,TX,False,attack,Not fleeing,False,-95.498,30.548,True
 7177,Jonathan Carroll,2021-09-17,shot,gun,38,M,,Escondido,CA,False,attack,Car,False,-117.048,33.147,True
-7179,Joseph Matthew Wilbanks,2021-09-17,shot,knife,41,M,,Marietta,GA,False,other,Not fleeing,False,-84.492,34.065,True
+7179,Joseph Matthew Wilbanks,2021-09-17,shot,knife,41,M,,Marietta,GA,True,other,Not fleeing,False,-84.492,34.065,True
 7171,,2021-09-18,shot,gun,,M,,Gallatin County,KY,False,attack,,False,-85.0,38.736,True
 7172,Dishawn Sanders,2021-09-18,shot,gun,,M,,Jackson,MS,False,attack,Not fleeing,False,-90.21,32.259,True
 7173,Christopher E. Rush,2021-09-18,shot,sharp object,34,M,,Mahoning Township,PA,False,attack,Not fleeing,False,-80.507,41.016,True
-7174,Adrian Cameron,2021-09-18,shot,gun,47,M,,Nashville,TN,False,attack,Not fleeing,False,-86.631,36.153,True
+7174,Adrian Cameron,2021-09-18,shot,gun,47,M,B,Nashville,TN,False,attack,Not fleeing,False,-86.631,36.153,True
 7175,Unsfored Lewis Thurmond,2021-09-18,shot,gun,27,M,,Smyrna,GA,True,attack,,False,-84.471,33.892,True
 7176,Jason Husted,2021-09-18,shot,gun,47,M,,West Ashley,SC,False,attack,,False,-80.05,32.835,True
 7193,Turell Brown,2021-09-19,shot,knife,28,M,,Chicago,IL,False,other,,False,-87.634,41.776,True
@@ -6590,6 +6590,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7183,Keith Cole,2021-09-23,shot,undetermined,,M,,Looxahoma,MS,False,other,Foot,True,-89.839,34.612,True
 7188,,2021-09-23,shot,gun,40,M,,McKinney,TX,True,attack,Not fleeing,False,-96.676,33.161,True
 7185,,2021-09-24,shot,gun,,F,,Indianapolis,IN,False,other,Car,True,-86.169,39.809,True
-7184,Ronnie Andrew Garcia,2021-09-25,shot,undetermined,43,M,,Huntington Beach,CA,False,other,,False,-118.004,33.655,True
-7186,,2021-09-25,shot,knife,30,F,H,Delano,CA,False,attack,Not fleeing,False,-119.239,35.783,True
+7184,Ronnie Andrew Garcia,2021-09-25,shot,gun,43,M,H,Huntington Beach,CA,False,other,,False,-118.004,33.655,True
+7186,Sandra Barajas,2021-09-25,shot,knife,30,F,H,Delano,CA,False,attack,Not fleeing,False,-119.239,35.783,True
 7187,Christian Smith,2021-09-25,shot,gun,33,M,,DeKalb County,GA,False,other,,False,-84.28,33.727,True
