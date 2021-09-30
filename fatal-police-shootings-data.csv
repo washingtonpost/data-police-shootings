@@ -6593,9 +6593,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7183,Keith Cole,2021-09-23,shot,undetermined,,M,B,Looxahoma,MS,False,other,Foot,True,-89.839,34.612,True
 7188,,2021-09-23,shot,gun,40,M,,McKinney,TX,True,attack,Not fleeing,False,-96.676,33.161,True
 7197,Barry Ross,2021-09-23,shot,gun,34,M,,Lancaster,CA,False,attack,Car,False,-118.154,34.806,True
-7185,,2021-09-24,shot,gun,,F,,Indianapolis,IN,False,other,Car,True,-86.169,39.809,True
+7185,Jessie Leonard,2021-09-24,shot,gun,36,F,,Indianapolis,IN,False,other,Car,True,-86.169,39.809,True
 7184,Ronnie Andrew Garcia,2021-09-25,shot,gun,43,M,H,Huntington Beach,CA,False,other,,False,-118.004,33.655,True
 7186,Sandra Barajas,2021-09-25,shot,knife,30,F,H,Delano,CA,False,attack,Not fleeing,False,-119.239,35.783,True
-7187,Christian Smith,2021-09-25,shot,gun,33,M,,DeKalb County,GA,False,other,,False,-84.28,33.727,True
-7195,,2021-09-27,shot,gun,,F,,Allen,TX,False,attack,Foot,False,-96.676,33.101,True
+7187,Christian Smith,2021-09-25,shot,gun,33,M,,Decatur,GA,False,other,,False,-84.28,33.727,True
+7195,Gloria Marie Strong,2021-09-27,shot,gun,27,F,,Allen,TX,False,attack,Foot,False,-96.676,33.101,True
 7196,Joseph Arbour,2021-09-27,shot,unknown weapon,36,M,,Auburn,ME,False,other,Foot,False,-70.227,44.108,True
