@@ -2201,7 +2201,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2456,Austin Tyler Macon,2017-03-24,shot,gun,18,M,W,Cottonwood,CA,False,attack,Not fleeing,False,-122.281,40.328,True
 2458,Matthew Gambaro,2017-03-24,shot,gun,26,M,H,Cisco,TX,False,other,Foot,False,-98.979,32.375,True
 2454,Fred Barragan,2017-03-25,shot,gun,35,M,H,Los Angeles,CA,False,other,Foot,False,-118.211,34.044,True
-2455,Paul Parienlla,2017-03-26,shot,gun,53,M,W,Anderson,CA,False,attack,Not fleeing,False,-122.29,40.45,True
+2455,Edward Paul Parienlla,2017-03-26,shot,gun,53,M,W,Anderson,CA,False,attack,Not fleeing,False,-122.29,40.45,True
 2457,Michael Hornibrook,2017-03-26,shot,gun,54,M,W,Little Rock,AR,False,attack,Foot,False,-92.268,34.748,True
 2459,Justin Quincy Smith,2017-03-26,shot,gun,36,M,W,Wasilla,AK,False,attack,Other,False,-149.45,61.581,True
 2712,David Eric Ufferman,2017-03-26,shot,unarmed,56,M,W,Delray Beach,FL,True,attack,Not fleeing,False,-80.083,26.461,True
@@ -6600,10 +6600,22 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7195,Gloria Marie Strong,2021-09-27,shot,gun,27,F,,Allen,TX,False,attack,Foot,False,-96.676,33.101,True
 7196,Joseph Arbour,2021-09-27,shot,unknown weapon,36,M,,Auburn,ME,False,other,Foot,False,-70.227,44.108,True
 7215,Patrick Chin,2021-09-28,shot,sword,43,M,,Hillsborough,NJ,False,other,,False,-74.614,40.479,True
+7250,Brandon Lopez,2021-09-28,shot,undetermined,34,M,,Santa Ana,CA,True,other,Car,False,-117.885,33.748,True
 7225,Daniel Ledford,2021-09-29,shot,undetermined,41,M,,Middlesboro,KY,False,undetermined,,False,-83.714,36.607,True
+7248,Kyle Anthony Veyon,2021-09-29,shot,knife,26,M,,Columbus,OH,False,other,Not fleeing,True,-82.897,39.921,True
+7242,Chaz Nathan McGowen,2021-09-30,shot,knife,28,M,,Niles Charter Township,MI,False,other,Not fleeing,False,-86.245,41.791,True
+7243,Jess Jackson,2021-10-03,shot,gun,41,M,,Wichita,KS,False,attack,Not fleeing,False,-97.284,37.697,True
+7244,David Jacques,2021-10-03,shot,gun,,M,,Colorado Springs,CO,False,attack,Foot,False,-104.766,38.816,True
+7249,,2021-10-03,shot,undetermined,,,,Las Vegas,NV,False,undetermined,,False,-115.018,36.198,True
 7228,Demetrius Deshawn Roberts,2021-10-04,shot,gun,21,M,,Las Vegas,NV,False,attack,Foot,False,-115.199,36.137,True
+7241,Paul J. Weeden,2021-10-04,shot,undetermined,66,M,,Walton,NY,True,undetermined,,False,-75.125,42.17,True
+7245,Chad Allen Jenkins,2021-10-04,shot,gun,50,M,,St. Petersburg,FL,False,other,,False,-82.685,27.774,True
+7247,Shane Hartman,2021-10-04,shot,Taser,,M,,Houma,LA,False,attack,Not fleeing,False,-90.726,29.592,True
+7246,Donte Lorenzo Laster,2021-10-05,shot,gun,23,M,,Tucson,AZ,False,attack,,False,-110.97,32.264,True
 7223,Simran Gordon,2021-10-06,shot,gun,24,M,,Rochester,NY,False,attack,Not fleeing,True,-77.632,43.151,True
 7229,Andra Devon Murphy,2021-10-06,shot,gun,43,M,,Bolivar,TN,False,other,Car,False,-88.986,35.252,True
+7251,Fidel Bedolla,2021-10-06,shot,gun,55,M,,Bakersfield,CA,False,attack,,False,-118.989,35.358,True
+7252,Guillermo San Miguel Sanchez,2021-10-06,shot,knife,25,M,,Weslaco,TX,True,attack,Not fleeing,False,-97.996,26.236,True
 7227,Johan Quintero,2021-10-07,shot,gun,22,M,,Wentzville,MO,False,other,Not fleeing,False,-90.821,38.806,True
 7222,Derrick Clinton,2021-10-08,shot,gun,27,M,,Indian Land,SC,False,attack,Not fleeing,False,-80.851,35.005,True
 7230,Lance Stelzer,2021-10-08,shot,undetermined,30,M,,Goetz,WI,False,undetermined,Not fleeing,False,-91.193,44.975,True
@@ -6617,17 +6629,22 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7206,Jonathan Combs,2021-10-12,shot,gun,40,M,,Anderson,SC,False,other,Car,False,-82.539,34.676,True
 7209,Bryan Lee,2021-10-12,shot,gun,43,M,,Knoxville,TN,False,attack,Not fleeing,False,-83.893,35.952,True
 7210,Mario Lawrence Martinez,2021-10-12,shot,gun,43,M,,Las Vegas,NV,False,attack,Not fleeing,True,-115.051,36.196,True
-7204,,2021-10-13,shot,unknown weapon,,M,,Davenport,IA,False,other,Foot,False,-90.569,41.528,True
 7211,Buddy Byron McKenzie,2021-10-13,shot,gun,41,M,,McCammon,ID,False,attack,Car,False,-112.186,42.654,True
 7217,Dustin Paradis,2021-10-13,shot,knife,34,M,,Augusta,ME,False,other,,False,-69.766,44.302,True
 7218,Bobby Klum,2021-10-13,shot,gun,37,M,,Davenport,IA,False,other,,False,-90.57,41.528,True
-7207,,2021-10-14,shot,knife,32,M,,Tarboro,NC,True,attack,Not fleeing,True,-77.588,35.883,True
+7207,Jermaine Harris,2021-10-14,shot,knife,32,M,,Tarboro,NC,True,attack,Not fleeing,True,-77.588,35.883,True
 7212,,2021-10-14,shot,knife,46,M,,Geary,OK,False,attack,Not fleeing,False,-98.272,35.536,True
-7205,,2021-10-16,shot,gun,,M,,Tarpon Springs,FL,False,attack,Not fleeing,False,-82.757,28.148,True
+7237,Russell Leggett,2021-10-14,shot,gun,30,M,,Palm Springs,CA,False,other,Car,False,-116.546,33.874,True
+7205,Alexander King,2021-10-16,shot,toy weapon,17,M,W,Tarpon Springs,FL,False,attack,Not fleeing,False,-82.757,28.148,True
 7214,Joshua Dewayne Hammock,2021-10-16,shot,knife,30,M,W,Estero,FL,False,attack,,False,-81.783,26.433,True
 7221,Guillermo Gonzalez-Gonzalez,2021-10-16,shot,gun,,M,,Laredo,TX,False,attack,Not fleeing,False,-99.471,27.445,True
 7201,Allan Lorenzo Robb,2021-10-17,shot,knife,33,M,,West Palm Beach,FL,False,attack,Not fleeing,False,-80.06,26.692,True
 7202,Christofer Conner,2021-10-17,shot,sharp object,40,M,,Fort Smith,AR,False,attack,Not fleeing,False,-94.399,35.385,True
 7203,Kfin Karuo,2021-10-17,shot,gun,28,M,,Vancouver,WA,False,attack,Car,False,-122.548,45.658,True
 7216,Douglas Knakmuhs,2021-10-17,shot,gun,40,M,,Springfield,MO,False,attack,Foot,True,-93.316,37.206,True
-7213,,2021-10-18,shot,undetermined,,D,,Washington,DC,False,undetermined,,False,-76.988,38.842,True
+7213,Deandre Johnson,2021-10-18,shot,unarmed,30,D,,Washington,DC,False,attack,,True,-76.988,38.842,True
+7235,Daniel DiMillo,2021-10-19,shot,undetermined,51,M,,Falmouth,ME,False,undetermined,,False,-70.244,43.725,True
+7236,,2021-10-19,shot,gun,,M,W,Pensacola,FL,False,attack,Not fleeing,False,-87.254,30.418,True
+7238,Richard Thomas,2021-10-19,shot,undetermined,41,M,,Golden Valley,NV,False,undetermined,,False,-119.856,39.614,True
+7234,,2021-10-20,shot,knife,,F,,Syracuse,NY,False,attack,Not fleeing,False,-76.183,43.049,True
+7239,,2021-10-20,shot,vehicle,,M,,Arlington,TX,False,other,Car,False,-97.094,32.703,True
