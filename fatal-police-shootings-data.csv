@@ -6602,7 +6602,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7215,Patrick Chin,2021-09-28,shot,sword,43,M,,Hillsborough,NJ,False,other,,False,-74.614,40.479,True
 7250,Brandon Lopez,2021-09-28,shot,undetermined,34,M,,Santa Ana,CA,True,other,Car,False,-117.885,33.748,True
 7225,Daniel Ledford,2021-09-29,shot,undetermined,41,M,,Middlesboro,KY,False,undetermined,,False,-83.714,36.607,True
-7248,Kyle Anthony Veyon,2021-09-29,shot,knife,26,M,,Columbus,OH,False,other,Not fleeing,True,-82.897,39.921,True
+7248,Kyle Anthony Veyon,2021-09-29,shot and Tasered,knife,26,M,,Columbus,OH,False,other,Not fleeing,True,-82.897,39.921,True
 7242,Chaz Nathan McGowen,2021-09-30,shot,knife,28,M,,Niles Charter Township,MI,False,other,Not fleeing,False,-86.245,41.791,True
 7243,Jess Jackson,2021-10-03,shot,gun,41,M,,Wichita,KS,False,attack,Not fleeing,False,-97.284,37.697,True
 7244,David Jacques,2021-10-03,shot,gun,,M,,Colorado Springs,CO,False,attack,Foot,False,-104.766,38.816,True
@@ -6642,7 +6642,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7202,Christofer Conner,2021-10-17,shot,sharp object,40,M,,Fort Smith,AR,False,attack,Not fleeing,False,-94.399,35.385,True
 7203,Kfin Karuo,2021-10-17,shot,gun,28,M,,Vancouver,WA,False,attack,Car,False,-122.548,45.658,True
 7216,Douglas Knakmuhs,2021-10-17,shot,gun,40,M,,Springfield,MO,False,attack,Foot,True,-93.316,37.206,True
-7213,Deandre Johnson,2021-10-18,shot,unarmed,30,D,,Washington,DC,False,attack,,True,-76.988,38.842,True
+7213,Deandre Johnson,2021-10-18,shot,unarmed,30,M,,Washington,DC,False,attack,,True,-76.988,38.842,True
 7235,Daniel DiMillo,2021-10-19,shot,undetermined,51,M,,Falmouth,ME,False,undetermined,,False,-70.244,43.725,True
 7236,,2021-10-19,shot,gun,,M,W,Pensacola,FL,False,attack,Not fleeing,False,-87.254,30.418,True
 7238,Richard Thomas,2021-10-19,shot,undetermined,41,M,,Golden Valley,NV,False,undetermined,,False,-119.856,39.614,True
