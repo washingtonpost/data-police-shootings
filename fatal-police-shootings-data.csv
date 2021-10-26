@@ -6604,13 +6604,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7225,Daniel Ledford,2021-09-29,shot,undetermined,41,M,,Middlesboro,KY,False,undetermined,,False,-83.714,36.607,True
 7248,Kyle Anthony Veyon,2021-09-29,shot and Tasered,knife,26,M,,Columbus,OH,False,other,Not fleeing,True,-82.897,39.921,True
 7242,Chaz Nathan McGowen,2021-09-30,shot,knife,28,M,,Niles Charter Township,MI,False,other,Not fleeing,False,-86.245,41.791,True
-7243,Jess Jackson,2021-10-03,shot,gun,41,M,,Wichita,KS,False,attack,Not fleeing,False,-97.284,37.697,True
+7243,Jess Jackson,2021-10-03,shot,gun,41,M,,Wichita,KS,True,attack,Not fleeing,False,-97.284,37.697,True
 7244,David Jacques,2021-10-03,shot,gun,,M,,Colorado Springs,CO,False,attack,Foot,False,-104.766,38.816,True
 7249,,2021-10-03,shot,undetermined,,,,Las Vegas,NV,False,undetermined,,False,-115.018,36.198,True
 7228,Demetrius Deshawn Roberts,2021-10-04,shot,gun,21,M,,Las Vegas,NV,False,attack,Foot,False,-115.199,36.137,True
-7241,Paul J. Weeden,2021-10-04,shot,undetermined,66,M,,Walton,NY,True,undetermined,,False,-75.125,42.17,True
+7241,Paul J. Weeden,2021-10-04,shot,unknown weapon,66,M,,Walton,NY,True,attack,,False,-75.125,42.17,True
 7245,Chad Allen Jenkins,2021-10-04,shot,gun,50,M,,St. Petersburg,FL,False,other,,False,-82.685,27.774,True
-7247,Shane Hartman,2021-10-04,shot,Taser,,M,,Houma,LA,False,attack,Not fleeing,False,-90.726,29.592,True
+7247,Shane E. Hartman,2021-10-04,shot,Taser,,M,,Houma,LA,False,attack,Not fleeing,False,-90.726,29.592,True
 7246,Donte Lorenzo Laster,2021-10-05,shot,gun,23,M,,Tucson,AZ,False,attack,,False,-110.97,32.264,True
 7223,Simran Gordon,2021-10-06,shot,gun,24,M,,Rochester,NY,False,attack,Not fleeing,True,-77.632,43.151,True
 7229,Andra Devon Murphy,2021-10-06,shot,gun,43,M,,Bolivar,TN,False,other,Car,False,-88.986,35.252,True
