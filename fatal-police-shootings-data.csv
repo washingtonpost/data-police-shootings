@@ -6614,7 +6614,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7247,Shane E. Hartman,2021-10-04,shot,Taser,,M,,Houma,LA,False,attack,Not fleeing,False,-90.726,29.592,True
 7246,Donte Lorenzo Laster,2021-10-05,shot,gun,23,M,,Tucson,AZ,False,attack,,False,-110.97,32.264,True
 7223,Simran Gordon,2021-10-06,shot,gun,24,M,,Rochester,NY,False,attack,Not fleeing,True,-77.632,43.151,True
-7229,Andra Devon Murphy,2021-10-06,shot,gun,43,M,,Bolivar,TN,False,other,Car,False,-88.986,35.252,True
+7229,Andra Devon Murphy,2021-10-06,shot,gun,43,M,,Bolivar,TN,False,attack,Car,False,-88.986,35.252,True
 7251,Fidel Bedolla,2021-10-06,shot,gun,55,M,,Bakersfield,CA,False,attack,,False,-118.989,35.358,True
 7252,Guillermo San Miguel Sanchez,2021-10-06,shot,knife,25,M,,Weslaco,TX,True,attack,Not fleeing,False,-97.996,26.236,True
 7227,Johan Quintero,2021-10-07,shot,gun,22,M,,Wentzville,MO,False,other,Not fleeing,False,-90.821,38.806,True
@@ -6651,8 +6651,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7239,Jesse Fischer,2021-10-20,shot,vehicle,40,M,,Arlington,TX,False,other,Car,False,-97.094,32.703,True
 7253,Michael Raymond Hilton,2021-10-21,shot,undetermined,34,M,,Campbell County,TN,False,other,Car,False,-84.232,36.365,True
 7255,Yordany Rodriguez Perez,2021-10-22,shot,gun,25,M,,Doral,FL,False,attack,Car,False,-80.345,25.797,True
-7256,,2021-10-23,shot,unknown weapon,,M,,Fort Belknap,MT,False,other,Car,False,-108.534,48.2,True
+7256,Clayburn Elwood Grant,2021-10-23,shot,unknown weapon,34,M,,Fort Belknap,MT,False,other,Car,False,-108.534,48.2,True
 7258,Nicholas Smith,2021-10-24,shot,gun,35,M,,Conway,AR,False,attack,Not fleeing,False,-92.474,35.085,True
 7259,Kim Douglas Ropp,2021-10-24,shot,knife,60,M,,Kentwood,MI,False,attack,Not fleeing,False,-85.642,42.882,True
-7257,,2021-10-25,shot,sword,,M,,DeKalb,IL,False,attack,Not fleeing,False,-88.749,41.943,True
+7257,Kristopher M. Kramer,2021-10-25,shot and Tasered,sword,33,M,,DeKalb,IL,False,attack,Not fleeing,False,-88.749,41.943,True
 7254,,2021-10-26,shot,gun,,M,,Louisville,KY,False,attack,Not fleeing,True,-85.699,38.268,True
