@@ -6507,7 +6507,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7097,Phillip John Walden,2021-08-15,shot and Tasered,unknown weapon,40,M,,Lexington County,SC,False,other,Car,False,-81.106,33.978,True
 7103,Broderick Shelton,2021-08-16,shot,gun,42,M,,Milwaukee,WI,True,attack,Not fleeing,False,-87.947,43.064,True
 7105,Antonio Jackson,2021-08-16,shot,vehicle,27,M,B,Memphis,TN,False,attack,,False,-89.939,35.082,True
-7274,Alexander Domina,2021-08-16,shot,knife,19,M,,Loveland,CO,True,other,Not fleeing,False,-105.075,40.398,True
+7274,Alexander Domina,2021-08-16,shot,knife,19,M,W,Loveland,CO,True,other,Not fleeing,False,-105.075,40.398,True
 7104,Destinee Thompson,2021-08-17,shot,undetermined,27,F,,Arvada,CO,False,undetermined,Other,False,-105.11,39.828,False
 7102,Ronald Zavaglia,2021-08-18,shot,gun,72,M,,Pflugerville,TX,False,attack,,True,-97.64,30.466,False
 7115,Kevin Eugene Norris,2021-08-18,shot,toy weapon,50,M,,Beckley,WV,False,other,,False,-81.177,37.793,False
@@ -6568,7 +6568,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7158,Anthony Cravo,2021-09-07,shot,gun,52,M,,Lufkin,TX,False,attack,Not fleeing,True,-94.723,31.345,True
 7190,David Lopez,2021-09-08,shot,gun,40,M,H,Gilroy,CA,False,attack,Not fleeing,True,-121.571,37.01,True
 7276,,2021-09-09,shot,gun,,M,W,Humboldt County,CA,False,other,Foot,True,-124.122,40.922,True
-7278,David Ray Williams,2021-09-09,shot,gun,37,M,,Diggins,MO,False,other,Foot,False,-92.854,37.173,True
+7278,David Ray Williams,2021-09-09,shot,gun,37,M,W,Diggins,MO,False,other,Foot,False,-92.854,37.173,True
 7165,Cedric Williams,2021-09-10,shot,toy weapon,29,M,,Oxon Hill,MD,True,other,,False,-76.982,38.818,True
 7200,Joseph Anthony Manhard,2021-09-10,shot,gun,31,M,,Farmington,UT,False,attack,Car,True,-111.881,40.955,True
 7273,Jesse Lees,2021-09-10,shot,gun,33,M,,Topeka,KS,False,attack,Foot,False,-95.682,39.052,True
