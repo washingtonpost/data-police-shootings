@@ -6495,7 +6495,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7311,Luis Manuel Garcia,2021-08-09,shot,unarmed,39,M,,Tustin,CA,True,other,Not fleeing,False,-117.841,33.74,True
 7084,Johan Alexis Salaza,2021-08-10,shot,gun,21,M,,El Mirage,AZ,False,attack,Foot,True,-112.324,33.597,True
 7091,Marvin Richard Hitchcock,2021-08-10,shot,gun,71,M,,Grantsboro,NC,False,other,Not fleeing,False,-76.894,35.026,True
-7312,James Wiesner,2021-08-10,shot,gun,51,M,,North Aurora,IL,False,attack,Not fleeing,False,-88.308,41.814,True
+7312,James R. Wiesner,2021-08-10,shot,gun,51,M,,North Aurora,IL,False,attack,Not fleeing,False,-88.308,41.814,True
 7083,Daniel Turney Crowley,2021-08-11,shot,knife,31,M,,Nashville,TN,False,other,Not fleeing,True,-86.926,36.115,True
 7085,Brooks Hacker,2021-08-11,shot,gun,35,M,,Juniata,NE,False,attack,Not fleeing,False,-98.502,40.587,True
 7088,Elia Laeli,2021-08-11,shot,machete,41,M,,Honolulu,HI,False,attack,Not fleeing,True,-157.866,21.331,True
@@ -6503,7 +6503,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7090,,2021-08-11,shot,gun,,M,,Adams County,CO,False,other,Foot,False,-105.006,39.824,True
 7101,William Sellers,2021-08-12,shot,gun,73,M,,Orlando,FL,True,other,Not fleeing,True,-81.345,28.431,True
 7098,,2021-08-13,shot,undetermined,,M,,Bakersfield,CA,True,undetermined,Not fleeing,True,-119.035,35.353,True
-7313,Steven Primm,2021-08-13,shot,unarmed,39,M,,San Antonio,TX,False,undetermined,Other,True,-98.397,29.4,True
+7313,Steven Primm,2021-08-13,shot,gun,39,M,,San Antonio,TX,False,attack,Other,True,-98.397,29.4,True
 7094,Stephanie Gerardi,2021-08-14,shot,knife,38,F,,Saugus,MA,True,other,Not fleeing,False,-71.02,42.496,True
 7096,Kyle Anthony Goidosik,2021-08-14,shot,gun,35,M,W,Galesburg,MI,False,attack,Other,False,-85.336,42.231,True
 7099,John Vogel,2021-08-14,shot,gun,80,M,,St. Paul,NE,False,attack,Not fleeing,False,-98.454,41.215,True
@@ -6522,7 +6522,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7118,Devonte Dawayne Brown,2021-08-18,shot,vehicle,28,M,,Marietta,GA,False,attack,Car,False,-84.559,33.934,False
 7119,Ervin Olikong,2021-08-18,shot,gun,34,M,,Highland,CA,False,attack,,False,-117.226,34.121,True
 7315,James Matalice Smith,2021-08-18,shot,gun,41,M,,Snook,TX,False,attack,Not fleeing,False,-96.479,30.498,True
-7316,Lucas Antonio Salas,2021-08-18,shot,gun,33,M,,Thornton,CO,False,other,Car,False,-104.98,39.942,True
+7316,Lucas Antonio Salas,2021-08-18,shot,gun,33,M,,Thornton,CO,False,attack,Car,False,-104.98,39.942,True
 7116,Douglas Brown,2021-08-19,shot,gun,26,M,,Selawik,AK,False,other,,False,-160.007,66.604,False
 7120,,2021-08-19,shot,gun,,M,,El Cajon,CA,False,attack,,False,-116.941,32.795,True
 7107,George Michael Mireles,2021-08-20,shot,gun,34,,,Amarillo,TX,False,attack,,False,-101.82,35.198,True
