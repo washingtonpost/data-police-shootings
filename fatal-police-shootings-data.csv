@@ -6670,15 +6670,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7220,Michael Beck,2021-10-10,shot,gun,57,M,,Leland,NC,False,attack,Not fleeing,False,-78.12,34.351,True
 7224,Isaiah Guevara,2021-10-10,shot,gun,18,M,,Whittier,CA,False,other,Not fleeing,False,-118.068,34.0,True
 7232,Joshua Ebinger,2021-10-10,shot,gun,37,M,,Sunman,IN,False,attack,,True,-85.098,39.204,True
-7206,Jonathan Combs,2021-10-12,shot,gun,40,M,,Anderson,SC,False,other,Car,False,-82.539,34.676,True
+7206,Jonathan Zachery Combs,2021-10-12,shot,gun,40,M,,Anderson,SC,False,other,Car,False,-82.539,34.676,True
 7209,Bryan Calvin Lee,2021-10-12,shot,gun,43,M,,Knoxville,TN,False,attack,Not fleeing,False,-83.893,35.952,True
 7210,Mario Lawrence Martinez,2021-10-12,shot,gun,43,M,,Las Vegas,NV,False,attack,Not fleeing,True,-115.051,36.196,True
-7211,Buddy Byron McKenzie,2021-10-13,shot,gun,41,M,,McCammon,ID,False,attack,Car,False,-112.186,42.654,True
+7211,Buddy Byron McKenzie,2021-10-13,shot,gun,41,M,W,McCammon,ID,False,attack,Car,False,-112.186,42.654,True
 7217,Dustin Paradis,2021-10-13,shot,knife,34,M,,Augusta,ME,False,other,,False,-69.766,44.302,True
 7218,Bobby Klum,2021-10-13,shot,gun,37,M,,Davenport,IA,False,other,,False,-90.57,41.528,True
 7207,Jermaine Harris,2021-10-14,shot,knife,32,M,,Tarboro,NC,True,attack,Not fleeing,True,-77.588,35.883,True
 7212,,2021-10-14,shot,knife,46,M,,Geary,OK,False,attack,Not fleeing,False,-98.272,35.536,True
-7237,Russell Leggett,2021-10-14,shot,gun,30,M,,Palm Springs,CA,False,other,Car,False,-116.546,33.874,True
+7237,Russell Leggett,2021-10-14,shot,gun,30,M,,Palm Springs,CA,False,attack,Car,False,-116.546,33.874,True
 7205,Alexander King,2021-10-16,shot,toy weapon,17,M,W,Tarpon Springs,FL,False,attack,Not fleeing,False,-82.757,28.148,True
 7214,Joshua Dewayne Hammock,2021-10-16,shot,knife,30,M,W,Estero,FL,False,attack,,False,-81.783,26.433,True
 7221,Guillermo Gonzalez-Gonzalez,2021-10-16,shot,gun,,M,,Laredo,TX,False,attack,Not fleeing,False,-99.471,27.445,True
