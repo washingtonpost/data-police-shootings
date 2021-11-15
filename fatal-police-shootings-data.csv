@@ -6679,6 +6679,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7207,Jermaine Harris,2021-10-14,shot,knife,32,M,,Tarboro,NC,True,attack,Not fleeing,True,-77.588,35.883,True
 7212,,2021-10-14,shot,knife,46,M,,Geary,OK,False,attack,Not fleeing,False,-98.272,35.536,True
 7237,Russell Leggett,2021-10-14,shot,gun,30,M,,Palm Springs,CA,False,attack,Car,False,-116.546,33.874,True
+7339,Robert Allen Maness,2021-10-14,shot,gun,39,M,,Anderson,SC,False,attack,Other,False,-82.65,34.503,True
 7205,Alexander King,2021-10-16,shot,toy weapon,17,M,W,Tarpon Springs,FL,False,attack,Not fleeing,False,-82.757,28.148,True
 7214,Joshua Dewayne Hammock,2021-10-16,shot,knife,30,M,W,Estero,FL,False,attack,,False,-81.783,26.433,True
 7221,Guillermo Gonzalez,2021-10-16,shot,gun,40,M,,Laredo,TX,False,attack,Not fleeing,False,-99.471,27.445,True
@@ -6697,16 +6698,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7256,Clayburn Elwood Grant,2021-10-23,shot,unknown weapon,34,M,,Fort Belknap,MT,False,other,Car,False,-108.534,48.2,True
 7258,Nicholas Smith,2021-10-24,shot,gun,35,M,,Conway,AR,False,attack,Not fleeing,False,-92.474,35.085,True
 7259,Kim Douglas Ropp,2021-10-24,shot,knife,60,M,,Kentwood,MI,False,attack,Not fleeing,False,-85.642,42.882,True
-7264,Adrian Acree,2021-10-24,shot,gun,23,M,,Hopkinsville,KY,False,attack,Foot,False,-87.494,36.859,True
+7264, ,2021-10-24,shot,gun,,M,,Hopkinsville,KY,False,attack,Foot,False,-87.494,36.859,True
 7257,Kristopher M. Kramer,2021-10-25,shot and Tasered,sword,33,M,,DeKalb,IL,False,attack,Not fleeing,False,-88.749,41.943,True
-7254,,2021-10-26,shot,gun,,M,,Louisville,KY,False,attack,Not fleeing,True,-85.699,38.268,True
-7261,Koffi Dzima,2021-10-27,shot,hammer,31,M,,Philadelphia,PA,False,attack,,True,-75.24,39.992,True
-7265,Robert Richart,2021-10-27,shot,unknown weapon,56,M,,Austin,TX,False,other,Not fleeing,True,-97.887,30.191,True
-7287,Zachary Snow,2021-10-27,shot,undetermined,26,M,,Boise,ID,False,undetermined,,False,-116.205,43.612,True
+7254,Ivan Foster,2021-10-26,shot,gun,,M,,Louisville,KY,False,attack,Not fleeing,True,-85.699,38.268,True
+7265,Robert Richart,2021-10-27,shot,gun,56,M,,Austin,TX,True,attack,Not fleeing,True,-97.887,30.191,True
+7287,Zachary Snow,2021-10-27,shot,undetermined,26,M,,Boise,ID,True,undetermined,,False,-116.205,43.612,True
+7261,Koffi Dzima,2021-10-27,shot and Tasered,hammer,31,M,,Philadelphia,PA,False,attack,,True,-75.24,39.992,True
 7262,Dewey Wilfong,2021-10-28,shot,gun,28,M,,Chelsea,IA,False,other,,False,-92.395,41.925,True
 7263,Elwood Dwyer,2021-10-28,shot,knife,,M,,Sioux Falls,SD,False,attack,Not fleeing,False,-96.758,43.544,True
 7290,Ahmad Akeem Abdul Muhammad,2021-10-28,shot,gun,30,M,,Colorado Springs,CO,False,attack,Foot,False,-104.819,38.81,True
-7289,,2021-10-29,shot,unarmed,,M,,Jackson,MS,False,other,Car,False,-90.236,32.272,True
+7289,,2021-10-29,shot,vehicle,,M,,Jackson,MS,False,attack,Car,False,-90.236,32.272,True
 7281,Joseph Shane Endicott,2021-10-30,shot,undetermined,41,M,,Joplin,MO,False,undetermined,,False,-94.51,37.074,True
 7283,Matthew Riggs,2021-10-30,shot,gun,50,M,,Cleveland,TN,False,attack,Not fleeing,False,-84.838,35.18,True
 7282,Glenn William Custer,2021-10-31,shot,knife,59,M,,West Hanover Township,PA,False,other,Not fleeing,False,-76.729,40.403,True
@@ -6727,3 +6728,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7338,,2021-11-06,shot,gun,,M,,Long Branch,NJ,False,attack,Not fleeing,False,-73.991,40.3,True
 7331,Andrew Dzwonchyk,2021-11-07,shot,vehicle,40,M,,Union Township,PA,False,attack,,False,-76.569,40.484,True
 7334,,2021-11-07,shot,gun,,M,,Knowlton Township,NJ,False,attack,Not fleeing,False,-75.108,40.948,True
+7341,,2021-11-08,shot,gun,,M,,Renton,WA,False,other,Not fleeing,False,-122.223,47.474,True
+7344,Angie McFarland,2021-11-08,shot,gun,50,M,,Monteagle,TN,False,attack,Not fleeing,False,-85.84,35.24,True
+7342,,2021-11-09,shot,gun,,M,,Boston,MA,True,attack,Not fleeing,True,-71.077,42.289,True
