@@ -6722,12 +6722,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7333,Jessica Worsham,2021-11-05,shot,gun,43,F,,Jackson County,GA,False,attack,Not fleeing,False,-83.708,34.11,True
 7336,Derrell Lamar Raney,2021-11-05,shot,gun,,M,,Charlotte,NC,False,attack,,False,-80.718,35.205,True
 7330,,2021-11-06,shot,undetermined,,M,,Henrico County,VA,False,undetermined,,False,-76.861,37.495,True
-7332,Chelsae L. Clevenger-Kirk,2021-11-06,shot,gun,29,M,,Goodview,VA,True,other,Other,False,-79.699,37.174,True
 7335,Brian Michael Price,2021-11-06,shot,piece of wood,45,M,,Chesapeake,VA,False,attack,Other,False,-78.691,36.653,True
 7337,Jabbar Muhammad,2021-11-06,shot,knife,21,M,,Joliet,IL,False,attack,Not fleeing,False,-88.074,41.494,True
 7338,,2021-11-06,shot,gun,,M,,Long Branch,NJ,False,attack,Not fleeing,False,-73.991,40.3,True
 7331,Andrew Dzwonchyk,2021-11-07,shot,vehicle,40,M,,Union Township,PA,False,attack,,False,-76.569,40.484,True
+7332,Chelsae L. Clevenger-Kirk,2021-11-07,shot,gun,29,F,,Goodview,VA,True,other,Other,False,-79.699,37.174,True
 7334,,2021-11-07,shot,gun,,M,,Knowlton Township,NJ,False,attack,Not fleeing,False,-75.108,40.948,True
 7341,,2021-11-08,shot,gun,,M,,Renton,WA,False,other,Not fleeing,False,-122.223,47.474,True
-7344,Angie McFarland,2021-11-08,shot,gun,50,M,,Monteagle,TN,False,attack,Not fleeing,False,-85.84,35.24,True
+7344,Angie McFarland,2021-11-08,shot,gun,50,F,,Monteagle,TN,False,attack,Not fleeing,False,-85.84,35.24,True
 7342,,2021-11-09,shot,gun,,M,,Boston,MA,True,attack,Not fleeing,True,-71.077,42.289,True
