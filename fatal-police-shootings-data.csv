@@ -6731,3 +6731,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7341,,2021-11-08,shot,gun,,M,,Renton,WA,False,other,Not fleeing,False,-122.223,47.474,True
 7344,Angie McFarland,2021-11-08,shot,gun,50,F,,Monteagle,TN,False,attack,Not fleeing,False,-85.84,35.24,True
 7342,,2021-11-09,shot,gun,,M,,Boston,MA,True,attack,Not fleeing,True,-71.077,42.289,True
+7347,Andrew Dzwonchyk,2021-11-14,shot,vehicle,40,M,,Union Township,PA,False,undetermined,Car,False,,,True
+7345,,2021-11-16,shot,undetermined,33,M,,North Bend,WA,False,undetermined,,False,,,True
+7346,,2021-11-16,shot,gun and car,92,M,,Caldwell,ID,False,undetermined,Not fleeing,False,,,True
