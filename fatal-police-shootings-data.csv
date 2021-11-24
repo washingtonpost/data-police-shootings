@@ -6731,6 +6731,30 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7341,,2021-11-08,shot,gun,,M,,Renton,WA,False,other,Not fleeing,False,-122.223,47.474,True
 7344,Angie McFarland,2021-11-08,shot,gun,50,F,,Monteagle,TN,False,attack,Not fleeing,False,-85.84,35.24,True
 7342,,2021-11-09,shot,gun,,M,,Boston,MA,True,attack,Not fleeing,True,-71.077,42.289,True
+7367,Jessiram Hweih Rivera,2021-11-11,shot,shovel,24,F,,Polk County,FL,False,other,Not fleeing,False,,,True
+7368,Brian Astarita,2021-11-11,shot,gun,65,M,,New York,NY,False,other,Car,False,,,True
+7369,Seth S. Rynio,2021-11-11,shot,gun,21,M,,Springfield,MO,False,attack,Foot,False,,,True
+7370,Donald Cooper,2021-11-11,shot,vehicle,44,M,,Gunnison,CO,False,attack,Car,False,,,True
+7371,,2021-11-11,shot,gun,,M,,Houston,TX,False,attack,Car,False,,,True
+7366,,2021-11-12,shot,knife,,F,,Commerce,CA,False,attack,Not fleeing,True,,,True
 7347,Andrew Dzwonchyk,2021-11-14,shot,vehicle,40,M,,Union Township,PA,False,undetermined,Car,False,,,True
-7345,,2021-11-16,shot,undetermined,33,M,,North Bend,WA,False,undetermined,,False,,,True
+7364,,2021-11-14,shot,undetermined,30,M,B,Columbia,MO,False,other,Foot,False,,,True
+7365,Marcus Mann,2021-11-14,shot,unarmed,42,M,,Jackson,TN,False,attack,,False,,,True
+7363,,2021-11-15,shot,gun,,M,,Pueblo,CO,False,other,,False,,,True
+7345,Cody Rebischke,2021-11-16,shot,undetermined,33,M,,North Bend,WA,False,undetermined,,False,,,True
 7346,,2021-11-16,shot,gun and car,92,M,,Caldwell,ID,False,undetermined,Not fleeing,False,,,True
+7358,Brent Lee Boggess,2021-11-16,shot,vehicle,42,M,,Waterloo,IA,False,attack,Not fleeing,False,,,True
+7359,Henry Timberlake Duncan,2021-11-16,shot,knife,43,M,,Wilmington,NC,False,attack,Not fleeing,False,,,True
+7356,Steven Thomas,2021-11-17,shot,gun,36,M,,Las Vegas,NV,False,other,Other,True,,,True
+7361,Bennie D. Foster,2021-11-17,shot,unknown weapon,55,M,,Poplar Bluff,MO,False,other,,False,,,True
+7362,Kevin Mark Soles,2021-11-17,shot,gun,37,M,,Byron,GA,False,attack,Foot,False,,,True
+7349,Chucky Nathaniel Bowden,2021-11-18,shot,gun,53,M,,Bessemer City,NC,False,other,Other,False,,,True
+7357,Christopher Wade,2021-11-19,shot,gun,45,M,,Montcalm,WV,False,other,Car,False,,,True
+7360,Ajmal Amani,2021-11-19,shot,knife,41,M,,San Francisco,CA,False,other,,False,,,True
+7354,,2021-11-20,shot,unknown weapon,,,,Oakland,CA,False,other,,False,,,True
+7350,Kevin Arbogast,2021-11-21,shot,undetermined,45,M,,Centerville,IA,False,undetermined,,True,,,True
+7353,,2021-11-21,shot,gun and knife,,M,,Metairie,LA,False,other,Foot,False,,,True
+7348,,2021-11-22,shot,gun,,M,,Warwick,RI,True,attack,Not fleeing,False,,,True
+7351,,2021-11-22,shot,gun,,M,,West Covina,CA,False,other,Foot,False,,,True
+7352,Anthony Harden,2021-11-22,shot,undetermined,30,M,,Fall River,MA,False,undetermined,,False,,,True
+7355,,2021-11-22,shot,gun,,M,,Kansas City,KS,False,attack,Not fleeing,True,,,True
