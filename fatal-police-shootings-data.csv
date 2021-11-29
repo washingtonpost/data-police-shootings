@@ -2355,7 +2355,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 2607,Chad Dionne,2017-05-29,shot,gun,37,M,W,Arundel,ME,False,other,Not fleeing,False,-70.527,43.473,True
 2609,Joseph Godinez,2017-05-29,shot,,20,M,H,Vacaville,CA,False,attack,Car,True,-121.956,38.368,True
 2619,Larry Warren Kipps,2017-05-29,shot,gun,62,M,,Gerrardstown,WV,True,attack,Not fleeing,False,-78.109,39.39,True
-2631,Roman Jade Carrillo,2017-05-30,shot,gun,18,M,H,Salt Lake City,UT,False,attack,Car,False,-111.891,40.761,True
 2620,James Gleason,2017-05-31,shot,,24,M,W,Hesperia,CA,False,attack,,False,-117.371,34.427,True
 2621,James Daniel Hill,2017-05-31,shot,gun,17,M,W,Centennial,CO,False,other,Other,False,-104.896,39.578,True
 2633,Francisco Suarez-Madonado,2017-06-01,shot,gun,27,M,H,Las Vegas,NV,True,attack,Not fleeing,False,-115.038,36.191,True
@@ -6734,7 +6733,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7367,Jessiram Hweih Rivera,2021-11-11,shot,shovel,24,F,,Polk County,FL,False,other,Not fleeing,False,,,True
 7368,Brian Astarita,2021-11-11,shot,gun,65,M,,New York,NY,False,other,Car,False,,,True
 7369,Seth S. Rynio,2021-11-11,shot,gun,21,M,,Springfield,MO,False,attack,Foot,False,,,True
-7370,Donald Cooper,2021-11-11,shot,vehicle,44,M,,Gunnison,CO,False,attack,Car,False,,,True
+7370,Gerry Donald Cooper,2021-11-11,shot,vehicle,44,M,,Gunnison,CO,False,attack,Car,False,,,True
 7371,,2021-11-11,shot,gun,,M,,Houston,TX,False,attack,Car,False,,,True
 7366,,2021-11-12,shot,knife,,F,,Commerce,CA,False,attack,Not fleeing,True,,,True
 7347,Andrew Dzwonchyk,2021-11-14,shot,vehicle,40,M,,Union Township,PA,False,undetermined,Car,False,,,True
@@ -6750,7 +6749,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7362,Kevin Mark Soles,2021-11-17,shot,gun,37,M,,Byron,GA,False,attack,Foot,False,,,True
 7349,Chucky Nathaniel Bowden,2021-11-18,shot,gun,53,M,,Bessemer City,NC,False,other,Other,False,,,True
 7357,Christopher Wade,2021-11-19,shot,gun,45,M,,Montcalm,WV,False,other,Car,False,,,True
-7360,Ajmal Amani,2021-11-19,shot,knife,41,M,,San Francisco,CA,False,other,,False,,,True
+7360,Ajmal Amani,2021-11-19,shot,knife,41,M,,San Francisco,CA,True,other,,True,,,True
 7354,,2021-11-20,shot,unknown weapon,,,,Oakland,CA,False,other,,False,,,True
 7350,Kevin Arbogast,2021-11-21,shot,undetermined,45,M,,Centerville,IA,False,undetermined,,True,,,True
 7353,,2021-11-21,shot,gun and knife,,M,,Metairie,LA,False,other,Foot,False,,,True
@@ -6758,3 +6757,4 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7351,,2021-11-22,shot,gun,,M,,West Covina,CA,False,other,Foot,False,,,True
 7352,Anthony Harden,2021-11-22,shot,undetermined,30,M,,Fall River,MA,False,undetermined,,False,,,True
 7355,,2021-11-22,shot,gun,,M,,Kansas City,KS,False,attack,Not fleeing,True,,,True
+7372,Rodolpho Antonio Ruiz,2021-11-22,shot,gun,27,M,,Merced,CA,False,other,Foot,False,,,True
