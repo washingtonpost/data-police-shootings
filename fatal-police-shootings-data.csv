@@ -6750,11 +6750,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7349,Chucky Nathaniel Bowden,2021-11-18,shot,gun,53,M,,Bessemer City,NC,False,other,Other,False,,,True
 7357,Christopher Wade,2021-11-19,shot,gun,45,M,,Montcalm,WV,False,other,Car,False,,,True
 7360,Ajmal Amani,2021-11-19,shot,knife,41,M,,San Francisco,CA,True,other,,True,,,True
-7354,,2021-11-20,shot,unknown weapon,,,,Oakland,CA,False,other,,False,,,True
+7354,,2021-11-20,shot,gun and vehicle,,,,Oakland,CA,False,attack,,False,,,True
 7350,Kevin Arbogast,2021-11-21,shot,undetermined,45,M,,Centerville,IA,False,undetermined,,True,,,True
-7353,,2021-11-21,shot,gun and knife,,M,,Metairie,LA,False,other,Foot,False,,,True
+7353,Jabari Farafiai Asante-Chioke,2021-11-21,shot,gun and knife,52,M,,Metairie,LA,False,other,Foot,False,,,True
 7348,,2021-11-22,shot,gun,,M,,Warwick,RI,True,attack,Not fleeing,False,,,True
 7351,,2021-11-22,shot,gun,,M,,West Covina,CA,False,other,Foot,False,,,True
-7352,Anthony Harden,2021-11-22,shot,undetermined,30,M,,Fall River,MA,False,undetermined,,False,,,True
-7355,,2021-11-22,shot,gun,,M,,Kansas City,KS,False,attack,Not fleeing,True,,,True
+7352,Anthony Harden,2021-11-22,shot,undetermined,30,M,,Fall River,MA,False,attack,,False,,,True
+7355,Lionel Womack,2021-11-22,shot,gun,36,M,,Kansas City,KS,False,attack,Not fleeing,True,,,True
 7372,Rodolpho Antonio Ruiz,2021-11-22,shot,gun,27,M,,Merced,CA,False,other,Foot,False,,,True
