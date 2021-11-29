@@ -6736,12 +6736,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7370,Gerry Donald Cooper,2021-11-11,shot,vehicle,44,M,,Gunnison,CO,False,attack,Car,False,,,True
 7371,,2021-11-11,shot,gun,,M,,Houston,TX,False,attack,Car,False,,,True
 7366,,2021-11-12,shot,knife,,F,,Commerce,CA,False,attack,Not fleeing,True,,,True
-7347,Andrew Dzwonchyk,2021-11-14,shot,vehicle,40,M,,Union Township,PA,False,undetermined,Car,False,,,True
-7364,,2021-11-14,shot,undetermined,30,M,B,Columbia,MO,False,other,Foot,False,,,True
-7365,Marcus Mann,2021-11-14,shot,unarmed,42,M,,Jackson,TN,False,attack,,False,,,True
+7365,Marcus Mann,2021-11-13,shot,unarmed,42,M,,Jackson,TN,False,attack,,False,,,True
+7347,Andrew Dzwonchyk,2021-11-14,shot,vehicle,40,M,,Union Township,PA,False,attack,Car,False,,,True
+7364,,2021-11-14,shot,gun,30,M,B,Columbia,MO,False,attack,Foot,False,,,True
 7363,,2021-11-15,shot,gun,,M,,Pueblo,CO,False,other,,False,,,True
 7345,Cody Rebischke,2021-11-16,shot,undetermined,33,M,,North Bend,WA,False,undetermined,,False,,,True
-7346,,2021-11-16,shot,gun and car,92,M,,Caldwell,ID,False,undetermined,Not fleeing,False,,,True
+7346,,2021-11-16,shot,gun,92,M,,Caldwell,ID,False,attack,Not fleeing,False,,,True
 7358,Brent Lee Boggess,2021-11-16,shot,vehicle,42,M,,Waterloo,IA,False,attack,Not fleeing,False,,,True
 7359,Henry Timberlake Duncan,2021-11-16,shot,knife,43,M,,Wilmington,NC,False,attack,Not fleeing,False,,,True
 7356,Steven Thomas,2021-11-17,shot,gun,36,M,,Las Vegas,NV,False,other,Other,True,,,True
