@@ -6740,7 +6740,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7347,Andrew Dzwonchyk,2021-11-14,shot,vehicle,40,M,,Union Township,PA,False,attack,Car,False,,,True
 7364,,2021-11-14,shot,gun,30,M,B,Columbia,MO,False,attack,Foot,False,,,True
 7363,,2021-11-15,shot,gun,,M,,Pueblo,CO,False,other,,False,,,True
-7345,Cody Rebischke,2021-11-16,shot,undetermined,33,M,,North Bend,WA,False,undetermined,,False,,,True
+7345,Cody Rebischke,2021-11-16,shot,undetermined,33,M,,North Bend,WA,False,attack,,False,,,True
 7346,,2021-11-16,shot,gun,92,M,,Caldwell,ID,False,attack,Not fleeing,False,,,True
 7358,Brent Lee Boggess,2021-11-16,shot,vehicle,42,M,,Waterloo,IA,False,attack,Not fleeing,False,,,True
 7359,Henry Timberlake Duncan,2021-11-16,shot,knife,43,M,,Wilmington,NC,False,attack,Not fleeing,False,,,True
