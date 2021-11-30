@@ -6415,7 +6415,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7002,Jeremy Nelson,2021-06-30,shot,gun,33,M,,Florence,KY,False,attack,Not fleeing,False,-84.624,38.945,True
 7071,,2021-06-30,shot,gun,56,M,,South Ogden,UT,False,attack,Not fleeing,False,,,True
 7004,Lisa A. Short,2021-07-01,shot,gun,54,F,W,Kingsport,TN,False,other,,False,-82.572,36.559,True
-7385,Shannon Earl Smith,2021-07-01,shot,undetermined,45,M,,Spartanburg,SC,True,undetermined,,False,,,True
+7385,Shannon Earl Smith,2021-07-01,shot,gun,45,M,,Spartanburg,SC,True,attack,,False,,,True
 7386,Thomas Charlie Billings,2021-07-02,shot,toy weapon,37,M,,Traphill,NC,False,attack,Not fleeing,False,,,True
 7005,John Reuben Turbe,2021-07-04,shot,gun,40,M,B,Tampa,FL,False,attack,Foot,True,-82.401,27.978,True
 7013,Craig Locklear,2021-07-04,shot,gun,49,M,N,Salemburg,NC,False,attack,Other,False,-78.487,35.009,True
