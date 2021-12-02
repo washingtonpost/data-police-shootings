@@ -6470,16 +6470,23 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7028,Forrest T. Moore,2021-07-24,shot,toy weapon,31,M,W,Boise,ID,False,attack,Not fleeing,True,-116.215,43.634,True
 7029,Gabriel Parker,2021-07-25,shot,undetermined,38,M,B,Atlanta,GA,False,undetermined,Not fleeing,False,-84.475,33.797,True
 7059,,2021-07-25,shot,gun,,M,,Crowley,LA,False,attack,,False,-92.391,30.213,True
+7398,Jose Manuel Ramirez,2021-07-25,shot,gun,41,M,,Wasco,CA,False,attack,Not fleeing,True,-119.345,35.601,True
 7057,Jacob Bender,2021-07-26,shot,knife,39,M,W,Gobles,MI,False,attack,Not fleeing,False,-85.879,42.363,True
-7058,,2021-07-26,shot,knife,,M,,Los Angeles,CA,False,attack,Not fleeing,False,-118.427,34.01,True
+7058,Hermenegildo Gonzalez,2021-07-26,shot,knife,58,M,,Los Angeles,CA,False,attack,Not fleeing,False,-118.427,34.01,True
+7399,Neida Tijerina,2021-07-26,shot,unarmed,29,F,,San Antonio,TX,False,other,,False,,,True
 7052,Losardo Lucas,2021-07-27,shot,gun,55,M,,Calumet City,IL,False,other,,False,-87.564,41.623,True
 7053,Douglas Claiborne,2021-07-27,shot,vehicle,60,M,W,Las Vegas,NV,False,other,Car,False,-114.267,36.779,True
 7054,Alexis C. Wilson,2021-07-27,shot,vehicle,19,F,B,Dolton,IL,False,attack,Car,True,-87.607,41.623,True
 7055,Robert P. Uhler,2021-07-27,shot,unknown weapon,56,M,W,Gaines Township,PA,False,other,,False,-77.539,41.734,True
+7400,Justin Roberts,2021-07-27,shot,gun,35,M,,Cottonwood,AL,False,other,Not fleeing,False,,,True
+7401,Lisa Hight,2021-07-27,shot,gun,,F,,Chickasha,OK,True,attack,Not fleeing,False,,,True
+7402,Michael Whitmer,2021-07-27,shot,vehicle,37,M,,Nelsonville,OH,False,attack,Car,True,,,True
+7403,Jonathan Pears,2021-07-28,shot,machete,32,M,,Wetumpka,AL,True,other,Not fleeing,False,,,True
 7063,James Haynes,2021-07-29,shot,knife,31,M,,Mansfield,OH,False,attack,Not fleeing,False,-82.527,40.75,True
 7062,Luis Fernando Flores,2021-07-30,shot,unknown weapon,44,M,,Celina,TX,False,undetermined,Not fleeing,False,-96.794,33.324,True
 7061,,2021-07-31,shot,knife,39,M,,Yulee,FL,True,other,Not fleeing,False,-81.539,30.67,True
 7069,Ruben Isaac Sanchez,2021-07-31,shot,gun,31,M,H,Woodville,CA,False,attack,Other,False,-119.201,36.095,True
+7404,Keith Wayne Homrighausen,2021-07-31,shot,gun,49,M,,Centennial,CO,False,attack,Not fleeing,False,,,True
 7064,Michael Paone,2021-08-03,shot,toy weapon,22,M,,Conshohocken,PA,False,attack,Not fleeing,False,-75.299,40.086,True
 7066,Ent Wright,2021-08-03,shot,gun,76,M,,Waco,TX,False,attack,Not fleeing,False,-97.203,31.518,True
 7070,Antonio D. King,2021-08-03,shot,gun,22,M,,Nashville,TN,False,attack,Not fleeing,False,,,True
@@ -6774,10 +6781,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7373,Jeffrey W. Groulx,2021-11-28,shot,gun,47,M,,Seekonk,MA,False,attack,Other,False,,,True
 7374,,2021-11-28,shot,unknown weapon,41,M,,Orem,UT,False,attack,,True,,,True
 7378,,2021-11-28,shot,vehicle,,M,,Coral Gables,FL,False,attack,Car,False,,,True
-7379,,2021-11-28,shot,knife,,M,,Glen Burnie,MD,False,attack,,False,,,True
+7379,Digno Ramon Yorro,2021-11-28,shot,knife,,M,,Glen Burnie,MD,False,attack,Not fleeing,False,,,True
 7380,Dylan Bush,2021-11-28,shot,vehicle,33,M,,Culver,IN,False,attack,Car,False,,,True
 7381,,2021-11-28,shot,gun,,M,,Mounds View,MN,False,other,Car,True,,,True
 7383,,2021-11-28,shot,gun,61,M,,Lakeland,FL,False,other,Not fleeing,False,,,True
 7384,Adam McKnight,2021-11-28,shot,machete,,M,,Winstom-Salem,NC,True,other,Not fleeing,False,,,True
 7390,Richard Lee Richards,2021-11-29,shot,knife,61,M,,Tucson,AZ,False,other,,False,,,True
 7389,Benjamin Petry,2021-11-30,shot,gun,34,M,W,Rushville,IN,False,attack,Car,False,,,True
+7406,,2021-11-30,shot,gun,,,,Laurel,MS,False,attack,Not fleeing,False,,,True
+7407,Arthur Allen Gilliam,2021-11-30,shot,gun,35,M,,Rex,GA,False,attack,,False,,,True
+7408,Benjamin Petry,2021-11-30,shot,gun,34,M,,Rushville,IN,False,attack,Not fleeing,False,,,True
+7405,Edward Allen Gatling,2021-12-01,shot,gun,38,M,,Lithonia,GA,False,attack,,False,,,True
