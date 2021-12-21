@@ -6803,7 +6803,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7412,Arrett Carr,2021-12-09,shot,gun,64,M,,Henry County,GA,False,attack,Car,False,,,True
 7411,,2021-12-10,shot,gun,,M,,Colorado Springs,CO,False,attack,Not fleeing,False,,,True
 7419,David Denman Talbert,2021-12-10,shot,gun,55,M,,Cumberland County,TN,False,other,Not fleeing,False,,,True
-7421,Paul Raborn,2021-12-10,shot,gun,40,M,,Waverly,GA,False,other,Not fleeing,False,,,True
+7421,Christopher Paul Raborn,2021-12-10,shot,gun,40,M,,Waverly,GA,False,other,Not fleeing,False,,,True
 7429,,2021-12-10,shot,knife,,M,,Pine River,WI,False,other,,False,,,True
 7422,,2021-12-11,shot,unknown weapon,,M,,Elizabethtown,KY,False,attack,,False,,,True
 7424,Robert Lee Engle,2021-12-11,shot,undetermined,64,M,,Frankfort,KY,False,undetermined,,False,,,True
@@ -6811,6 +6811,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7427,,2021-12-12,shot,gun,,M,,Ferguson,MO,False,attack,,False,,,True
 7431,George Hollins,2021-12-12,shot,gun,26,M,,Jennings,MO,False,other,Not fleeing,False,,,True
 7417,William Gardner,2021-12-14,shot,gun,21,M,,Dayton,OH,True,other,Not fleeing,False,,,True
-7433,Keith Hinrichsen,2021-12-15,shot,gun,52,M,,North Platte,NE,False,undetermined,Not fleeing,False,,,True
-7435,,2021-12-15,shot,vehicle,,F,,Memphis,TN,False,undetermined,Car,False,,,True
-7434,,2021-12-16,shot,,30,M,,Clinton,UT,False,undetermined,Foot,False,,,True
+7433,Keith A. Hinrichsen,2021-12-15,shot,gun,52,M,,North Platte,NE,False,attack,Not fleeing,False,,,True
+7435,,2021-12-15,shot,vehicle,,F,,Memphis,TN,False,attack,Car,False,,,True
+7434,Christopher Anthony Alexander,2021-12-16,shot,,32,M,,Clinton,UT,False,undetermined,Foot,False,,,True
