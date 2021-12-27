@@ -6817,7 +6817,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7436,,2021-12-18,shot,knife,,M,,Charlotte,NC,False,attack,Not fleeing,False,,,True
 7437,Joshua Gonzalez,2021-12-18,shot,vehicle,20,M,,Vineland,NJ,False,attack,,False,,,True
 7441,Brendan Pinkston,2021-12-21,shot,gun,23,M,,Burton,MI,False,attack,Foot,False,-83.666,42.975,True
-7444,Shawn Martin,2021-12-21,shot,knife,45,M,,Savannah,GA,False,attack,Not fleeing,False,-81.14,32.043,True
+7444,Shawn Martin,2021-12-21,shot,knife,45,M,W,Savannah,GA,False,attack,Not fleeing,False,-81.14,32.043,True
 7446,Robert Rushton,2021-12-21,shot,knife,42,M,,Rankin County,MS,False,other,Not fleeing,False,-89.986,32.19,True
 7439,,2021-12-22,shot,gun,,M,,Colorado Springs,CO,False,attack,Not fleeing,False,-104.8,38.932,True
 7440,Mark Beilby,2021-12-22,shot,knife,24,M,,Unadilla,NY,False,other,Not fleeing,False,-75.314,42.329,True
