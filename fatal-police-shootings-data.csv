@@ -6836,8 +6836,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7461,,2022-01-02,shot,gun,,M,,Wildomar,CA,True,other,,False,,,True
 7453,Charles Corey Castro,2022-01-03,shot,unknown weapon,54,M,,Murphy,ID,False,other,Not fleeing,False,,,True
 7458,Caleb Stanford,2022-01-03,shot,knife,26,M,,Mesa,AZ,False,attack,Not fleeing,False,,,True
-7459,James Schild,2022-01-03,shot,metal object,49,M,,Mesa,AZ,False,attack,Not fleeing,False,,,True
-7447,,2022-01-04,shot,undetermined,,M,W,Gresham,OR,False,undetermined,Car,False,,,True
-7448,,2022-01-04,shot,gun,,M,,Paulden,AZ,False,attack,Car,False,,,True
+7459,James Schild,2022-01-03,shot,metal object,49,M,,Mesa,AZ,False,other,Not fleeing,False,,,True
+7447,Roman Ivan Kokhanevych,2022-01-04,shot,undetermined,24,M,W,Gresham,OR,False,undetermined,Car,False,,,True
+7448,Carl Schaede,2022-01-04,shot,gun,53,M,,Paulden,AZ,False,attack,Car,False,,,True
 7452,,2022-01-04,shot,gun,,M,,Philadelphia,PA,False,attack,Not fleeing,False,,,True
-7454,,2022-01-04,shot,gun,,F,,Bahama,NC,False,attack,,False,,,True
+7454,Stephanie Wilson,2022-01-04,shot,gun,28,F,,Bahama,NC,False,attack,,False,,,True
