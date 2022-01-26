@@ -6791,15 +6791,27 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7407,Arthur Allen Gilliam,2021-11-30,shot,gun,35,M,,Rex,GA,False,attack,,False,,,True
 7408,Benjamin Petry,2021-11-30,shot,gun,34,M,,Rushville,IN,False,attack,Not fleeing,False,,,True
 7405,Edward Allen Gatling,2021-12-01,shot,gun,38,M,,Lithonia,GA,False,attack,,False,,,True
+7469,Anei Joker,2021-12-01,shot,gun,20,M,B,Taylorsville,UT,False,attack,Not fleeing,True,,,True
 7409,Brian Howard,2021-12-02,shot,gun,25,M,,Buffalo Grove,IL,True,other,Not fleeing,False,,,True
+7470,Arlin Duane Bordeaux,2021-12-02,shot,undetermined,29,M,,Lame Deer,MT,False,undetermined,,False,,,True
+7471,,2021-12-02,shot,undetermined,,M,,Floyd County,KY,False,undetermined,,False,,,True
 7430,Alhaji Sow,2021-12-03,shot,scissors,18,M,,Melbourne,FL,True,attack,Not fleeing,False,,,True
+7472,Michael Graves,2021-12-03,shot,gun,39,M,,St. Louis,MO,False,attack,Other,False,,,True
+7473,Miguel Eduardo Perez Gonzalez,2021-12-05,shot,gun,38,M,,Morrow,GA,False,attack,Not fleeing,False,,,True
+7474,,2021-12-05,shot,gun,,M,,Westminster,CO,False,attack,Other,False,,,True
+7475,Quadry Sanders,2021-12-05,shot,undetermined,,M,,Lawton,OK,False,undetermined,,True,,,True
 7413,Douglas B. Halphin,2021-12-06,shot,gun and vehicle,48,M,,Blue Springs,MO,False,attack,Car,False,,,True
+7476,Brandon Keck,2021-12-06,shot,gun,30,M,,Portland,OR,False,attack,Car,False,,,True
+7477,Dale Query,2021-12-06,shot,gun,38,M,,Basin,WY,False,attack,Not fleeing,False,,,True
+7478,Douglas Halphin,2021-12-06,shot,gun,48,M,,Blue Springs,MO,False,attack,Not fleeing,False,,,True
 7414,Ronald Ehrich,2021-12-07,shot,gun,88,M,,Riverview,FL,False,other,,True,,,True
 7423,,2021-12-07,shot,undetermined,,M,,Elizabethtown,KY,False,undetermined,,False,,,True
+7479,Mario Armando Diaz,2021-12-07,shot,unarmed,41,M,,Albuquerque,NM,False,attack,Foot,False,,,True
 7410,Michael Pantoja,2021-12-08,shot,knife,,M,,Colorado Springs,CO,False,undetermined,Not fleeing,False,,,True
-7415,,2021-12-08,shot,gun,,,,Columbus,OH,False,attack,Not fleeing,False,,,True
+7415,Donta Stewart,2021-12-08,shot,gun,18,,,Columbus,OH,False,attack,Not fleeing,False,,,True
 7416,,2021-12-08,shot,gun,,M,,Stockton,CA,False,attack,Not fleeing,False,,,True
 7432,,2021-12-08,shot,knife,42,F,,Hermitage,MO,False,attack,,False,,,True
+7480,Jared Risius,2021-12-08,shot,gun,35,M,,Iowa Falls,IA,False,other,Car,False,,,True
 7412,Arrett Carr,2021-12-09,shot,gun,64,M,,Henry County,GA,False,attack,Car,False,,,True
 7411,,2021-12-10,shot,gun,,M,,Colorado Springs,CO,False,attack,Not fleeing,False,,,True
 7419,David Denman Talbert,2021-12-10,shot,gun,55,M,,Cumberland County,TN,False,other,Not fleeing,False,,,True
@@ -6842,6 +6854,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7452,,2022-01-04,shot,gun,,M,,Philadelphia,PA,False,attack,Not fleeing,False,,,True
 7454,Stephanie Wilson,2022-01-04,shot,gun,28,F,,Bahama,NC,False,attack,,False,,,True
 7465,Isaiah Tyree Williams,2022-01-10,shot,gun,19,M,,Las Vegas,NV,False,undetermined,Not fleeing,False,,,True
-7467,Issac Andrade,2022-01-10,shot,gun and knife,21,M,,San Diego,CA,False,undetermined,Foot,False,,,True
+7467,Issac Andrade,2022-01-10,shot,gun and knife,21,M,,San Diego,CA,False,attack,Foot,False,,,True
 7466,Charles Walker Piquet,2022-01-12,shot,glass shard,51,M,,Durham,NC,False,undetermined,,False,,,True
-7468,,2022-01-13,shot,hammer,,M,,Fresno,CA,False,undetermined,Not fleeing,False,,,True
+7468,Edgar Morfin Mendoza,2022-01-13,shot,hammer,34,M,,Fresno,CA,False,other,Not fleeing,False,,,True
