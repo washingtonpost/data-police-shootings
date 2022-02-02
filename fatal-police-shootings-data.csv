@@ -6098,6 +6098,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6641,Andrew Allen Courser,2021-02-21,shot,gun,38,M,W,Edmore,MI,False,attack,Foot,False,-85.043,43.434,True
 6629,Carlton James Adams,2021-02-22,shot,gun,30,M,W,McDowell County,NC,False,attack,,False,-82.084,35.698,True
 6636,Dale Amstutz-Dunn,2021-02-23,shot,gun,39,M,W,Eagle Point,OR,False,attack,Car,False,-122.799,42.468,True
+7602,,2021-02-23,shot,vehicle,,M,,Ontario,CA,False,attack,Car,False,,,True
 6634,,2021-02-24,shot,gun,,M,,St. Michaels,AZ,False,attack,Car,False,-109.096,35.645,True
 6677,Alonte Murphy,2021-02-24,shot,gun,22,M,B,Garden City,MI,False,attack,Not fleeing,False,-83.347,42.324,True
 7570,Michael Richard Stambaugh,2021-02-24,shot,vehicle and gun,39,M,W,Vici,OK,False,attack,Car,True,,,True
@@ -6183,6 +6184,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6727,Charles C. White,2021-03-25,shot,gun,35,M,B,King George County,VA,False,attack,Not fleeing,False,-77.032,38.358,True
 6730,Travon Chadwell,2021-03-25,shot,gun,18,M,B,Chicago,IL,True,attack,Foot,False,-87.684,41.81,True
 6736,Kelly E. Rooks,2021-03-25,shot,gun,51,F,W,Seaford,DE,False,other,Not fleeing,False,-75.55,38.618,True
+7590,,2021-03-25,shot,gun and car,,,,Mount Pleasant,TX,False,undetermined,Not fleeing,False,,,True
+7603,Alvin Burrage,2021-03-25,shot,gun,26,M,,Calumet City,IL,False,undetermined,Not fleeing,False,,,True
+7604,Malcolm Johnson,2021-03-25,shot,gun,31,M,,Kansas City,MO,False,undetermined,Not fleeing,False,,,True
 6726,Daniel Nolan,2021-03-26,shot,gun,32,M,W,St. Charles County,MO,True,attack,Not fleeing,False,-90.519,38.76,True
 6733,Donovon W. Lynch,2021-03-26,shot,undetermined,25,M,B,Virginia Beach,VA,False,undetermined,,False,-75.977,36.847,True
 6735,Steven Michael Kielian,2021-03-26,shot,gun,32,M,W,Weld County,CO,False,attack,Foot,False,-104.564,40.493,True
@@ -6381,6 +6385,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6944,Evin Kimberly Payne,2021-06-14,shot,unknown weapon,54,M,,Abbeville,SC,False,other,Not fleeing,False,-82.632,34.243,True
 6946,Anthony Hannon,2021-06-14,shot,gun,52,M,,Pittsfield,NH,False,attack,Not fleeing,False,-71.333,43.307,True
 6990,Jose Antonio Ruiz,2021-06-14,shot,gun,25,M,H,Bakersfield,CA,False,attack,Other,True,-118.985,35.352,True
+7600,Armondo Contreras,2021-06-14,shot,bottle,43,M,H,Birmingham,AL,False,attack,Foot,False,,,True
 6939,Solomon Jamison,2021-06-15,shot,gun,28,M,B,Jackson,MS,True,attack,Not fleeing,False,-90.151,32.359,True
 6941,Nathaniel Damien Raabe,2021-06-15,shot,gun,48,M,W,Westmoreland,TN,True,attack,Not fleeing,False,,,True
 6956,,2021-06-15,shot,vehicle and gun,,M,,Menifee,CA,False,attack,Other,False,-117.182,33.743,True
@@ -6391,6 +6396,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6938,John Earle Barnes,2021-06-16,shot,toy weapon,,M,W,Alford,FL,True,attack,Not fleeing,False,-85.398,30.658,True
 6955,David Aaron King,2021-06-16,shot,knife,40,M,W,Harrison,AR,False,other,Not fleeing,False,-93.109,36.252,True
 6957,,2021-06-16,shot,undetermined,,M,,Leonia,NJ,False,undetermined,,False,-73.986,40.874,True
+7599,Zachery Isaiah Minissale,2021-06-16,shot,gun,34,M,,Eureka County,NV,False,attack,Foot,False,,,True
 6954,Daniel Ray,2021-06-17,shot,gun,35,M,,Covington,KY,False,attack,Not fleeing,False,-84.502,39.054,True
 6951,Daniel Buckingham,2021-06-18,shot,knife,31,M,,Hilo,HI,False,attack,Not fleeing,True,-155.071,19.699,True
 6953,Eric Scott Anderson,2021-06-18,shot,gun,40,M,,Encinitas,CA,False,other,,False,-117.297,33.073,True
@@ -6401,10 +6407,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6978,Mickey Ray Rice,2021-06-20,shot,BB gun,31,M,W,Graham County,NC,False,other,Car,False,-83.768,35.271,True
 6972,John Hurley,2021-06-21,shot,gun,40,M,W,Arvada,CO,False,attack,Not fleeing,False,-105.08,39.801,True
 6973,Hunter Brittain,2021-06-21,shot,undetermined,17,M,W,Lonoke,AR,False,undetermined,,True,-91.9,34.784,True
+7598,Virgil-Lee Taylor,2021-06-21,shot,unarmed,31,M,,Heath Township,MI,True,other,,False,,,True
 6988,Alexander Matthew Collins,2021-06-22,shot,gun,27,M,,Covington,GA,False,attack,,False,-83.915,33.478,True
 6998,Willie Salazar,2021-06-22,shot,gun,33,M,,Murray,UT,False,attack,,False,-111.871,40.654,True
 7000,De'Shon Hill,2021-06-22,shot,gun,39,M,B,Luray,VA,True,attack,Not fleeing,False,-78.468,38.666,True
 7001,Noah D. Sharp,2021-06-22,shot,gun,26,M,W,De Soto,MO,False,attack,,False,-90.559,38.152,True
+7596,,2021-06-22,shot,undetermined,,M,,Fontana,CA,False,other,Car,False,,,True
+7597,Michael P. Wolski,2021-06-22,shot,gun,57,M,,New Berlin,WI,False,other,Not fleeing,False,,,True
 6993,Francisco Javier Lino-Gutierrez,2021-06-23,shot,gun,29,M,,Santa Fe,NM,False,attack,Foot,False,-105.938,35.686,True
 6996,Nathan Roybal,2021-06-23,shot,vehicle and gun,32,M,H,Santa Fe,NM,False,attack,Other,False,-105.993,35.659,True
 6997,Earl Fitzgerald Hunter,2021-06-23,shot,gun,40,M,B,Greenville,SC,False,other,,False,-82.458,34.916,True
@@ -6424,7 +6433,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6979,Dennis Delgado,2021-06-25,shot,gun,60,M,,Kansas City,KS,False,other,,True,-94.693,39.049,True
 6982,,2021-06-25,shot,gun,,M,,Grand Junction,CO,False,attack,,False,-108.563,39.09,True
 6989,,2021-06-25,shot,vehicle,,M,,Fife,WA,False,other,Car,False,-122.342,47.239,True
+7594,David Fann,2021-06-25,shot,gun,24,M,,Lander,WY,False,attack,Not fleeing,False,,,True
+7595,Albert Wayne Finnie,2021-06-25,shot,gun,22,M,,College Station,TX,False,other,Foot,False,,,True
 6981,Don Crowson,2021-06-26,shot,unknown weapon,37,M,,Texarkana,AR,False,other,Not fleeing,True,-94.036,33.433,True
+7593,Nathan Allan,2021-06-26,shot,gun,28,M,,Winthrop,MA,False,other,Car,False,,,True
 6964,Stephen Winder,2021-06-27,shot,undetermined,39,M,W,Graham,TX,True,undetermined,Not fleeing,False,-98.59,33.107,True
 6980,Nicole Dechant,2021-06-27,shot,gun,29,F,W,Plainville,KS,False,other,,False,-99.298,39.229,True
 7003,Oscar Najera,2021-06-27,shot and Tasered,undetermined,25,M,,Roswell,NM,False,other,Car,False,-104.561,33.39,True
@@ -6432,6 +6444,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6969,Robert Alire,2021-06-28,shot,knife,,M,H,Commerce City,CO,True,attack,Not fleeing,False,-104.931,39.822,True
 6970,,2021-06-28,shot,knife,,M,,Azusa,CA,False,other,Not fleeing,False,-117.918,34.141,True
 6977,Soobleej Kaub Hawj Hawj,2021-06-28,shot,gun,35,M,A,Siskiyou County,CA,False,attack,Car,True,-122.192,41.635,True
+7592,Christopher Garcia,2021-06-28,shot,gun,26,M,,Los Angeles,CA,False,attack,Car,True,,,True
 6962,Philip Sanders,2021-06-29,shot,gun,32,M,W,Flour Bluff,TX,False,attack,Foot,False,-97.295,27.679,True
 6975,Larry Hunt,2021-06-29,shot,undetermined,58,M,W,Bayard,NE,False,undetermined,,False,-103.322,41.752,True
 6974,John Hayden Inabinet,2021-06-30,shot,gun,51,M,W,Calhoun County,SC,True,attack,,False,-80.86,33.634,True
@@ -6440,6 +6453,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7071,,2021-06-30,shot,gun,56,M,,South Ogden,UT,False,attack,Not fleeing,False,,,True
 7004,Lisa A. Short,2021-07-01,shot,gun,54,F,W,Kingsport,TN,False,other,,False,-82.572,36.559,True
 7385,Shannon Earl Smith,2021-07-01,shot,gun,45,M,,Spartanburg,SC,True,attack,,False,,,True
+7591,Jesus Rodriguez,2021-07-01,shot,knife,23,M,,Douglas County,GA,False,other,,False,,,True
 7386,Thomas Charlie Billings,2021-07-02,shot,toy weapon,37,M,,Traphill,NC,False,attack,Not fleeing,False,,,True
 7005,John Reuben Turbe,2021-07-04,shot,gun,40,M,B,Tampa,FL,False,attack,Foot,True,-82.401,27.978,True
 7013,Craig Locklear,2021-07-04,shot,gun,49,M,N,Salemburg,NC,False,attack,Other,False,-78.487,35.009,True
