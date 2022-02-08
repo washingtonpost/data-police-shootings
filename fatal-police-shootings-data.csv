@@ -6768,8 +6768,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7550,Scott W. Hottinger,2021-10-08,shot,gun,35,M,,Salcha,AK,False,attack,,False,,,True
 7551,Rudy Anderson,2021-10-08,shot,gun,45,M,,Los Angeles,CA,False,attack,Not fleeing,True,,,True
 7552,Ramone Dwight,2021-10-08,shot,gun,29,M,,Evans County,GA,False,attack,Other,False,,,True
-7553,Brian Umana,2021-10-08,shot,machete,28,M,,National City,CA,False,attack,Not fleeing,True,,,True
 7554,Isaac Louis Soria,2021-10-08,shot,gun,28,M,,Rancho Cucamonga,CA,False,other,Not fleeing,False,,,True
+7553,Brian Umana,2021-10-08,shot and Tasered,machete,28,M,,National City,CA,False,attack,Not fleeing,True,,,True
 7219,Travis Daniel Carlon,2021-10-09,shot,gun,32,M,,Lompoc,CA,False,attack,Not fleeing,False,-120.466,34.637,True
 7226,Timothy Houston,2021-10-09,shot,undetermined,35,M,,Middlesboro,KY,False,undetermined,,False,-83.714,36.607,True
 7231,Calvin Robinson,2021-10-09,shot,gun,52,M,,Madison County,MS,False,attack,Car,False,-90.008,32.668,True
@@ -6777,7 +6777,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7220,Michael Beck,2021-10-10,shot,gun,57,M,,Leland,NC,False,attack,Not fleeing,False,-78.12,34.351,True
 7224,Isaiah Guevara,2021-10-10,shot,gun,18,M,,Whittier,CA,False,other,Not fleeing,False,-118.068,34.0,True
 7232,Joshua Ebinger,2021-10-10,shot,gun,37,M,,Sunman,IN,False,attack,,True,-85.098,39.204,True
-7548,Perry Lamar Stringfellow,2021-10-10,shot,vehicle,50,M,,Dothan,AL,False,attack,,False,,,True
+7548,Perry Lamar Stringfellow,2021-10-10,shot,vehicle,50,M,W,Dothan,AL,False,attack,,False,,,True
 7547,Jovan Lewis Singleton,2021-10-11,shot,gun,36,M,,Woodlawn,MD,False,attack,Other,False,,,True
 7206,Jonathan Zachery Combs,2021-10-12,shot,gun,40,M,,Anderson,SC,False,other,Car,False,-82.539,34.676,True
 7209,Bryan Calvin Lee,2021-10-12,shot,gun,43,M,,Knoxville,TN,False,attack,Not fleeing,False,-83.893,35.952,True
@@ -6804,7 +6804,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7235,Daniel DiMillo,2021-10-19,shot,knife,51,M,,Falmouth,ME,False,other,,False,-70.244,43.725,True
 7236,,2021-10-19,shot,gun,,M,W,Pensacola,FL,False,attack,Not fleeing,False,-87.254,30.418,True
 7238,Richard Thomas,2021-10-19,shot,vehicle,41,M,,Golden Valley,NV,False,attack,Car,False,-119.856,39.614,True
-7534,Carey Hammond,2021-10-19,shot,undetermined,,M,,Evansville,IN,False,attack,Not fleeing,False,,,True
+7534,Carey Hammond,2021-10-19,shot,unknown weapon,46,M,W,Evansville,IN,False,attack,Not fleeing,False,,,True
 7541,Betty Jane Tibaldi,2021-10-19,shot,gun,54,F,,Pocono Township,PA,True,attack,Car,False,,,True
 7234,Allison Lakie,2021-10-20,shot,knife,33,F,,Syracuse,NY,False,attack,Not fleeing,False,-76.183,43.049,True
 7239,Jesse Fischer,2021-10-20,shot,vehicle,40,M,,Arlington,TX,False,other,Car,False,-97.094,32.703,True
@@ -6817,11 +6817,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7258,Nicholas Smith,2021-10-24,shot,gun,35,M,,Conway,AR,False,attack,Not fleeing,False,-92.474,35.085,True
 7259,Kim Douglas Ropp,2021-10-24,shot,knife,60,M,,Kentwood,MI,False,attack,Not fleeing,False,-85.642,42.882,True
 7264,,2021-10-24,shot,gun,,M,,Hopkinsville,KY,False,attack,Foot,False,-87.494,36.859,True
-7536,Corey Stanley,2021-10-25,shot,vehicle,37,M,,Miami,FL,False,other,,False,,,True
-7537,Jason Bergquist,2021-10-25,shot,gun,27,M,,Boise,ID,False,attack,Not fleeing,False,,,True
+7536,Corey Timothy Stanley,2021-10-25,shot,vehicle,37,M,B,Miami,FL,False,other,,False,,,True
+7537,Jacob James Bergquist,2021-10-25,shot,gun,27,M,,Boise,ID,False,attack,Not fleeing,False,,,True
 7257,Kristopher M. Kramer,2021-10-25,shot and Tasered,sword,33,M,,DeKalb,IL,False,attack,Not fleeing,False,-88.749,41.943,True
 7254,Ivan Foster,2021-10-26,shot,gun,,M,,Louisville,KY,False,attack,Not fleeing,True,-85.699,38.268,True
-7535,Scott S. Wright,2021-10-26,shot,gun,57,M,,Leroy Township,OH,False,attack,Not fleeing,False,,,True
+7535,Scott S. Wright,2021-10-26,shot,gun,57,M,W,Leroy Township,OH,False,attack,Not fleeing,False,,,True
 7265,Robert Richart,2021-10-27,shot,gun,56,M,,Austin,TX,True,attack,Not fleeing,True,-97.887,30.191,True
 7287,Zachary Snow,2021-10-27,shot,undetermined,26,M,,Boise,ID,True,undetermined,,False,-116.205,43.612,True
 7261,Koffi Dzima,2021-10-27,shot and Tasered,hammer,31,M,,Philadelphia,PA,False,attack,,True,-75.24,39.992,True
@@ -6847,7 +6847,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7335,Brian Michael Price,2021-11-06,shot,piece of wood,45,M,W,Chesapeake,VA,False,attack,Other,False,-78.691,36.653,True
 7337,Jabbar Muhammad,2021-11-06,shot,knife,21,M,,Joliet,IL,False,attack,Not fleeing,False,-88.074,41.494,True
 7338,Mark D. Walker,2021-11-06,shot,gun,34,M,,Long Branch,NJ,False,attack,Not fleeing,False,-73.991,40.3,True
-7532,Michael Quarrles,2021-11-06,shot,gun,37,M,,Dorchester,MA,True,attack,Not fleeing,False,,,True
+7532,Michael A. Quarrles,2021-11-06,shot,gun,37,M,,Dorchester,MA,True,attack,Not fleeing,False,,,True
 7331,Andrew Dzwonchyk,2021-11-07,shot,vehicle,40,M,,Union Township,PA,False,attack,,False,-76.569,40.484,True
 7332,Chelsae L. Clevenger-Kirk,2021-11-07,shot,gun,29,F,W,Goodview,VA,True,other,Other,False,-79.699,37.174,True
 7334,,2021-11-07,shot,gun,,M,,Knowlton Township,NJ,False,attack,Not fleeing,False,-75.108,40.948,True
