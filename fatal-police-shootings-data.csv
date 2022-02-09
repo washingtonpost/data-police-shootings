@@ -7027,19 +7027,23 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7466,Charles Walker Piquet,2022-01-12,shot,glass shard,51,M,,Durham,NC,False,undetermined,,False,,,True
 7685,Michael Scott Meredith,2022-01-12,shot,tire iron,35,M,,Sergeant Bluff,IA,False,attack,Not fleeing,False,,,True
 7687,Michael Neuman,2022-01-12,shot,gun,31,M,,Jonesboro,AR,False,attack,Not fleeing,False,,,True
+7709,Kenneth Delton Hutcheson,2022-01-12,shot,knife,37,M,,Arvada,CO,False,other,Foot,False,,,True
 7468,Edgar Morfin Mendoza,2022-01-13,shot,hammer,34,M,,Fresno,CA,False,other,Not fleeing,False,,,True
 7688,Alexander Joseph Bogusz,2022-01-13,shot,gun,30,M,,Citrus Heights,CA,False,other,Not fleeing,True,,,True
+7715,Barry Dean Compton,2022-01-14,shot,gun,64,M,,Woolwine,VA,False,other,,False,,,True
 7689,Ismael Trinidad Montes,2022-01-16,shot,unknown weapon,22,M,,Gillette,WY,False,undetermined,Not fleeing,False,,,True
 7692,Junnie Williams,2022-01-16,shot,gun,35,M,,North Charleston,SC,False,other,Foot,False,,,True
+7716,Nathan Humphrey,2022-01-17,shot,undetermined,28,M,,Harris County,TX,False,undetermined,,False,,,True
 7683,,2022-01-18,shot,gun,,,,Hemet,CA,False,undetermined,Foot,False,,,True
-7686,Tyler Marler,2022-01-18,shot,air pistol,31,M,,Woord River,IL,False,undetermined,Not fleeing,False,,,True
+7686,Tyler Marler,2022-01-18,shot,air pistol,31,M,,Wood River,IL,False,undetermined,Not fleeing,False,,,True
 7707,,2022-01-18,shot,knife,,M,H,Huntington Park,CA,False,other,Foot,False,,,True
 7676,Ronald W. Flowers,2022-01-19,shot,gun,,M,,Perdido,AL,False,undetermined,Not fleeing,False,,,True
 7679,Robert Carter,2022-01-19,shot,gun,32,M,,San Jose,CA,False,undetermined,Foot,True,,,True
-7666,Nelson Szeto,2022-01-20,shot,gun,37,M,,San Francisco,CA,True,undetermined,Not fleeing,False,,,True
+7666,Nelson Szeto,2022-01-20,shot,toy weapon,37,M,,San Francisco,CA,True,undetermined,Not fleeing,False,,,True
 7671,Yoskar Feliz,2022-01-20,shot,gun,27,M,,New York,NY,False,undetermined,Not fleeing,False,,,True
 7674,Charles Stanley,2022-01-20,shot,gun,34,M,,Lacey,WA,False,undetermined,Not fleeing,False,,,True
 7665,Lashawn McNeil,2022-01-21,shot,gun,47,M,,New York,NY,False,undetermined,Foot,False,,,True
+7717,Dedrick Garcia,2022-01-22,shot,gun,37,M,,Phoenix,AZ,False,other,Car,False,,,True
 7659,Sean Michael Kinney,2022-01-23,shot,knife,37,M,,Newnan,GA,False,undetermined,Not fleeing,False,,,True
 7662,Paul Courtemanche,2022-01-23,shot,knife,42,D,,Burlington,MA,True,undetermined,Not fleeing,False,,,True
 7663,Tyron Coates,2022-01-23,shot,gun,24,M,,Lafayette,LA,False,undetermined,Foot,False,,,True
@@ -7048,6 +7052,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7656,Derek Rock,2022-01-25,shot,gun,30,M,,Aragon,GA,True,undetermined,Not fleeing,False,,,True
 7657,John Hunt,2022-01-25,shot,gun and car,20,M,,Memphis,TN,True,undetermined,Car,False,,,True
 7654,,2022-01-26,shot,gun,,M,,Ferguson,MO,False,undetermined,Foot,False,,,True
+7712,,2022-01-27,shot,undetermined,,M,,Parkland,WA,False,undetermined,,False,,,True
 7651,,2022-01-28,shot,gun,,M,,Coachella,CA,False,attack,Foot,False,,,True
 7652,Mitchell Hooe,2022-01-28,shot,unarmed,28,M,,Springfield,MO,False,undetermined,Not fleeing,False,,,True
 7653,Landon Eastep,2022-01-28,shot,box cutter,37,M,,Nashville,TN,True,undetermined,Not fleeing,True,,,True
@@ -7061,6 +7066,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7705,,2022-02-01,shot,unarmed,,M,,Albuquerque,NM,False,other,Other,False,,,True
 7646,Amir Locke,2022-02-02,shot,gun,22,M,B,Minneapolis,MN,False,other,Not fleeing,True,,,True
 7703,Phillip Dill,2022-02-04,shot,knife,34,M,,Evansville,IN,True,attack,Not fleeing,True,,,True
+7713,,2022-02-04,shot,gun,,M,,Tulsa,OK,False,other,Foot,False,,,True
 7700,Michael Shane Carver,2022-02-05,shot,vehicle,38,M,,Lincoln County,NC,False,attack,Car,False,,,True
 7691,Robert Langley,2022-02-06,shot,undetermined,46,M,,Georgetown County,SC,False,other,Car,False,,,True
 7697,Jason D. Ickler,2022-02-06,shot,vehicle,38,M,,Topeka,KS,False,other,Not fleeing,False,,,True
@@ -7070,5 +7076,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7695,,2022-02-07,shot,gun,,M,,Greenville,TX,False,attack,,False,,,True
 7696,,2022-02-07,shot,gun,,M,,Marana,AZ,False,other,Not fleeing,False,,,True
 7701,Shawn Wilson,2022-02-07,shot,knife,36,M,,Kansas City,MO,False,other,Not fleeing,False,,,True
+7718,Emilio Chamizo,2022-02-07,shot,knife,30,M,,Phoenix,AZ,False,other,Not fleeing,False,,,True
 7693,,2022-02-08,shot,unknown weapon,,M,,Corpus Christi,TX,False,other,Other,False,,,True
 7694,Brian Schneider,2022-02-08,shot,toy weapon,36,M,,Mesa,AZ,False,attack,Not fleeing,False,,,True
