@@ -5946,6 +5946,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6477,Jeffrey Marvin,2020-12-31,shot,vehicle,63,M,,Starke County,IN,False,attack,Car,False,-86.469,41.411,True
 6480,Carl Dorsey,2021-01-01,shot,undetermined,39,M,B,Newark,NJ,False,undetermined,,False,-74.202,40.739,True
 6483,Isaac Matheny,2021-01-01,shot,toy weapon,37,M,B,Valley Falls,OR,False,other,,False,-120.282,42.484,True
+7643,Jeffrey L. Marvin,2021-01-01,shot,vehicle,63,M,,Valparaiso,IN,False,attack,Car,False,-87.065,41.46,True
 6542,Anthony Bernal Cano,2021-01-02,shot,gun,17,M,H,Chandler,AZ,False,other,Other,True,-111.836,33.311,True
 6592,Daniel Alvarado,2021-01-02,shot,gun,38,M,H,San Gabriel,CA,False,attack,Not fleeing,False,-118.09,34.076,True
 6478,James Reising,2021-01-03,shot,knife,49,M,W,Jefferson City,MO,False,other,,False,-92.249,38.58,True
