@@ -7015,8 +7015,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7670,,2022-01-05,shot,undetermined,,F,,Prescott,AZ,False,other,,False,,,True
 7672,Todd Fiepke,2022-01-06,shot,gun,49,M,,Wheat Ridge,CO,True,attack,Not fleeing,False,,,True
 7673,James Sutton,2022-01-06,shot,knife,55,M,,Keansburg,NJ,False,attack,Not fleeing,True,,,True
-7675,Deaughn Willis,2022-01-08,shot,gun,25,M,,Baton Rouge,LA,False,attack,Not fleeing,False,,,True
-7677,Denrick Demond Stallings,2022-01-09,shot,undetermined,47,M,,Crawford County,GA,False,attack,Other,False,,,True
+7675,Deaughn Willis,2022-01-08,shot,gun,25,M,B,Baton Rouge,LA,False,attack,Not fleeing,False,,,True
+7677,Denrick Demond Stallings,2022-01-09,shot,undetermined,47,M,,Crawford County,GA,False,attack,Foot,False,,,True
 7678,Orlando Taylor,2022-01-09,shot,knife,23,M,,Springfield,MA,False,attack,Foot,True,,,True
 7680,,2022-01-09,shot,knife,,M,,Rialto,CA,False,other,Not fleeing,False,,,True
 7681,Luis Ku Huitzil,2022-01-09,shot,knife,45,M,,Vancouver,WA,False,other,,False,,,True
