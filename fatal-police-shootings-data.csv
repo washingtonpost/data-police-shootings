@@ -2997,7 +2997,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3327,Jason Lappe,2018-01-20,shot,gun,44,M,W,Dunwoody,GA,False,other,Not fleeing,False,-84.333,33.933,True
 3328,Shannon Jason Cables,2018-01-20,shot,gun,46,M,W,Lake Wales,FL,False,attack,Not fleeing,False,-81.656,27.839,True
 3329,Arther McAfee Jr.,2018-01-20,shot,unarmed,61,M,B,Longview,TX,True,other,Not fleeing,False,-94.647,32.555,True
-3330,John Albers,2018-01-20,shot,,17,M,W,Overland Park,KS,True,other,Car,False,-94.694,38.857,True
+3330,John Albers,2018-01-20,shot,,17,M,W,Overland Park,KS,True,other,,False,-94.694,38.857,True
 3331,Ronald Jay Lawson,2018-01-21,shot,,46,M,W,Rockledge,FL,False,other,Car,False,-80.705,28.31,True
 3332,Ilkka O. Hiironen,2018-01-21,shot,unknown weapon,35,M,W,Ebey Island,WA,True,other,Not fleeing,False,-122.162,47.978,True
 3333,Joshua Dale Prough,2018-01-22,shot,gun,36,M,W,Battle Creek,MI,True,other,Not fleeing,False,-85.19,42.308,True
@@ -7028,9 +7028,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7466,Charles Walker Piquet,2022-01-12,shot,glass shard,51,M,,Durham,NC,False,undetermined,,False,,,True
 7685,Michael Scott Meredith,2022-01-12,shot,tire iron,35,M,,Sergeant Bluff,IA,False,attack,Not fleeing,False,,,True
 7687,Michael Neuman,2022-01-12,shot,gun,31,M,,Jonesboro,AR,False,attack,Not fleeing,False,,,True
-7709,Kenneth Delton Hutcheson,2022-01-12,shot,knife,37,M,,Arvada,CO,False,other,Foot,False,,,True
+7709,Kenneth Delton Hutcheson,2022-01-12,shot,knife,37,M,W,Arvada,CO,False,other,Foot,False,,,True
 7468,Edgar Morfin Mendoza,2022-01-13,shot,hammer,34,M,,Fresno,CA,False,other,Not fleeing,False,,,True
-7688,Alexander Joseph Bogusz,2022-01-13,shot,gun,30,M,,Citrus Heights,CA,False,other,Not fleeing,True,,,True
+7688,Alexander Joseph Bogusz,2022-01-13,shot,gun,30,M,,Citrus Heights,CA,False,attack,Not fleeing,True,,,True
 7715,Barry Dean Compton,2022-01-14,shot,gun,64,M,,Woolwine,VA,False,other,,False,,,True
 7689,Ismael Trinidad Montes,2022-01-16,shot,unknown weapon,22,M,,Gillette,WY,False,undetermined,Not fleeing,False,,,True
 7692,Junnie Williams,2022-01-16,shot,gun,35,M,,North Charleston,SC,False,other,Foot,False,,,True
