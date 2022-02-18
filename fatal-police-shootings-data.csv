@@ -7039,16 +7039,16 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7683,,2022-01-18,shot,gun,,,,Hemet,CA,False,undetermined,Foot,False,,,True
 7686,Tyler Marler,2022-01-18,shot,air pistol,31,M,,Wood River,IL,False,attack,Not fleeing,False,,,True
 7707,,2022-01-18,shot,knife,,M,H,Huntington Park,CA,False,other,Foot,False,,,True
-7676,Ronald W. Flowers,2022-01-19,shot,gun,,M,,Perdido,AL,False,undetermined,Not fleeing,False,,,True
-7679,Robert Carter,2022-01-19,shot,gun,32,M,,San Jose,CA,False,undetermined,Foot,True,,,True
-7666,Nelson Szeto,2022-01-20,shot,toy weapon,37,M,,San Francisco,CA,True,undetermined,Not fleeing,False,,,True
-7671,Yoskar Feliz,2022-01-20,shot,gun,27,M,,New York,NY,False,undetermined,Not fleeing,False,,,True
-7674,Charles Stanley,2022-01-20,shot,gun,34,M,,Lacey,WA,False,undetermined,Not fleeing,False,,,True
-7665,Lashawn McNeil,2022-01-21,shot,gun,47,M,,New York,NY,False,undetermined,Foot,False,,,True
-7717,Dedrick Garcia,2022-01-22,shot,gun,37,M,,Phoenix,AZ,False,other,Car,False,,,True
+7676,Ronald W. Flowers,2022-01-19,shot,gun,,M,,Perdido,AL,False,attack,Not fleeing,False,,,True
+7679,Robert Seth Carter,2022-01-19,shot,gun,32,M,W,San Jose,CA,False,attack,Not fleeing,True,,,True
+7666,Nelson Szeto,2022-01-20,shot,Airsoft pistol,37,M,,San Francisco,CA,True,other,Not fleeing,False,,,True
+7671,Yoskar Feliz,2022-01-20,shot,gun,27,M,,New York,NY,False,attack,Foot,False,,,True
+7674,Charles Stanley,2022-01-20,shot,gun,34,M,,Lacey,WA,False,attack,Not fleeing,False,,,True
+7665,Lashawn McNeil,2022-01-21,shot,gun,47,M,B,New York,NY,False,attack,Foot,False,,,True
+7717,Dedrick Garcia,2022-01-22,shot,gun,37,M,,Phoenix,AZ,False,other,Not fleeing,False,,,True
 7659,Sean Michael Kinney,2022-01-23,shot,knife,37,M,,Newnan,GA,False,undetermined,Not fleeing,False,,,True
-7662,Paul Courtemanche,2022-01-23,shot,knife,42,D,,Burlington,MA,True,undetermined,Not fleeing,False,,,True
-7663,Tyron Coates,2022-01-23,shot,gun,24,M,,Lafayette,LA,False,undetermined,Foot,False,,,True
+7662,Paul Courtemanche,2022-01-23,shot,knife,42,M,,Burlington,MA,True,other,Not fleeing,False,,,True
+7663,Tyron Coates,2022-01-23,shot,gun,24,M,,Lafayette,LA,False,other,Foot,False,,,True
 7658,Peterson Kamo,2022-01-24,shot,knife,,M,,Spokane,WA,True,undetermined,Not fleeing,False,,,True
 7655,Ronnie Walker,2022-01-25,shot,,58,M,,Madison County,MO,False,undetermined,Not fleeing,False,,,True
 7656,Derek Rock,2022-01-25,shot,gun,30,M,,Aragon,GA,True,undetermined,Not fleeing,False,,,True
@@ -7086,3 +7086,21 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7720,Terrell Russell,2022-02-09,shot,gun,22,M,,New Orleans,LA,False,other,,False,,,True
 7721,Jose De Jesus Montoya Villa,2022-02-09,shot,undetermined,,M,,Aurora,CO,False,undetermined,Car,False,,,True
 7723,,2022-02-09,shot,unknown weapon,,M,,Oildale,CA,False,undetermined,,False,,,True
+7742,Makari Smith,2022-02-09,shot,gun,23,M,,Stovall,NC,True,attack,Foot,False,,,True
+7743,Jayden J. Prunty,2022-02-09,shot,gun,22,M,,Jonesboro,AR,False,attack,,False,,,True
+7744,Richard Malone,2022-02-09,shot,vehicle,41,M,,Lake Charles,LA,False,other,Car,False,,,True
+7734,Dustin Booth,2022-02-11,shot,gun,35,M,,Monroe,OH,True,other,,False,,,True
+7735,,2022-02-11,shot,undetermined,,M,,Puyallup,WA,False,undetermined,,False,,,True
+7739,Ahmed Taqi,2022-02-11,shot,gun,37,M,,Dearborn,MI,False,attack,,False,,,True
+7726,James Huber,2022-02-12,shot,undetermined,38,M,,Buffalo,NY,False,other,Car,True,,,True
+7738,,2022-02-12,shot,knife,35,M,,Lexington,MA,False,attack,Not fleeing,False,,,True
+7731,Terry Edwin Moser,2022-02-13,shot,knife,43,M,,Madisonville,TN,True,other,Not fleeing,False,,,True
+7732,Andrew Stratton,2022-02-13,shot,undetermined,34,M,,Alvo,NE,False,undetermined,,False,,,True
+7737,,2022-02-13,shot,unarmed,,M,,Concord,NC,False,attack,,False,,,True
+7730,Alexander Lanier,2022-02-14,shot,gun,26,M,,Oxford,AL,False,attack,Car,False,,,True
+7733,Blain D. Johnson,2022-02-14,shot,unknown weapon,37,M,,Columbia,MO,False,other,Other,False,,,True
+7727,Alan Huaracha,2022-02-15,shot,gun,43,M,,Harris County,TX,True,attack,Not fleeing,False,,,True
+7728,,2022-02-15,shot,toy weapon,,M,,Billings,MT,False,other,,False,,,True
+7729,,2022-02-15,shot,knife,,F,,Lancaster,CA,True,other,Not fleeing,False,,,True
+7736,,2022-02-15,shot,undetermined,,M,,Tacoma,WA,False,other,Car,False,,,True
+7741,,2022-02-15,shot,knife,36,M,,Philadelphia,PA,False,attack,Not fleeing,False,,,True
