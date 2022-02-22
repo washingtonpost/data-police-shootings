@@ -7103,9 +7103,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7728,Raymond D. Dupree,2022-02-15,shot,toy weapon,39,M,,Billings,MT,False,other,,False,,,True
 7729,,2022-02-15,shot,knife,,F,,Lancaster,CA,True,other,Not fleeing,False,,,True
 7741,,2022-02-15,shot,knife,36,M,,Philadelphia,PA,False,attack,Not fleeing,False,,,True
-7746,Roger Wayne Ellis,2022-02-16,shot,gun,54,M,,North Middleton,PA,False,attack,Not fleeing,False,,,True
-7747,,2022-02-16,shot,gun,,M,W,Azusa,CA,False,attack,Foot,False,,,True
+7746,Roger Wayne Ellis,2022-02-16,shot,gun,54,M,W,North Middleton,PA,False,attack,Not fleeing,False,,,True
+7747,,2022-02-16,shot,gun,,M,W,Azusa,CA,False,attack,Car,False,,,True
 7748,,2022-02-16,shot,undetermined,,M,,Plainsboro,NJ,False,undetermined,,False,,,True
 7749,Luis Alberto Rodriguez,2022-02-16,shot,gun,18,M,,Harris County,TX,False,other,Not fleeing,False,,,True
-7745,,2022-02-17,shot,gun,,M,,Mesa,AZ,False,attack,,False,,,True
-7750,,2022-02-17,shot,gun,,M,,Beaver Dam,AZ,False,attack,Other,False,,,True
+7745,Ringo Van Winkle,2022-02-17,shot,gun,32,M,,Mesa,AZ,False,attack,,False,,,True
+7750,Oscar Alcantara,2022-02-17,shot,gun,30,M,,Beaver Dam,AZ,False,other,Other,False,,,True
