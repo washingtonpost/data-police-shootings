@@ -7105,7 +7105,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7741,,2022-02-15,shot,knife,36,M,,Philadelphia,PA,False,attack,Not fleeing,False,,,True
 7746,Roger Wayne Ellis,2022-02-16,shot,gun,54,M,W,North Middleton,PA,False,attack,Not fleeing,False,,,True
 7747,,2022-02-16,shot,gun,,M,W,Azusa,CA,False,attack,Car,False,,,True
-7748,,2022-02-16,shot,undetermined,,M,,Plainsboro,NJ,False,undetermined,,False,,,True
+7748,Atiba Lewis,2022-02-16,shot,undetermined,45,M,,Plainsboro,NJ,False,undetermined,,False,,,True
 7749,Luis Alberto Rodriguez,2022-02-16,shot,gun,18,M,,Harris County,TX,False,other,Not fleeing,False,,,True
 7753,Daniel Vallee,2022-02-16,shot,unarmed,34,M,W,Marrero,LA,False,other,Not fleeing,True,,,True
 7745,Ringo Van Winkle,2022-02-17,shot,gun,32,M,,Mesa,AZ,False,attack,,False,,,True
@@ -7119,11 +7119,22 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7752,,2022-02-19,shot,undetermined,,M,,Douglas,AZ,False,undetermined,,False,,,True
 7754,,2022-02-19,shot,vehicle,,M,,Baltimore,MD,False,attack,Not fleeing,True,,,True
 7755,Joel Michael Arevalo,2022-02-19,shot,undetermined,30,M,,Portland,OR,False,undetermined,,False,,,True
-7756,Daniel Patrick Knight,2022-02-19,shot,unarmed,39,M,,Winter Park,FL,True,attack,Not fleeing,False,,,True
-7758,,2022-02-19,shot,vehicle,27,M,H,San Diego,CA,False,attack,Car,False,,,True
+7756,Daniel Patrick Knight,2022-02-19,shot,unarmed,39,M,,Winter Park,FL,True,attack,Not fleeing,True,,,True
+7758,Mizael Corrales,2022-02-19,shot,vehicle,27,M,H,San Diego,CA,False,attack,Car,False,,,True
 7763,Alexandro Rosales,2022-02-19,shot,gun,41,M,,Bakersfield,CA,False,undetermined,,True,,,True
 7757,Louisson Pierrot,2022-02-20,shot,unarmed,38,M,,Margate,FL,False,attack,Not fleeing,False,,,True
 7762,David Liles,2022-02-21,shot,knife,54,M,,Rogers,AR,True,attack,Not fleeing,False,,,True
 7766,Brandon Cruz,2022-02-21,shot,vehicle,41,M,,Boerne,TX,True,attack,Car,False,,,True
 7767,Tracy Gaeta,2022-02-22,shot,vehicle,54,F,,Stockton,CA,False,attack,Car,False,,,True
 7768,Richard Ward,2022-02-22,shot,undetermined,32,M,,Pueblo West,CO,False,attack,,True,,,True
+7771,Matthew Deese,2022-02-22,shot,gun,32,M,,Perry,GA,True,other,,False,-83.712,32.476,True
+7769,Daniel Ramirez,2022-02-23,shot,gun,,M,,Hobbs,NM,False,attack,Foot,False,-103.141,32.719,True
+7770,Steven Lewis Finfrock,2022-02-23,shot,gun,63,M,,Macon,GA,False,attack,Not fleeing,False,-83.643,32.845,True
+7772,,2022-02-23,shot,gun,,M,,Reno,NV,False,attack,Foot,False,-119.8,39.478,True
+7773,Keleen Rashad Connell,2022-02-23,shot,undetermined,27,M,,Birmingham,AL,False,undetermined,Foot,False,,,True
+7774,Joey Gilbert Gauthreaux,2022-02-23,shot,undetermined,55,M,,Crowley,LA,False,undetermined,,False,,,True
+7779,Andrew Castellano,2022-02-24,shot,gun,34,M,,Edgewood,NM,False,attack,Not fleeing,False,-106.204,35.031,True
+7776,,2022-02-25,shot,undetermined,,M,,Belen,NM,False,undetermined,,False,-106.797,34.664,True
+7778,,2022-02-25,shot,undetermined,,M,,Detroit,MI,False,other,Car,False,,,True
+7775,,2022-02-26,shot,knife,,M,,Beasley,TX,False,other,Not fleeing,False,-95.913,29.495,True
+7777,John Charles Morieda,2022-02-27,shot,knife,34,M,,Shelley,ID,False,other,Not fleeing,False,-112.137,43.374,True
