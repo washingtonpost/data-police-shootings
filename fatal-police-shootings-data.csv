@@ -7128,7 +7128,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7767,Tracy Gaeta,2022-02-22,shot,vehicle,54,F,,Stockton,CA,False,attack,Car,False,,,True
 7768,Richard Ward,2022-02-22,shot,undetermined,32,M,,Pueblo West,CO,False,attack,,True,,,True
 7771,Matthew Deese,2022-02-22,shot,gun,32,M,,Perry,GA,True,other,,False,-83.712,32.476,True
-7769,Daniel Ramirez,2022-02-23,shot,gun,,M,,Hobbs,NM,False,attack,Foot,False,-103.141,32.719,True
+7769,Daniel Ramirez,2022-02-23,shot,gun,27,M,,Hobbs,NM,False,attack,Foot,True,-103.141,32.719,True
 7770,Steven Lewis Finfrock,2022-02-23,shot,gun,63,M,,Macon,GA,False,attack,Not fleeing,False,-83.643,32.845,True
 7772,,2022-02-23,shot,gun,,M,,Reno,NV,False,attack,Foot,False,-119.8,39.478,True
 7773,Keleen Rashad Connell,2022-02-23,shot,undetermined,27,M,,Birmingham,AL,False,undetermined,Foot,False,,,True
