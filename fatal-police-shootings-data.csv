@@ -7138,9 +7138,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7778,,2022-02-25,shot,undetermined,,M,,Detroit,MI,False,other,Car,False,,,True
 7775,,2022-02-26,shot,knife,,M,,Beasley,TX,False,other,Not fleeing,False,-95.913,29.495,True
 7777,John Charles Morieda,2022-02-27,shot,knife,34,M,,Shelley,ID,False,other,Not fleeing,False,-112.137,43.374,True
-7785,Thomas Siderio,2022-03-01,shot,undetermined,12,M,,Philadelphia,PA,False,other,Foot,False,,,True
-7784,,2022-03-03,shot,gun,,,,Araphoe County,CO,False,other,,False,,,True
-7783,,2022-03-05,shot,gun,,M,,Seattle,WA,False,other,,False,,,True
+7785,Thomas Siderio,2022-03-01,shot,gun,12,M,,Philadelphia,PA,False,other,Foot,False,,,True
+7784,Jamarian Marquis McGhee,2022-03-03,shot,vehicle,29,M,,Araphoe County,CO,False,attack,,False,,,True
+7783,,2022-03-05,shot,gun and vehicle,,M,,Seattle,WA,False,attack,,True,,,True
 7780,Lester Carlton Epps,2022-03-06,shot,gun,58,M,W,Richmond,VA,False,attack,Not fleeing,True,-77.403,37.514,True
 7781,,2022-03-06,shot,gun,,M,,Austin,TX,False,attack,,True,-97.705,30.333,True
 7782,Jerry Lott,2022-03-06,shot,undetermined,33,M,,Peoria,AZ,False,other,Car,True,-112.28,33.667,True
