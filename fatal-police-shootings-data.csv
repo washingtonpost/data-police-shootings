@@ -7027,7 +7027,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7689,Ismael Trinidad Montes,2022-01-16,shot,sharp object,22,M,,Gillette,WY,False,attack,Not fleeing,False,,,True
 7692,Junnie Williams,2022-01-16,shot,gun,35,M,B,North Charleston,SC,False,other,Foot,False,,,True
 7711,Moses Portillo,2022-01-16,shot,undetermined,22,M,,Puyallup,WA,False,undetermined,Not fleeing,False,,,True
-7849,Steffon Griffin,2022-01-16,shot,knife,32,M,,Wagoner County,OK,True,other,,False,,,True
+7849,Steffon Griffin,2022-01-16,shot,knife,32,M,,Wagoner County,OK,True,attack,,False,,,True
 7716,Nathan Humphrey,2022-01-17,shot,undetermined,28,M,B,Harris County,TX,False,attack,Foot,False,,,True
 7683,,2022-01-18,shot,gun,,,,Hemet,CA,False,undetermined,Foot,False,,,True
 7686,Tyler Marler,2022-01-18,shot,air pistol,31,M,,Wood River,IL,False,attack,Not fleeing,False,,,True
@@ -7043,12 +7043,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7662,Paul Courtemanche,2022-01-23,shot,knife,42,M,,Burlington,MA,True,other,Not fleeing,False,,,True
 7663,Tyron Coates,2022-01-23,shot,gun,24,M,,Lafayette,LA,False,other,Foot,False,,,True
 7658,Peterson Kamo,2022-01-24,shot,knife,23,M,,Spokane,WA,False,other,Not fleeing,False,,,True
-7848,Bradley James Ellison,2022-01-24,shot,undetermined,48,M,,Priceville,AL,False,undetermined,,False,-86.876,34.521,True
+7848,Bradley James Ellison,2022-01-24,shot,gun,48,M,,Priceville,AL,False,attack,,False,-86.876,34.521,True
 7655,Ronnie D. Walker,2022-01-25,shot,,58,M,W,Madison County,MO,False,attack,Not fleeing,False,,,True
 7656,Derick Rock,2022-01-25,shot,gun,30,M,,Aragon,GA,True,attack,Not fleeing,False,,,True
 7654,,2022-01-26,shot,gun,,M,,Ferguson,MO,False,attack,Foot,False,,,True
 7657,John Hunt,2022-01-26,shot,gun,20,M,,Cordova,TN,False,attack,Car,False,,,True
-7844,Wesley Chance,2022-01-26,shot,gun,32,M,,Portland,OR,False,other,Other,False,-122.562,45.543,True
+7844,Wesley Chance,2022-01-26,shot,gun,32,M,,Portland,OR,False,other,Foot,False,-122.562,45.543,True
 7653,Landon Eastep,2022-01-27,shot,box cutter,37,M,,Nashville,TN,True,other,Not fleeing,True,,,True
 7712,Jerome Holman,2022-01-27,shot,vehicle,39,M,,Parkland,WA,False,attack,,False,,,True
 7846,John Paul Romero,2022-01-27,shot,knife,42,M,,Rio Rancho,NM,False,other,Not fleeing,False,-106.646,35.271,True
@@ -7096,7 +7096,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7737,,2022-02-13,shot,unarmed,,M,,Concord,NC,False,attack,,False,,,True
 7730,Alexander Kade Lanier,2022-02-14,shot,gun,26,M,,Oxford,AL,False,attack,Car,False,,,True
 7733,Blain D. Johnson,2022-02-14,shot,unknown weapon,37,M,,Columbia,MO,False,other,Other,False,,,True
-7843,Travis Boawn,2022-02-14,shot,hammer,37,M,,Edgewood,NM,False,other,Foot,False,-106.176,35.037,True
+7843,Travis Boawn,2022-02-14,shot,hammer,37,M,,Edgewood,NM,False,attack,Foot,False,-106.176,35.037,True
 7727,Alan Huaracha,2022-02-15,shot,gun,43,M,,Harris County,TX,True,attack,Not fleeing,False,,,True
 7728,Raymond D. Dupree,2022-02-15,shot,toy weapon,39,M,,Billings,MT,False,other,,False,,,True
 7729,,2022-02-15,shot,knife,,F,,Lancaster,CA,True,other,Not fleeing,False,,,True
@@ -7128,7 +7128,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7767,Tracy Gaeta,2022-02-22,shot,vehicle,54,F,,Stockton,CA,False,attack,Car,False,,,True
 7768,Richard Ward,2022-02-22,shot,undetermined,32,M,,Pueblo West,CO,False,attack,,True,,,True
 7771,Matthew Deese,2022-02-22,shot,gun,32,M,,Perry,GA,True,other,,False,-83.712,32.476,True
-7839,Robert Lee Pilkey,2022-02-22,shot,knife,28,M,,Maryville,TN,False,other,,False,,,True
+7839,Robert Lee Pilkey,2022-02-22,shot,knife,28,M,,Maryville,TN,False,undetermined,,False,,,True
 7769,Daniel Ramirez,2022-02-23,shot,gun,27,M,,Hobbs,NM,False,attack,Foot,True,-103.141,32.719,True
 7770,Steven Lewis Finfrock,2022-02-23,shot,gun,63,M,,Macon,GA,False,attack,Not fleeing,False,-83.643,32.845,True
 7772,Jacori Shaw,2022-02-23,shot,gun,23,M,,Reno,NV,False,attack,Foot,False,-119.8,39.478,True
