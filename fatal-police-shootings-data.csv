@@ -7199,7 +7199,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7854,Billy Mitchell,2022-03-18,shot,knife,31,M,,Hutchinson County,TX,False,attack,Not fleeing,False,-101.418,35.734,True
 7832,Rodney Robinson,2022-03-19,shot,undetermined,21,M,,Dewey Beach,DE,False,other,Foot,False,-75.075,38.696,True
 7847,Irvin D. Moorer-Charley,2022-03-19,shot,knife,34,M,B,Columbia,SC,True,attack,Not fleeing,True,-81.055,34.106,True
-7851,Collin Neztsosie,2022-03-19,shot,gun,33,M,,Albuquerque,NM,False,attack,Not fleeing,False,-106.498,35.068,True
+7851,Collin Neztsosie,2022-03-19,shot,unarmed,33,M,,Albuquerque,NM,False,other,Not fleeing,False,-106.498,35.068,True
 7852,Richard Schaare,2022-03-19,shot,gun,74,M,,Peoria,AZ,False,attack,Not fleeing,True,-112.251,33.849,True
 7855,,2022-03-19,shot,gun,,M,,Hanson County,SD,False,attack,,False,-97.716,43.159,True
 7856,,2022-03-19,shot,gun,,,,Great Falls,MT,False,other,Not fleeing,False,-111.283,47.497,True
@@ -7209,4 +7209,5 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7861,,2022-03-21,shot,gun,,M,,Gillette,WY,False,attack,,False,-105.498,44.295,True
 7864,,2022-03-22,shot,gun,,M,,Discovery Bay,CA,False,other,,False,-121.622,37.931,True
 7866,,2022-03-22,shot,gun,,M,,Chandler,AZ,False,other,Other,False,-111.829,33.308,True
-7865,,2022-03-23,shot,gun,,M,,Clayton County,GA,False,other,,False,-84.366,33.508,True
+7865,Charles Henry Calhoun,2022-03-23,shot,gun,68,M,,Clayton County,GA,False,other,,False,-84.366,33.508,True
+7867,,2022-03-23,shot,metal pipe,,M,,Commerce,GA,False,other,Not fleeing,False,-83.385,34.271,True
