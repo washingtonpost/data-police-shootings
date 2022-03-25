@@ -7134,22 +7134,22 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7772,Jacori Shaw,2022-02-23,shot,gun,23,M,,Reno,NV,False,attack,Foot,False,-119.8,39.478,True
 7773,Keleen Rashad Connell,2022-02-23,shot,undetermined,27,M,,Birmingham,AL,False,undetermined,Foot,False,,,True
 7774,Joey Gilbert Gauthreaux,2022-02-23,shot,undetermined,55,M,,Crowley,LA,False,undetermined,,False,,,True
-7838,Czyz Deonte Harrison,2022-02-23,shot,knife,35,M,,Houston,TX,False,other,Foot,False,-95.514,29.706,True
+7838,Czyz Deonte Harrison,2022-02-23,shot,gun and knife,35,M,,Houston,TX,False,attack,Foot,False,-95.514,29.706,True
 7779,Andrew Castellano,2022-02-24,shot,gun,34,M,,Edgewood,NM,False,attack,Not fleeing,False,-106.204,35.031,True
-7837,Steven Wohlwend,2022-02-24,shot,undetermined,31,M,,Tacoma,WA,False,other,,False,-122.435,47.252,True
+7837,Steve Wohlwend,2022-02-24,shot,undetermined,31,M,,Tacoma,WA,False,other,,True,-122.435,47.252,True
 7776,,2022-02-25,shot,undetermined,,M,,Belen,NM,False,undetermined,,False,-106.797,34.664,True
 7778,,2022-02-25,shot,undetermined,,M,,Detroit,MI,False,other,Car,False,,,True
 7775,Jacob Huerta,2022-02-26,shot,knife,37,M,,Beasley,TX,False,other,Not fleeing,False,-95.913,29.495,True
 7777,John Charles Morieda,2022-02-27,shot,knife,34,M,,Shelley,ID,False,other,Not fleeing,False,-112.137,43.374,True
-7836,Marcelo Alfredo Suarez,2022-02-27,shot,gun,24,M,,Houston,TX,False,attack,Other,False,-95.286,29.848,True
-7815,,2022-02-28,shot,undetermined,,M,,Wellington,NV,False,undetermined,,False,-119.394,38.767,True
+7836,Marcelo Alfredo Suarez,2022-02-27,shot,gun,24,M,,Houston,TX,False,attack,Foot,False,-95.286,29.848,True
+7815,,2022-02-28,shot,undetermined,,M,,Wellington,NV,False,undetermined,,True,-119.394,38.767,True
 7835,Kourtney Sherwood,2022-02-28,shot,undetermined,37,F,,Topsham,ME,False,undetermined,,False,-70.0,43.957,True
 7785,Thomas Siderio,2022-03-01,shot,gun,12,M,,Philadelphia,PA,False,other,Foot,False,,,True
 7811,Luke Stash,2022-03-01,shot,gun,33,M,,South Connellsville,PA,False,attack,Not fleeing,False,-79.586,39.991,True
 7814,Darian Q. Bryant,2022-03-01,shot,gun,26,M,,Jacksonville,FL,False,attack,Foot,False,-81.752,30.306,True
 7813,Crasteven Wilson,2022-03-02,shot,gun,23,M,,Oklahoma City,OK,False,attack,Foot,True,-97.49,35.444,True
 7821,Alberto Riascos,2022-03-02,shot,gun,18,M,,Houston,TX,False,attack,,False,-95.517,29.738,True
-7824,Kevin Steinhauer,2022-03-02,shot,gun,45,M,,Collinsville,IL,False,attack,Not fleeing,False,-90.028,38.662,True
+7824,Kevin C. Steinhauer,2022-03-02,shot,gun,45,M,,Collinsville,IL,False,attack,Not fleeing,False,-90.028,38.662,True
 7784,Jamarian Marquis McGhee,2022-03-03,shot,vehicle,29,M,,Araphoe County,CO,False,attack,,False,,,True
 7796,Yan Li,2022-03-03,shot,knife,47,F,,San Diego,CA,True,attack,Not fleeing,True,-117.167,32.721,True
 7797,Juan Herrera,2022-03-03,shot,undetermined,14,M,,Midland,TX,False,undetermined,,False,-102.171,32.046,True
