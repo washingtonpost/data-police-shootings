@@ -7165,7 +7165,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7782,Jerry Lott,2022-03-06,shot,undetermined,33,M,,Peoria,AZ,False,other,Car,True,-112.28,33.667,True
 7805,,2022-03-07,shot,gun,,,,Jasper,TN,False,attack,Car,False,-85.634,35.055,True
 7806,James Gregory,2022-03-07,shot,gun,39,M,,Colorado Springs,CO,False,attack,Foot,False,-104.777,38.839,True
-7804,Antwon Leonard Cooper,2022-03-08,shot,undetermined,34,M,B,Miami,FL,False,undetermined,,True,-80.213,25.84,True
+7804,Antwon Leonard Cooper,2022-03-08,shot,undetermined,34,M,B,Miami,FL,False,attack,,True,-80.213,25.84,True
 7810,Anthony Felix,2022-03-08,shot,gun,40,M,,Joplin,MO,False,attack,Other,False,-94.494,37.081,True
 7798,Gabriel Scott Rau,2022-03-09,shot,knife,35,M,W,Acworth,GA,False,other,Not fleeing,False,-84.634,34.065,True
 7799,Robert Charles Raymond,2022-03-09,shot,gun,47,M,W,Brown City,MI,False,attack,Not fleeing,False,-83.017,43.168,True
