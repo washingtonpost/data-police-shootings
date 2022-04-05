@@ -7193,8 +7193,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7830,,2022-03-16,shot,gun,,M,,Seattle,WA,False,attack,Car,True,-122.288,47.552,True
 7818,James Emery,2022-03-17,shot,gun,21,M,,Bonne Terre,MO,False,attack,Not fleeing,False,-90.538,37.922,True
 7827,,2022-03-17,shot,gun,,M,,Lehigh Acres,FL,False,attack,,False,-81.714,26.582,True
-7863,Greg Eugene Davis,2022-03-17,shot,vehicle,52,M,,Lake Mead,NV,False,other,,False,-115.026,36.196,True
-7826,,2022-03-18,shot,knife,,F,,Loudoun County,VA,False,other,Not fleeing,False,-77.387,39.051,True
+7863,Greg Eugene Davis,2022-03-17,shot,vehicle,52,M,,Lake Mead,NV,False,attack,,False,-115.026,36.196,True
+7826,Faubricia Virtaux Gainer,2022-03-18,shot,knife,36,F,,Sterling,VA,False,other,Not fleeing,False,-77.387,39.051,True
 7853,Riley W. Stephens,2022-03-18,shot,knife,,M,,Louisville,KY,False,other,Foot,False,-85.731,38.239,True
 7854,Billy Mitchell,2022-03-18,shot,knife,31,M,,Hutchinson County,TX,False,attack,Not fleeing,False,-101.418,35.734,True
 7832,Rodney Robinson,2022-03-19,shot,undetermined,21,M,,Dewey Beach,DE,False,other,Foot,False,-75.075,38.696,True
@@ -7202,14 +7202,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7851,Collin Neztsosie,2022-03-19,shot,unarmed,33,M,,Albuquerque,NM,False,other,Not fleeing,False,-106.498,35.068,True
 7852,Richard Schaare,2022-03-19,shot,gun,74,M,,Peoria,AZ,False,attack,Not fleeing,True,-112.251,33.849,True
 7855,,2022-03-19,shot,gun,,M,,Hanson County,SD,False,attack,,False,-97.716,43.159,True
-7856,,2022-03-19,shot,gun,,,,Great Falls,MT,False,other,Not fleeing,False,-111.283,47.497,True
+7856,Travis Don Sipes,2022-03-19,shot,gun,34,M,,Great Falls,MT,False,other,Not fleeing,False,-111.283,47.497,True
 7842,Nicholas Conklin,2022-03-20,shot,gun,33,M,,Kalamazoo,MI,False,attack,Foot,False,-85.59,42.282,True
 7857,Michael D. Olson,2022-03-21,shot,gun,30,M,,Texarkana,AR,False,attack,,False,-94.03,33.419,True
-7860,Jessica Schoverling,2022-03-21,shot,gun,43,F,,Tellico Plains,TN,False,attack,Not fleeing,False,-84.34,35.372,True
+7860,Jessica Amber Schoverling,2022-03-21,shot,gun,43,F,,Tellico Plains,TN,False,attack,Not fleeing,False,-84.34,35.372,True
 7861,,2022-03-21,shot,gun,,M,,Gillette,WY,False,attack,,False,-105.498,44.295,True
 7864,,2022-03-22,shot,gun,,M,,Discovery Bay,CA,False,other,,False,-121.622,37.931,True
-7866,,2022-03-22,shot,gun,,M,,Chandler,AZ,False,other,Other,False,-111.829,33.308,True
-7865,Charles Henry Calhoun,2022-03-23,shot,gun,68,M,,Clayton County,GA,False,other,,False,-84.366,33.508,True
+7866,Alberto Noriega,2022-03-22,shot,Airsoft pistol,27,M,,Chandler,AZ,False,other,Car,False,-111.829,33.308,True
+7865,Charles Henry Calhoun,2022-03-23,shot,gun,68,M,,Clayton County,GA,False,attack,,False,-84.366,33.508,True
 7867,Felix Catarino,2022-03-23,shot,metal pipe,52,M,,Commerce,GA,False,other,Not fleeing,False,-83.385,34.271,True
 7868,Zy'shonne Johnson,2022-03-24,shot,gun,23,M,,Broward County,FL,False,other,Other,False,-80.178,26.121,True
 7872,Miguel Estrella,2022-03-25,shot,knife,22,M,,Pittsfield,MA,True,other,Not fleeing,False,-73.263,42.461,True
