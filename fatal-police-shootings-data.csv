@@ -7223,8 +7223,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7876,Lawrence Knudsen,2022-03-27,shot,gun,56,M,,Maricopa,AZ,False,other,,False,-111.996,33.073,True
 7878,David Luis Aguilera,2022-03-27,shot,undetermined,35,M,,Chaves County,NM,False,attack,Foot,False,-104.422,32.979,True
 7879,Michael Allensworth,2022-03-28,shot,gun,41,M,,Las Vegas,NV,False,attack,,False,-115.1,36.149,True
-7881,,2022-03-29,shot,vehicle,,F,,Greenwood,IN,False,attack,Car,True,-86.103,39.611,True
-7882,,2022-03-29,shot,undetermined,,M,,Tucson,AZ,False,undetermined,,False,-110.809,32.216,True
+7881,Monica Vaught,2022-03-29,shot,vehicle,49,F,,Greenwood,IN,False,attack,Car,True,-86.103,39.611,True
+7882,Eric Putnam,2022-03-29,shot,gun,27,M,,Tucson,AZ,False,attack,,False,-110.809,32.216,True
 7883,Joseph Roy,2022-03-29,shot,sharp object,24,M,,Fresno,CA,False,attack,Not fleeing,False,-119.788,36.738,True
 7884,Vance Brown,2022-03-29,shot,gun,35,M,,Mifflin Township,PA,False,attack,Not fleeing,False,-76.308,41.028,True
 7888,Anthony Nunez,2022-03-29,shot,gun,42,M,,Hesperia,CA,False,other,Not fleeing,False,-117.323,34.413,True
