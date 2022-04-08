@@ -7228,12 +7228,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7883,Joseph Roy,2022-03-29,shot,sharp object,24,M,,Fresno,CA,False,attack,Not fleeing,False,-119.788,36.738,True
 7884,Vance Brown,2022-03-29,shot,gun,35,M,,Mifflin Township,PA,False,attack,Not fleeing,False,-76.308,41.028,True
 7888,Anthony Nunez,2022-03-29,shot,gun,42,M,,Hesperia,CA,False,other,Not fleeing,False,-117.323,34.413,True
-7886,Samantha L. Edgmond,2022-03-30,shot,metal pipe,35,M,,Atkins,AR,False,other,Not fleeing,False,-92.964,35.243,True
-7885,,2022-03-31,shot,gun,53,M,,Miami-Dade County,FL,False,other,Not fleeing,False,-80.231,25.89,True
-7887,,2022-03-31,shot,undetermined,36,M,,Columbia Township,MI,False,undetermined,,False,-84.29,42.1,True
+7886,Samantha L. Edgmond,2022-03-30,shot,metal pipe,35,F,,Atkins,AR,False,other,Not fleeing,False,-92.964,35.243,True
+7885,Hector Miguel Portuondo,2022-03-31,shot,gun,53,M,,Miami-Dade County,FL,False,other,Not fleeing,False,-80.231,25.89,True
+7887,Erik Poul Moller Nielsen,2022-03-31,shot,undetermined,36,M,,Columbia Township,MI,False,undetermined,,False,-84.29,42.1,True
 7899,Michael Norton Stockton,2022-03-31,shot,gun,39,M,,Scappoose,OR,False,attack,,False,-122.88,45.768,True
 7901,,2022-03-31,shot,knife,,M,,Sioux Falls,SD,False,other,,False,-96.752,43.552,True
-7892,James Sheets,2022-04-01,shot,gun,35,M,,Youngstown,OH,False,other,Car,True,,,True
+7892,James Sheets,2022-04-01,shot,gun and vehicle,35,M,W,Youngstown,OH,False,other,Car,True,,,True
 7902,Jimmy Ray Whiteside,2022-04-01,shot,machete and hammer,63,M,,Spartanburg County,SC,False,other,,False,-81.978,34.92,True
 7889,,2022-04-02,shot,gun,,M,,Oklahoma City,OK,False,attack,Car,False,-97.274,35.629,True
 7895,Jerry Raleigh Livingston,2022-04-02,shot,vehicle,39,M,,Charleston,TN,False,other,,False,-84.749,35.287,True
