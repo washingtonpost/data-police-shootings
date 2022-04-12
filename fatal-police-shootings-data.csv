@@ -7209,7 +7209,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7861,,2022-03-21,shot,gun,,M,,Gillette,WY,False,attack,,False,-105.498,44.295,True
 7864,,2022-03-22,shot,gun,,M,,Discovery Bay,CA,False,other,,False,-121.622,37.931,True
 7866,Alberto Noriega,2022-03-22,shot,Airsoft pistol,27,M,,Chandler,AZ,False,other,Car,False,-111.829,33.308,True
-7865,Charles Henry Calhoun,2022-03-23,shot,gun,68,M,,Clayton County,GA,False,attack,,False,-84.366,33.508,True
+7865,Charles Henry Calhoun,2022-03-23,shot,gun,68,M,,Clayton County,GA,False,attack,,True,-84.366,33.508,True
 7867,Felix Catarino,2022-03-23,shot,metal pipe,52,M,,Commerce,GA,False,other,Not fleeing,False,-83.385,34.271,True
 7868,Zy'shonne Johnson,2022-03-24,shot,gun,23,M,,Broward County,FL,False,other,Other,False,-80.178,26.121,True
 7872,Miguel Estrella,2022-03-25,shot,knife,22,M,,Pittsfield,MA,True,other,Not fleeing,False,-73.263,42.461,True
@@ -7239,9 +7239,9 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7895,Jerry Raleigh Livingston,2022-04-02,shot,vehicle,39,M,,Charleston,TN,False,other,,False,-84.749,35.287,True
 7897,James Allen Miller,2022-04-02,shot,knife,31,M,,Savannah,GA,False,other,Not fleeing,False,-81.141,31.964,True
 7893,Christopher Hutson,2022-04-03,shot,gun,34,M,,Newport,TN,False,other,Foot,False,-83.195,35.955,True
-7896,Ketura Wilson,2022-04-03,shot,gun,21,M,,Oak Forest,IL,True,attack,Foot,False,-87.756,41.603,True
-7890,Patrick Lyoya,2022-04-04,shot,unarmed,26,M,,Grand Rapids,MI,False,attack,Other,False,-85.638,42.927,True
+7896,Ketura Wilson,2022-04-03,shot,gun,21,F,,Oak Forest,IL,True,attack,Foot,False,-87.756,41.603,True
+7890,Patrick Lyoya,2022-04-04,shot,unarmed,26,M,,Grand Rapids,MI,False,attack,Other,True,-85.638,42.927,True
 7894,,2022-04-04,shot,vehicle,,M,,Jurupa Valley,CA,False,attack,Car,False,-117.506,33.975,True
 7891,Joseph Miller,2022-04-05,shot,gun,37,M,,Laketon Township,MI,False,attack,Not fleeing,False,-86.373,43.297,True
 7900,Rance Tillman,2022-04-05,shot,gun,31,M,,Cheyenne,WY,False,attack,Car,False,-104.767,41.163,True
-7903,,2022-04-05,shot,gun,67,M,,Swan Quarter,NC,False,other,Not fleeing,False,-76.316,35.423,True
+7903,Willie Blount,2022-04-05,shot,gun,67,M,,Swan Quarter,NC,False,attack,Not fleeing,False,-76.316,35.423,True
