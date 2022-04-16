@@ -7229,19 +7229,45 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7884,Vance Brown,2022-03-29,shot,gun,35,M,,Mifflin Township,PA,False,attack,Not fleeing,False,-76.308,41.028,True
 7888,Anthony Nunez,2022-03-29,shot,gun,42,M,,Hesperia,CA,False,other,Not fleeing,False,-117.323,34.413,True
 7886,Samantha L. Edgmond,2022-03-30,shot,metal pipe,35,F,,Atkins,AR,False,other,Not fleeing,False,-92.964,35.243,True
+7917,Andrew Farnham,2022-03-30,shot,toy weapon,60,M,,San Diego,CA,False,attack,Not fleeing,True,-117.047,32.796,True
 7885,Hector Miguel Portuondo,2022-03-31,shot,gun,53,M,,Miami-Dade County,FL,False,other,Not fleeing,False,-80.231,25.89,True
 7887,Erik Poul Moller Nielsen,2022-03-31,shot,undetermined,36,M,,Columbia Township,MI,False,undetermined,,False,-84.29,42.1,True
 7899,Michael Norton Stockton,2022-03-31,shot,gun,39,M,,Scappoose,OR,False,attack,,False,-122.88,45.768,True
 7901,,2022-03-31,shot,knife,,M,,Sioux Falls,SD,False,other,,False,-96.752,43.552,True
 7892,James Sheets,2022-04-01,shot,gun and vehicle,35,M,W,Youngstown,OH,False,other,Car,True,,,True
 7902,Jimmy Ray Whiteside,2022-04-01,shot,machete and hammer,63,M,,Spartanburg County,SC,False,other,,False,-81.978,34.92,True
+7928,Taylor John Crabb,2022-04-01,shot,gun and vehicle,37,M,,Albuquerque,NM,False,attack,Car,False,-106.67,35.051,True
 7889,,2022-04-02,shot,gun,,M,,Oklahoma City,OK,False,attack,Car,False,-97.274,35.629,True
 7895,Jerry Raleigh Livingston,2022-04-02,shot,vehicle,39,M,,Charleston,TN,False,other,,False,-84.749,35.287,True
 7897,James Allen Miller,2022-04-02,shot,knife,31,M,,Savannah,GA,False,other,Not fleeing,False,-81.141,31.964,True
 7893,Christopher Hutson,2022-04-03,shot,gun,34,M,,Newport,TN,False,other,Foot,False,-83.195,35.955,True
 7896,Ketura Wilson,2022-04-03,shot,gun,21,F,,Oak Forest,IL,True,attack,Foot,False,-87.756,41.603,True
-7890,Patrick Lyoya,2022-04-04,shot,unarmed,26,M,,Grand Rapids,MI,False,attack,Other,True,-85.638,42.927,True
+7925,Joshua Seth King,2022-04-03,shot,gun,32,M,,Tucson,AZ,False,attack,Foot,False,-110.864,32.222,True
+7890,Patrick Lyoya,2022-04-04,shot,unarmed,26,M,B,Grand Rapids,MI,False,attack,Foot,True,-85.638,42.927,True
 7894,,2022-04-04,shot,vehicle,,M,,Jurupa Valley,CA,False,attack,Car,False,-117.506,33.975,True
+7907,Ralph Jones,2022-04-04,shot,gun,54,M,,St. Louis,MO,False,attack,,False,-90.241,38.716,True
+7927,,2022-04-04,shot,vehicle,,M,,Mira Loma,CA,False,attack,Car,False,-117.506,33.975,True
 7891,Joseph Miller,2022-04-05,shot,gun,37,M,,Laketon Township,MI,False,attack,Not fleeing,False,-86.373,43.297,True
 7900,Rance Tillman,2022-04-05,shot,gun,31,M,,Cheyenne,WY,False,attack,Car,False,-104.767,41.163,True
 7903,Willie Blount,2022-04-05,shot,gun,67,M,,Swan Quarter,NC,False,attack,Not fleeing,False,-76.316,35.423,True
+7906,,2022-04-05,shot,gun,,,,Madison County,TN,False,attack,Foot,False,-88.626,35.74,True
+7904,Demarco Mauge,2022-04-06,shot,gun,20,M,,Cobb County,GA,False,other,Not fleeing,False,-84.573,34.035,True
+7923,,2022-04-06,shot,knife,,M,,Panorama City,CA,False,other,,False,-118.452,34.228,True
+7908,Christopher A. Miller,2022-04-07,shot,gun,37,M,,Bridgewater,VA,False,attack,Car,False,-79.034,38.399,True
+7918,Robert L. Wright,2022-04-07,shot,undetermined,34,M,,Aiken,SC,False,other,Car,False,-81.72,33.56,True
+7920,,2022-04-07,shot,gun,,M,W,Fontana,CA,False,attack,Foot,False,-117.475,34.15,True
+7921,Gary L. McMillan,2022-04-07,shot,gun,74,M,,Doddridge County,WV,False,attack,Not fleeing,False,-80.677,39.237,True
+7922,James Wesley Morrison,2022-04-07,shot,gun,49,M,,Norman,OK,False,attack,Car,False,-97.353,35.182,True
+7919,Dustin Levell Saffell,2022-04-08,shot,gun,32,M,,Benton Harbor,MI,False,attack,Not fleeing,True,-86.442,42.116,True
+7924,,2022-04-08,shot,gun,,M,,Taylor,MI,False,attack,Not fleeing,False,-83.301,42.196,True
+7911,Charlie Thompson,2022-04-09,shot,gun,21,M,,Farmington,NM,False,attack,Foot,False,-108.187,36.747,True
+7912,Christopher Coppola,2022-04-09,shot,gun,43,M,,Derry,NH,False,other,,False,-71.325,42.907,True
+7913,,2022-04-09,shot,undetermined,,M,,Covina,CA,False,undetermined,,False,-117.89,34.107,True
+7926,David Paul Dixon,2022-04-10,shot,sharp object,36,M,,Savannah,GA,False,attack,,False,-81.089,32.08,True
+7909,Ali Coulter,2022-04-11,shot,gun,20,M,B,Covington,KY,False,other,Not fleeing,True,-84.502,39.07,True
+7914,Tayler Shannon Osborne,2022-04-11,shot,unarmed,28,M,,Salem,OR,False,attack,,False,-123.017,44.943,True
+7915,,2022-04-11,shot,gun,,M,,Manitou Springs,CO,False,attack,,False,-104.917,38.858,True
+7916,Dwayne Jackson,2022-04-11,shot,gun,,M,,Tulsa,OK,False,attack,Not fleeing,False,-95.904,36.05,True
+7931,,2022-04-12,shot,sharp object,,M,,Edison,NJ,False,undetermined,,False,-74.331,40.548,True
+7929,Trevan Bonner,2022-04-13,shot,gun,18,M,,Lafayette,LA,False,attack,,False,-92.032,30.25,True
+7930,Timmy Lee Thurman,2022-04-14,shot,gun,,M,,Bristol,TN,False,attack,Car,False,-82.213,36.588,True
