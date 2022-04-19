@@ -7266,8 +7266,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7926,David Paul Dixon,2022-04-10,shot,sharp object,36,M,,Savannah,GA,False,attack,,False,-81.089,32.08,True
 7909,Ali Coulter,2022-04-11,shot,gun,20,M,B,Covington,KY,False,other,Not fleeing,True,-84.502,39.07,True
 7914,Tayler Shannon Osborne,2022-04-11,shot,unarmed,28,M,,Salem,OR,False,attack,,False,-123.017,44.943,True
-7915,,2022-04-11,shot,gun,,M,,Manitou Springs,CO,False,attack,,False,-104.917,38.858,True
+7915,Wilford Robert DeWeese,2022-04-11,shot,gun,67,M,,Manitou Springs,CO,False,attack,,False,-104.917,38.858,True
 7916,Dwayne Jackson,2022-04-11,shot,gun,,M,,Tulsa,OK,False,attack,Not fleeing,False,-95.904,36.05,True
 7931,,2022-04-12,shot,sharp object,,M,,Edison,NJ,False,undetermined,,False,-74.331,40.548,True
 7929,Trevan Bonner,2022-04-13,shot,gun,18,M,,Lafayette,LA,False,attack,,False,-92.032,30.25,True
 7930,Timmy Lee Thurman,2022-04-14,shot,gun,,M,,Bristol,TN,False,attack,Car,False,-82.213,36.588,True
+7932,Paul Derrick Moss,2022-04-14,shot,undetermined,51,M,,Knox County,TN,False,other,Car,False,-84.097,36.054,True
+7933,Kenneth Brian Turner,2022-04-14,shot,undetermined,37,M,,Darlington County,SC,False,undetermined,,False,-79.84,34.28,True
+7934,Anthony Hood-Schaffner,2022-04-14,shot,gun,28,M,,Glendale,AZ,False,attack,Foot,False,-112.186,33.599,True
+7935,,2022-04-14,shot,gun,,M,,Los Angeles,CA,False,other,Other,False,-118.253,34.113,True
+7936,Aerie Sadler,2022-04-14,shot,undetermined,25,M,,Larimer County,CO,False,undetermined,,False,-105.117,40.504,True
+7940,Alonzo Nesby,2022-04-14,shot,undetermined,60,M,,Huber Heights,OH,False,undetermined,,False,-84.138,39.867,True
+7939,Andrea C. Barrow,2022-04-15,shot,gun,32,F,,Crowley County,KS,False,other,,False,-96.921,37.266,True
+7937,,2022-04-16,shot,undetermined,,M,,Princeton,WV,False,attack,,False,-81.09,37.371,True
+7938,,2022-04-16,shot,knife,,M,,Atlanta,GA,False,attack,Not fleeing,False,-84.463,33.723,True
+7941,,2022-04-16,shot,undetermined,,,,Prewitt,NM,False,attack,,False,-108.052,35.363,True
+7943,Amelia Vaca,2022-04-16,shot,knife,75,F,,Las Cruces,NM,False,other,,False,-106.773,32.319,True
+7942,Guy Walker,2022-04-18,shot,bow and arrow,,M,,Vinita,OK,False,other,,False,-95.162,36.628,True
