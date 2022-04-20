@@ -7275,11 +7275,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7933,Kenneth Brian Turner,2022-04-14,shot,undetermined,37,M,,Darlington County,SC,False,undetermined,,False,-79.84,34.28,True
 7934,Anthony Hood-Schaffner,2022-04-14,shot,gun,28,M,,Glendale,AZ,False,attack,Foot,False,-112.186,33.599,True
 7935,,2022-04-14,shot,gun,,M,,Los Angeles,CA,False,other,Other,False,-118.253,34.113,True
-7936,Aerie Sadler,2022-04-14,shot,undetermined,25,M,,Larimer County,CO,False,undetermined,,False,-105.117,40.504,True
+7936,Aerie Sadler,2022-04-14,shot,undetermined,25,,,Larimer County,CO,False,undetermined,,False,-105.117,40.504,True
 7940,Alonzo Nesby,2022-04-14,shot,undetermined,60,M,,Huber Heights,OH,False,undetermined,,False,-84.138,39.867,True
 7939,Andrea C. Barrow,2022-04-15,shot,gun,32,F,,Crowley County,KS,False,other,,False,-96.921,37.266,True
-7937,,2022-04-16,shot,undetermined,,M,,Princeton,WV,False,attack,,False,-81.09,37.371,True
+7937,Barry Yearout,2022-04-16,shot,undetermined,43,M,,Princeton,WV,False,attack,,False,-81.09,37.371,True
 7938,,2022-04-16,shot,knife,,M,,Atlanta,GA,False,attack,Not fleeing,False,-84.463,33.723,True
 7941,,2022-04-16,shot,undetermined,,,,Prewitt,NM,False,attack,,False,-108.052,35.363,True
-7943,Amelia Vaca,2022-04-16,shot,knife,75,F,,Las Cruces,NM,False,other,,False,-106.773,32.319,True
+7943,Amelia Baca,2022-04-16,shot,knife,75,F,,Las Cruces,NM,True,other,,False,-106.773,32.319,True
 7942,Guy Walker,2022-04-18,shot,bow and arrow,,M,,Vinita,OK,False,other,,False,-95.162,36.628,True
+7947,Larry Marquail Mixon,2022-04-18,shot,gun,,,,Conroe,TX,False,attack,,False,-95.451,30.315,True
+7945,Ronald Charles Trapp,2022-04-19,shot,vehicle,34,M,,Linda,CA,False,attack,,False,-121.547,39.135,True
+7946,,2022-04-19,shot,gun,,M,,Pasadena,TX,False,attack,,False,-95.196,29.664,True
+7949,Chris Honea,2022-04-19,shot,undetermined,26,M,,Gordon County,GA,False,other,Car,False,-83.745,32.672,True
+7944,,2022-04-20,shot,gun,,M,H,Bakersfield,CA,False,attack,Other,False,-119.02,35.324,True
+7950,,2022-04-20,shot,stake,,M,,Washington,DC,False,other,,False,-77.061,38.955,True
+7951,,2022-04-20,shot,undetermined,,M,,Chisholm,MN,False,undetermined,,False,-92.878,47.491,True
