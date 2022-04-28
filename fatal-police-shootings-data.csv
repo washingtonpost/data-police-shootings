@@ -7045,6 +7045,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7848,Bradley James Ellison,2022-01-24,shot,gun,48,M,,Priceville,AL,False,attack,,False,-86.876,34.521,True
 7655,Ronnie D. Walker,2022-01-25,shot,,58,M,W,Madison County,MO,False,attack,Not fleeing,False,,,True
 7656,Derick Rock,2022-01-25,shot,gun,30,M,,Aragon,GA,True,attack,Not fleeing,False,,,True
+7992,Floyd Michael Woody,2022-01-25,shot,undetermined,68,M,,Dandridge,TN,False,other,Car,False,-83.399,36.007,True
 7654,,2022-01-26,shot,gun,,M,,Ferguson,MO,False,attack,Foot,False,,,True
 7657,John Hunt,2022-01-26,shot,gun,20,M,,Cordova,TN,False,attack,Car,False,,,True
 7844,Wesley Chance,2022-01-26,shot,gun,32,M,,Portland,OR,False,other,Foot,False,-122.562,45.543,True
@@ -7066,10 +7067,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7713,,2022-02-04,shot,gun,,M,,Tulsa,OK,False,other,Foot,False,,,True
 7858,Nicholas Rodin,2022-02-04,shot,undetermined,,M,,Pineville,OR,True,undetermined,,False,-120.826,44.204,True
 7700,Michael Shane Carver,2022-02-05,shot,vehicle,38,M,,Lincoln County,NC,False,attack,Car,False,,,True
+7990,Andrew John,2022-02-05,shot,gun,34,M,,Aniak,AK,False,attack,Not fleeing,False,-159.541,61.583,True
 7691,Robert Junior Langley,2022-02-06,shot,undetermined,46,M,B,Georgetown County,SC,False,other,Car,False,,,True
 7697,Jason D. Ickler,2022-02-06,shot,vehicle,38,M,W,Topeka,KS,False,attack,Car,False,,,True
 7698,Richard Allen Meyers,2022-02-06,shot,undetermined,40,M,,Salem,OR,True,other,Car,False,,,True
 7699,Troy Allen Bain,2022-02-06,shot,gun,58,M,,Willis,VA,False,other,,False,,,True
+7989,,2022-02-06,shot,gun,,M,,Powell County,KY,False,attack,Not fleeing,False,-83.811,37.811,True
 7690,Charion Lockett,2022-02-07,shot,gun,27,M,,Houston,TX,False,attack,,True,,,True
 7695,James David Fanning,2022-02-07,shot,gun,49,M,,Greenville,TX,False,attack,,False,,,True
 7696,Anthony Parker,2022-02-07,shot,gun,48,M,,Marana,AZ,False,other,Not fleeing,False,,,True
@@ -7085,6 +7088,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7742,Makari Smith,2022-02-09,shot,gun,23,M,B,Stovall,NC,True,attack,Foot,False,,,True
 7743,Jayden J. Prunty,2022-02-09,shot,gun,22,M,,Jonesboro,AR,False,attack,,False,,,True
 7744,Richard Malone,2022-02-09,shot,vehicle,41,M,,Lake Charles,LA,False,attack,Car,False,,,True
+7987,Aian Thomas Tracy,2022-02-10,shot,hatchet,32,M,,Ellis Township,MI,False,attack,,False,-84.538,45.33,True
+7988,Austin Tice,2022-02-10,shot,knife,23,M,,Lake Forest,CA,False,other,Not fleeing,True,-117.696,33.657,True
 7734,Dustin Booth,2022-02-11,shot,gun,35,M,,Monroe,OH,True,other,,False,,,True
 7735,,2022-02-11,shot,undetermined,,M,,Puyallup,WA,False,undetermined,,False,,,True
 7726,James Huber,2022-02-12,shot,vehicle,38,M,,Buffalo,NY,False,attack,Car,True,,,True
@@ -7320,7 +7325,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7961,Rhett Thibodeaux,2022-04-24,shot,vehicle,26,M,,Assumption Parish,LA,False,attack,Car,False,-90.954,29.816,True
 7954,,2022-04-25,shot,gun,,M,,Cleveland,TX,False,other,Other,False,-95.094,30.347,True
 7956,Ernesto Drew Pena,2022-04-25,shot,gun,26,M,,Amarillo,TX,False,other,,False,-101.793,35.226,True
-7957,,2022-04-25,shot,gun,,M,,Somerset County,MD,False,attack,Foot,False,-75.69,38.161,True
+7957,William Brink,2022-04-25,shot,gun,24,M,,Somerset County,MD,False,attack,Foot,False,-75.69,38.161,True
 7958,Micaiah Clinton,2022-04-25,shot,gun,27,F,,Aurora,OR,False,attack,,False,-122.761,45.233,True
 7955,Frank Robles,2022-04-26,shot,knife,53,M,,Roseville,MI,False,other,,False,-82.952,42.517,True
 7965,,2022-04-26,shot,unknown weapon,,,,Evans,CO,False,other,,False,-104.748,40.378,True
