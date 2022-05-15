@@ -7345,16 +7345,24 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8008,Samuel Ed Farnam,2022-05-02,shot,gun,44,M,,Ozark,AL,False,other,Car,False,-85.644,31.44,True
 8009,Kenneth Sykes,2022-05-03,shot,knife,47,M,,Prichard,AL,False,other,Foot,False,-88.09,30.745,True
 8011,Mekiah D. Harris,2022-05-03,shot,unknown weapon,26,M,,Platte County,MO,False,other,,False,-94.761,39.333,True
+8033,Leron James,2022-05-03,shot,gun,54,M,,Los Angeles,CA,True,attack,Not fleeing,False,-118.249,34.047,True
 8012,Elijah Isham,2022-05-04,shot,gun,27,M,,Moraine,OH,False,attack,Not fleeing,True,-84.229,39.704,True
 8016,Cicero Sanchez,2022-05-04,shot,undetermined,31,M,,Federal Way,WA,False,other,Car,False,-122.316,47.317,True
-8021,Ralph Picarello,2022-05-04,shot,knife,39,M,,Essex,MD,False,other,Not fleeing,False,-76.471,39.318,True
+8021,Ralph Picarello,2022-05-04,shot,knife,39,M,,Essex,MD,False,other,Not fleeing,True,-76.471,39.318,True
 8024,John Alaniz,2022-05-04,shot,undetermined,34,M,,Paramount,CA,True,undetermined,,False,-118.169,33.899,True
 8014,Prince Kingly Gurley,2022-05-05,shot,knife,29,M,,Marion,SC,False,other,Not fleeing,True,-79.391,34.173,True
-8017,,2022-05-05,shot,gun,,M,,Sugar Land,TX,False,attack,Other,False,-95.647,29.622,True
+8017,,2022-05-05,shot,gun,,M,,Sugar Land,TX,False,attack,Foot,False,-95.647,29.622,True
 8022,Larry Chadwick,2022-05-05,shot,gun,68,M,,Albertville,AL,False,other,,False,-86.227,34.289,True
 8019,,2022-05-06,shot,unknown weapon,,M,,Kayenta,AZ,False,other,,False,-110.255,36.728,True
-8025,,2022-05-06,shot,sharp object,,M,,Rosamond,CA,False,attack,,False,-118.195,34.864,True
-8013,,2022-05-07,shot,unknown weapon,25,M,,Hallandale Beach,FL,False,attack,Foot,False,-80.127,25.986,True
-8015,,2022-05-07,shot,incendiary weapon,,M,,Raleigh,NC,False,attack,Not fleeing,False,-78.599,35.746,True
-8023,,2022-05-07,shot,gun,,M,,Wenatchee,WA,False,attack,,False,-120.314,47.424,True
+8025,William Joseph Weiler,2022-05-06,shot,sharp object,53,M,,Rosamond,CA,False,attack,,False,-118.195,34.864,True
+8013,,2022-05-07,shot,unknown weapon,25,M,,Hallandale Beach,FL,False,attack,Foot,True,-80.127,25.986,True
+8015,,2022-05-07,shot,incendiary weapon,,M,,Raleigh,NC,False,attack,Not fleeing,True,-78.599,35.746,True
+8023,Alexander James White,2022-05-07,shot,gun,36,M,,Wenatchee,WA,False,attack,,False,-120.314,47.424,True
 8018,,2022-05-08,shot,undetermined,,M,,Springdale,AR,False,attack,,False,-94.144,36.159,True
+8032,Luis Torres,2022-05-08,shot,sword,21,M,,Tulsa,OK,False,attack,Not fleeing,False,-95.993,36.154,True
+8027,Felipe De Jesus Herrera,2022-05-10,shot,machete,34,M,,Yuma,AZ,False,other,,False,-114.626,32.713,True
+8028,Rameek Smith,2022-05-10,shot,gun,25,M,,New York,NY,False,attack,Foot,False,-73.895,40.85,True
+8029,Victor Gamez,2022-05-10,shot,gun,26,M,H,Carrollwood,FL,False,other,,False,-82.488,28.061,True
+8030,,2022-05-10,shot,gun,,M,,Romeoville,IL,False,other,,False,-88.123,41.615,True
+8031,Raul Vega Perez,2022-05-10,shot,gun,,M,,Dime Box,TX,False,attack,Foot,False,-96.825,30.357,True
+8026,James Brian Langley,2022-05-11,shot,knife,,M,,Cape Girardeau County,MO,False,other,Car,False,-89.578,37.372,True
