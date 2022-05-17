@@ -3382,7 +3382,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3717,Dustin D. Odom,2018-05-24,shot,unarmed,30,M,W,Citra,FL,False,attack,Foot,True,-82.11,29.412,True
 3737,Brett Luengo,2018-05-24,shot,unarmed,33,M,W,Cleveland,OH,True,attack,Not fleeing,False,-81.68,41.515,True
 3715,Augustine Oliva,2018-05-25,shot,vehicle,29,M,W,Dumas,TX,False,attack,Not fleeing,False,-101.999,36.033,True
-3716,,2018-05-25,shot,knife,,M,,Mountain Home,ID,False,other,Car,False,-115.691,43.133,True
+3716,Jon Jay Lewis,2018-05-25,shot,knife,55,M,,Hammett,ID,False,other,Car,False,-115.466,42.946,True
 3736,Dustin Montano,2018-05-25,shot,knife,31,M,W,Fort Morgan,CO,True,other,Not fleeing,False,-103.773,40.253,True
 3714,Homer Woodroe Tyler,2018-05-26,shot,gun,51,M,W,Silsbee,TX,False,other,Not fleeing,False,-94.178,30.349,True
 3712,Raul Rivera,2018-05-27,shot,knife,42,M,H,San Diego,CA,True,other,Not fleeing,True,-117.084,32.564,True
@@ -7366,3 +7366,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8030,,2022-05-10,shot,gun,,M,,Romeoville,IL,False,other,,False,-88.123,41.615,True
 8031,Raul Vega Perez,2022-05-10,shot,gun,,M,,Dime Box,TX,False,attack,Foot,False,-96.825,30.357,True
 8026,James Brian Langley,2022-05-11,shot,knife,,M,,Cape Girardeau County,MO,False,other,Car,False,-89.578,37.372,True
+8037,,2022-05-13,shot,toy weapon,,M,,New York,NY,False,attack,Not fleeing,False,-73.889,40.819,True
+8038,Romen Phelps,2022-05-13,shot,undetermined,33,M,,West Palm Beach,FL,False,attack,Foot,False,-80.06,26.709,True
+8034,,2022-05-14,shot,knife,,M,,Sallisaw,OK,False,other,,False,-102.004,36.373,True
+8035,Richard Ortiz,2022-05-14,shot,knife,48,M,,Boston,MA,False,attack,,False,-71.066,42.313,True
+8036,Cora Baughman,2022-05-14,shot,gun,66,F,,Windham Township,OH,False,other,,False,-81.085,41.265,True
