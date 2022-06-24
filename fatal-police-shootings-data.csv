@@ -7432,6 +7432,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8093,Datwaun Catchings,2022-05-30,shot,gun,22,M,,Cleveland,OH,False,attack,Other,False,-81.61,41.482,True
 8088,Andy Brock,2022-05-31,shot,gun,46,M,,London,KY,False,other,,False,-84.103,37.047,True
 8089,Victor Torres,2022-05-31,shot,gun,42,M,,Spring Hill,FL,False,attack,Other,True,-82.602,28.442,True
+8178,Michael Angelo Gales,2022-05-31,shot,gun,37,M,,Locust,NC,False,attack,Car,False,-80.431,35.295,True
 8095,,2022-06-01,shot,gun,,M,,Larimer County,CO,False,attack,Car,False,-105.008,40.53,True
 8096,Derrick Glen Avey,2022-06-01,shot,gun,42,M,,Hopewell,VA,False,other,Car,False,-77.326,37.296,True
 8097,Anthony Keith Taylor,2022-06-01,shot,toy weapon,,M,,Sand City,CA,False,undetermined,Car,True,-121.854,36.611,True
@@ -7484,11 +7485,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8153,Derrick D. Clark,2022-06-18,shot,gun,24,M,,Milwaukie,OR,False,other,Car,False,-122.609,45.436,True
 8155,,2022-06-18,shot,gun,,M,,Fresno,CA,False,other,Not fleeing,False,-119.742,36.802,True
 8163,,2022-06-18,shot,undetermined,,,,Sanders,AZ,False,undetermined,,False,-109.331,35.209,True
+8170,William Ivan Cedillos,2022-06-18,shot,gun,,M,,Falfurrias,TX,False,attack,Car,False,-98.14,27.233,True
 8149,Jason T. Thompson,2022-06-19,shot,sharp object,29,M,,Vallejo,CA,False,other,,False,-122.253,38.098,True
 8150,,2022-06-19,shot,gun,,M,,Los Angeles,CA,False,attack,,True,-118.432,34.259,True
 8151,Roy Sink,2022-06-19,shot,unknown weapon,48,M,N,Anadarko,OK,False,other,,False,-98.244,35.073,True
 8152,Adnan Husejnovic,2022-06-19,shot,unknown weapon,33,M,,Manchester,NH,False,other,,True,-71.433,42.982,True
 8154,Frank Baty,2022-06-19,shot,toy weapon,58,M,,Albuquerque,NM,True,other,Not fleeing,False,-106.649,35.085,True
+8171,Jason Neal Puckett,2022-06-19,shot,gun,38,M,,Coeburn,VA,False,attack,,False,-82.452,37.081,True
+8167,,2022-06-20,shot,gun,,M,,Ponca City,OK,False,other,Other,False,-97.067,36.726,True
+8168,Amos Lane,2022-06-20,shot,gun,57,M,,Fairbanks,AK,False,other,Car,False,-147.714,64.826,True
+8164,Antonio Beekman,2022-06-21,shot,gun,41,M,,Norfolk,VA,False,attack,,False,-76.302,36.892,True
+8165,,2022-06-21,shot,gun,,M,,Smith County,TX,False,other,,False,-95.378,32.507,True
+8169,,2022-06-21,shot,undetermined,,M,,Fontana,CA,False,undetermined,,False,-117.436,34.108,True
+8172,,2022-06-21,shot,gun,,,,Lima,OH,False,attack,Other,False,-84.105,40.743,True
+8173,Peter Pfister,2022-06-21,shot,undetermined,27,M,,Blue Hill,ME,False,undetermined,,False,-68.512,44.416,True
 8174,,2022-06-22,shot,gun,,M,,San Jose,CA,False,attack,,False,-121.805,37.262,True
 8175,Jason Dodds,2022-06-22,shot,gun,42,M,,Albion,MI,True,other,Foot,True,-84.756,42.25,True
 8176,Keith Carrol,2022-06-23,shot,gun,59,M,,Jackson Township,PA,True,other,,False,-75.365,41.002,True
