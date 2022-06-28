@@ -7466,7 +7466,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8128,Daniel Raymond Honeycutt,2022-06-10,shot,gun,38,M,,Elizabethton,TN,False,other,Not fleeing,False,-82.155,36.335,True
 8126,Cesar Anthony Pena,2022-06-11,shot,gun,41,M,,Mableton,GA,False,attack,,False,-84.592,33.84,True
 8127,Jonathan Hamilton,2022-06-11,shot,knife,,M,,Springville,UT,False,other,,False,-111.645,40.158,True
-8123,,2022-06-12,shot,knife,,M,,Austin,TX,False,other,Not fleeing,True,-97.712,30.321,True
+8123,Carlos Eli Chacon-Castillo,2022-06-12,shot,knife,42,M,,Austin,TX,False,other,Not fleeing,True,-97.712,30.321,True
 8135,Jerome Lavon Connelly,2022-06-12,shot,gun,35,M,B,Caldwell County,NC,False,attack,,False,-81.53,35.933,True
 8124,Viet Do Nguyen,2022-06-13,shot,gun,27,M,,Kent,WA,False,other,,False,-122.301,47.374,True
 8132,Normiez Reeves,2022-06-13,shot,vehicle,35,M,,Holly Springs,GA,False,other,Car,False,-84.504,34.186,True
@@ -7482,7 +7482,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8142,Christian Robert Jensen,2022-06-16,shot,undetermined,54,M,,Cleveland,TN,False,undetermined,,False,-84.89,35.129,True
 8145,Matthew Brevosky,2022-06-16,shot,gun,38,M,,Lewis County,WV,False,attack,,False,-80.519,38.961,True
 8146,Joseph Maverick Nagle,2022-06-16,shot,unarmed,22,M,,Monterey Township,MI,False,attack,,False,-85.83,42.675,True
-8153,Derrick D. Clark,2022-06-18,shot,gun,24,M,,Milwaukie,OR,False,other,Car,False,-122.609,45.436,True
+8153,Derrick D. Clark,2022-06-18,shot,gun,24,M,B,Milwaukie,OR,False,other,Car,False,-122.609,45.436,True
 8155,Gonzalo Aceituno,2022-06-18,shot,gun,30,M,,Fresno,CA,False,other,Not fleeing,False,-119.742,36.802,True
 8163,,2022-06-18,shot,undetermined,,,,Sanders,AZ,False,undetermined,,False,-109.331,35.209,True
 8170,William Ivan Cedillos,2022-06-18,shot,gun,,M,,Falfurrias,TX,False,attack,Car,False,-98.14,27.233,True
@@ -7495,11 +7495,21 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8167,,2022-06-20,shot,gun,,M,,Ponca City,OK,False,other,Other,False,-97.067,36.726,True
 8168,Amos Lane,2022-06-20,shot,gun,57,M,,Fairbanks,AK,False,other,Car,False,-147.714,64.826,True
 8164,Antonio Beekman,2022-06-21,shot,gun,41,M,,Norfolk,VA,False,attack,,False,-76.302,36.892,True
-8165,,2022-06-21,shot,gun,,M,,Smith County,TX,False,other,,False,-95.378,32.507,True
+8165,Taylor Ray Stevenson,2022-06-21,shot,gun,25,M,,Smith County,TX,True,other,,False,-95.378,32.507,True
+8166,,2022-06-21,shot,unarmed,,D,,Adelanto,CA,False,other,Foot,False,-117.399,34.536,True
 8169,,2022-06-21,shot,undetermined,,M,,Fontana,CA,False,undetermined,,False,-117.436,34.108,True
-8172,,2022-06-21,shot,gun,,,,Lima,OH,False,attack,Other,False,-84.105,40.743,True
+8172,Quincy J. Pritchett,2022-06-21,shot,gun,43,M,,Lima,OH,False,attack,Other,False,-84.105,40.743,True
 8173,Peter Pfister,2022-06-21,shot,undetermined,27,M,,Blue Hill,ME,False,undetermined,,False,-68.512,44.416,True
-8174,,2022-06-22,shot,gun,,M,,San Jose,CA,False,attack,,False,-121.805,37.262,True
+8174,Raymond Calderon,2022-06-22,shot,gun,29,M,,San Jose,CA,False,attack,,False,-121.805,37.262,True
 8175,Jason Dodds,2022-06-22,shot,gun,42,M,,Albion,MI,True,other,Foot,True,-84.756,42.25,True
+8181,,2022-06-22,shot,gun,29,M,,Houston,TX,False,attack,,False,,,True
+8183,Timothy Charles Gravitt,2022-06-22,shot,gun,49,M,,Thomaston,GA,False,attack,,False,,,True
 8176,Keith Carrol,2022-06-23,shot,gun,59,M,,Jackson Township,PA,True,other,,False,-75.365,41.002,True
 8177,Steven Ray Johnson,2022-06-23,shot,knife,46,M,,Salisbury,NC,False,other,,False,-80.474,35.671,True
+8179,,2022-06-24,shot,knife,,M,,Topeka,KS,False,other,,False,,,True
+8182,Saudi Arai Lee,2022-06-24,shot,gun,31,M,,Savannah,GA,False,other,Foot,False,,,True
+8184,,2022-06-24,shot,gun,47,F,,Gurnsey County,OH,False,attack,Car,False,,,True
+8187,Robert W. McNamara,2022-06-24,shot,gun,68,M,,Lake Placid,FL,False,attack,,False,,,True
+8186,Curtis Kimbrough,2022-06-25,shot,gun,42,M,,Grant-Valkaria,FL,False,attack,Other,False,,,True
+8180,,2022-06-26,shot,gun,,M,,Pueblo,CO,False,other,,False,,,True
+8185,,2022-06-27,shot,undetermined,,M,,Akron,OH,False,undetermined,Other,False,,,True
