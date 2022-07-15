@@ -7526,13 +7526,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8209,Mark Sales,2022-06-29,shot,gun,66,M,,Pueblo,CO,False,attack,,False,,,True
 8196,Christian Parker,2022-06-30,shot,gun,37,M,,Springfield,VA,False,other,,True,-77.176,38.774,True
 8223,Jada Johnson,2022-07-01,shot,gun,22,F,,Fayetteville,NC,True,other,,False,,,True
-8218,Jesus Rodolfo Torres,2022-07-02,shot,gun,30,M,,Los Angeles,CA,False,other,Foot,False,,,True
+8218,Jesus Rodolfo Torres,2022-07-02,shot,gun,30,M,,Los Angeles,CA,False,attack,Foot,False,,,True
 8219,,2022-07-02,shot,pair of scissors,30,F,,Huntington Park,CA,False,other,,False,,,True
 8220,Michael Moore,2022-07-02,shot,knife,75,M,,Sacramento,CA,True,other,,True,,,True
 8224,,2022-07-02,shot,knife,,M,,Denver,CO,False,other,,False,,,True
 8222,Bryan Humble,2022-07-03,shot,gun,63,M,,Chaparral,NM,False,other,,False,,,True
 8225,Glenn Nisich,2022-07-03,shot,gun,57,M,,Sioux Falls,SD,False,attack,,False,,,True
-8228,James Parks,2022-07-03,shot,gun,44,M,,Warner Robins,GA,False,other,Not fleeing,False,,,True
+8228,James Parks,2022-07-03,shot,gun,44,M,,Warner Robins,GA,True,other,Not fleeing,False,,,True
 8199,Miguel Gallarzo,2022-07-04,shot,knife,46,M,,Las Vegas,NV,False,other,Not fleeing,True,,,True
 8205,,2022-07-04,shot,gun,,M,,Wilmington,CA,False,other,,False,,,True
 8239,,2022-07-04,shot,gun,,M,,Martin County,KY,False,attack,,False,,,True
@@ -7558,6 +7558,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8233,Mark Evers,2022-07-12,shot,gun,65,M,,Clearcreek Township,OH,False,attack,,False,,,True
 8234,,2022-07-13,shot,undetermined,,M,,Minneapolis,MN,False,undetermined,,False,,,True
 8235,,2022-07-13,shot,gun,,M,,Salem,OR,False,attack,,False,,,True
-8236,Malachi Lavar Carroll,2022-07-13,shot,knife,20,M,,Henrico County,VA,False,other,,True,,,True
+8236,Malachi Lavar Carroll,2022-07-13,shot,knife,20,M,,Henrico County,VA,True,other,,True,,,True
 8237,,2022-07-13,shot,gun,45,M,,Harris County,TX,False,other,,False,,,True
 8238,Romayne Manuel,2022-07-13,shot,gun,31,M,,Grand Prairie,TX,False,other,Foot,False,,,True
