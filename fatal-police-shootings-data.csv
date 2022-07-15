@@ -7293,7 +7293,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7909,Ali Coulter,2022-04-11,shot,gun,20,M,B,Covington,KY,False,other,Not fleeing,True,-84.502,39.07,True
 7914,Tayler Shannon Osborne,2022-04-11,shot,unarmed,28,M,,Salem,OR,False,attack,,False,-123.017,44.943,True
 7915,Wilford Robert DeWeese,2022-04-11,shot,gun,67,M,,Manitou Springs,CO,False,attack,,False,-104.917,38.858,True
-7916,Dwayne Jackson,2022-04-11,shot,gun,,M,,Tulsa,OK,False,attack,Not fleeing,False,-95.904,36.05,True
+7916,Dwayne Jackson,2022-04-11,shot,gun,27,M,B,Tulsa,OK,False,attack,Not fleeing,False,-95.904,36.05,True
 7931,Merrill Rambarose,2022-04-12,shot,ax,49,M,,Edison,NJ,False,other,,False,-74.331,40.548,True
 7929,Trevan Bonner,2022-04-13,shot,gun,18,M,,Lafayette,LA,False,attack,,False,-92.032,30.25,True
 7967,David Ward,2022-04-13,shot,gun,23,M,,Ashtabula,OH,True,other,Not fleeing,False,-80.79,41.865,True
@@ -7553,11 +7553,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8213,Raoul Hardy,2022-07-09,shot,gun,60,M,,New York,NY,True,attack,,False,,,True
 8214,Malik Williams,2022-07-09,shot,gun,,M,,New York,NY,False,attack,Foot,False,,,True
 8232,Dillon Walker,2022-07-09,shot,gun,31,M,,Cave City,KY,False,attack,Foot,False,,,True
-8208,Madeline Miller,2022-07-10,shot,knife,64,M,,Flossmoor,IL,False,other,,False,,,True
+8208,Madeline Miller,2022-07-10,shot,knife,64,M,,Flossmoor,IL,False,other,,True,,,True
 8221,Thomas Cromwell,2022-07-11,shot,undetermined,27,M,,Mason,OH,False,undetermined,,False,,,True
 8233,Mark Evers,2022-07-12,shot,gun,65,M,,Clearcreek Township,OH,False,attack,,False,,,True
-8234,,2022-07-13,shot,undetermined,,M,,Minneapolis,MN,False,undetermined,,False,,,True
+8234,Andrew Tekle Sundberg,2022-07-13,shot,undetermined,20,M,,Minneapolis,MN,False,undetermined,,False,-93.243,44.964,True
 8235,,2022-07-13,shot,gun,,M,,Salem,OR,False,attack,,False,,,True
 8236,Malachi Lavar Carroll,2022-07-13,shot,knife,20,M,,Henrico County,VA,True,other,,True,,,True
 8237,,2022-07-13,shot,gun,45,M,,Harris County,TX,False,other,,False,,,True
 8238,Romayne Manuel,2022-07-13,shot,gun,31,M,,Grand Prairie,TX,False,other,Foot,False,,,True
+8241,,2022-07-13,shot,toy weapon,,M,,Salinas,CA,False,other,,False,-121.656,36.705,True
+8242,,2022-07-13,shot,gun,,M,,Hancock County,IL,False,attack,Car,False,-91.024,40.459,True
+8244,,2022-07-13,shot,gun,,M,,Denver,CO,False,attack,Car,False,-104.964,39.785,True
+8240,,2022-07-14,shot,knife,,M,,Ontario,CA,False,other,Not fleeing,False,-117.557,34.069,True
+8243,Matthew Hyde,2022-07-14,shot,metal pole,,M,,Hollywood,FL,False,attack,,False,-80.161,26.003,True
+8245,,2022-07-14,shot,undetermined,,M,,Modesto,CA,False,undetermined,,True,-120.95,37.664,True
