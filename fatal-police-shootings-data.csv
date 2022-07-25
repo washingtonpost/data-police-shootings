@@ -7064,6 +7064,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7706,Michael Haas,2022-01-31,shot,gun,37,M,,Mishawaka,IN,False,attack,Not fleeing,True,,,True
 7647,Dustin Davidson,2022-02-01,shot,gun,29,M,,Wichita  Falls,TX,False,attack,Not fleeing,False,,,True
 7705,Devin Morris,2022-02-01,shot,gun,31,M,,Albuquerque,NM,False,other,Foot,False,,,True
+8263,Jonathon Murillo-Nix,2022-02-01,shot,knife,23,M,H,Los Angeles,CA,False,undetermined,,False,,,True
 7646,Amir Locke,2022-02-02,shot,gun,22,M,B,Minneapolis,MN,False,attack,Not fleeing,True,,,True
 7703,Phillip Dill,2022-02-04,shot,knife,34,M,W,Evansville,IN,True,attack,Not fleeing,True,,,True
 7713,,2022-02-04,shot,gun,,M,,Tulsa,OK,False,other,Foot,False,,,True
@@ -7565,13 +7566,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8242,Timothy Ostrander,2022-07-13,shot,gun,31,M,,Hancock County,IL,False,attack,Car,False,-91.024,40.459,True
 8244,,2022-07-13,shot,gun,,M,,Denver,CO,False,attack,Car,False,-104.964,39.785,True
 8240,,2022-07-14,shot,knife,,M,,Ontario,CA,False,other,Not fleeing,False,-117.557,34.069,True
-8243,Matthew Hyde,2022-07-14,shot,metal pole,,M,,Hollywood,FL,False,attack,,False,-80.161,26.003,True
+8243,Matthew Hyde,2022-07-14,shot,metal pole,,M,,Hollywood,FL,True,attack,,False,-80.161,26.003,True
 8245,,2022-07-14,shot,undetermined,,M,,Modesto,CA,False,undetermined,,True,-120.95,37.664,True
-8250,Maurice Hughes,2022-07-14,shot,blunt object,45,M,,Hattiesburg,MS,False,attack,,False,-89.276,31.275,True
+8250,Maurice McCarthy Hughes,2022-07-14,shot,blunt object,45,M,,Hattiesburg,MS,False,attack,,False,-89.276,31.275,True
 8249,Trent William Millsap,2022-07-15,shot,undetermined,27,M,,Westminster,CA,False,undetermined,,False,-117.99,33.759,True
 8251,Richard Guerra,2022-07-15,shot,gun,28,M,,Vinton,TX,False,attack,Car,False,-106.576,31.957,True
-8252,Stephen Blossom,2022-07-15,shot,gun,35,M,,Newport,ME,False,other,,False,-69.234,44.827,True
-8253,,2022-07-15,shot,knife,,M,,Denver,CO,False,attack,Not fleeing,False,-104.984,39.789,True
+8252,Stephen Bossom,2022-07-15,shot,gun,35,M,,Newport,ME,False,other,,False,-69.234,44.827,True
+8253,Chaz Gallegos,2022-07-15,shot,knife,33,M,,Denver,CO,False,attack,Not fleeing,False,-104.984,39.789,True
 8246,James Robert Frazier,2022-07-16,shot,knife,50,M,,Georgetown,SC,False,other,,False,-79.292,33.379,True
 8258,Robert Adams,2022-07-16,shot,undetermined,23,M,B,San Bernardino,CA,False,other,Foot,True,,,True
 8247,John Todd Bigham,2022-07-17,shot,gun,53,M,,Amarillo,TX,False,attack,,False,-101.861,35.181,True
@@ -7584,3 +7585,21 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8255,Molka Horton,2022-07-20,shot,gun,39,F,,Horn Lake,MS,False,attack,Car,False,,,True
 8256,Jason Lipscomb,2022-07-20,shot,unarmed,21,M,,Gastonia,NC,False,other,,False,,,True
 8261,,2022-07-20,shot,knife,35,M,,Gaitherburg,MD,False,other,Not fleeing,False,,,True
+8277,Wendel Tagle,2022-07-21,shot,gun,43,M,,Albuquerque,NM,True,attack,,False,,,True
+8272,Leonard Hollingsworth,2022-07-22,shot,gun,63,M,,Loganville,GA,False,attack,,False,,,True
+8274,,2022-07-22,shot,undetermined,,M,,Moreno Valley,CA,False,undetermined,,False,,,True
+8276,Ronnie Dewayne James,2022-07-22,shot,unknown weapon,65,M,,Darlington County,SC,False,other,,False,,,True
+8280,Christopher Hansen,2022-07-22,shot,knife,37,M,W,Bolingbrook,IL,True,other,Not fleeing,False,,,True
+8281,,2022-07-22,shot,gun,,M,,Los Angeles,CA,False,other,Foot,False,,,True
+8264,Marvin Burke,2022-07-23,shot,gun,,M,,Douglas County,MO,False,attack,Foot,False,,,True
+8269,Leonard Brewington,2022-07-23,shot,gun,34,M,,Madisonville,OH,False,attack,,True,,,True
+8270,,2022-07-23,shot,gun,,M,,Houston,TX,False,other,Other,False,,,True
+8273,,2022-07-23,shot,gun,,M,,North Lauderdale,FL,False,attack,,False,,,True
+8275,William Whitfield,2022-07-23,shot,gun,42,M,,Dallas,TX,False,attack,Car,False,,,True
+8266,Cody Bennett,2022-07-24,shot,gun,29,M,,Monongahela,PA,False,attack,,False,,,True
+8267,,2022-07-24,shot,undetermined,,,,Benton,AR,False,undetermined,Car,False,,,True
+8268,,2022-07-24,shot,gun,,M,,Portland,OR,False,attack,,False,,,True
+8271,Jonathan Huertas Reyes,2022-07-24,shot,gun,32,M,,Tampa,FL,False,attack,Foot,True,,,True
+8278,,2022-07-24,shot,undetermined,22,M,,Englewood,CO,False,undetermined,,False,,,True
+8265,Daniel R. Strange,2022-07-25,shot,undetermined,42,M,,Waterloo,SC,False,undetermined,,False,,,True
+8279,,2022-07-25,shot,gun,,M,,Jackson,MS,False,other,,False,,,True
