@@ -7364,12 +7364,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8018,,2022-05-08,shot,undetermined,,M,,Springdale,AR,False,attack,,False,-94.144,36.159,True
 8032,Luis Torres,2022-05-08,shot,sword,21,M,,Tulsa,OK,False,attack,Not fleeing,False,-95.993,36.154,True
 8062,John Gilbert Provo,2022-05-09,shot,undetermined,72,M,,Del Norte County,CA,False,undetermined,,False,-124.149,41.746,True
-8027,Felipe De Jesus Herrera,2022-05-10,shot,machete,34,M,,Yuma,AZ,False,other,,False,-114.626,32.713,True
+8027,Felipe De Jesus Herrera,2022-05-10,shot,machete,34,M,W,Yuma,AZ,False,other,,False,-114.626,32.713,True
 8028,Rameek Smith,2022-05-10,shot,gun,25,M,,New York,NY,False,attack,Foot,False,-73.895,40.85,True
 8029,Victor Gamez,2022-05-10,shot,gun,26,M,H,Carrollwood,FL,False,other,,False,-82.488,28.061,True
 8030,Gregory Walker,2022-05-10,shot,gun,65,M,,Romeoville,IL,False,other,,False,-88.123,41.615,True
-8031,Raul Vega Perez,2022-05-10,shot,gun,,M,,Dime Box,TX,False,attack,Foot,False,-96.825,30.357,True
-8026,James Brian Langley,2022-05-11,shot,knife,,M,,Cape Girardeau County,MO,False,other,Car,False,-89.578,37.372,True
+8031,Raul Vega Perez,2022-05-10,shot,gun,,M,H,Dime Box,TX,False,attack,Foot,False,-96.825,30.357,True
+8026,James Brian Langley,2022-05-11,shot,knife,,M,W,Cape Girardeau County,MO,False,other,Car,False,-89.578,37.372,True
 8037,,2022-05-13,shot,toy weapon,,M,,New York,NY,False,attack,Not fleeing,False,-73.889,40.819,True
 8038,Romen Phelps,2022-05-13,shot,undetermined,33,M,,West Palm Beach,FL,True,attack,Foot,False,-80.06,26.709,True
 8090,Michael Foley,2022-05-13,shot,undetermined,33,M,,New Boston,NH,False,undetermined,,False,-71.622,42.948,True
@@ -7377,34 +7377,34 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8035,Richard Ortiz,2022-05-14,shot,knife,48,M,,Boston,MA,False,attack,,False,-71.066,42.313,True
 8036,Cora Baughman,2022-05-14,shot,gun,66,F,,Windham Township,OH,False,other,,False,-81.085,41.265,True
 8039,,2022-05-15,shot,gun,,M,,Hendry County,FL,False,attack,,False,-81.075,26.611,True
-8040,Justin Moore,2022-05-16,shot,gun,31,M,,Palmyra,IN,False,attack,Not fleeing,True,-86.111,38.406,True
-8111,Gary Rowland,2022-05-16,shot,gun,30,M,,Benton,KY,False,attack,Not fleeing,False,-88.356,36.866,True
-8041,Nygil Cullins,2022-05-18,shot,gun,22,M,,Atlanta,GA,True,attack,Not fleeing,False,-84.37,33.84,True
+8040,Justin Moore,2022-05-16,shot,gun,31,M,W,Palmyra,IN,False,attack,Not fleeing,True,-86.111,38.406,True
+8111,Gary Rowland,2022-05-16,shot,gun,30,M,W,Benton,KY,False,attack,Not fleeing,False,-88.356,36.866,True
+8041,Nygil Cullins,2022-05-18,shot,gun,22,M,B,Atlanta,GA,True,attack,Not fleeing,False,-84.37,33.84,True
 8044,,2022-05-18,shot,gun,,M,B,Houston,TX,False,attack,Other,True,-95.294,29.88,True
 8049,,2022-05-18,shot,garden tool,,M,,Terrytown,LA,False,other,Not fleeing,True,-90.03,29.904,True
-8050,Rolando Abel Rojas,2022-05-18,shot,gun,37,M,,Guadalupe,AZ,False,attack,Not fleeing,False,-111.963,33.36,True
+8050,Rolando Abel Rojas,2022-05-18,shot,gun,37,M,H,Guadalupe,AZ,False,attack,Not fleeing,False,-111.963,33.36,True
 8116,Carlos Delano Dafill Roberts,2022-05-18,shot,gun,28,M,,Orlando,FL,False,attack,Not fleeing,True,-81.431,28.56,True
 8042,,2022-05-19,shot,gun,,F,,Malvern,PA,True,other,,False,-75.527,40.033,True
 8045,Devon Lee Taylor,2022-05-19,shot,undetermined,19,M,,Washington County,OH,False,other,Car,False,-81.628,39.475,True
-8046,Samuel Frias,2022-05-19,shot,gun,35,M,,Seabrook,TX,False,other,Foot,False,-95.036,29.571,True
-8047,Austin Flores,2022-05-19,shot,toy weapon,27,M,,Fresno,CA,False,other,Not fleeing,True,-119.831,36.781,True
+8046,Samuel Frias,2022-05-19,shot,gun,35,M,W,Seabrook,TX,False,other,Foot,False,-95.036,29.571,True
+8047,Austin Flores,2022-05-19,shot,toy weapon,27,M,H,Fresno,CA,False,other,Not fleeing,True,-119.831,36.781,True
 8048,Tavis Latimore Carithers,2022-05-19,shot,gun,23,M,,Mableton,GA,True,attack,Not fleeing,False,-84.579,33.846,True
 8058,Rickey Looney,2022-05-19,shot,gun,40,M,,Polk County,AR,False,attack,,False,-92.288,34.744,True
 8076,Michael MacFhionghain,2022-05-19,shot,knife,57,M,W,San Francisco,CA,False,other,Not fleeing,True,-122.393,37.764,True
 8077,Rafael Mendoza,2022-05-19,shot,unarmed,49,M,,San Francisco,CA,False,undetermined,Not fleeing,True,-122.393,37.764,True
 8055,Camille Weems,2022-05-20,shot,gun,47,F,,Miami Township,OH,True,attack,Not fleeing,True,-84.25,39.191,True
-8056,Da'Shontay King,2022-05-20,shot,gun,,M,,Racine,WI,False,other,Foot,True,-87.789,42.718,True
-8059,Omari Cryer,2022-05-20,shot,undetermined,25,M,,Louisville,KY,False,undetermined,,False,-85.812,38.248,True
+8056,Da'Shontay King,2022-05-20,shot,gun,,M,B,Racine,WI,False,other,Foot,True,-87.789,42.718,True
+8059,Omari Cryer,2022-05-20,shot,undetermined,25,M,B,Louisville,KY,False,undetermined,,False,-85.812,38.248,True
 8051,Kalah Shannon Gary,2022-05-21,shot,unknown weapon,26,F,,Laurens County,SC,True,other,,False,-81.961,34.462,True
-8052,Dennis Fonoimoana,2022-05-21,shot,gun,26,M,,Mount Pleasant Township,PA,False,other,Car,False,-80.302,40.303,True
-8053,Arthur C. Page,2022-05-21,shot,unarmed,58,M,,Aiken County,SC,False,other,Other,False,-81.604,33.601,True
-8054,Billy Joe Reynolds,2022-05-21,shot,gun,43,M,,Stewart County,TN,False,attack,,False,-87.628,36.451,True
-8057,Janet Silva,2022-05-21,shot,knife,51,F,,San Antonio,TX,False,other,,False,-98.461,29.407,True
+8052,Dennis Fonoimoana,2022-05-21,shot,gun,26,M,W,Mount Pleasant Township,PA,False,other,Car,False,-80.302,40.303,True
+8053,Arthur C. Page,2022-05-21,shot,unarmed,58,M,W,Aiken County,SC,False,other,Other,False,-81.604,33.601,True
+8054,Billy Joe Reynolds,2022-05-21,shot,gun,43,M,W,Stewart County,TN,False,attack,,False,-87.628,36.451,True
+8057,Janet Silva,2022-05-21,shot,knife,51,F,W,San Antonio,TX,False,other,,False,-98.461,29.407,True
 8061,Carlos Gamboa,2022-05-21,shot,gun,56,M,,Doña Ana County,NM,False,attack,,False,,,True
 8060,,2022-05-22,shot,gun,,M,,Reedley,CA,False,attack,Other,False,-119.413,36.575,True
-8068,Curtis Bean Yellowtail,2022-05-23,shot,gun,35,M,,Billings,MT,False,attack,Car,True,-108.552,45.767,True
+8068,Curtis Bean Yellowtail,2022-05-23,shot,gun,35,M,N,Billings,MT,False,attack,Car,True,-108.552,45.767,True
 8084,Arthuro Rivera,2022-05-23,shot,knife,30,M,,Arizona City,AZ,False,other,,False,-111.68,32.753,True
-8085,Randal Haynes,2022-05-23,shot,gun,53,M,,Guymon,OK,False,attack,,False,-101.494,36.694,True
+8085,Randal Haynes,2022-05-23,shot,gun,53,M,W,Guymon,OK,False,attack,,False,-101.494,36.694,True
 8067,Joseph Robertson,2022-05-24,shot,gun,59,M,,Jersey City,NJ,False,other,,False,-74.081,40.721,True
 8080,Salvador Rolando Ramos,2022-05-24,shot,gun,18,M,,Uvalde,TX,False,attack,Not fleeing,False,-99.789,29.199,True
 8064,Toure Jones,2022-05-25,shot,knife,23,M,,Canton,GA,False,undetermined,Not fleeing,False,-84.491,34.237,True
@@ -7541,7 +7541,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8207,Juan Carlos Bojorquez,2022-07-05,shot,gun,15,M,,Glendale,AZ,False,other,Not fleeing,False,,,True
 8217,Reginald Humphrey,2022-07-05,shot,gun,31,M,B,Los Angeles,CA,False,attack,,False,,,True
 8226,Chanin Emil Mayfield,2022-07-05,shot,gun,32,M,,Toccoa,GA,False,other,Not fleeing,False,,,True
-8200,Matthew Scott Jones,2022-07-06,shot,gun,36,M,W,Bradley,WV,False,other,Other,False,,,True
+8200,Matthew Scott Jones,2022-07-06,shot,gun,36,M,W,Bradley,WV,True,other,Other,False,,,True
 8204,Jerry Lee Esparza,2022-07-06,shot,knife,,M,,Beeville,TX,False,other,Not fleeing,False,,,True
 8229,Ehmani Mack Davis,2022-07-06,shot,gun,19,M,,Detroit,MI,False,attack,,False,,,True
 8202,Jasper Aaron Lynch,2022-07-07,shot,bottle,26,M,,McLean,VA,True,other,Not fleeing,True,,,True
@@ -7576,14 +7576,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8246,James Robert Frazier,2022-07-16,shot,knife,50,M,,Georgetown,SC,False,other,,False,-79.292,33.379,True
 8258,Robert Marquise Adams,2022-07-16,shot,gun,23,M,B,San Bernardino,CA,False,other,Foot,True,,,True
 8247,John Todd Bigham,2022-07-17,shot,gun,53,M,,Amarillo,TX,False,attack,,False,-101.861,35.181,True
-8248,,2022-07-17,shot,knife,,M,,Chandler,AZ,False,other,,False,-111.876,33.306,True
+8248,Tyson W. Cobb,2022-07-17,shot,knife,44,M,,Chandler,AZ,False,other,,True,-111.876,33.306,True
 8259,Richard Jean Poulin,2022-07-17,shot,undetermined,58,M,,Hillsboro,OH,False,undetermined,Car,False,,,True
-8260,Fabien Perry,2022-07-18,shot,gun,27,M,,Aurora,CO,False,other,Not fleeing,False,,,True
 8257,Matthew Begay,2022-07-19,shot,knife,22,M,,Phoenix,AZ,True,other,Not fleeing,False,,,True
+8260,Fabien Perry,2022-07-19,shot,gun,27,M,,Aurora,CO,False,other,Not fleeing,False,,,True
 8262,Matthew Davis,2022-07-19,shot,knife,34,M,,West Brattleboro,VT,False,other,,False,,,True
-8254,,2022-07-20,shot,gun,,M,,Fort Myers,FL,False,attack,,False,,,True
+8254,Ryan McFarland-Bauer,2022-07-20,shot,gun,29,M,,Fort Myers,FL,False,attack,,False,,,True
 8255,Molka Horton,2022-07-20,shot,gun,39,F,,Horn Lake,MS,False,attack,Car,False,,,True
-8256,Jason Lipscomb,2022-07-20,shot,unarmed,21,M,,Gastonia,NC,False,other,,False,,,True
+8256,Jason Lipscomb,2022-07-20,shot,vehicle,21,M,,Gastonia,NC,False,attack,,False,,,True
 8261,,2022-07-20,shot,knife,35,M,,Gaitherburg,MD,False,other,Not fleeing,False,,,True
 8277,Wendel Tagle,2022-07-21,shot,gun,43,M,,Albuquerque,NM,True,attack,,False,,,True
 8272,Leonard Hollingsworth,2022-07-22,shot,gun,63,M,,Loganville,GA,False,attack,,False,,,True
@@ -7597,9 +7597,12 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8273,,2022-07-23,shot,gun,,M,,North Lauderdale,FL,False,attack,,False,,,True
 8275,William Whitfield,2022-07-23,shot,gun,42,M,,Dallas,TX,False,attack,Car,False,,,True
 8266,Cody Bennett,2022-07-24,shot,gun,29,M,,Monongahela,PA,False,attack,,False,,,True
-8267,,2022-07-24,shot,undetermined,,,,Benton,AR,False,undetermined,Car,False,,,True
+8267,William Whitfield,2022-07-24,shot,undetermined,42,M,,Benton,AR,False,undetermined,Car,False,,,True
 8268,,2022-07-24,shot,gun,,M,,Portland,OR,False,attack,,False,,,True
 8271,Jonathan Huertas Reyes,2022-07-24,shot,gun,32,M,,Tampa,FL,False,attack,Foot,True,,,True
-8278,,2022-07-24,shot,undetermined,22,M,,Englewood,CO,False,undetermined,,False,,,True
+8278,Matthew Mitchell,2022-07-24,shot,undetermined,22,M,,Englewood,CO,False,undetermined,,False,,,True
 8265,Daniel R. Strange,2022-07-25,shot,undetermined,42,M,,Waterloo,SC,False,undetermined,,False,,,True
-8279,,2022-07-25,shot,gun,,M,,Jackson,MS,False,other,,False,,,True
+8279,Tyrone Jones,2022-07-25,shot,gun,28,M,,Jackson,MS,False,other,,False,,,True
+8283,Jeremiah Jones,2022-07-25,shot,gun,38,M,,Fulton County,IL,False,attack,,False,,,True
+8284,Sean Christopher McCormick,2022-07-25,shot,gun,64,M,,Strasburg,VA,False,other,,False,,,True
+8282,,2022-07-26,shot,gun,,M,,Rapid City,SD,False,attack,,False,,,True
