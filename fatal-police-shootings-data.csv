@@ -7406,24 +7406,24 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8084,Arthuro Rivera,2022-05-23,shot,knife,30,M,,Arizona City,AZ,False,other,,False,-111.68,32.753,True
 8085,Randal Haynes,2022-05-23,shot,gun,53,M,W,Guymon,OK,False,attack,,False,-101.494,36.694,True
 8067,Joseph Robertson,2022-05-24,shot,gun,59,M,,Jersey City,NJ,False,other,,False,-74.081,40.721,True
-8080,Salvador Rolando Ramos,2022-05-24,shot,gun,18,M,,Uvalde,TX,False,attack,Not fleeing,False,-99.789,29.199,True
+8080,Salvador Rolando Ramos,2022-05-24,shot,gun,18,M,H,Uvalde,TX,False,attack,Not fleeing,False,-99.789,29.199,True
 8064,Toure Jones,2022-05-25,shot,knife,23,M,,Canton,GA,False,undetermined,Not fleeing,False,-84.491,34.237,True
-8065,Spencer Cassanova Heckathorne,2022-05-25,shot,undetermined,60,M,,Myrtle Creek,OR,False,other,Car,False,-123.309,43.007,True
+8065,Spencer Cassanova Heckathorne,2022-05-25,shot,undetermined,60,M,W,Myrtle Creek,OR,False,other,Car,False,-123.309,43.007,True
 8066,,2022-05-25,shot,gun,,M,,Jasper,FL,False,attack,Foot,False,-82.948,30.518,True
-8083,Gregorio Merced Banuelos,2022-05-25,shot,gun,39,M,,Wichita,KS,False,attack,,True,-97.478,37.691,True
-8094,Abe Banks,2022-05-25,shot,undetermined,53,M,,Winn Parish,LA,False,other,Car,False,-92.636,31.925,True
+8083,Gregorio Merced Banuelos,2022-05-25,shot,gun,39,M,W,Wichita,KS,False,attack,,True,-97.478,37.691,True
+8094,Abe Banks,2022-05-25,shot,undetermined,53,M,B,Winn Parish,LA,False,other,Car,False,-92.636,31.925,True
 8063,Robert Hammitt,2022-05-26,shot,gun,48,M,W,Austin,TX,False,attack,,False,-97.716,30.234,True
 8079,Robert Williams,2022-05-26,shot,gun,24,M,,O'Brien,CA,False,attack,,False,-122.36,40.573,True
 8081,Larry Leon Wolfenbarger,2022-05-26,shot,gun,58,M,W,Cooke County,TX,False,other,Not fleeing,False,-97.35,33.662,True
 8082,Robert Hammitt,2022-05-26,shot,gun,48,M,W,Austin,TX,False,attack,Not fleeing,False,-97.716,30.234,True
-8101,Douglas Weishaupl,2022-05-26,shot,gun,53,M,,Weld County,CO,False,attack,Other,False,-104.757,40.261,True
+8101,Douglas Weishaupl,2022-05-26,shot,gun,53,M,W,Weld County,CO,False,attack,Other,False,-104.757,40.261,True
 8074,Dustin Vance,2022-05-27,shot,gun,42,M,,Saline County,KS,False,other,Not fleeing,False,-97.559,38.79,True
 8078,Miguel Angel Rodriguez,2022-05-27,shot,undetermined,39,M,,Pomona,CA,False,other,Car,False,-117.718,34.052,True
-8107,Davin Darayle Saunders,2022-05-28,shot,gun,39,M,,Cheyenne,WY,False,other,,False,-104.787,41.136,True
+8107,Davin Darayle Saunders,2022-05-28,shot,gun,39,M,B,Cheyenne,WY,False,other,,False,-104.787,41.136,True
 8198,Bradley Thompkins,2022-05-28,shot,gun,51,M,,Rockford,IL,False,attack,,False,-88.971,42.273,True
 8070,,2022-05-29,shot,gun,52,M,,Phoenix,AZ,False,attack,Not fleeing,False,-112.03,33.597,True
 8072,Masen T. Moore,2022-05-29,shot,gun,22,M,W,Sedalia,MO,False,attack,Foot,False,-93.238,38.705,True
-8075,Jeffery Moctezuma Noyola,2022-05-29,shot,gun,19,M,,King,NC,False,attack,,False,-80.377,36.263,True
+8075,Jeffery Moctezuma Noyola,2022-05-29,shot,gun,19,M,B,King,NC,False,attack,,False,-80.377,36.263,True
 8091,Stephen Paul John,2022-05-29,shot,gun,51,M,,Safford,AZ,False,attack,,False,-109.708,32.802,True
 8069,Michael Morado,2022-05-30,shot,gun,19,M,,Billings,MT,False,attack,Car,False,-108.506,45.796,True
 8071,Yosef Bekermus,2022-05-30,shot,pipe,31,M,,Cape Coral,FL,True,attack,Not fleeing,True,-82.013,26.648,True
@@ -7589,7 +7589,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8272,Leonard Hollingsworth,2022-07-22,shot,gun,63,M,,Loganville,GA,False,attack,,False,,,True
 8274,,2022-07-22,shot,undetermined,,M,,Moreno Valley,CA,False,undetermined,,False,,,True
 8276,Ronnie Dewayne James,2022-07-22,shot,unknown weapon,65,M,,Darlington County,SC,False,other,,False,,,True
-8280,Christopher Hansen,2022-07-22,shot,knife,37,M,W,Bolingbrook,IL,True,other,Not fleeing,False,,,True
+8280,Christopher W. Hansen,2022-07-22,shot,knife,37,M,W,Bolingbrook,IL,True,other,Not fleeing,False,,,True
 8281,,2022-07-22,shot,gun,,M,,Los Angeles,CA,False,other,Foot,False,,,True
 8264,Marvin Burke,2022-07-23,shot,gun,,M,,Douglas County,MO,False,attack,Foot,False,,,True
 8269,Leonard Brewington,2022-07-23,shot,gun,34,M,,Madisonville,OH,False,attack,,True,,,True
