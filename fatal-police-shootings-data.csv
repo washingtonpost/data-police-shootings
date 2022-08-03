@@ -3578,6 +3578,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 3926,Emmanuel Alquisiras,2018-08-03,shot,Taser,29,M,H,Seville,FL,True,other,Not fleeing,True,-81.493,29.316,True
 3921,Eric Benjamen Richards,2018-08-04,shot,gun,33,M,W,Liberty,MO,True,attack,Not fleeing,False,-94.439,39.234,True
 3922,John Randolph,2018-08-04,shot,gun,38,M,W,Delray Beach,FL,True,other,Not fleeing,False,-80.101,26.451,True
+8122,Danzel Boyd,2018-08-04,shot,gun,28,M,,Las Vegas,NV,False,attack,Not fleeing,True,-115.159,36.147,True
 3913,William James Hughes,2018-08-05,shot,gun,43,M,N,St. Paul,MN,False,other,Not fleeing,True,-93.138,44.952,True
 3914,Kevin Rhinehart,2018-08-05,shot,gun,58,M,,Hesperia,CA,False,other,Not fleeing,False,-117.351,34.421,True
 3916,James Bishop,2018-08-05,shot,baseball bat,29,M,W,Las Cruces,NM,True,attack,Not fleeing,False,-106.768,32.339,True
