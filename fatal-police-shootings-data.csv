@@ -2977,6 +2977,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4243,Jeffrey Alan Burleson,2018-01-12,shot,gun,37,M,W,Cave Junction,OR,False,attack,Not fleeing,False,,,True
 3307,Joseph Hilton,2018-01-13,shot,gun,42,M,W,Huntersville,NC,True,other,Not fleeing,True,-80.876,35.398,True
 3311,Christian Escobedo,2018-01-14,shot,gun,22,M,H,El Sereno,CA,False,other,Not fleeing,False,-118.195,34.084,True
+8299,,2018-01-14,shot,undetermined,,M,,Wheat Ridge,CO,False,undetermined,Other,False,,,True
 3309,Robert Martinez,2018-01-15,shot,gun,42,M,H,Eugene,OR,False,other,Not fleeing,False,-123.13,44.124,True
 3305,Nathan Giffin,2018-01-16,shot,toy weapon,32,M,W,Montpelier,VT,True,other,Foot,False,-72.584,44.264,True
 3306,Victor M. Reyes,2018-01-16,shot,unknown weapon,30,M,H,Bedford,TX,False,other,Not fleeing,False,-97.154,32.828,True
@@ -3671,10 +3672,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4040,Damon Christopher Gayheart,2018-09-17,shot,vehicle,44,M,W,Christian County,KY,False,attack,Car,False,-87.314,37.009,True
 4033,Michael James Murphy,2018-09-18,shot,gun,43,M,W,Virginia Beach,VA,False,attack,Foot,False,-75.981,36.863,True
 4045,Jeffrey Sims,2018-09-18,shot,knife,37,M,W,Marysville,WA,True,attack,Not fleeing,False,-122.154,48.114,True
+8303,Anthony Tong,2018-09-19,shot,gun,,M,,Middleton,WI,True,attack,,True,,,True
+8304,Rene Herrera,2018-09-19,shot,gun,39,M,H,Los Angeles,CA,False,attack,Car,False,,,True
+8305,Fernando Cruz,2018-09-19,shot,unarmed,18,M,H,Los Angeles,CA,False,other,Car,False,,,True
 4050,Freddie Joe Whitmore,2018-09-20,shot,gun,55,M,W,Honolulu,HI,False,attack,Not fleeing,False,-157.828,21.278,True
 4051,Alexander Carballido,2018-09-20,shot,gun,40,M,H,Miami,FL,False,attack,Car,False,-80.312,25.777,True
+8231,Gillie Thurby,2018-09-20,shot,gun,28,M,,Longmont,CO,False,other,,False,,,True
 4048,Joshua Works,2018-09-22,shot,gun,26,M,W,Henderson,NV,False,attack,Foot,True,-115.029,36.046,True
 4053,Nathaniel Sassafras,2018-09-23,shot,gun,29,M,B,Baltimore,MD,False,attack,Not fleeing,True,-76.63,39.291,True
+8230,Richard J. Jackson,2018-09-23,shot,knife,36,M,,Oak Harbor,WA,False,other,,False,,,True
 4047,Ronald W. Leach,2018-09-24,shot,box cutter,29,M,W,Williamsburg,KY,False,attack,Not fleeing,False,-84.115,36.636,True
 4052,Phillip Serrano,2018-09-24,shot,vehicle,44,M,,Stead,NV,True,other,Not fleeing,True,,,True
 4054,Ivan Pena,2018-09-24,shot,gun,42,M,H,East Los Angeles,CA,False,attack,Not fleeing,False,-118.187,34.048,True
@@ -3695,6 +3701,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4103,Brian Lee Rogers,2018-09-30,shot,ax,40,M,W,Greenback,TN,True,other,Not fleeing,False,-84.06,35.603,True
 4070,Keagan Johnson,2018-10-01,shot,knife,23,M,W,Hastings,MN,False,attack,Foot,True,-92.859,44.731,True
 4073,Brian Baker,2018-10-01,shot,unarmed,33,M,W,Orlando,FL,True,other,Not fleeing,False,-81.377,28.526,True
+8302,Nowy Angel Duron,2018-10-01,shot,gun,29,M,,Houston,TX,False,other,,False,,,True
 4072,"James ""Cody"" Martin",2018-10-02,shot,gun,26,M,W,Mableton,GA,True,attack,Not fleeing,False,-84.563,33.808,True
 4074,LaJuana Philips,2018-10-02,shot,vehicle,36,F,B,Victorville,CA,False,attack,Not fleeing,False,-117.307,34.522,True
 4071,Toby Bailey,2018-10-03,shot,gun,38,M,B,Bartlett,TN,True,attack,Not fleeing,False,-89.887,35.206,True
@@ -3720,6 +3727,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4125,Alonzo L. Smith,2018-10-10,shot,gun,31,M,B,Milwaukee,WI,False,attack,Not fleeing,True,-88.038,43.134,True
 4084,,2018-10-11,shot,gun,,M,,Huntington Beach,CA,False,other,Car,False,-118.003,33.667,True
 4089,Diamonte Riviore,2018-10-11,shot,knife,22,M,B,West Jordan,UT,False,other,,False,-111.985,40.624,True
+8301,Dakota Frank Brooks,2018-10-11,shot,undetermined,26,M,W,Panama City,FL,False,attack,Foot,False,,,True
 4088,Matthew Chambers,2018-10-12,shot,gun,34,M,,Cobb County,GA,False,attack,,False,-84.451,33.895,True
 4098,Samuel Morris,2018-10-12,shot,knife,27,M,B,Fort Smith,AR,False,other,Not fleeing,False,-94.374,35.407,True
 4099,Ashley Elisna Grammer,2018-10-12,shot,vehicle,26,F,O,Puna,HI,False,attack,Not fleeing,False,-154.873,19.551,True
@@ -3741,6 +3749,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 4115,Sean Dutcher,2018-10-18,shot,vehicle,38,M,W,Elkhorn,WI,False,attack,Car,False,-88.543,42.723,True
 4117,Jacob Servais,2018-10-18,shot,undetermined,19,M,B,Vineland,NJ,False,other,Not fleeing,False,-75.044,39.451,True
 4161,Mahlon Edward Summerour,2018-10-18,shot,toy weapon,63,M,B,Monroe,GA,True,attack,Not fleeing,False,-83.711,33.804,True
+8300,Kenneth Martin Anderson,2018-10-18,shot,gun,27,M,,Cartersville,GA,False,attack,Not fleeing,False,,,True
 4116,"Neico Crooks, Jr",2018-10-19,shot,vehicle,21,M,B,Miami,FL,False,attack,Car,False,-80.203,25.948,True
 4124,Christopher Calabro,2018-10-19,shot,knife,25,M,W,Brockton,MA,True,other,Not fleeing,False,,,True
 4122,Edward Paul Zumski,2018-10-20,shot,gun,35,M,W,Paris,TX,False,attack,Not fleeing,False,-95.536,33.662,True
