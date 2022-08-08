@@ -7634,6 +7634,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8306,Darin Gray,2022-08-01,shot,gun,,M,,Elmore County,AL,False,attack,Not fleeing,False,,,True
 8307,Walter Lee Osborne,2022-08-01,shot,gun,26,M,,Gordon County,GA,False,other,,False,,,True
 8308,Andrew Martinez,2022-08-01,shot,gun,35,M,,Mapleton,ND,True,other,,False,,,True
+8323,Travis Caleb Woody,2022-08-01,shot,gun,24,M,,Green Mountain,NC,False,attack,,False,-82.289,35.993,True
 8311,,2022-08-02,shot,undetermined,,,,Las Cruces,NM,False,undetermined,,False,,,True
 8312,Thang Duc Doan,2022-08-02,shot,knife,51,M,,Buford,GA,False,other,Not fleeing,False,,,True
+8321,Norma Hartman,2022-08-02,shot,gun,74,F,,Barbourville,KY,False,other,,False,-83.889,36.866,True
 8310,,2022-08-03,shot,gun,,M,,Spokane,WA,False,attack,Car,False,,,True
+8322,,2022-08-03,shot,unknown weapon,,M,,St. George,UT,False,other,,False,-113.567,37.095,True
+8316,,2022-08-05,shot,undetermined,,M,,Northglenn,CO,False,undetermined,,False,-104.983,39.905,True
+8320,Alexander Dekontee Weah,2022-08-05,shot,gun,,M,,Clemmons,NC,False,attack,,False,-80.388,36.05,True
+8313,Ezequiel Ayala,2022-08-06,shot,gun,26,M,,Yakima County,WA,False,attack,Other,False,-120.262,46.447,True
+8317,Marty Hutto,2022-08-06,shot,flare gun,,M,,Lawrence County,AL,False,attack,Car,False,-87.183,34.614,True
+8318,,2022-08-06,shot,gun,,M,,Orlando,FL,False,other,,False,-81.402,28.452,True
+8319,Douglas Stanton,2022-08-06,shot,gun,59,M,,Rouseville,PA,True,attack,Not fleeing,False,-79.692,41.474,True
+8314,,2022-08-07,shot,vehicle,,M,,Kansas City,MO,False,attack,,True,-94.555,39.037,True
+8315,,2022-08-08,shot,gun,,M,,Harris County,TX,False,attack,Other,False,-95.31,29.775,True
