@@ -7603,7 +7603,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8281,,2022-07-22,shot,gun,,M,,Los Angeles,CA,False,other,Foot,False,,,True
 8264,Marvin Burke,2022-07-23,shot,gun,54,M,,Douglas County,MO,False,attack,Foot,False,,,True
 8269,Leonard Brewington,2022-07-23,shot,gun,34,M,,Madisonville,OH,False,attack,,True,,,True
-8270,,2022-07-23,shot,gun,,M,,Houston,TX,False,other,Other,False,,,True
+8270,,2022-07-23,shot,gun,,M,,Houston,TX,False,attack,Other,False,,,True
 8273,,2022-07-23,shot,gun,,M,,North Lauderdale,FL,False,attack,,False,,,True
 8275,Juan Mario Gonzalez,2022-07-23,shot,gun,33,M,,Dallas,TX,False,attack,Car,False,,,True
 8266,Cody Bennett,2022-07-24,shot,gun,29,M,,Monongahela,PA,False,attack,,False,,,True
