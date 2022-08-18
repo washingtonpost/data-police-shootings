@@ -7639,7 +7639,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8311,,2022-08-02,shot,undetermined,36,M,,Las Cruces,NM,False,attack,,True,,,True
 8312,Thang Duc Doan,2022-08-02,shot,knife,51,M,,Buford,GA,False,other,Not fleeing,False,,,True
 8310,Dominic A. Shears,2022-08-03,shot,gun,39,M,,Spokane,WA,False,attack,Car,True,,,True
-8322,,2022-08-03,shot,unknown weapon,,M,,St. George,UT,False,other,,False,-113.567,37.095,True
+8322,Raymond Derek Gladman,2022-08-03,shot,unknown weapon,83,M,,St. George,UT,False,other,,False,-113.567,37.095,True
 8325,Matthew Wayne Vaughan,2022-08-04,shot,knife,29,M,,Klamath Falls,OR,False,other,Not fleeing,False,-121.776,42.227,True
 8316,,2022-08-05,shot,undetermined,,M,,Northglenn,CO,False,undetermined,,False,-104.983,39.905,True
 8320,Alexander Dekontee Weah,2022-08-05,shot,gun,,M,,Clemmons,NC,False,attack,,False,-80.388,36.05,True
@@ -7654,10 +7654,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8324,,2022-08-09,shot,gun,,,,Sioux Falls,SD,False,attack,,False,-96.76,43.544,True
 8329,Lane Morgan Caviness,2022-08-10,shot,gun,48,M,,Key Largo,FL,False,attack,,False,,,True
 8330,Jordan Charles Urenovitch,2022-08-10,shot,gun,23,M,W,Hazle Township,PA,False,attack,,False,,,True
-8328,Ricky W. Schiffer,2022-08-11,shot,gun,42,M,,Clinton County,OH,False,attack,Car,False,,,True
-8331,Gabriel Maestas,2022-08-11,shot,gun,48,M,,Carlsbad,NM,False,attack,,False,,,True
+8328,Ricky W. Shiffer,2022-08-11,shot,gun,42,M,,Clinton County,OH,False,attack,Car,False,,,True
+8331,Gabriel Mesa,2022-08-11,shot,gun,48,M,,Carlsbad,NM,False,attack,,False,,,True
 8333,Tyler Mendez,2022-08-11,shot,gun,27,M,,Eutawville,SC,False,attack,,False,,,True
 8335,Byron Hayes,2022-08-11,shot,gun,33,M,,Victorville,CA,False,attack,,False,,,True
-8332,,2022-08-12,shot,gun,,M,,Richland Hills,TX,False,attack,,False,,,True
+8332,Darrel Hood,2022-08-12,shot,gun,32,M,,Richland Hills,TX,False,attack,,False,,,True
 8334,,2022-08-12,shot,gun,,M,,Appleton,WI,False,other,,True,,,True
-8336,Michael Ahrens,2022-08-14,shot,toy weapon,32,M,,Waterloo,IA,False,attack,,False,,,True
+8336,Michael Ahrens,2022-08-14,shot,Airsoft pistol,32,M,,Waterloo,IA,False,attack,,False,,,True
