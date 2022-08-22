@@ -7447,7 +7447,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8096,Derrick Glen Avey,2022-06-01,shot,gun,42,M,,Hopewell,VA,False,other,Car,False,-77.326,37.296,True
 8097,Anthony Keith Taylor,2022-06-01,shot,toy weapon,,M,,Sand City,CA,False,undetermined,Car,True,-121.854,36.611,True
 8102,Marshall Curtis Jones,2022-06-01,shot,knife,27,M,,Kent,WA,False,other,Not fleeing,False,-122.213,47.46,True
-8147,Phillip Torres,2022-06-01,shot,ax and machete,30,M,,Lubbock,TX,False,other,Car,False,-101.858,33.534,True
+8147,Phillip Torres,2022-06-01,shot,ax and machete,30,M,W,Lubbock,TX,False,other,Car,False,-101.858,33.534,True
 8098,Marvin Cua,2022-06-02,shot,gun,24,M,H,Los Angeles,CA,False,other,,False,-118.294,34.06,True
 8099,Gonzalo Lopez,2022-06-02,shot,gun,46,M,,Jourdanton,TX,False,attack,Car,False,-98.546,28.918,True
 8100,Mike Smith,2022-06-02,shot,gun,48,M,,San Bernardino,CA,False,attack,Car,False,-117.292,34.108,True
@@ -7594,7 +7594,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8254,Ryan McFarland-Bauer,2022-07-20,shot,gun,29,M,,Fort Myers,FL,False,attack,,False,,,True
 8255,Molka Horton,2022-07-20,shot,gun,39,F,,Horn Lake,MS,False,attack,Car,False,,,True
 8256,Jason Lipscomb,2022-07-20,shot,vehicle,21,M,,Gastonia,NC,False,attack,,False,,,True
-8261,,2022-07-20,shot,knife,35,M,,Gaitherburg,MD,False,other,Not fleeing,False,,,True
+8261,Hamed Ghorouni,2022-07-20,shot,knife,35,M,,Gaitherburg,MD,False,other,Not fleeing,False,,,True
 8277,Wendel Tagle,2022-07-21,shot,gun,43,M,,Albuquerque,NM,True,attack,,False,,,True
 8272,Leonard Hollingsworth,2022-07-22,shot,gun,63,M,,Loganville,GA,False,attack,,False,,,True
 8274,,2022-07-22,shot,undetermined,,M,,Moreno Valley,CA,False,other,,False,,,True
@@ -7661,7 +7661,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8332,Darrel Hood,2022-08-12,shot,gun,32,M,,Richland Hills,TX,False,attack,,False,,,True
 8334,,2022-08-12,shot,gun,,M,,Appleton,WI,False,other,,True,,,True
 8336,Michael Ahrens,2022-08-14,shot,Airsoft pistol,32,M,,Waterloo,IA,False,attack,,False,,,True
-8337,Jeremy Willie Horton,2022-08-15,shot,gun,32,M,,Miami-Dade County,FL,False,attack,Car,False,,,True
-8338,,2022-08-16,shot,gun,,M,,Miami Springs,FL,False,attack,,False,,,True
+8337,Jeremy Willie Horton,2022-08-15,shot,gun,32,M,B,Miami-Dade County,FL,False,attack,Car,False,,,True
+8338,Jamie Robles,2022-08-16,shot,gun,,M,,Miami Springs,FL,False,attack,,False,,,True
 8341,,2022-08-17,shot,machete,,M,,Los Angeles,CA,False,other,Not fleeing,False,,,True
-8340,,2022-08-18,shot,unknown weapon,,M,,Houston,TX,False,attack,,False,,,True
+8340,,2022-08-18,shot,gun,,M,,Harris County,TX,False,attack,,False,,,True
+8342,,2022-08-18,shot,machete,,M,,Sarasota,FL,False,undetermined,,False,,,True
+8344,Otis French,2022-08-20,shot,Taser,,M,,Bay Minette,AL,False,attack,,False,-87.78,30.864,True
+8345,,2022-08-20,shot,undetermined,,M,,Tucson,AZ,False,undetermined,,False,-110.981,32.178,True
+8343,,2022-08-21,shot,vehicle,,,,Greensboro,NC,False,other,Car,False,-79.872,36.069,True
