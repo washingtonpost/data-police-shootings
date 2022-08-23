@@ -7665,7 +7665,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8338,Jamie Robles,2022-08-16,shot,gun,,M,,Miami Springs,FL,False,attack,,False,,,True
 8341,,2022-08-17,shot,machete,,M,,Los Angeles,CA,False,other,Not fleeing,False,,,True
 8340,,2022-08-18,shot,gun,,M,,Harris County,TX,False,attack,,False,,,True
-8342,,2022-08-18,shot,machete,,M,,Sarasota,FL,False,undetermined,,False,,,True
+8342,Tyler Casey Sweeney,2022-08-18,shot,machete,29,M,,Sarasota,FL,False,attack,,False,,,True
 8344,Otis French,2022-08-20,shot,Taser,,M,,Bay Minette,AL,False,attack,,False,-87.78,30.864,True
 8345,,2022-08-20,shot,undetermined,,M,,Tucson,AZ,False,undetermined,,False,-110.981,32.178,True
-8343,,2022-08-21,shot,vehicle,,,,Greensboro,NC,False,other,Car,False,-79.872,36.069,True
+8343,,2022-08-21,shot,vehicle,17,,,Greensboro,NC,False,attack,Car,False,-79.872,36.069,True
