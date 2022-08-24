@@ -7456,13 +7456,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8104,Tyler Mehki Sincere Boages,2022-06-03,shot,gun,19,M,,Lexington County,SC,True,attack,Foot,False,-81.111,34.015,True
 8109,Kevin Colindres,2022-06-03,shot,gun,32,,,West New York,NJ,False,attack,,False,-74.016,40.788,True
 8110,Corey D. Brewer,2022-06-03,shot,gun,45,M,,Memphis,TN,False,attack,Not fleeing,False,-89.836,35.178,True
-8112,Michael Loman,2022-06-03,shot,gun,56,M,,Lakeland,FL,False,other,Not fleeing,False,-81.908,28.081,True
+8112,Michael Loman,2022-06-03,shot,gun,56,M,W,Lakeland,FL,False,other,Not fleeing,False,-81.908,28.081,True
 8113,Edward C. Samaan,2022-06-03,shot,hatchet,28,M,W,Naperville,IL,False,other,Not fleeing,True,-88.202,41.796,True
 8114,,2022-06-03,shot,machete,,M,,Okaloosa Island,FL,True,other,Not fleeing,True,-86.592,30.394,True
 8130,Andre Hernandez,2022-06-03,shot,undetermined,13,M,,San Antonio,TX,False,other,Car,True,-98.6,29.345,True
 8156,Ritchie Holcomb,2022-06-03,shot,gun,36,M,,Birch River,WV,False,attack,,False,-80.755,38.499,True
-8103,Joseph Robert Henry Thompson,2022-06-04,shot,gun,66,,,Towson,MD,False,attack,,True,-76.6,39.401,True
-8105,Walter Antreall Joyce,2022-06-04,shot,gun,45,M,,Jonesboro,AR,False,attack,Car,False,-90.705,35.836,True
+8103,Joseph Robert Henry Thompson,2022-06-04,shot,gun,66,,B,Towson,MD,False,attack,,True,-76.6,39.401,True
+8105,Walter Antreall Joyce,2022-06-04,shot,gun,45,M,B,Jonesboro,AR,False,attack,Car,False,-90.705,35.836,True
 8108,Zachary C. Rutherford,2022-06-04,shot,undetermined,32,M,,Wenatchee,WA,False,other,Foot,False,-120.346,47.421,True
 8106,Jason Harold James,2022-06-05,shot,knife,47,M,,St. Augustine,FL,False,other,Not fleeing,False,-81.329,29.889,True
 8131,Jacob Poitraw,2022-06-05,shot,vehicle,25,M,,Presque Isle,ME,True,attack,Car,False,-68.014,46.685,True
@@ -7658,6 +7658,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8331,Gabriel Mesa,2022-08-11,shot,gun,48,M,,Carlsbad,NM,False,attack,,False,,,True
 8333,Tyler Mendez,2022-08-11,shot,gun,27,M,,Eutawville,SC,False,attack,,False,,,True
 8335,Byron Hayes,2022-08-11,shot,gun,33,M,,Victorville,CA,False,attack,,False,,,True
+8354,,2022-08-11,shot,undetermined,,M,,Ethete,WY,False,undetermined,,False,-108.765,43.034,True
 8332,Darrel Hood,2022-08-12,shot,gun,32,M,,Richland Hills,TX,False,attack,,False,,,True
 8334,,2022-08-12,shot,gun,,M,,Appleton,WI,False,other,,True,,,True
 8336,Michael Ahrens,2022-08-14,shot,Airsoft pistol,32,M,,Waterloo,IA,False,attack,,False,,,True
@@ -7668,4 +7669,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8342,Tyler Casey Sweeney,2022-08-18,shot,machete,29,M,,Sarasota,FL,False,attack,,False,,,True
 8344,Otis French,2022-08-20,shot,Taser,,M,,Bay Minette,AL,False,attack,,False,-87.78,30.864,True
 8345,,2022-08-20,shot,undetermined,,M,,Tucson,AZ,False,undetermined,,False,-110.981,32.178,True
+8351,Randy Wilhelm,2022-08-20,shot,gun,56,M,,Monroe Township,OH,False,attack,Not fleeing,False,-82.395,40.44,True
+8352,Bradley Wilhelm,2022-08-20,shot,gun,53,M,,Monroe Township,OH,False,attack,Not fleeing,False,-82.396,40.44,True
 8343,,2022-08-21,shot,vehicle,17,,,Greensboro,NC,False,attack,Car,False,-79.872,36.069,True
+8346,,2022-08-22,shot,knife,37,M,,Olympia,WA,False,other,,False,-122.844,47.047,True
+8347,Mable Arrington,2022-08-22,shot,undetermined,42,F,,Biloxi,MS,False,undetermined,,False,-88.9,30.406,True
+8349,,2022-08-22,shot,undetermined,,M,,Sparks,NV,False,undetermined,,False,-119.763,39.544,True
+8353,,2022-08-22,shot,gun,41,F,,Butler Township,OH,False,attack,Not fleeing,False,-82.237,40.379,True
+8348,,2022-08-23,shot,unknown weapon,,M,,Harris County,TX,False,other,Foot,False,-95.479,29.963,True
+8350,,2022-08-23,shot,machete,48,M,,San Diego,CA,False,other,Not fleeing,False,-117.108,32.723,True
+8355,Geraldo Reyes,2022-08-23,shot,gun,32,M,,Cut Off,LA,False,attack,,False,-90.312,29.458,True
+8356,,2022-08-23,shot,gun,,M,,Blue Springs,MO,False,attack,Foot,False,-94.258,39.023,True
+8357,,2022-08-23,shot,undetermined,,M,B,Splendora,TX,False,undetermined,Car,False,-95.166,30.229,True
