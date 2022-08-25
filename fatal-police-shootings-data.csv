@@ -7672,10 +7672,10 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8351,Randy Wilhelm,2022-08-20,shot,gun,56,M,,Monroe Township,OH,False,attack,Not fleeing,False,-82.395,40.44,True
 8352,Bradley Wilhelm,2022-08-20,shot,gun,53,M,,Monroe Township,OH,False,attack,Not fleeing,False,-82.396,40.44,True
 8343,,2022-08-21,shot,vehicle,17,,,Greensboro,NC,False,attack,Car,False,-79.872,36.069,True
-8346,,2022-08-22,shot,knife,37,M,,Olympia,WA,False,other,,False,-122.844,47.047,True
+8346,,2022-08-22,shot,knife,37,M,,Olympia,WA,False,attack,,False,-122.844,47.047,True
 8347,Mable Arrington,2022-08-22,shot,undetermined,42,F,,Biloxi,MS,False,undetermined,,False,-88.9,30.406,True
-8349,,2022-08-22,shot,undetermined,,M,,Sparks,NV,False,undetermined,,False,-119.763,39.544,True
-8353,,2022-08-22,shot,gun,41,F,,Butler Township,OH,False,attack,Not fleeing,False,-82.237,40.379,True
+8349,,2022-08-22,shot,knife,,M,,Sparks,NV,False,undetermined,,False,-119.763,39.544,True
+8353,Elizabeth A. Delano,2022-08-22,shot,gun,41,F,,Butler Township,OH,False,attack,Not fleeing,False,-82.237,40.379,True
 8348,,2022-08-23,shot,unknown weapon,,M,,Harris County,TX,False,other,Foot,False,-95.479,29.963,True
 8350,,2022-08-23,shot,machete,48,M,,San Diego,CA,False,other,Not fleeing,False,-117.108,32.723,True
 8355,Geraldo Reyes,2022-08-23,shot,gun,32,M,,Cut Off,LA,False,attack,,False,-90.312,29.458,True
