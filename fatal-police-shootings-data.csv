@@ -7466,14 +7466,14 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8106,Jason Harold James,2022-06-05,shot,knife,47,M,W,St. Augustine,FL,False,other,Not fleeing,False,-81.329,29.889,True
 8131,Jacob Poitraw,2022-06-05,shot,vehicle,25,M,W,Presque Isle,ME,True,attack,Car,False,-68.014,46.685,True
 8137,Ricky Jimenez,2022-06-05,shot,crossbow,51,M,H,Lancaster,CA,False,attack,,False,-118.164,34.689,True
-8118,Ernesto Battle,2022-06-06,shot,gun,73,M,,Miami-Dade County,FL,False,attack,,True,-80.227,25.879,True
+8118,Ernesto Battle,2022-06-06,shot,gun,73,M,W,Miami-Dade County,FL,False,attack,,True,-80.227,25.879,True
 8120,Pozz Stiblin,2022-06-07,shot,undetermined,20,M,,Columbus,OH,False,undetermined,,True,-82.911,40.02,True
 8119,,2022-06-08,shot,knife,,,,Oconto,WI,False,other,,False,-87.899,44.863,True
 8121,Jason James Morales,2022-06-08,shot,gun,45,M,,Davenport,IA,False,attack,,False,-90.6,41.574,True
-8125,Robert Tyler White,2022-06-09,shot,undetermined,32,M,,Gadsden,AL,True,undetermined,,False,-86.056,34.011,True
+8125,Robert Tyler White,2022-06-09,shot,undetermined,32,M,W,Gadsden,AL,True,undetermined,,False,-86.056,34.011,True
 8129,Curtis Roy Young,2022-06-09,shot,gun,40,M,,Harnett County,NC,True,attack,,False,-78.9,35.359,True
-8128,Daniel Raymond Honeycutt,2022-06-10,shot,gun,38,M,,Elizabethton,TN,False,other,Not fleeing,False,-82.155,36.335,True
-8126,Cesar Anthony Pena,2022-06-11,shot,gun,41,M,,Mableton,GA,False,attack,,False,-84.592,33.84,True
+8128,Daniel Raymond Honeycutt,2022-06-10,shot,gun,38,M,W,Elizabethton,TN,False,other,Not fleeing,False,-82.155,36.335,True
+8126,Cesar Anthony Pena,2022-06-11,shot,gun,41,M,B,Mableton,GA,False,attack,,False,-84.592,33.84,True
 8127,Jonathan Hamilton,2022-06-11,shot,knife,,M,,Springville,UT,False,other,,False,-111.645,40.158,True
 8123,Carlos Eli Chacon-Castillo,2022-06-12,shot,knife,42,M,,Austin,TX,False,other,Not fleeing,True,-97.712,30.321,True
 8135,Jerome Lavon Connelly,2022-06-12,shot,gun,35,M,B,Caldwell County,NC,False,attack,,False,-81.53,35.933,True
@@ -7644,7 +7644,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8320,Alexander Dekontee Weah,2022-08-05,shot,gun,,M,,Clemmons,NC,False,attack,,False,-80.388,36.05,True
 8313,Ezequiel Ayala,2022-08-06,shot,gun,26,M,,Yakima County,WA,False,attack,Other,False,-120.262,46.447,True
 8317,Marty Hutto,2022-08-06,shot,flare gun,50,M,,Lawrence County,AL,False,attack,Car,False,-87.183,34.614,True
-8318,Bryan Richardson,2022-08-06,shot,gun,28,M,,Orlando,FL,False,other,,False,-81.402,28.452,True
+8318,Bryan Richardson,2022-08-06,shot,gun,28,M,,Orlando,FL,False,other,,True,-81.402,28.452,True
 8319,Douglas Stanton,2022-08-06,shot,gun,59,M,,Rouseville,PA,True,attack,Not fleeing,False,-79.692,41.474,True
 8314,Zachary James Garrard,2022-08-07,shot,vehicle,31,M,,Kansas City,MO,False,attack,,True,-94.555,39.037,True
 8327,Jordyn John Hansen,2022-08-07,shot,knife,21,M,,Otsego,MN,True,other,Foot,False,-93.591,45.274,True
@@ -7659,7 +7659,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8335,Byron Hayes,2022-08-11,shot,gun,33,M,,Victorville,CA,False,attack,,False,,,True
 8354,,2022-08-11,shot,undetermined,,M,,Ethete,WY,False,undetermined,,False,-108.765,43.034,True
 8332,Darrel Hood,2022-08-12,shot,gun,32,M,,Richland Hills,TX,False,attack,,False,,,True
-8334,,2022-08-12,shot,gun,,M,,Appleton,WI,False,other,,True,,,True
+8334,Daniel Pesavento,2022-08-12,shot,gun,29,M,,Appleton,WI,False,other,,True,,,True
 8336,Michael Ahrens,2022-08-14,shot,Airsoft pistol,32,M,,Waterloo,IA,False,attack,,False,,,True
 8337,Jeremy Willie Horton,2022-08-15,shot,gun,32,M,B,Miami-Dade County,FL,False,attack,Car,False,,,True
 8338,Jamie Robles,2022-08-16,shot,gun,,M,,Miami Springs,FL,False,attack,,False,,,True
@@ -7668,23 +7668,38 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8342,Tyler Casey Sweeney,2022-08-18,shot,machete,29,M,,Sarasota,FL,False,attack,,False,,,True
 8365,Brenda Donahue,2022-08-19,shot,gun,60,F,,Charlotte,NC,False,attack,Not fleeing,False,-80.785,35.082,True
 8344,Otis French,2022-08-20,shot,Taser,,M,,Bay Minette,AL,False,attack,,False,-87.78,30.864,True
-8345,,2022-08-20,shot,undetermined,,M,,Tucson,AZ,False,undetermined,,False,-110.981,32.178,True
+8345,Adum Mahamat,2022-08-20,shot,gun,25,M,,Tucson,AZ,False,other,,False,-110.981,32.178,True
 8351,Randy Wilhelm,2022-08-20,shot,gun,56,M,,Monroe Township,OH,False,attack,Not fleeing,False,-82.395,40.44,True
 8352,Bradley Wilhelm,2022-08-20,shot,gun,53,M,,Monroe Township,OH,False,attack,Not fleeing,False,-82.396,40.44,True
 8343,,2022-08-21,shot,vehicle,17,,,Greensboro,NC,False,attack,Car,False,-79.872,36.069,True
-8346,,2022-08-22,shot,knife,37,M,,Olympia,WA,False,attack,,False,-122.844,47.047,True
+8381,Terry A. Starkweather,2022-08-21,shot,vehicle,36,M,,Spokane,WA,False,other,Not fleeing,True,-117.383,47.719,True
+8346,Tim Green,2022-08-22,shot,knife,37,M,,Olympia,WA,True,attack,,False,-122.844,47.047,True
 8347,Mable Arrington,2022-08-22,shot,undetermined,42,F,,Biloxi,MS,False,undetermined,,False,-88.9,30.406,True
-8349,,2022-08-22,shot,knife,,M,,Sparks,NV,False,undetermined,,False,-119.763,39.544,True
+8349,,2022-08-22,shot,knife,,M,,Sparks,NV,False,other,,False,-119.763,39.544,True
 8353,Elizabeth A. Delano,2022-08-22,shot,gun,41,F,,Butler Township,OH,False,attack,Not fleeing,False,-82.237,40.379,True
 8348,,2022-08-23,shot,unknown weapon,,M,,Harris County,TX,False,other,Foot,False,-95.479,29.963,True
 8350,,2022-08-23,shot,machete,48,M,,San Diego,CA,False,other,Not fleeing,False,-117.108,32.723,True
 8355,Geraldo Reyes,2022-08-23,shot,gun,32,M,,Cut Off,LA,False,attack,,False,-90.312,29.458,True
-8356,,2022-08-23,shot,gun,,M,,Blue Springs,MO,False,attack,Foot,False,-94.258,39.023,True
+8356,Michael D. Saunders,2022-08-23,shot,gun,28,M,,Blue Springs,MO,False,attack,Foot,False,-94.258,39.023,True
 8357,,2022-08-23,shot,undetermined,,M,B,Splendora,TX,False,undetermined,Car,False,-95.166,30.229,True
 8363,,2022-08-23,shot,undetermined,32,M,,Pryor,MT,False,undetermined,,False,-108.533,45.43,True
+8374,Laurence Dickson,2022-08-23,shot,toy weapon,69,M,,McMinnville,OH,False,attack,,False,-123.232,45.208,True
 8360,Jason Owens,2022-08-24,shot,gun,,M,,Nutter Fort,WV,False,other,,False,-80.323,39.257,True
 8364,Jesus Manjarrez,2022-08-24,shot,"knife, hammer and gasoline can",26,M,,Waukegan,IL,True,other,Not fleeing,False,-87.844,42.349,True
 8359,,2022-08-25,shot,unknown weapon,,M,,Tucson,AZ,False,other,,False,-110.957,32.143,True
-8358,,2022-08-26,shot,gun,,M,,Blacksburg,VA,False,attack,,False,-80.401,37.186,True
-8361,,2022-08-26,shot,gun,58,M,,Oakley,CA,False,attack,Not fleeing,False,-121.728,38.001,True
+8358,Joshua David Amodeo,2022-08-26,shot,gun,29,M,,Blacksburg,VA,False,attack,,False,-80.401,37.186,True
+8361,Frank Correa,2022-08-26,shot,gun,58,M,,Oakley,CA,False,attack,Not fleeing,False,-121.728,38.001,True
+8373,Samuel Paul Ranson,2022-08-27,shot,gun,50,M,W,Charleston,WV,False,attack,Not fleeing,False,-81.586,38.334,True
+8379,,2022-08-27,shot,knife,,F,,Sacramento,CA,False,attack,Not fleeing,False,-121.447,38.612,True
+8380,Maxie George,2022-08-27,shot,undetermined,69,M,,Red River Parish,LA,False,undetermined,,False,-93.34,32.047,True
 8366,Keshawn Thomas,2022-08-28,shot,undetermined,,M,,Albuquerque,NM,False,undetermined,,False,-106.702,35.115,True
+8367,,2022-08-28,shot,gun,,,,Tacoma,WA,False,attack,Not fleeing,False,-122.492,47.196,True
+8370,,2022-08-28,shot,gun,18,M,,Bangor Township,MI,False,other,Not fleeing,False,-83.92,43.628,True
+8372,Brian Underwood,2022-08-28,shot,gun,47,M,,Sarasota,FL,False,attack,Not fleeing,False,-82.442,27.293,True
+8375,,2022-08-28,shot,gun,,M,B,Houston,TX,False,attack,Not fleeing,False,-95.495,29.693,True
+8378,J'Quinton D. Hopson,2022-08-28,shot,gun,38,M,,Fort Worth,TX,False,other,Car,True,-97.315,32.809,True
+8371,Andrew Ainsworth,2022-08-29,shot,gun,60,M,,Albemarle County,VA,False,attack,Not fleeing,False,-78.525,38.026,True
+8368,William Isaac Rich,2022-08-30,shot,unknown weapon,22,M,,Cedar Rapids,IA,False,other,Not fleeing,False,-91.678,41.924,True
+8369,Donovan Lewis,2022-08-30,shot,unarmed,20,M,B,Columbus,OH,False,undetermined,Not fleeing,True,-83.087,39.943,True
+8376,Jacob M. Jamrozy,2022-08-31,shot,gun,39,M,,Omaha,NE,False,other,Not fleeing,True,-96.07,41.203,True
+8377,Augustine Flores,2022-08-31,shot,machete,40,M,,Los Angeles,CA,False,attack,,False,-118.243,33.953,True
