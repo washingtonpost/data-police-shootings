@@ -6073,7 +6073,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7523,De'Aire Gray,2021-02-13,shot,BB gun,,M,,Indianapolis,IN,True,attack,Foot,True,,,True
 6616,Adam Bruce Connors,2021-02-14,shot,gun,32,M,,El Paso,TX,True,other,Other,False,-106.286,31.792,True
 6687,Bruce Diehl,2021-02-14,shot,gun,51,M,W,Bingham County,ID,False,attack,Not fleeing,False,-112.327,43.312,True
-7521,"Antonio ""Tai"" Trujillo",2021-02-14,shot,undetermined,,M,,Taos Pueblo,NM,False,undetermined,Not fleeing,False,-105.544,36.439,True
+7521,"Antonio ""Tai"" Trujillo",2021-02-14,shot,undetermined,,M,N,Taos Pueblo,NM,False,undetermined,Not fleeing,False,-105.544,36.439,True
 6613,Troy Alton Allen,2021-02-15,shot,undetermined,50,M,W,Rexburg,ID,False,other,,False,-111.793,43.817,True
 6614,Francisco Eduardo Flores,2021-02-15,shot,undetermined,30,M,H,El Monte,CA,False,attack,Foot,False,-118.011,34.064,True
 6615,Royce Robertson,2021-02-15,shot,gun,33,M,W,Indian Wells,CA,False,other,Car,True,-116.292,33.712,True
@@ -6264,7 +6264,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6788,Alex Anthony Garcia,2021-04-16,shot,gun,25,M,H,San Antonio,TX,False,attack,,True,-98.624,29.407,True
 6789,Robert Douglas Delgado,2021-04-16,shot,toy weapon,46,M,W,Portland,OR,False,other,,False,-122.572,45.487,True
 6825,Juan James Cordova,2021-04-16,shot,gun,51,M,,Ventana Ranch,NM,False,attack,Not fleeing,False,,,True
-6821,Smoky Lynn Crockett,2021-04-17,shot,gun,60,M,,Fort Lupton,CO,False,other,Not fleeing,False,-104.762,40.109,True
+6821,Smokey Lynn Crockett,2021-04-17,shot,gun,60,M,,Fort Lupton,CO,False,other,Not fleeing,False,-104.762,40.109,True
 6823,Bradley Michael Rose,2021-04-17,shot,undetermined,29,M,,Kingman,AZ,False,other,Car,False,-114.039,35.267,True
 6824,Matthew Harry,2021-04-17,shot,gun,26,M,,Hayward,CA,False,attack,Not fleeing,True,-122.06,37.668,True
 6782,Larry Jenkins,2021-04-17,shot and Tasered,gun,52,M,B,Winter Haven,FL,False,other,Not fleeing,False,-81.68,28.009,True
@@ -6287,7 +6287,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6803,Tory Casey,2021-04-23,shot,gun,41,M,B,Rosenberg,TX,False,other,,False,-95.801,29.551,True
 6805,Michael Lee McClure,2021-04-23,shot,gun,26,M,,Billings,MT,False,attack,Other,False,-108.628,45.79,True
 6801,Benjamin Ridley,2021-04-24,shot,gun,29,M,W,Webbers Falls,OK,False,other,,False,-95.171,35.553,True
-6802,Marvin Veiga,2021-04-24,shot,knife,32,M,,Nashville,TN,False,other,Not fleeing,True,-86.831,36.194,True
+6802,Marvin Veiga,2021-04-24,shot,knife,32,M,B,Nashville,TN,False,other,Not fleeing,True,-86.831,36.194,True
 6804,Richard Solitro,2021-04-24,shot,unarmed,34,M,W,Los Angeles,CA,True,other,Not fleeing,True,-118.362,34.098,True
 6810,Dalton James Gerrit Kooiman,2021-04-27,shot,gun,20,M,,Bakersfield,CA,False,attack,Other,True,-118.943,35.347,True
 7633,Carlos Lopez-Melendez,2021-04-27,shot,gun,50,M,,Los Angeles,CA,False,attack,Car,False,-118.298,34.029,True
@@ -7717,7 +7717,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8386,Robert Bradley,2022-09-03,shot,gun,,M,,Spokane,WA,False,other,Not fleeing,True,-117.372,47.702,True
 8390,Rushdee Anderson,2022-09-03,shot,gun,41,M,,Los Angeles,CA,False,other,Not fleeing,False,-118.309,33.938,True
 8391,Justin Livesay,2022-09-03,shot,knife,40,M,,Fayetteville,NC,True,attack,Not fleeing,False,-78.994,35.055,True
-8405,,2022-09-03,shot,undetermined,,M,,Englewood,NJ,False,undetermined,,False,-73.982,40.896,True
+8405,Bernard Placide,2022-09-03,shot,knife,22,M,,Englewood,NJ,False,undetermined,Not fleeing,False,-73.982,40.896,True
 8403,,2022-09-04,shot,knife,54,M,,Federal Way,WA,False,other,Not fleeing,False,-122.304,47.335,True
 8392,,2022-09-05,shot,unknown weapon,29,M,,Thornton,CO,False,other,Not fleeing,False,-104.989,39.916,True
 8395,Maalik Roquemore,2022-09-05,shot,unarmed,32,M,,Cleveland,OH,True,attack,,True,-81.818,41.431,True
@@ -7728,3 +7728,17 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8401,,2022-09-07,shot,knife,61,M,B,St. Louis,MO,False,other,Not fleeing,False,-90.29,38.668,True
 8402,Tyler Michael Gardner,2022-09-07,shot,gun,27,M,,Washington County,TN,False,attack,Other,False,-82.539,36.309,True
 8406,Reginald Lamont Grant,2022-09-07,shot,gun,30,M,,Columbus,GA,False,attack,Foot,False,,,True
+8408,,2022-09-08,shot,gun,,,,Lexington,KY,False,attack,Not fleeing,True,-84.494,37.987,True
+8409,,2022-09-08,shot,gun,36,M,,Middle Smithfield Township,PA,False,other,Foot,False,-75.04,41.075,True
+8417,Joshua Hagans,2022-09-08,shot,gun,40,M,,Louisville,KY,False,attack,Not fleeing,False,-84.443,37.886,True
+8421,George Franklin,2022-09-08,shot,gun,47,M,,Zion,IL,False,attack,Foot,False,-87.838,42.446,True
+8407,,2022-09-09,shot,undetermined,40,M,,Hudson,NC,False,undetermined,,False,-81.481,35.846,True
+8410,Edwin Medina Barnes,2022-09-09,shot,sharp object,40,M,,Elk City,OK,False,attack,Not fleeing,False,-99.412,35.398,True
+8419,Daniel K. McAlpin,2022-09-09,shot,knife,41,M,,Wawarsing,NY,True,other,,False,-74.387,41.655,True
+8415,Aaron Baughman,2022-09-10,shot,samurai sword,40,M,,Houston,TX,False,other,Not fleeing,False,-95.37,29.76,True
+8416,,2022-09-10,shot,undetermined,,M,,Burien,WA,False,other,Other,False,-122.309,47.491,True
+8418,Gabriel Charles,2022-09-10,shot,gun,27,M,,Las Vegas,NV,False,attack,Foot,False,-115.146,36.115,True
+8411,,2022-09-11,shot,tire iron,,M,,Houston,TX,False,other,Not fleeing,False,-95.294,29.699,True
+8414,,2022-09-11,shot,gun,,M,,Los Angeles,CA,False,other,Foot,True,-118.274,34.075,True
+8420,Igor Lanis,2022-09-11,shot,gun,53,M,,Walled Lake,MI,False,attack,Not fleeing,False,-83.497,42.531,True
+8413,Cody Kiley,2022-09-12,shot,gun,31,M,,St. Petersburg,FL,False,other,,False,-82.695,27.79,True
