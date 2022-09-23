@@ -6566,7 +6566,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7070,Antonio D. King,2021-08-03,shot,gun,22,M,B,Nashville,TN,False,attack,Not fleeing,False,,,True
 7306,Austin William Lanz,2021-08-03,shot,knife,27,M,,Arlington,VA,True,attack,Not fleeing,False,-77.056,38.871,True
 7065,Sean Rowe,2021-08-04,shot,unknown weapon,,M,,Mifflin Township,OH,True,other,Not fleeing,False,-82.392,40.758,True
-7067,Dylan Harmer,2021-08-04,shot,gun,21,M,,Glendora,CA,False,attack,Foot,False,-117.862,34.133,True
+7067,Dylan Harmer,2021-08-04,shot,gun,21,M,W,Glendora,CA,False,attack,Foot,False,-117.862,34.133,True
 7077,Joseph John Howard,2021-08-05,shot,unarmed,35,M,,Hartford,VT,False,attack,,False,-72.319,43.649,True
 7079,Isaiah Hinds,2021-08-05,shot,gun,22,M,,Seattle,WA,False,attack,Not fleeing,True,-122.361,47.514,True
 7080,Chad M. Fiscus,2021-08-05,shot,gun,35,M,W,Putnamville,IN,False,attack,Not fleeing,False,-86.865,39.574,True
