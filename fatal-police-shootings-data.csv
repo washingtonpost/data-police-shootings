@@ -7692,21 +7692,21 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8373,Samuel Paul Ranson,2022-08-27,shot,gun,50,M,W,Charleston,WV,False,attack,Not fleeing,False,-81.586,38.334,True
 8379,,2022-08-27,shot,knife,,F,,Sacramento,CA,False,attack,Not fleeing,False,-121.447,38.612,True
 8380,Maxie George,2022-08-27,shot,undetermined,69,M,,Red River Parish,LA,False,undetermined,,False,-93.34,32.047,True
-8366,Keshawn Thomas,2022-08-28,shot,undetermined,,M,,Albuquerque,NM,False,undetermined,,False,-106.702,35.115,True
+8366,Keshawn Thomas,2022-08-28,shot,undetermined,27,M,,Albuquerque,NM,False,undetermined,,False,-106.702,35.115,True
 8367,,2022-08-28,shot,gun,,,,Tacoma,WA,False,attack,Not fleeing,False,-122.492,47.196,True
 8370,Lamar A. Davis,2022-08-28,shot,gun,18,M,,Bangor Township,MI,False,other,Not fleeing,False,-83.92,43.628,True
 8372,Brian Underwood,2022-08-28,shot,gun,47,M,,Sarasota,FL,False,attack,Not fleeing,False,-82.442,27.293,True
 8375,,2022-08-28,shot,gun,,M,B,Houston,TX,False,attack,Not fleeing,False,-95.495,29.693,True
 8378,J'Quinton D. Hopson,2022-08-28,shot,gun,38,M,,Fort Worth,TX,False,other,Car,True,-97.315,32.809,True
-8371,Andrew Ainsworth,2022-08-29,shot,gun,60,M,,Albemarle County,VA,False,attack,Not fleeing,False,-78.525,38.026,True
-8368,William Isaac Rich,2022-08-30,shot,unknown weapon,22,M,,Cedar Rapids,IA,False,other,Not fleeing,True,-91.678,41.924,True
+8371,Andrew T. Ainsworth,2022-08-29,shot,gun,60,M,,Albemarle County,VA,False,attack,Not fleeing,False,-78.525,38.026,True
+8368,William Isaac Rich,2022-08-30,shot,Gun,22,M,,Cedar Rapids,IA,False,other,Not fleeing,True,-91.678,41.924,True
 8369,Donovan Lewis,2022-08-30,shot,unarmed,20,M,B,Columbus,OH,False,undetermined,Not fleeing,True,-83.087,39.943,True
 8376,Jacob M. Jamrozy,2022-08-31,shot,gun,39,M,,Omaha,NE,False,other,Not fleeing,True,-96.07,41.203,True
 8377,Augustine Flores,2022-08-31,shot,machete,40,M,,Los Angeles,CA,False,attack,,False,-118.243,33.953,True
 8388,Dominic Jeter,2022-08-31,shot,gun,23,M,,Concord,NC,False,attack,Foot,False,-80.726,35.37,True
 8382,Jonathan May,2022-09-01,shot,gun,31,M,,Rockwall,TX,False,attack,Not fleeing,False,-96.465,32.89,True
-8383,,2022-09-01,shot,gun,43,M,,Pittsburgh,PA,False,other,Not fleeing,False,-80.055,40.436,True
-8384,,2022-09-01,shot,gun,,M,,Rockford,IL,False,other,,True,-89.037,42.217,True
+8383,Brian Fisher,2022-09-01,shot,gun,43,M,,Pittsburgh,PA,False,other,Not fleeing,False,-80.055,40.436,True
+8384,Peter J. Jaeger,2022-09-01,shot,gun,,M,,Rockford,IL,False,other,,True,-89.037,42.217,True
 8400,Jaiden Malik Carter,2022-09-01,shot,undetermined,19,M,,Woodbridge,VA,False,undetermined,,True,-77.319,38.634,True
 8385,Harrison Brown,2022-09-02,shot,gun,32,M,,Houston,TX,False,other,Car,True,-95.398,29.689,True
 8393,Joshua Michael,2022-09-02,shot,gun,37,M,,Springfield,MO,False,other,Not fleeing,True,-93.296,37.178,True
