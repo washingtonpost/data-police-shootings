@@ -7719,20 +7719,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8386,Robert Bradley,2022-09-04,shot,gun,,M,,Spokane,WA,False,other,Not fleeing,True,-117.372,47.702,True
 8403,,2022-09-04,shot,knife,54,M,,Federal Way,WA,False,other,Not fleeing,False,-122.304,47.335,True
 8392,,2022-09-05,shot,unknown weapon,29,M,,Thornton,CO,False,other,Not fleeing,False,-104.989,39.916,True
-8395,Maalik Roquemore,2022-09-05,shot,unarmed,32,M,,Cleveland,OH,True,attack,,True,-81.818,41.431,True
+8395,Maalik Roquemore,2022-09-05,shot,unarmed,32,M,B,Cleveland,OH,True,attack,,True,-81.818,41.431,True
 8396,Jimmie Janeway,2022-09-05,shot,gun,63,M,,Wasilla,AK,False,attack,Not fleeing,False,-149.429,61.596,True
 8389,,2022-09-06,shot,gun,,M,,Strongs Prairie,WI,False,other,Not fleeing,True,-89.944,44.025,True
-8397,,2022-09-07,shot,screwdriver,,M,,Flagstaff,AZ,False,other,Foot,False,-111.584,35.224,True
+8397,David Wayne Henry,2022-09-07,shot,screwdriver,51,M,,Flagstaff,AZ,False,other,Foot,False,-111.584,35.224,True
 8399,,2022-09-07,shot,gun,,M,W,Springville,AL,False,attack,Car,False,-86.472,33.775,True
 8401,,2022-09-07,shot,knife,61,M,B,St. Louis,MO,False,other,Not fleeing,False,-90.29,38.668,True
 8402,Tyler Michael Gardner,2022-09-07,shot,gun,27,M,,Washington County,TN,False,attack,Other,False,-82.539,36.309,True
 8406,Reginald Lamont Grant,2022-09-07,shot,gun,30,M,,Columbus,GA,False,attack,Foot,False,,,True
-8408,,2022-09-08,shot,gun,,,,Lexington,KY,False,attack,Not fleeing,True,-84.494,37.987,True
 8409,,2022-09-08,shot,gun,36,M,,Middle Smithfield Township,PA,False,other,Foot,False,-75.04,41.075,True
 8417,Joshua Hagans,2022-09-08,shot,gun,40,M,,Louisville,KY,False,attack,Not fleeing,False,-84.443,37.886,True
 8421,George Franklin,2022-09-08,shot,gun,47,M,,Zion,IL,False,attack,Foot,False,-87.838,42.446,True
 8407,James Preston Trexler,2022-09-09,shot,spear,45,M,,Hudson,NC,False,attack,Foot,False,-81.481,35.846,True
-8410,Edwin Medina Barnes,2022-09-09,shot,sharp object,40,M,,Elk City,OK,False,attack,Not fleeing,False,-99.412,35.398,True
+8410,Edwin Medina Baires,2022-09-09,shot,sharp object,40,M,,Elk City,OK,False,attack,Not fleeing,False,-99.412,35.398,True
 8419,Daniel K. McAlpin,2022-09-09,shot,knife,41,M,,Wawarsing,NY,True,other,,False,-74.387,41.655,True
 8415,Aaron Baughman,2022-09-10,shot,samurai sword,40,M,,Houston,TX,False,other,Not fleeing,True,-95.37,29.76,True
 8416,,2022-09-10,shot,undetermined,,M,,Burien,WA,False,other,Other,False,-122.309,47.491,True
@@ -7765,7 +7764,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8442,,2022-09-20,shot,undetermined,,M,,Josephine County,OR,False,undetermined,Not fleeing,False,-123.363,42.517,True
 8445,Colby Atkins,2022-09-20,shot,vehicle,45,M,,Bernalillo County,NM,False,attack,Car,False,-106.683,35.019,True
 8441,,2022-09-21,shot,gun,,F,,Ahoskie,NC,False,other,Not fleeing,False,-76.988,36.219,True
-8446,,2022-09-21,shot,gun,,F,,Destin,FL,False,attack,Not fleeing,False,-86.418,30.394,True
+8446,Berlin Gonzales,2022-09-21,shot,gun,45,M,,Destin,FL,False,attack,Not fleeing,False,-86.418,30.394,True
 8443,Amado Ramos,2022-09-22,shot,vehicle,36,M,,Wapato,WA,False,attack,Other,False,-120.398,46.425,True
 8447,,2022-09-22,shot,gun,,M,,Sequim,WA,False,attack,Not fleeing,False,-123.135,48.083,True
 8448,Henry Wilson Mercer,2022-09-23,shot,vehicle,63,M,,Irwin County,GA,False,other,Car,False,-83.367,31.589,True
