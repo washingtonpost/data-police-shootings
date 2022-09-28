@@ -7744,15 +7744,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8422,Dennis McCullers,2022-09-12,shot,gun,63,M,,Walton County,GA,False,attack,Not fleeing,False,-83.732,33.841,True
 8423,Anthony Maurice Tollison,2022-09-12,shot,toy weapon,39,M,,Mt. Airy,GA,False,undetermined,Not fleeing,False,-83.501,34.519,True
 8424,David Litts,2022-09-12,shot,knife,61,M,,Utica,NY,True,other,,False,-75.238,43.085,True
-8426,,2022-09-13,shot,gun,40,M,,Milwaukee,WI,False,attack,,False,-87.955,43.05,True
+8426,Sherman D. Solomon,2022-09-13,shot,gun,40,M,,Milwaukee,WI,False,attack,,False,-87.955,43.05,True
 8428,Tyshawn Malik Benjamin,2022-09-13,shot,vehicle,25,M,,York County,SC,False,attack,Car,False,-81.001,34.964,True
-8427,,2022-09-14,shot,undetermined,,M,,Rusk County,WI,False,undetermined,,False,-94.957,32.189,True
-8429,Anthon Washington,2022-09-14,shot,knife,22,M,,Marietta,GA,False,other,Not fleeing,False,-84.558,33.909,True
+8427,,2022-09-14,shot,undetermined,,M,,Rusk County,TX,False,undetermined,,False,-94.957,32.189,True
+8429,Anton Washington,2022-09-14,shot,knife,22,M,,Marietta,GA,False,other,Not fleeing,False,-84.558,33.909,True
 8430,Joe Pickett,2022-09-14,shot,gun,64,M,,Grundy County,TN,False,attack,,False,-85.614,35.379,True
-8431,John De Ubl,2022-09-14,shot,gun,25,M,,Flagstaff,AZ,False,other,,False,-111.623,35.217,True
+8431,Michael John De Ubl,2022-09-14,shot,gun,25,M,,Flagstaff,AZ,False,other,,False,-111.623,35.217,True
 8432,Weston Cassody,2022-09-15,shot,knife,35,M,,Garfield County,OK,False,other,,False,-97.588,36.313,True
+8439,Marcus Adam Fuentes,2022-09-15,shot,unarmed,36,M,H,Kingman,AZ,False,other,Foot,False,-114.036,35.225,True
 8438,Colby Archer,2022-09-16,shot,gun,39,M,,Weatherford,OK,False,attack,Car,False,-98.694,35.526,True
-8439,Marcus Adam Fuentes,2022-09-16,shot,unarmed,36,M,,Kingman,AZ,False,other,Foot,False,-114.036,35.225,True
 8433,Anthony Hopkins,2022-09-17,shot,gun,48,M,,Anne Arundel County,MD,False,attack,,False,-76.663,38.883,True
 8434,Luis Herrera,2022-09-17,shot,toy weapon,19,M,,Los Angeles,CA,False,other,,False,-118.281,33.943,True
 8435,Mathew Lopez,2022-09-17,shot,stone,27,M,,Fresno,CA,False,other,Not fleeing,False,-119.764,36.77,True
