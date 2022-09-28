@@ -6721,7 +6721,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7191,Irlin Paz,2021-09-22,shot,knife,40,M,,Chamblee,GA,False,attack,Not fleeing,False,-84.291,33.893,True
 7183,Keith Cole,2021-09-23,shot,undetermined,,M,B,Looxahoma,MS,False,other,Foot,True,-89.839,34.612,True
 7188,,2021-09-23,shot,gun,40,M,,McKinney,TX,True,attack,Not fleeing,False,-96.676,33.161,True
-7294,Barry Ross,2021-09-23,shot,gun,34,M,,Los Angeles,CA,False,attack,Car,False,-118.154,34.806,True
+7294,Barry Ross,2021-09-23,shot,gun,34,M,W,Los Angeles,CA,False,attack,Car,False,-118.154,34.806,True
 7296,Barry P. Heckard,2021-09-23,shot,gun,39,M,W,Newberry,FL,False,attack,Car,False,-82.607,29.639,True
 7565,Desmond Lewis,2021-09-23,shot,gun,20,M,B,Lake Charles,LA,False,attack,Not fleeing,False,,,True
 7185,Jessie Leonard,2021-09-24,shot,gun,36,F,,Indianapolis,IN,False,other,Car,True,-86.169,39.809,True
@@ -7733,7 +7733,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8407,James Preston Trexler,2022-09-09,shot,spear,45,M,,Hudson,NC,False,attack,Foot,False,-81.481,35.846,True
 8410,Edwin Medina Baires,2022-09-09,shot,sharp object,40,M,,Elk City,OK,False,attack,Not fleeing,False,-99.412,35.398,True
 8419,Daniel K. McAlpin,2022-09-09,shot,knife,41,M,,Wawarsing,NY,True,other,,False,-74.387,41.655,True
-8415,Aaron Baughman,2022-09-10,shot,samurai sword,40,M,,Houston,TX,False,other,Not fleeing,True,-95.37,29.76,True
+8415,Aaron Baughman,2022-09-10,shot,samurai sword,40,M,,Phoenix,AZ,False,other,Not fleeing,True,-95.37,29.76,True
 8416,,2022-09-10,shot,undetermined,,M,,Burien,WA,False,other,Other,False,-122.309,47.491,True
 8418,Gabriel Charles,2022-09-10,shot,gun,27,M,,Las Vegas,NV,False,attack,Foot,False,-115.146,36.115,True
 8411,,2022-09-11,shot,tire iron,,M,,Houston,TX,False,other,Not fleeing,False,-95.294,29.699,True
