@@ -7768,9 +7768,19 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8443,Amado Ramos,2022-09-22,shot,vehicle,36,M,,Wapato,WA,False,attack,Other,False,-120.398,46.425,True
 8447,,2022-09-22,shot,gun,,M,,Sequim,WA,False,attack,Not fleeing,False,-123.135,48.083,True
 8448,Henry Wilson Mercer,2022-09-23,shot,vehicle,63,M,,Irwin County,GA,False,other,Car,False,-83.367,31.589,True
+8453,Timothy W. Shafer,2022-09-23,shot,gun,37,M,,Ozark,MO,False,other,Car,False,-93.21,38.925,True
 8454,Donna M. Bailey,2022-09-23,shot,unarmed,23,F,,Ozark,MO,False,other,Car,False,-93.21,38.925,True
 8455,,2022-09-23,shot,gun,29,M,,Austin,TX,True,other,Not fleeing,False,-97.703,30.228,True
+8458,Darian Patrick Fisher,2022-09-23,shot,gun,41,M,,Chillicothe,TX,False,attack,Car,False,-99.515,34.256,True
 8451,,2022-09-24,shot,gun,,M,,Las Vegas,NV,False,attack,,False,-115.201,36.303,True
+8463,,2022-09-24,shot,BB gun,,M,,Henderson,NV,False,attack,Foot,False,-115.118,36.048,True
 8449,Ali Osman,2022-09-25,shot,rock,34,M,,Phoenix,AZ,False,attack,,False,-112.1,33.535,True
 8450,Leroy Quick,2022-09-25,shot,gun,,M,,Sumter,SC,False,attack,,False,-80.431,33.868,True
 8452,,2022-09-25,shot,unknown weapon,,M,,Aurora,CO,False,other,Foot,False,-104.848,39.711,True
+8457,,2022-09-26,shot,gun,,M,,Salt Lake City,UT,False,attack,Not fleeing,False,-111.88,40.718,True
+8459,,2022-09-26,shot,undetermined,,,,Rembert,SC,False,undetermined,,False,-80.515,34.052,True
+8460,Savannah Graziano,2022-09-26,shot,undetermined,15,F,,San Bernardino County,CA,False,other,Car,False,-116.419,34.959,True
+8461,Anthony Graziano,2022-09-26,shot,gun,45,M,,San Bernardino County,CA,False,attack,Car,False,-116.419,34.959,True
+8462,,2022-09-27,shot,undetermined,,M,,Edinburg,TX,False,other,Foot,False,-98.13,26.326,True
+8464,,2022-09-28,shot,gun,,M,,Dallas,TX,False,attack,,False,-96.668,32.835,True
+8465,,2022-09-28,shot,unknown weapon,,,,Great Falls,MT,False,other,Foot,False,,,True
