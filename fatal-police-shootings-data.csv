@@ -6854,6 +6854,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7334,,2021-11-07,shot,gun,,M,,Knowlton Township,NJ,False,attack,Not fleeing,False,-75.108,40.948,True
 7341,,2021-11-08,shot,gun,,M,,Renton,WA,False,other,Not fleeing,False,-122.223,47.474,True
 7344,Angie McFarland,2021-11-08,shot,gun,50,F,W,Monteagle,TN,False,attack,Not fleeing,False,-85.84,35.24,True
+7347,Andrew Dzwonchyk,2021-11-08,shot,vehicle,40,M,,Union Township,PA,False,attack,Car,False,,,True
 7342,,2021-11-09,shot,gun,,M,,Boston,MA,True,attack,Not fleeing,True,-71.077,42.289,True
 7367,Jessiram Hweih Rivera,2021-11-11,shot,shovel,24,F,,Polk County,FL,False,other,Not fleeing,False,,,True
 7368,Brian Astarita,2021-11-11,shot,gun,65,M,W,New York,NY,False,other,Car,False,,,True
@@ -6864,7 +6865,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7531,,2021-11-12,shot,gun,,M,,Phoenix,AZ,False,attack,Car,False,,,True
 7365,Marcus Mann,2021-11-13,shot,unarmed,42,M,B,Jackson,TN,False,attack,,False,,,True
 7530,Isaac Bell,2021-11-13,shot,undetermined,41,M,B,Biloxi,MS,False,attack,Foot,False,,,True
-7347,Andrew Dzwonchyk,2021-11-14,shot,vehicle,40,M,,Union Township,PA,False,attack,Car,False,,,True
 7364,,2021-11-14,shot,gun,30,M,B,Columbia,MO,False,attack,Foot,False,,,True
 7363,,2021-11-15,shot,gun,,M,,Pueblo,CO,False,other,,False,,,True
 7529,,2021-11-15,shot,gun,,M,,Ocala,FL,False,other,Not fleeing,False,,,True
@@ -7777,7 +7777,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8454,Donna M. Bailey,2022-09-24,shot,unarmed,23,F,,Ozark,MO,False,other,Car,False,-93.21,38.925,True
 8449,Ali Osman,2022-09-25,shot,rock,34,M,,Phoenix,AZ,False,attack,,False,-112.1,33.535,True
 8450,Leroy Quick,2022-09-25,shot,gun,71,M,,Sumter,SC,False,attack,,False,-80.431,33.868,True
-8468,Jaylen Lewis,2022-09-25,shot,undetermined,25,,,Jackson,MS,False,undetermined,,False,-90.178,32.345,True
+8468,Jaylen Lewis,2022-09-25,shot,undetermined,25,M,B,Jackson,MS,False,undetermined,,False,-90.178,32.345,True
 8457,Jebb Muir,2022-09-26,shot,gun,44,M,,Salt Lake City,UT,False,attack,Not fleeing,False,-111.88,40.718,True
 8459,,2022-09-26,shot,undetermined,,,,Rembert,SC,False,undetermined,,False,-80.515,34.052,True
 8460,Savannah Graziano,2022-09-26,shot,undetermined,15,F,,Hesperia,CA,False,other,Car,False,-116.419,34.959,True
@@ -7786,19 +7786,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8480,Jose Villanueva,2022-09-26,shot,gun,21,M,,Greenacres,FL,False,attack,,False,-80.114,26.606,True
 8462,Leroy Villarreal,2022-09-27,shot,undetermined,36,M,,Edinburg,TX,False,other,Foot,False,-98.13,26.326,True
 8464,,2022-09-28,shot,gun,,M,,Dallas,TX,False,attack,,False,-96.668,32.835,True
-8465,,2022-09-28,shot,unknown weapon,,,,Great Falls,MT,False,other,Foot,False,,,True
-8467,Terrance Sligh,2022-09-28,shot,gun,,M,,Greenville,SC,False,undetermined,Car,False,-82.323,34.902,True
-8470,Jaime Naranjo Bautista,2022-09-28,shot,machete,55,M,,Sacramento,CA,True,other,Not fleeing,True,,,True
+8465,Daniel Joseph Sangrey,2022-09-28,shot,unknown weapon,49,F,,Great Falls,MT,False,other,Foot,False,,,True
+8467,Terrance Maurice Sligh,2022-09-28,shot,gun,34,M,,Greenville,SC,False,undetermined,Car,False,-82.323,34.902,True
+8470,Jaime Naranjo,2022-09-28,shot,machete,55,M,,Sacramento,CA,True,other,Not fleeing,True,,,True
 8466,,2022-09-29,shot,gun,,M,,Broomfield,CO,False,attack,Foot,False,-105.053,39.925,True
-8469,David Jones,2022-09-29,shot,gun,51,M,,Baker,LA,False,attack,Car,False,-91.179,30.612,True
-8473,,2022-10-01,shot,gun,,M,,Mountain View,NC,False,other,,False,-81.374,35.665,True
-8477,,2022-10-01,shot,gun,,M,,Denver,CO,False,other,Car,False,-104.716,39.832,True
-8471,,2022-10-02,shot,unknown weapon,,,,Lawrence,KS,False,other,,False,-95.215,38.946,True
+8469,David Gerard Jones,2022-09-29,shot,gun and vehicle,51,M,,Baker,LA,False,attack,Car,False,-91.179,30.612,True
+8473,Bobby Roy Farthing,2022-10-01,shot,gun,62,M,,Mountain View,NC,False,other,,False,-81.374,35.665,True
+8477,Abel Yohannes,2022-10-01,shot,gun,30,M,,Denver,CO,False,other,Car,False,-104.716,39.832,True
 8472,,2022-10-02,shot,gun,,M,,Chicago,IL,False,other,,False,-87.639,41.909,True
 8475,Porter Burks,2022-10-02,shot,knife,22,M,,Detroit,MI,True,other,,True,-83.177,42.395,True
 8476,Thomas Talley,2022-10-02,shot,gun,40,M,,Indianapolis,IN,False,attack,,True,-86.225,39.739,True
-8478,,2022-10-02,shot,undetermined,35,M,W,Aurora,CO,True,other,Other,True,-104.832,39.729,True
-8482,Michael Blanck,2022-10-02,shot,gun,43,M,,Lawrence,KS,False,attack,Not fleeing,False,-95.215,38.946,True
-8481,Samuel Vincent Richmond,2022-10-03,shot,unknown weapon,59,M,,Peoria,IL,False,undetermined,,False,-89.605,40.686,True
-8483,,2022-10-04,shot,gun,31,M,,Lansing,MI,False,attack,Not fleeing,False,-84.578,42.726,True
-8484,Colin Merrill West,2022-10-04,shot,gun,36,M,,Warrington,FL,False,attack,Not fleeing,False,-87.285,30.38,True
+8478,,2022-10-02,shot,knife,35,M,W,Aurora,CO,True,other,Other,True,-104.832,39.729,True
+8482,Michael S. Blanck,2022-10-02,shot,gun,43,M,W,Lawrence,KS,False,attack,Not fleeing,False,-95.215,38.946,True
+8481,Samuel Vincent Richmond,2022-10-03,shot,gun,59,M,,Peoria,IL,False,undetermined,,False,-89.605,40.686,True
+8483,Terrence Robinson,2022-10-04,shot,gun,31,M,,Lansing,MI,False,attack,Not fleeing,False,-84.578,42.726,True
+8484,Colin Merrill West,2022-10-04,shot,gun,36,M,W,Warrington,FL,True,attack,Not fleeing,False,-87.285,30.38,True
