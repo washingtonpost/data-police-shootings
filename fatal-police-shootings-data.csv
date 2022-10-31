@@ -6973,8 +6973,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7443,Brian Douglas Laxton,2021-12-22,shot,gun,44,M,W,Battle Creek,MI,False,attack,Car,True,-85.175,42.309,True
 7500,Ronald Hoffman,2021-12-22,shot,gun,57,M,W,Foster Township,PA,False,other,Foot,False,,,True
 7438,James W. Gross,2021-12-23,shot,knife,58,M,W,Akron,OH,False,other,,False,,,True
-7450,Valentina Orellana-Peralta,2021-12-23,shot,unarmed,14,F,,Los Angeles,CA,False,other,Foot,True,,,True
-7451,Daniel Elena Lopez,2021-12-23,shot,unknown weapon,24,M,,Los Angeles,CA,False,attack,,False,,,True
+7450,Valentina Orellana-Peralta,2021-12-23,shot,unarmed,14,F,H,Los Angeles,CA,False,other,Foot,True,,,True
+7451,Daniel Elena Lopez,2021-12-23,shot,unknown weapon,24,M,H,Los Angeles,CA,False,attack,,False,,,True
 7501,Kokou Christopher Fiafonou,2021-12-23,shot,knife,38,M,B,Austin,MN,True,other,Foot,False,,,True
 7503,Richard R. McCormick,2021-12-23,shot,gun,62,M,,Springfield,MO,False,attack,Not fleeing,False,,,True
 7504,Steven B. Matze,2021-12-23,shot,gun,44,M,W,South Hill,VA,False,attack,Not fleeing,False,,,True
