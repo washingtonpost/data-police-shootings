@@ -6911,7 +6911,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7405,Edward Allen Gatling,2021-12-01,shot,gun,38,M,B,Lithonia,GA,False,attack,,False,,,True
 7469,Anei Gabriel Joker,2021-12-01,shot,gun,20,M,B,Taylorsville,UT,False,attack,Not fleeing,True,,,True
 7409,Brian Howard,2021-12-02,shot,gun,25,M,,Buffalo Grove,IL,True,other,Not fleeing,False,,,True
-7470,Arlin Duane Bordeaux,2021-12-02,shot,undetermined,29,M,,Lame Deer,MT,False,undetermined,,False,,,True
+7470,Arlin Duane Bordeaux,2021-12-02,shot,undetermined,29,M,N,Lame Deer,MT,False,undetermined,,False,,,True
 7471,,2021-12-02,shot,undetermined,,M,,Floyd County,KY,False,undetermined,,False,,,True
 7430,Alhaji Sow,2021-12-03,shot,pair of scissors,18,M,,Melbourne,FL,True,attack,Not fleeing,False,,,True
 7472,Michael Graves,2021-12-03,shot,gun,39,M,,St. Louis,MO,False,attack,Other,False,,,True
@@ -6921,7 +6921,6 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7413,Douglas B. Halphin,2021-12-06,shot,gun and vehicle,48,M,,Blue Springs,MO,False,attack,Car,False,,,True
 7476,Brandon Keck,2021-12-06,shot,gun,30,M,,Portland,OR,False,attack,Car,False,,,True
 7477,Dale Query,2021-12-06,shot,gun,38,M,,Basin,WY,True,attack,Not fleeing,False,,,True
-7478,Douglas B. Halphin,2021-12-06,shot,gun and vehicle,48,M,,Blue Springs,MO,False,attack,Not fleeing,False,,,True
 7414,Ronald Ehrich,2021-12-07,shot,gun,88,M,,Riverview,FL,False,other,,True,,,True
 7423,,2021-12-07,shot,undetermined,,M,,Elizabethtown,KY,False,undetermined,,False,,,True
 7479,Mario Armando Diaz,2021-12-07,shot,unarmed,41,M,H,Albuquerque,NM,False,attack,Foot,False,,,True
