@@ -7803,8 +7803,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8483,Terrence Robinson,2022-10-04,shot,gun,31,M,,Lansing,MI,False,attack,Not fleeing,False,-84.578,42.726,True
 8484,Colin Merrill West,2022-10-04,shot,gun,36,M,W,Warrington,FL,True,attack,Not fleeing,False,-87.285,30.38,True
 8487,Manuel González Morán,2022-10-04,shot,pair of scissors,33,M,,El Paso,TX,False,other,Not fleeing,False,-106.285,31.711,True
-8485,Ron Welch,2022-10-05,shot,undetermined,33,M,,Baytown,TX,False,undetermined,Not fleeing,False,-94.944,29.7,True
-8486,Bobby Joe Johnston,2022-10-05,shot,gun,,M,,Claremore,OK,False,attack,Car,False,-95.553,36.318,True
+8485,Ron Welch,2022-10-05,shot,gun,33,M,W,Baytown,TX,False,other,Not fleeing,False,-94.944,29.7,True
+8486,Bobby Joe Johnston,2022-10-05,shot,undetermined,,M,,Claremore,OK,False,other,Car,False,-95.553,36.318,True
 8488,Ronald Dunigan Burdine,2022-10-05,shot,gun,56,M,,Port Neches,TX,False,attack,Not fleeing,False,-93.959,29.957,True
 8489,Troy Garcia,2022-10-05,shot,undetermined,51,M,,Colorado City,CO,False,undetermined,,False,-104.848,37.954,True
 8491,Jeremy McCracken,2022-10-05,shot,gun,38,M,,Springfield Township,OH,False,attack,,False,-81.446,41.035,True
