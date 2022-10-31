@@ -7293,7 +7293,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7922,James Wesley Morrison,2022-04-07,shot,gun,49,M,,Norman,OK,False,attack,Car,False,-97.353,35.182,True
 7919,Dustin Levell Saffell,2022-04-08,shot,gun,32,M,W,Benton Harbor,MI,False,attack,Not fleeing,True,-86.442,42.116,True
 7924,,2022-04-08,shot,gun,,M,,Taylor,MI,False,attack,Not fleeing,False,-83.301,42.196,True
-7911,Charlie Albert Thompson,2022-04-09,shot,gun,21,M,,Farmington,NM,False,attack,Foot,False,-108.187,36.747,True
+7911,Charlie Albert Thompson,2022-04-09,shot,gun,21,M,B,Farmington,NM,False,attack,Foot,False,-108.187,36.747,True
 7912,Christopher Philip Coppola,2022-04-09,shot,gun,43,M,,Derry,NH,False,other,,False,-71.325,42.907,True
 7913,Daniel Luis Valdivia,2022-04-09,shot,undetermined,24,M,H,Covina,CA,False,undetermined,,False,-117.89,34.107,True
 7968,Richard Nichols,2022-04-09,shot,unknown weapon,48,M,,Houston,TX,False,other,Not fleeing,True,-95.414,29.898,True
@@ -7357,7 +7357,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8009,Kenneth Sykes,2022-05-03,shot,knife,47,M,,Prichard,AL,False,other,Foot,False,-88.09,30.745,True
 8011,Mekiah D. Harris,2022-05-03,shot,unknown weapon,26,M,B,Platte County,MO,False,other,,False,-94.761,39.333,True
 8033,Laron James,2022-05-03,shot,gun,54,M,B,Los Angeles,CA,True,attack,Not fleeing,False,-118.249,34.047,True
-8012,Elijah Isham,2022-05-04,shot,gun,27,M,,Moraine,OH,False,attack,Not fleeing,True,-84.229,39.704,True
+8012,Elijah Isham,2022-05-04,shot,gun,27,M,W,Moraine,OH,False,attack,Not fleeing,True,-84.229,39.704,True
 8016,Cicero Sanchez,2022-05-04,shot,undetermined,31,M,,Federal Way,WA,False,other,Car,False,-122.316,47.317,True
 8021,Ralph Picarello,2022-05-04,shot,knife,39,M,W,Essex,MD,False,other,Not fleeing,True,-76.471,39.318,True
 8024,John Alaniz,2022-05-04,shot,undetermined,34,M,,Paramount,CA,True,undetermined,,False,-118.169,33.899,True
@@ -7411,7 +7411,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8061,Carlos Tovar Gamboa,2022-05-21,shot,gun,56,M,,Doña Ana County,NM,True,attack,,False,,,True
 8060,,2022-05-22,shot,gun,,M,,Reedley,CA,False,attack,Other,False,-119.413,36.575,True
 8068,Curtis Bean Yellowtail,2022-05-23,shot,gun,35,M,N,Billings,MT,False,attack,Car,True,-108.552,45.767,True
-8084,Arthuro Rivera,2022-05-23,shot,knife,30,M,,Arizona City,AZ,False,other,,False,-111.68,32.753,True
+8084,Arthuro Rivera,2022-05-23,shot,knife,30,M,H,Arizona City,AZ,False,other,,False,-111.68,32.753,True
 8085,Randal Haynes,2022-05-23,shot,gun,53,M,W,Guymon,OK,False,attack,,False,-101.494,36.694,True
 8067,Joseph Robertson,2022-05-24,shot,gun,59,M,,Jersey City,NJ,False,other,,False,-74.081,40.721,True
 8080,Salvador Rolando Ramos,2022-05-24,shot,gun,18,M,H,Uvalde,TX,False,attack,Not fleeing,False,-99.789,29.199,True
