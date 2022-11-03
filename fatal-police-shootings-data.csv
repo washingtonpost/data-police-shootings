@@ -7656,7 +7656,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8333,Tyler Mendez,2022-08-11,shot,gun,27,M,,Eutawville,SC,False,attack,,False,,,True
 8335,Byron Hayes,2022-08-11,shot,gun,33,M,,Victorville,CA,False,attack,,False,,,True
 8354,,2022-08-11,shot,undetermined,,M,,Ethete,WY,False,undetermined,,False,-108.765,43.034,True
-8332,Darrel Hood,2022-08-12,shot,gun,32,M,,Richland Hills,TX,False,attack,,False,,,True
+8332,Darrel Hood,2022-08-12,shot,gun,32,M,B,Richland Hills,TX,False,attack,,False,,,True
 8334,Daniel Pesavento,2022-08-12,shot,gun,29,M,,Appleton,WI,False,other,,True,,,True
 8336,Michael Ahrens,2022-08-14,shot,Airsoft pistol,32,M,,Waterloo,IA,False,attack,,False,,,True
 8337,Jeremy Willie Horton,2022-08-15,shot,gun,32,M,B,Miami-Dade County,FL,False,attack,Car,False,,,True
@@ -7819,15 +7819,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8496,Christopher Earl Smith,2022-10-10,shot,gun,44,M,,Las Vegas,NV,False,other,Not fleeing,False,-115.118,36.199,True
 8498,Daniel Francis Scott,2022-10-10,shot,machete,30,M,W,Clarksville,IN,False,other,Not fleeing,False,-85.759,38.332,True
 8501,Hui Zhang,2022-10-10,shot,toy weapon,33,M,,Paterson,NJ,False,undetermined,Foot,False,-74.167,40.918,True
-8500,,2022-10-11,shot,Gun,,M,,Wilmington,CA,False,attack,Foot,False,-118.258,33.777,True
+8500,Jason Sanderson,2022-10-11,shot,Gun,41,M,,Wilmington,CA,False,attack,Foot,False,-118.258,33.777,True
 8503,,2022-10-11,shot,undetermined,,,,Cherry Hill,NJ,False,undetermined,,False,-75.003,39.926,True
-8504,Jamontey O. Neal,2022-10-12,shot,gun,,M,,Decatur,IL,False,attack,Not fleeing,False,-88.939,39.858,True
-8505,Raheem Lee,2022-10-12,shot,gun,19,M,,Philadelphia,PA,False,attack,Foot,False,-75.154,39.966,True
+8504,Jamontey O. Neal,2022-10-12,shot,gun,32,M,,Decatur,IL,False,attack,Not fleeing,False,-88.939,39.858,True
+8505,Raheem Lee,2022-10-12,shot,gun,19,M,B,Philadelphia,PA,False,attack,Foot,False,-75.154,39.966,True
 8507,Nicholas Brutcher,2022-10-12,shot,gun,35,M,,Bristol,CT,False,attack,Not fleeing,False,-72.899,41.657,True
+8510,Jeffery J. Smith,2022-10-12,shot,gun,52,,,Spokane,WA,False,attack,,False,-117.614,48.052,True
 8506,Taylor L. Lowery,2022-10-13,shot,knife,33,M,,Topeka,KS,False,other,Not fleeing,False,-95.687,38.985,True
 8508,,2022-10-13,shot,undetermined,,,,Windsor,WI,False,undetermined,Car,False,-89.344,43.196,True
-8509,Christopher L. Ardoin,2022-10-13,shot,undetermined,31,M,,Lake Charles,LA,False,undetermined,Foot,False,-93.195,30.219,True
-8510,,2022-10-13,shot,gun,,,,Spokane,WA,False,attack,,False,-117.614,48.052,True
+8509,Christopher Lee Ardoin,2022-10-13,shot,undetermined,31,M,B,Lake Charles,LA,False,undetermined,Foot,False,-93.195,30.219,True
 8513,Taylor Grimes,2022-10-15,shot,gun,29,M,,Fort Worth,TX,True,other,Not fleeing,False,-97.267,32.709,True
 8511,Joel Capellan,2022-10-16,shot,gun,29,M,,Inwood,NY,False,undetermined,Not fleeing,False,-73.925,40.862,True
 8512,Angel Jimenez,2022-10-16,shot,gun,26,M,,Anadarko,OK,False,other,Foot,False,-98.247,35.066,True
