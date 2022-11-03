@@ -1,6 +1,6 @@
 # Fatal Force Database
 
-# :warning: *Announcement* :warning:
+# :warning:*Announcement*:warning:
 
 The Post has created an updated data structure, version 2, which will become the default data structure as of mid November. Please review [Data Versions](#data-versions) below for high-level context on the updates. Detailed Documentation as well as a sample of data in the new structure can be found in [Version 2](v2/).
 
@@ -60,12 +60,10 @@ The data is published under an Attribution-NonCommercial-ShareAlike 4.0 Internat
 
 ## Credits
 
-**Research and reporting:**
+**Research and reporting:** Jennifer Jenkins, Monika Mathur, Razzan Nakhlawi, Steven Rich and Andrew Ba Tran.
 
-Research and Reporting: Jennifer Jenkins, Monika Mathur, Razzan Nakhlawi, Steven Rich and Andrew Ba Tran.
+**Design and development:** Chris Alcantara, Katlyn Alo, Emma Baker, Aaron Brezel, Armand Emamdjomeh, Jake Kara, Paige Moody, James O’Toole and Leslie Shapiro.
 
-Design and development: Chris Alcantara, Katlyn Alo, Emma Baker, Aaron Brezel, Armand Emamdjomeh, Jake Kara, Paige Moody, James O’Toole and Leslie Shapiro.
+**Editing:** Sarah Childress, David Fallis, Reuben Fischer-Baum, Meghan Hoyer and Courtney Kan.
 
-Editing: Sarah Childress, David Fallis, Reuben Fischer-Baum, Meghan Hoyer and Courtney Kan.
-
-Past contributors: Keith L. Alexander, Sophie Andrews, Jason Bartz, Amy Brittain, Swetabh Changkakoti, Hong Sen Du, Kennedy Elliot, Linda Epstein, Holden Foreman, Joe Fox, Wendy Galietta, Kaeti Hinck, Laris Karklis, Kimberly Kindy, Whitney Leaming, Emily Liu, Wesley Lowery, Ted Mellnik, Lori Montgomery, Deblina Mukherjee, John Muyskens, Erik Reyna, Danielle Rindler, Kavya Sukumar, Julie Tate, Susan Tyler, Divya Verma, Aaron Williams.
+**Past contributors:** Keith L. Alexander, Sophie Andrews, Jason Bartz, Amy Brittain, Swetabh Changkakoti, Hong Sen Du, Kennedy Elliot, Linda Epstein, Holden Foreman, Joe Fox, Wendy Galietta, Kaeti Hinck, Laris Karklis, Kimberly Kindy, Whitney Leaming, Emily Liu, Wesley Lowery, Ted Mellnik, Lori Montgomery, Deblina Mukherjee, John Muyskens, Erik Reyna, Danielle Rindler, Kavya Sukumar, Julie Tate, Susan Tyler, Divya Verma, Aaron Williams.

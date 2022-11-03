@@ -1,4 +1,4 @@
-[This data is published under an [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/)]
+[This data is published under an [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0)]
 
 # About this story
 The Washington Post is [compiling a database of every fatal shooting](https://www.washingtonpost.com/graphics/national/police-shootings/) in the United States by a police officer in the line of duty in 2015 and 2016.
