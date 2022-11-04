@@ -7836,7 +7836,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8516,Jason Thorpe,2022-10-18,shot,gun,36,M,,Sparks,NV,False,attack,Not fleeing,False,-119.71,39.542,True
 8521,,2022-10-18,shot,gun,,F,,Midwest City,OK,False,attack,Not fleeing,False,-97.361,35.445,True
 8523,,2022-10-18,shot,gun,,M,,Paragould,AR,False,attack,,False,-90.549,36.061,True
-8518,Thomas Christopher Wheeler,2022-10-19,shot,gun,,M,,Еasley,SC,False,attack,Car,False,,,True
+8518,Thomas Christopher Wheeler,2022-10-19,shot,gun,26,M,,Еasley,SC,False,attack,Car,False,,,True
 8520,,2022-10-19,shot,gun,,M,,Oxford,MS,False,attack,Not fleeing,False,-89.487,34.34,True
 8522,Mark Edward Evers,2022-10-19,shot,gun,64,M,,Rockdale,TX,True,attack,Not fleeing,False,,,True
 8525,,2022-10-21,shot,knife,,M,,Johnstown,CO,False,other,Car,False,-104.983,40.361,True
