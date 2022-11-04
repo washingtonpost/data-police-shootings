@@ -7866,3 +7866,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8551,,2022-10-30,shot,knife,,M,,Huntington Park,CA,False,other,,False,-118.228,33.984,True
 8545,,2022-10-31,shot,unknown weapon,,M,,Santa Maria,CA,False,other,Foot,False,-120.45,34.943,True
 8549,Kenneth Cervice,2022-10-31,shot,gun,,M,,Fawn Township,PA,False,attack,Not fleeing,False,-79.746,40.653,True
+8556,,2022-10-31,shot,gun,,M,,Saddle Ridge,WY,False,attack,,False,-104.725,41.154,True
+8555,Raymondo Duran,2022-11-01,shot,gun and car,30,M,,Fort Worth,TX,False,attack,Car,False,-97.289,32.889,True
+8557,Eric Jermaine Allen,2022-11-02,shot,vehicle,39,M,,Mt. Juliet,TN,False,other,Car,False,-86.519,36.2,True
+8558,,2022-11-02,shot,gun,,M,O,Jacksonville,FL,False,attack,Foot,False,-81.724,30.333,True
