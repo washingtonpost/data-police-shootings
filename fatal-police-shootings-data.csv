@@ -7702,8 +7702,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8368,William Isaac Rich,2022-08-30,shot,Gun,22,M,,Cedar Rapids,IA,False,other,Not fleeing,True,-91.678,41.924,True
 8369,Donovan Lewis,2022-08-30,shot,unarmed,20,M,B,Columbus,OH,False,undetermined,Not fleeing,True,-83.087,39.943,True
 8376,Jacob M. Jamrozy,2022-08-31,shot,gun,39,M,,Omaha,NE,False,other,Not fleeing,True,-96.07,41.203,True
-8377,Augustine Flores,2022-08-31,shot,machete,40,M,,Los Angeles,CA,False,attack,,False,-118.243,33.953,True
-8388,Dominic Jeter,2022-08-31,shot,gun,23,M,,Concord,NC,False,attack,Foot,False,-80.726,35.37,True
+8377,Augustine Flores,2022-08-31,shot,machete,40,M,H,Los Angeles,CA,False,attack,,False,-118.243,33.953,True
+8388,Dominic Jeter,2022-08-31,shot,gun,23,M,B,Concord,NC,False,attack,Foot,False,-80.726,35.37,True
 8382,Jonathan May,2022-09-01,shot,gun,31,M,,Rockwall,TX,False,attack,Not fleeing,False,-96.465,32.89,True
 8383,Brian Fisher,2022-09-01,shot,gun,43,M,,Pittsburgh,PA,False,other,Not fleeing,False,-80.055,40.436,True
 8384,Peter J. Jaeger,2022-09-01,shot,gun,,M,,Rockford,IL,False,other,,True,-89.037,42.217,True
@@ -7829,7 +7829,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8508,Quantaze D. Campbell,2022-10-13,shot,undetermined,46,,,Windsor,WI,False,undetermined,Car,False,-89.344,43.196,True
 8509,Christopher Lee Ardoin,2022-10-13,shot,undetermined,31,M,B,Lake Charles,LA,False,undetermined,Foot,False,-93.195,30.219,True
 8513,Taylor Grimes,2022-10-15,shot,gun,29,M,,Fort Worth,TX,True,attack,Not fleeing,True,-97.267,32.709,True
-8511,Joel Capellan,2022-10-16,shot,gun,29,M,,Inwood,NY,False,undetermined,Not fleeing,False,-73.925,40.862,True
+8511,Joel Capellan,2022-10-16,shot,gun,29,M,,Inwood,NY,False,other,Not fleeing,False,-73.925,40.862,True
 8512,Angel Jimenez,2022-10-16,shot,gun,26,M,,Anadarko,OK,False,other,Foot,False,-98.247,35.066,True
 8514,Sergio Gruver,2022-10-16,shot,knife,21,M,,Oklahoma City,OK,False,other,,False,,,True
 8515,,2022-10-17,shot,gun,28,M,,Southlake,TX,False,attack,Not fleeing,False,-97.134,32.951,True
