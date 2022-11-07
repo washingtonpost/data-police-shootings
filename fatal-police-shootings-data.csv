@@ -7843,15 +7843,15 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8536,Aaron Linke,2022-10-21,shot,gun,48,M,,Morrison,IL,False,attack,Not fleeing,False,-89.963,41.812,True
 8528,Desman LaDuke,2022-10-22,shot,unknown weapon,22,M,,Nicholasville,KY,True,other,Not fleeing,False,-84.57,37.879,True
 8527,Lynn Fredericksen,2022-10-23,shot,knife,57,M,,Louisville,CO,False,other,Not fleeing,False,-105.128,39.976,True
-8529,Ronnie Lee Martin,2022-10-23,shot,gun,,M,,Senatobia,MS,False,other,Other,False,-89.968,34.614,True
-8526,,2022-10-24,shot,gun,,M,,Castro Valley,CA,False,other,Car,False,-122.011,37.715,True
+8529,Ronnie Lee Martin,2022-10-23,shot,gun,42,M,,Senatobia,MS,False,attack,Other,False,-89.968,34.614,True
+8526,,2022-10-24,shot,gun and car,,M,,Castro Valley,CA,False,attack,Car,False,-122.011,37.715,True
 8535,Ezekiel Love,2022-10-24,shot,gun,22,M,,Adelanto,CA,False,attack,Foot,False,-117.41,34.525,True
 8530,,2022-10-25,shot,knife,,M,,Spring Branch,TX,True,other,Not fleeing,False,-95.48,29.803,True
 8532,James Wilborn,2022-10-25,shot,unarmed,35,M,,Atlanta,GA,False,attack,Car,False,-84.388,33.79,True
-8533,David Strain,2022-10-25,shot,gun,29,M,,Lone Tree,CO,False,attack,Not fleeing,False,-104.87,39.547,True
-8534,Javier Manuel Solo,2022-10-25,shot,gun,35,M,,Gillsville,GA,False,attack,Not fleeing,False,-83.67,34.316,True
+8533,David Strain,2022-10-25,shot,gun,31,M,,Lone Tree,CO,False,attack,Not fleeing,False,-104.87,39.547,True
+8534,Javier Manuel Solo,2022-10-25,shot,gun,25,M,,Gillsville,GA,False,attack,Not fleeing,False,-83.67,34.316,True
 8552,Clarissa Daws,2022-10-25,shot,gun,29,F,,Lone Tree,CO,False,attack,Not fleeing,False,-104.87,39.547,True
-8554,,2022-10-25,shot,knife,,M,W,Houston,TX,False,other,Not fleeing,False,-95.48,29.803,True
+8554,Alfredo Gonzalez,2022-10-25,shot,knife,26,M,,Houston,TX,False,other,Not fleeing,False,-95.48,29.803,True
 8537,Ivan Hinojosa,2022-10-27,shot,gun,23,M,,Hebbronville,TX,False,attack,Other,False,-98.678,27.307,True
 8547,Carlos Trotter,2022-10-27,shot,unknown weapon,36,M,,Lawrence,IN,False,other,Car,False,-86.046,39.813,True
 8548,Breen Reiss,2022-10-27,shot,gun,41,M,,Mesa,AZ,False,attack,Car,False,-111.857,33.408,True
@@ -7866,7 +7866,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8551,,2022-10-30,shot,knife,,M,,Huntington Park,CA,False,other,,False,-118.228,33.984,True
 8545,,2022-10-31,shot,unknown weapon,,M,,Santa Maria,CA,False,other,Foot,False,-120.45,34.943,True
 8549,Kenneth Cervice,2022-10-31,shot,gun,,M,,Fawn Township,PA,False,attack,Not fleeing,False,-79.746,40.653,True
-8556,,2022-10-31,shot,gun,,M,,Saddle Ridge,WY,False,attack,,False,-104.725,41.154,True
+8556,James Albert Templeton,2022-10-31,shot,gun,55,M,,Saddle Ridge,WY,False,attack,,False,-104.725,41.154,True
 8555,Raymondo Duran,2022-11-01,shot,gun and car,30,M,,Fort Worth,TX,False,attack,Car,False,-97.289,32.889,True
 8557,Eric Jermaine Allen,2022-11-02,shot,vehicle,39,M,,Mt. Juliet,TN,False,other,Car,False,-86.519,36.2,True
 8558,,2022-11-02,shot,gun,,M,O,Jacksonville,FL,False,attack,Foot,False,-81.724,30.333,True
