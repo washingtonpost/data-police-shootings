@@ -7846,23 +7846,22 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8529,Ronnie Lee Martin,2022-10-23,shot,gun,42,M,,Senatobia,MS,False,attack,Other,False,-89.968,34.614,True
 8526,,2022-10-24,shot,gun and car,,M,,Castro Valley,CA,False,attack,Car,False,-122.011,37.715,True
 8535,Ezekiel Love,2022-10-24,shot,gun,22,M,,Adelanto,CA,False,attack,Foot,False,-117.41,34.525,True
-8530,,2022-10-25,shot,knife,,M,,Spring Branch,TX,True,other,Not fleeing,False,-95.48,29.803,True
-8532,James Wilborn,2022-10-25,shot,unarmed,35,M,,Atlanta,GA,False,attack,Car,False,-84.388,33.79,True
+8532,James Wilborn,2022-10-25,shot,,35,M,,Atlanta,GA,False,attack,Car,False,-84.388,33.79,True
 8533,David Strain,2022-10-25,shot,gun,31,M,,Lone Tree,CO,False,attack,Not fleeing,False,-104.87,39.547,True
 8534,Javier Manuel Solo,2022-10-25,shot,gun,25,M,,Gillsville,GA,False,attack,Not fleeing,False,-83.67,34.316,True
 8552,Clarissa Daws,2022-10-25,shot,gun,29,F,,Lone Tree,CO,False,attack,Not fleeing,False,-104.87,39.547,True
 8554,Alfredo Gonzalez,2022-10-25,shot,knife,26,M,,Houston,TX,False,other,Not fleeing,False,-95.48,29.803,True
-8537,Ivan Hinojosa,2022-10-27,shot,gun,23,M,,Hebbronville,TX,False,attack,Other,False,-98.678,27.307,True
+8537,Ivan Hinojosa,2022-10-27,shot,gun,23,M,H,Hebbronville,TX,False,attack,Other,False,-98.678,27.307,True
 8547,Carlos Trotter,2022-10-27,shot,unknown weapon,36,M,,Lawrence,IN,False,other,Car,False,-86.046,39.813,True
 8548,Breen Reiss,2022-10-27,shot,gun,41,M,,Mesa,AZ,False,attack,Car,False,-111.857,33.408,True
-8540,,2022-10-28,shot,,,M,,Etowah County,AL,False,undetermined,Foot,False,,,True
+8540,,2022-10-28,shot,,,M,W,Etowah County,AL,False,undetermined,Foot,False,,,True
 8541,Richard Quave,2022-10-28,shot,gun,49,M,,Vancleave,MS,False,attack,Not fleeing,False,,,True
 8546,Willie Williams,2022-10-28,shot,gun,35,M,,Atlanta,GA,False,attack,,False,-84.414,33.754,True
-8553,,2022-10-28,shot,vehicle,,M,,Seguin,TX,False,other,,False,-87.179,30.502,True
-8542,Jeramyah Wilson,2022-10-30,shot,gun,23,M,,Omaha,NE,False,other,Not fleeing,False,,,True
-8543,Kenneth Jamel Carrol,2022-10-30,shot,,24,M,,Davenport,IA,False,other,Foot,False,,,True
-8544,Randall Bass,2022-10-30,shot,gun,47,M,,Hammond,LA,False,attack,Not fleeing,False,,,True
-8550,Donathy Doddy,2022-10-30,shot,gun,61,M,,Dallas,TX,False,attack,Not fleeing,False,-96.756,32.769,True
+8553,,2022-10-28,shot,vehicle,16,M,,Seguin,TX,False,attack,,False,-87.179,30.502,True
+8542,Jeramyah Wilson,2022-10-30,shot,gun,23,M,,Omaha,NE,False,other,Not fleeing,True,,,True
+8543,Kenneth Jamel Carrol,2022-10-30,shot,Gun,24,M,,Davenport,IA,False,attack,Foot,False,,,True
+8544,Randall Bass,2022-10-30,shot,gun,47,M,,Hammond,LA,True,attack,Not fleeing,False,,,True
+8550,Donathy Doddy,2022-10-30,shot,gun,61,M,,Dallas,TX,False,attack,Not fleeing,True,-96.756,32.769,True
 8551,,2022-10-30,shot,knife,,M,,Huntington Park,CA,False,other,,False,-118.228,33.984,True
 8545,,2022-10-31,shot,unknown weapon,,M,,Santa Maria,CA,False,other,Foot,False,-120.45,34.943,True
 8549,Kenneth Cervice,2022-10-31,shot,gun,,M,,Fawn Township,PA,False,attack,Not fleeing,False,-79.746,40.653,True
