@@ -7863,14 +7863,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8544,Randall Bass,2022-10-30,shot,gun,47,M,,Hammond,LA,True,attack,Not fleeing,False,,,True
 8550,Donathy Doddy,2022-10-30,shot,gun,61,M,,Dallas,TX,False,attack,Not fleeing,True,-96.756,32.769,True
 8551,,2022-10-30,shot,knife,,M,,Huntington Park,CA,False,other,,False,-118.228,33.984,True
-8564,,2022-10-30,shot,gun,,M,,Missouri City,TX,False,attack,,False,-95.491,29.523,True
 8545,,2022-10-31,shot,unknown weapon,,M,,Santa Maria,CA,False,other,Foot,False,-120.45,34.943,True
 8549,Kenneth Cervice,2022-10-31,shot,gun,,M,,Fawn Township,PA,False,attack,Not fleeing,False,-79.746,40.653,True
 8556,James Albert Templeton,2022-10-31,shot,gun,55,M,,Saddle Ridge,WY,False,attack,,False,-104.725,41.154,True
 8555,Raymondo Duran,2022-11-01,shot,gun and car,30,M,,Fort Worth,TX,False,attack,Car,False,-97.289,32.889,True
 8557,Eric Jermaine Allen,2022-11-02,shot,vehicle,39,M,,Mt. Juliet,TN,False,other,Car,False,-86.519,36.2,True
 8558,,2022-11-02,shot,gun,,M,O,Jacksonville,FL,False,attack,Foot,False,-81.724,30.333,True
-8560,Krysten Pretlor,2022-11-03,shot,gun,35,M,,Derry Township,PA,False,undetermined,,False,-79.393,40.411,True
+8560,Krysten Pretlor,2022-11-03,shot,gun,35,M,B,Derry Township,PA,False,other,Car,False,-79.393,40.411,True
 8561,,2022-11-03,shot,gun,21,M,,New York,NY,False,attack,Not fleeing,False,-73.873,40.879,True
 8562,Tyler Mathew Nastazio,2022-11-03,shot,knife,26,M,,Tehachapi,CA,False,attack,Not fleeing,False,-118.389,35.124,True
 8559,,2022-11-04,shot,gun,,M,,Gwinnett County,GA,False,attack,Not fleeing,False,-84.162,33.912,True
@@ -7878,7 +7877,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8565,Marando Salmon,2022-11-04,shot,gun,36,M,,Stone Mountain,GA,False,other,,False,-84.2,33.766,True
 8571,Jose Cabrera Hernandez,2022-11-04,shot,undetermined,49,M,H,Las Vegas,NV,False,undetermined,,False,-115.229,36.127,True
 8572,Rodney Franklin Finch,2022-11-04,shot,gun,62,M,,Las Vegas,NV,False,attack,Not fleeing,False,-115.278,36.205,True
-8568,John File,2022-11-05,shot,knife,28,M,,Dripping Springs,TX,False,other,Not fleeing,False,-98.087,30.19,True
-8570,,2022-11-05,shot,undetermined,,,,Albuquerque,NM,False,undetermined,,False,-106.498,35.09,True
+8568,John Samuel File,2022-11-05,shot,knife,28,M,W,Dripping Springs,TX,False,other,Not fleeing,False,-98.087,30.19,True
+8570,Julian Sanchez,2022-11-05,shot,undetermined,21,,,Albuquerque,NM,False,undetermined,,False,-106.498,35.09,True
+8564,,2022-11-06,shot,gun,,M,,Missouri City,TX,False,attack,,False,-95.491,29.523,True
 8566,Tyree Moorehead,2022-11-06,shot,knife,,M,,Baltimore,MD,False,other,Not fleeing,False,-76.646,39.299,True
 8567,,2022-11-06,shot,undetermined,,M,,Alexandria,LA,False,undetermined,,False,-92.445,31.311,True
