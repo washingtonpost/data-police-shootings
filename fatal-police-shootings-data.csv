@@ -7884,6 +7884,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8564,,2022-11-06,shot,gun,,M,,Missouri City,TX,False,attack,,False,-95.491,29.523,True
 8566,Tyree Moorehead,2022-11-06,shot,knife,46,M,,Baltimore,MD,False,other,Not fleeing,True,-76.646,39.299,True
 8567,Derrick Kittling,2022-11-06,shot,undetermined,45,M,,Alexandria,LA,False,undetermined,,False,-92.445,31.311,True
+8578,Kenneth L. Collins,2022-11-07,shot,ax,44,M,,Johnson City,TN,False,other,Not fleeing,False,-82.34,36.338,True
 8574,,2022-11-08,shot,gun,,,,Lafayette,CO,False,attack,Foot,False,-105.092,39.987,True
 8579,,2022-11-08,shot,undetermined,,,,Jacksonville,NC,False,other,Car,False,-77.451,34.721,True
 8576,,2022-11-09,shot,nail gun,,M,,Catoosa,OK,False,attack,Not fleeing,False,-95.717,36.247,True
