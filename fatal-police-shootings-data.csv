@@ -7861,13 +7861,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8542,Jeramyah Wilson,2022-10-30,shot,gun,23,M,,Omaha,NE,False,other,Not fleeing,True,,,True
 8543,Kenneth Jamel Carrol,2022-10-30,shot,Gun,24,M,,Davenport,IA,False,attack,Foot,False,,,True
 8544,Randall Bass,2022-10-30,shot,gun,47,M,,Hammond,LA,True,attack,Not fleeing,False,,,True
-8550,Donathy Doddy,2022-10-30,shot,gun,61,M,,Dallas,TX,False,attack,Not fleeing,True,-96.756,32.769,True
+8550,Donathy Doddy,2022-10-30,shot,gun,61,M,B,Dallas,TX,False,attack,Not fleeing,True,-96.756,32.769,True
 8551,,2022-10-30,shot,knife,,M,,Huntington Park,CA,False,other,,False,-118.228,33.984,True
 8545,,2022-10-31,shot,unknown weapon,,M,,Santa Maria,CA,False,other,Foot,False,-120.45,34.943,True
-8549,Kenneth Cervice,2022-10-31,shot,gun,,M,,Fawn Township,PA,False,attack,Not fleeing,False,-79.746,40.653,True
+8549,Zachary John Cervice,2022-10-31,shot,gun,50,M,W,Fawn Township,PA,False,attack,Not fleeing,False,-79.746,40.653,True
 8556,James Albert Templeton,2022-10-31,shot,gun,55,M,,Saddle Ridge,WY,False,attack,,False,-104.725,41.154,True
-8555,Raymondo Duran,2022-11-01,shot,gun and car,30,M,,Fort Worth,TX,False,attack,Car,False,-97.289,32.889,True
-8557,Eric Jermaine Allen,2022-11-02,shot,vehicle,39,M,,Mt. Juliet,TN,False,other,Car,False,-86.519,36.2,True
+8555,Raymundo Duran,2022-11-01,shot,gun and car,30,M,W,Fort Worth,TX,False,attack,Car,False,-97.289,32.889,True
+8557,Eric Jermaine Allen,2022-11-02,shot,vehicle,39,M,B,Mt. Juliet,TN,False,other,Car,False,-86.519,36.2,True
 8558,,2022-11-02,shot,gun,,M,,Jacksonville,FL,False,attack,Foot,False,-81.724,30.333,True
 8560,Krysten Pretlor,2022-11-03,shot,gun,35,M,B,Derry Township,PA,False,other,Car,False,-79.393,40.411,True
 8561,,2022-11-03,shot,gun,21,M,,New York,NY,False,attack,Not fleeing,False,-73.873,40.879,True
@@ -7885,18 +7885,18 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8566,Tyree Moorehead,2022-11-06,shot,knife,46,M,,Baltimore,MD,False,other,Not fleeing,True,-76.646,39.299,True
 8567,Derrick Kittling,2022-11-06,shot,undetermined,45,M,,Alexandria,LA,False,undetermined,,False,-92.445,31.311,True
 8578,Kenneth L. Collins,2022-11-07,shot,ax,44,M,,Johnson City,TN,False,other,Not fleeing,False,-82.34,36.338,True
-8574,,2022-11-08,shot,gun,,,,Lafayette,CO,False,attack,Foot,False,-105.092,39.987,True
+8574,Ethan Huiras,2022-11-08,shot,gun,20,,,Lafayette,CO,False,attack,Foot,False,-105.092,39.987,True
 8579,,2022-11-08,shot,undetermined,17,,,Jacksonville,NC,False,other,Car,False,-77.451,34.721,True
-8576,,2022-11-09,shot,nail gun,,M,,Catoosa,OK,False,attack,Not fleeing,False,-95.717,36.247,True
-8577,,2022-11-09,shot,gun,,M,W,Kansas City,KS,False,attack,,False,-94.627,39.116,True
+8576,William Fairweather,2022-11-09,shot,nail gun,39,M,,Catoosa,OK,False,attack,Not fleeing,False,-95.717,36.247,True
+8577,Hugo Corral-Velasco,2022-11-09,shot,gun,32,M,,Kansas City,KS,False,attack,,False,-94.627,39.116,True
 8581,,2022-11-10,shot,knife,,,,Albuquerque,NM,False,other,Foot,False,-106.651,35.089,True
 8588,Jermaine Hickson,2022-11-10,shot,gun,42,M,B,New York,NY,False,attack,,False,-74.002,40.577,True
 8590,,2022-11-10,shot,gun,27,F,,Detroit,MI,True,other,Not fleeing,True,-83.169,42.406,True
 8592,,2022-11-10,shot,undetermined,,,,Pueblo,CO,False,undetermined,,False,-104.607,38.306,True
-8591,Payton Masterson,2022-11-11,shot,gun,22,M,W,Tell City,IN,False,attack,Other,False,-86.768,37.951,True
-8583,Drandon John Brown,2022-11-12,shot,knife,64,M,W,Nashville,TN,False,other,Not fleeing,False,-86.963,36.193,True
-8584,Senquarius Demonta Williams,2022-11-12,shot,gun,26,M,B,Madison,TN,False,attack,,False,-86.708,36.262,True
-8586,,2022-11-12,shot,knife,,M,,Goodyear,AZ,True,attack,,False,-112.43,33.335,True
+8591,Payton Masterson,2022-11-11,shot,gun and vehicle,22,M,,Tell City,IN,False,attack,Other,False,-86.768,37.951,True
+8583,Drandon John Brown,2022-11-12,shot,knife,64,M,,Nashville,TN,False,other,Not fleeing,False,-86.963,36.193,True
+8584,Senquarius Demonta Williams,2022-11-12,shot,gun,26,M,,Madison,TN,False,attack,,True,-86.708,36.262,True
+8586,,2022-11-12,shot,knife,,M,,Goodyear,AZ,True,undetermined,,False,-112.43,33.335,True
 8587,,2022-11-12,shot,knife,,M,,Cabazon,CA,False,other,Other,False,-116.779,33.911,True
 8589,,2022-11-12,shot,undetermined,,M,,Spring Hill,FL,False,undetermined,,False,-82.513,28.46,True
 8582,,2022-11-13,shot,gun,,M,,Federal Way,WA,False,attack,Not fleeing,False,-122.397,47.317,True
