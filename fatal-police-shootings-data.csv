@@ -7850,13 +7850,13 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8533,David Strain,2022-10-25,shot,gun,31,M,,Lone Tree,CO,False,attack,Not fleeing,False,-104.87,39.547,True
 8534,Javier Manuel Solo,2022-10-25,shot,gun,25,M,,Gillsville,GA,False,attack,Not fleeing,False,-83.67,34.316,True
 8552,Clarissa Daws,2022-10-25,shot,gun,29,F,,Lone Tree,CO,False,attack,Not fleeing,False,-104.87,39.547,True
-8554,Alfredo Gonzalez,2022-10-25,shot,knife,26,M,,Houston,TX,False,other,Not fleeing,False,-95.48,29.803,True
+8554,Alfredo Gonzalez,2022-10-25,shot,knife,26,M,H,Houston,TX,False,other,Not fleeing,False,-95.48,29.803,True
 8537,Ivan Hinojosa,2022-10-27,shot,gun,23,M,H,Hebbronville,TX,False,attack,Other,False,-98.678,27.307,True
-8547,Carlos Trotter,2022-10-27,shot,unknown weapon,36,M,,Lawrence,IN,False,other,Car,False,-86.046,39.813,True
-8548,Breen Reiss,2022-10-27,shot,gun,41,M,,Mesa,AZ,False,attack,Car,False,-111.857,33.408,True
+8547,Carlos Trotter,2022-10-27,shot,unknown weapon,36,M,B,Lawrence,IN,False,other,Car,False,-86.046,39.813,True
+8548,Breen Reiss,2022-10-27,shot,gun,41,M,W,Mesa,AZ,False,attack,Car,False,-111.857,33.408,True
 8540,,2022-10-28,shot,,,M,W,Etowah County,AL,False,undetermined,Foot,False,,,True
-8541,Richard Quave,2022-10-28,shot,gun,49,M,,Vancleave,MS,False,attack,Not fleeing,False,,,True
-8546,Willie Williams,2022-10-28,shot,gun,35,M,,Atlanta,GA,False,attack,,False,-84.414,33.754,True
+8541,Richard Quave,2022-10-28,shot,gun,49,M,W,Vancleave,MS,False,attack,Not fleeing,False,,,True
+8546,Willie Williams,2022-10-28,shot,gun,35,M,B,Atlanta,GA,False,attack,,False,-84.414,33.754,True
 8553,,2022-10-28,shot,vehicle,16,M,,Seguin,TX,False,attack,,False,-87.179,30.502,True
 8542,Jeramyah Wilson,2022-10-30,shot,gun,23,M,,Omaha,NE,False,other,Not fleeing,True,,,True
 8543,Kenneth Jamel Carrol,2022-10-30,shot,Gun,24,M,,Davenport,IA,False,attack,Foot,False,,,True
@@ -7886,7 +7886,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8567,Derrick Kittling,2022-11-06,shot,undetermined,45,M,,Alexandria,LA,False,undetermined,,False,-92.445,31.311,True
 8578,Kenneth L. Collins,2022-11-07,shot,ax,44,M,,Johnson City,TN,False,other,Not fleeing,False,-82.34,36.338,True
 8574,,2022-11-08,shot,gun,,,,Lafayette,CO,False,attack,Foot,False,-105.092,39.987,True
-8579,,2022-11-08,shot,undetermined,,,,Jacksonville,NC,False,other,Car,False,-77.451,34.721,True
+8579,,2022-11-08,shot,undetermined,17,,,Jacksonville,NC,False,other,Car,False,-77.451,34.721,True
 8576,,2022-11-09,shot,nail gun,,M,,Catoosa,OK,False,attack,Not fleeing,False,-95.717,36.247,True
 8577,,2022-11-09,shot,gun,,M,W,Kansas City,KS,False,attack,,False,-94.627,39.116,True
 8581,,2022-11-10,shot,knife,,,,Albuquerque,NM,False,other,Foot,False,-106.651,35.089,True
