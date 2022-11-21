@@ -7930,8 +7930,8 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8581,,2022-11-10,shot,knife,,,,Albuquerque,NM,False,other,Foot,False,-106.651,35.089,True
 8588,Jermaine Hickson,2022-11-10,shot,gun,42,M,B,New York,NY,False,attack,,False,-74.002,40.577,True
 8590,,2022-11-10,shot,gun,27,F,,Detroit,MI,True,other,Not fleeing,True,-83.169,42.406,True
-8592,,2022-11-10,shot,undetermined,,,,Pueblo,CO,False,undetermined,,False,-104.607,38.306,True
-8596,Prince Jones,2022-11-10,shot,gun,24,M,,Toledo,OH,False,other,,False,-83.52,41.63,True
+8592,Reginald Perry Bethea,2022-11-10,shot,undetermined,62,M,,Pueblo,CO,False,undetermined,,False,-104.607,38.306,True
+8596,Prince Jones,2022-11-10,shot,gun,24,M,,Toledo,OH,False,other,,True,-83.52,41.63,True
 8591,Payton Masterson,2022-11-11,shot,gun and vehicle,22,M,,Tell City,IN,False,attack,Other,False,-86.768,37.951,True
 8583,Drandon John Brown,2022-11-12,shot,knife,64,M,,Nashville,TN,False,other,Not fleeing,False,-86.963,36.193,True
 8584,Senquarius Demonta Williams,2022-11-12,shot,gun,26,M,,Madison,TN,False,attack,,True,-86.708,36.262,True
@@ -7942,8 +7942,11 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8585,Marcus Allen,2022-11-13,shot,gun,38,M,B,Forest Hills,PA,False,attack,,False,-79.852,40.414,True
 8594,,2022-11-14,shot,gun,,M,,Thurston County,WA,False,attack,Car,False,-122.919,46.837,True
 8595,,2022-11-15,shot,gun,,M,,Austin,TX,False,undetermined,,False,-97.762,30.244,True
-8597,,2022-11-15,shot,gun,,,,Oklahoma City,OK,False,attack,Not fleeing,False,-97.165,35.328,True
+8597,Timothy Johnson,2022-11-15,shot,gun,38,M,,Oklahoma City,OK,False,attack,Not fleeing,False,-97.165,35.328,True
 8598,,2022-11-15,shot,gun,,M,,Miramar Beach,FL,False,other,,False,-86.353,30.377,True
 8599,Abran Gutierrez,2022-11-15,shot,gun,36,M,,Redwood City,CA,False,other,Not fleeing,False,-122.228,37.48,True
 8629,,2022-11-16,shot,machete,,,,Albuquerque,NM,False,other,Car,False,-106.567,35.13,True
 8633,John Wells Jr.,2022-11-16,shot,gun,49,M,,Chattanooga,TN,False,attack,,False,,,True
+8639,Joel Williams,2022-11-16,shot,gun,31,M,,Fort Worth,TX,False,attack,Not fleeing,False,-97.325,32.796,True
+8642,,2022-11-16,shot,knife,,M,,Santa Clarita,CA,False,attack,Not fleeing,False,-118.558,34.428,True
+8640,,2022-11-18,shot,knife,,M,,Rapid City,SD,False,other,Not fleeing,True,-103.22,44.087,True
