@@ -7039,7 +7039,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7683,,2022-01-18,shot,gun,,,,Hemet,CA,False,undetermined,Foot,False,,,True
 7686,Tyler Marler,2022-01-18,shot,air pistol,31,M,W,Wood River,IL,False,attack,Not fleeing,False,,,True
 7707,Hector Armando Barba,2022-01-18,shot,knife,33,M,H,Huntington Park,CA,False,other,Foot,False,,,True
-8600,,2022-01-18,shot,gun,,M,,Houston,TX,False,attack,,False,-95.69,29.92,True
+8600,,2022-01-18,shot,gun,,M,,Houston,TX,True,other,,False,-95.69,29.92,True
 7676,Ronald Wayne Flowers,2022-01-19,shot,gun,50,M,,Perdido,AL,False,attack,Not fleeing,False,,,True
 7679,Robert Seth Carter,2022-01-19,shot,gun,32,M,W,San Jose,CA,False,attack,Not fleeing,True,,,True
 7666,Nelson Szeto,2022-01-20,shot,Airsoft pistol,37,M,,San Francisco,CA,True,other,Not fleeing,False,,,True
@@ -7093,7 +7093,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7693,Steve Neff,2022-02-08,shot,unknown weapon,50,M,,Corpus Christi,TX,False,other,Foot,False,,,True
 7694,Brian W. Schneider,2022-02-08,shot,toy weapon,36,M,W,Mesa,AZ,False,attack,Not fleeing,False,,,True
 7725,Daniel Joseph Spisso,2022-02-08,shot,gun,55,M,,Roan Mountain,TN,False,attack,,False,,,True
-8602,Johana Marie Nickens,2022-02-08,shot,gun,38,F,,Mabank,TX,False,attack,Not fleeing,False,-96.101,32.367,True
+8602,Johana Marie Nickens,2022-02-08,shot,gun,38,F,W,Mabank,TX,False,attack,Not fleeing,False,-96.101,32.367,True
 7719,Randy Lansang,2022-02-09,shot,gun,36,M,A,Daytona Beach,FL,False,other,Not fleeing,True,,,True
 7720,Terrell Russell,2022-02-09,shot,gun,22,M,,New Orleans,LA,False,other,,False,,,True
 7721,Jose De Jesus Montoya Villa,2022-02-09,shot,gun,,M,,Aurora,CO,False,other,Car,False,,,True
@@ -7480,7 +7480,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 8128,Daniel Raymond Honeycutt,2022-06-10,shot,gun,38,M,W,Elizabethton,TN,False,other,Not fleeing,False,-82.155,36.335,True
 8126,Cesar Anthony Pena,2022-06-11,shot,gun,41,M,B,Mableton,GA,False,attack,,False,-84.592,33.84,True
 8127,Jonathan Hamilton,2022-06-11,shot,knife,,M,,Springville,UT,False,other,,False,-111.645,40.158,True
-8607,Christian Glass,2022-06-11,shot,knife,22,M,,Silver Plume,CO,True,other,Not fleeing,True,-105.726,39.696,True
+8607,Christian Glass,2022-06-11,shot,knife,22,M,W,Silver Plume,CO,True,other,Not fleeing,True,-105.726,39.696,True
 8123,Carlos Eli Chacon-Castillo,2022-06-12,shot,knife,42,M,,Austin,TX,False,other,Not fleeing,True,-97.712,30.321,True
 8135,Jerome Lavon Connelly,2022-06-12,shot,gun,35,M,B,Caldwell County,NC,False,attack,,False,-81.53,35.933,True
 8124,Viet Do Nguyen,2022-06-13,shot,gun,27,M,A,Kent,WA,False,other,,False,-122.301,47.374,True
