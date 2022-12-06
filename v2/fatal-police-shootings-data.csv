@@ -7998,3 +7998,8 @@
 "8697","2022-12-03","shoot","foot","gun","Johnson City","Washington","TN","36.37861425383757","-82.3511173007949","block","Jerome Flanigan","51","male","W","public_record","False","False","1442"
 "8703","2022-12-03","threat","not","knife","Norcross","Gwinnett","GA","33.914677635758096","-84.16354107555311","address","","","male","","","False","True","460"
 "8702","2022-12-04","","","undetermined","Tucson","Pima","AZ","32.24811695582145","-110.97921069034554","block","","","male","","","False","False","397"
+"8710","2022-12-05","point","foot","gun","St. Paul","Ramsey","MN","44.95223335954907","-93.05572216457762","road","","","male","","","False","False","63"
+"8711","2022-12-05","shoot","foot","gun","Memphis","Shelby","TN","35.051632192579234","-89.92362027673633","block","James West Jr.","39","male","","","False","False","31"
+"8712","2022-12-05","attack","","blunt_object","Seeley","Imperial","CA","32.79352378249269","-115.68603466594463","block","","","","","","False","False","2610"
+"8713","2022-12-06","shoot","","gun","Woodsboro","Refugio","TX","28.239974109608266","-97.32376285471064","intersection","Franco Miguel Anzaldua","24","male","","","True","False","2780"
+"8714","2022-12-06","flee","foot","undetermined","Fresno","Fresno","CA","36.750655584358775","-119.64039132984206","block","","","male","","","False","False","598"
