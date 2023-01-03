@@ -8075,3 +8075,6 @@
 "8786","2022-12-30","shoot","car","gun","Tacoma","Pierce","WA","47.20541962364212","-122.42087872437675","intersection","","39","male","","","False","False","475"
 "8788","2022-12-30","point","car","gun","Kansas City","Wyandotte","KS","39.128835114629084","-94.79898446098358","intersection","Thomas Marshall","53","male","","","False","False","2169"
 "8799","2022-12-30","flee","car","undetermined","Las Vegas","Clark","NV","36.16082876722352","-115.08736493799809","intersection","","","","","","False","False","375"
+"8802","2022-12-30","move","not","gun","Las Vegas","Clark","NV","36.19120388457703","-115.32528633086147","block","","","male","","","False","False","375"
+"8800","2022-12-31","shoot","","gun","Pine Brook","Morris","NJ","","","","","","male","","","False","False","18282"
+"8801","2022-12-31","shoot","car","gun","Tulsa","Tulsa","OK","36.160741032073744","-95.92248071706857","intersection","","","","","","False","False","1313;18547"
