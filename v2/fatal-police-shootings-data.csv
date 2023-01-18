@@ -5105,7 +5105,7 @@
 "5621","2020-03-06","point","not","knife","Tulsa","","OK","36.075243","-95.9757901","not_available","Jerry Gaghins","","male","W","not_available","False","False","1313"
 "5657","2020-03-06","attack","not","unarmed","Edison","","CA","36.7128471","-119.8134054","not_available","Kenneth Mullins","32","male","W","not_available","False","False","598"
 "5610","2020-03-07","threat","not","knife","Stroudsburg","","PA","40.9867609","-75.1946248","not_available","Matthew Adam Miller","33","male","","","False","False","2760"
-"5618","2020-03-07","attack","car","vehicle","Harrison Township","","OH","51.253775","-85.323214","not_available","Gary Brown","43","male","W","not_available","False","False","670"
+"5618","2020-03-07","attack","car","vehicle","Harrison Township","","OH","","","not_available","Gary Brown","43","male","W","not_available","False","False","670"
 "5608","2020-03-08","shoot","not","gun","Montgomery","","AL","32.3430625","-86.1957497","not_available","Charles Harwood","65","male","","","False","False","1131"
 "5609","2020-03-08","point","not","gun","Apache Junction","","AZ","33.4150867","-111.5806569","not_available","Lawson Edward Schaber","84","male","W","not_available","False","False","1787"
 "5614","2020-03-08","threat","not","knife","Torrance","","CA","33.865587","-118.335098","not_available","Desiree Nicole Garza","29","female","H","not_available","False","False","1507"
