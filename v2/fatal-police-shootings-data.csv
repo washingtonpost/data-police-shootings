@@ -1995,7 +1995,7 @@
 "2214","2017-01-16","shoot","not","gun;knife","Herndon","Fairfax","VA","38.949388","-77.404882","not_available","Mohammad Azim Doudzai","32","male","A","not_available","False","False","1612"
 "2226","2017-01-17","point","car","gun","Soddy-Daisy","Hamilton","TN","35.2305704","-85.1330871","not_available","Christopher Dalton Sexton","29","male","W","not_available","True","False","750"
 "2229","2017-01-17","shoot","not","gun","Twentynine Palms","San Bernardino","CA","34.1354636","-116.080577","not_available","Dominic Hodges","39","male","H","not_available","False","False","236"
-"6928","2017-01-17","shoot","not","gun","Little Elm","","TX","33.1532767","-96.9471633","not_available","Rudy Garcia","46","male","","","False","False","3132"
+"6928","2017-01-17","shoot","not","gun","Little Elm","","TX","33.1532767","-96.9471633","block","Rudy Garcia","46","male","","","True","False","3132"
 "2225","2017-01-18","threat","not","knife","Salinas","Monterey","CA","36.6785145","-121.6347969","not_available","Marlon Joel Rodas-Sanchez","16","male","H","not_available","False","True","1614"
 "2228","2017-01-18","point","not","blunt_object","Watts","Adair","OK","36.1092487","-94.5702202","not_available","Stoney McJunkin","40","male","W","not_available","False","False","1615"
 "2231","2017-01-18","move","car","unarmed","Dallas","Dallas","TX","32.7926343","-96.7642557","not_available","Genevive Dawes","21","female","W","not_available","False","True","330"
