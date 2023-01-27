@@ -36,7 +36,7 @@ To provide information about fatal police shootings since Jan. 1, 2015, send us 
 
 We welcome assistance in making the our data as complete and accurate as possible.
 
-Please reach out with any questions about the data, feedback, updated information or corrections.
+Please reach out with any questions about the data, feedback, updated information or corrections. Before you do, take a moment to review the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 The best way to contribute to the data, make suggestions or provide information about fatal police shootings since Jan. 1, 2015, is to send us an email at policeshootingsfeedback@washpost.com.
 
