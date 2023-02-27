@@ -8224,7 +8224,7 @@
 "8952","2023-02-10","flee","other","undetermined","La Habra","Orange","CA","33.917630471149124","-117.96820262883602","intersection","","","male","","","False","False","2196"
 "8947","2023-02-11","threat","not","knife","St. Paul","Ramsey","MN","44.93699543461148","-93.11599998232536","address","","","male","","","False","True","63"
 "8949","2023-02-11","move","not","gun","Grove City","Franklin","OH","39.87870179674056","-83.04159518208031","address","Bret Andrews","46","male","W","public_record","False","True","90"
-"8948","2023-02-12","threat","","gun","Avondale","Maricopa","AZ","33.43434028752654","-112.34084651705318","intersection","","","male","","","False","False","1763"
+"8948","2023-02-12","threat","","gun","Avondale","Maricopa","AZ","33.43434028752654","-112.34084651705318","intersection","Ronnie Demetris Hill","51","male","","","False","False","1763"
 "8956","2023-02-14","","","undetermined","Dunnigan","Yolo","CA","38.896047882438324","-121.98263490332245","block","Hector Valdez Perez","63","male","","","False","False","28512;2898;28714"
 "8957","2023-02-14","undetermined","","undetermined","Salisbury","Rowan","NC","35.70293487594074","-80.33703692829246","block","Jordan Taylor Mays","28","male","W","public_record","False","False","3316"
 "8955","2023-02-15","shoot","car","gun","Sugar Land","Fort Bend","TX","","","","","27","male","B","clip","False","False","102"
