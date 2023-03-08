@@ -8268,3 +8268,6 @@
 "8995","2023-03-01","","not","undetermined","Farmington","Davis","UT","40.980474719543764","-111.88447228222446","address","Chase Allan","25","male","","","False","False","2977"
 "8996","2023-03-01","move","car","vehicle","Ashburn","Turner","GA","","","","Daniel Ramone Scott","25","male","","","False","False","4482"
 "8998","2023-03-01","shoot","","gun","Mountain City","Johnson","TN","36.45214628908327","-81.88034570022464","block","Tony A. Smith","64","male","W","public_record","False","False","14355"
+"9004","2023-03-03","threat","not","knife","Paterson","Passaic","NJ","","","","Najee Seabrooks","31","male","B","clip","True","False","1332"
+"9002","2023-03-04","threat","not","knife","Frederick","Frederick","MD","39.42993131914975","-77.40325070329739","block","Joseph Sherrill","44","male","W","public_record","False","False","881"
+"9003","2023-03-04","shoot","car","gun","Fresno","Fresno","CA","36.837052308289316","-119.80188423485039","intersection","Roberto Corchado","29","male","","","False","False","700"
