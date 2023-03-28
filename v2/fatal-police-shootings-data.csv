@@ -8324,4 +8324,4 @@
 "9055","2023-03-25","point","car","gun","Billings","Yellowstone","MT","45.797332075373696","-108.48551695942467","block","","35","female","","","False","False","254"
 "9051","2023-03-26","threat","","gun","Gastonia","Gaston","NC","35.24465006015565","-81.18129064722315","block","","","male","","","False","False","317"
 "9053","2023-03-26","move","foot","undetermined","Sandy","Salt Lake","UT","40.54100958941707","-111.860315175281","intersection","Dylan William Murphy","33","male","W","public_record","True","False","2103"
-"9057","2023-03-27","shoot","","gun","Nashville","Davidson","TN","36.093654131076136","-86.8224000103411","address","","28","female","","","False","False","3366"
+"9057","2023-03-27","shoot","not","gun","Nashville","Davidson","TN","36.093654131076136","-86.8224000103411","address","Audrey Elizabeth Hale","28","","","","False","True","3366"
