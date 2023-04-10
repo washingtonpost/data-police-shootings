@@ -8301,7 +8301,7 @@
 "9028","2023-03-15","point","not","gun","Temple","Carroll","GA","33.73519535015634","-84.98924921331346","block","Robert Bruce Clendenin","76","male","","","False","False","2087"
 "9041","2023-03-16","threat","foot","knife","North Miami Beach","Miami-Dade","FL","25.92967719382092","-80.19639088847242","address","Edridge Alexis","38","male","B","clip","True","False","19677"
 "9042","2023-03-16","threat","not","gun","Casa Grande","Pinal","AZ","32.971898389030216","-111.76971595411347","intersection","Michael Obregon","36","male","H","public_record","False","False","348"
-"9031","2023-03-18","threat","not","knife","Fresno","Fresno","CA","36.73077153079005","-119.81288822745134","intersection","Coy Brent Jackson","33","male","W","public_record","True","False","700"
+"9031","2023-03-18","threat","not","knife","Fresno","Fresno","CA","36.73077153079005","-119.81288822745134","address","Coy Brent Jackson","33","male","W","public_record","True","True","700"
 "9032","2023-03-18","threat","foot","gun","Englewood","Arapahoe","CO","39.64217900699547","-104.98776380932031","intersection","","","male","","","False","False","1679"
 "9033","2023-03-18","move","car","vehicle","Washington","Washington","DC","38.89362174134507","-76.95507846526776","block","Dalaneo Martin","17","male","","","False","True","26437"
 "9034","2023-03-18","undetermined","car","undetermined","Bartlett","Shelby","TN","35.21798650739078","-89.78610634581516","intersection","Melissa S. Horton","43","female","","","False","False","1446"
