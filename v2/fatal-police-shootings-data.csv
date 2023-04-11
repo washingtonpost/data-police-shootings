@@ -8311,7 +8311,7 @@
 "9029","2023-03-19","shoot","not","gun","Springville","Utah","UT","40.12067738951589","-111.59312196200095","intersection","Mathew Scott Nielsen","46","male","","","False","False","3486"
 "9030","2023-03-19","shoot","foot","gun","","Henrico","VA","","","","","","male","","","False","False","3261"
 "9036","2023-03-20","threat","","gun","Evansville","Vanderburgh","IN","37.98747050091527","-87.56090975772338","block","","","male","","","False","False","1172;2061"
-"9040","2023-03-20","threat","other","gun","Rochester","Monroe","NY","43.14709796126165","-77.58229253368182","block","Brendon Burns","35","male","","","True","True","1149"
+"9040","2023-03-20","threat","other","gun","Rochester","Monroe","NY","43.14709796126165","-77.58229253368182","block","Brendon Burns","35","male","","","True","True","1149;18046"
 "9037","2023-03-21","point","not","gun","Amarillo","Potter","TX","35.19197726516524","-101.87330822277211","block","Kevin Keith Langemeier","49","male","","","True","False","984"
 "9038","2023-03-21","move","car","vehicle","Brookfield Township","Trumbull","OH","41.25697288477247","-80.56836095860744","address","Fred H. Wild III","50","male","W","public_record","True","False","649;26907;15964;942"
 "9043","2023-03-21","threat","not","knife","Monte Vista","Rio Grande","CO","37.56777946859231","-106.14953718989162","block","","18","male","","","False","True","18105"
