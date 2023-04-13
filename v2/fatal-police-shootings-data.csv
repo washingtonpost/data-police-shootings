@@ -8315,7 +8315,7 @@
 "9037","2023-03-21","point","not","gun","Amarillo","Potter","TX","35.19197726516524","-101.87330822277211","block","Kevin Keith Langemeier","49","male","","","True","False","984"
 "9038","2023-03-21","move","car","vehicle","Brookfield Township","Trumbull","OH","41.25697288477247","-80.56836095860744","address","Fred H. Wild III","50","male","W","public_record","True","False","649;26907;15964;942"
 "9043","2023-03-21","threat","not","knife","Monte Vista","Rio Grande","CO","37.56777946859231","-106.14953718989162","block","","18","male","","","False","True","18105"
-"9044","2023-03-22","threat","not","gun","Highland Township","Oakland","MI","","","","","","male","","","False","False","728"
+"9044","2023-03-22","threat","not","gun","Highland Township","Oakland","MI","","","","","42","male","","","False","False","728"
 "9066","2023-03-22","shoot","other","gun","North Fork","Madera","CA","","","","Brandunn Wilson","28","male","W","public_record","False","False","2799"
 "9045","2023-03-23","undetermined","","undetermined","","Harrison","TX","","","","","","","","","False","False","2041"
 "9046","2023-03-23","shoot","","gun","Houston","Harris","TX","29.940227368985916","-95.40806232212104","address","","","","","","False","False","2692"
