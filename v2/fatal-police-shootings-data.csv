@@ -8444,7 +8444,7 @@
 "9191","2023-05-03","threat","not","gun","Yakima","Yakima","WA","46.603699267515","-120.49352232624364","block","Sergio Orduna-Mata","39","male","","","True","False","1303"
 "9192","2023-05-03","move","","unarmed","Houston","Harris","TX","29.781407187658576","-95.30527103884366","address","","46","male","","","False","True","102"
 "9193","2023-05-03","threat","foot","gun","Newark","Essex","NJ","40.709821081500316","-74.1974151946333","intersection","Everett Rand","29","male","B","public_record","False","False","1473"
-"9185","2023-05-04","attack","other","vehicle","","Bryan","GA","","","","Walter Kye Herman","29","male","W","public_record","False","False","11673"
+"9185","2023-05-04","attack","car","vehicle","","Bryan","GA","","","","Walter Kye Herman","29","male","W","public_record","False","False","11673"
 "9189","2023-05-04","threat","","gun","Herrick Township","Bradford","PA","","","","","","","","","False","False","19"
 "9190","2023-05-04","point","foot","gun","Philadelphia","Philadelphia","PA","39.98602828629328","-75.15325481707117","block","Curtis Smith","33","male","B","public_record","False","True","671"
 "9188","2023-05-05","threat","other","gun","Los Angeles","Los Angeles","CA","34.031836481811965","-118.25942510024895","intersection","Hector Macias","32","male","H","public_record","False","False","38"
