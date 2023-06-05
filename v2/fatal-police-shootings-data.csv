@@ -8460,7 +8460,7 @@
 "9204","2023-05-08","threat","car","gun","Detroit","Wayne","MI","42.43081149754392","-83.18738532022104","intersection","Kyle Bozeman III","49","male","B","public_record","False","False","24434"
 "9205","2023-05-08","threat","","knife","Apple Valley","San Bernardino","CA","34.47150795500584","-117.19018429634819","intersection","Lee Cortez","","male","","","False","False","236"
 "9206","2023-05-08","","","undetermined","","Okmulgee","OK","35.624480433852824","-95.9240293344817","intersection","Matthew Guffey","43","male","W","public_record","False","False","1073"
-"9207","2023-05-08","threat","not","gun","High Point","Guilford","NC","","","","Brian C. Burrow","30","male","W","clip","False","False","2185"
+"9207","2023-05-08","threat","not","gun","High Point","Guilford","NC","","","","Brian C. Burrow","30","male","W","clip","False","True","2185"
 "9209","2023-05-09","shoot","not","gun","","Jefferson","IL","","","","Brandon L. Griffin","23","male","","","False","False","13753"
 "9219","2023-05-09","attack","foot","undetermined","Tempe","Maricopa","AZ","","","","","","male","N","clip","False","True","247"
 "9211","2023-05-11","attack","car","gun;vehicle","Alexandria","Fairfax","VA","38.7836803827197","-77.07475017066801","block","Brandon Lemagne","38","male","B","public_record","False","True","1612"
