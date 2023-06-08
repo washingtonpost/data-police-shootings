@@ -8467,7 +8467,7 @@
 "9212","2023-05-11","shoot","car","gun","Denham Springs","Livingston","LA","","","","Justin Roberts","30","male","","","False","False","1485"
 "9217","2023-05-11","point","","gun","Kissimmee","Osceola","FL","28.28990376555879","-81.32438233436307","intersection","Robert Joseph Layton","83","male","W","public_record","False","False","1748"
 "9220","2023-05-12","point","","gun","Irving","Dallas","TX","","","","Carlos Munguia","40","male","","","False","False","955"
-"9213","2023-05-13","threat","not","knife","Houston","Harris","TX","29.830218352191824","-95.37571125512932","block","","","male","","","False","False","102"
+"9213","2023-05-13","threat","not","knife","Houston","Harris","TX","29.830218352191824","-95.37571125512932","block","","","male","","","False","True","102"
 "9214","2023-05-13","point","not","gun","Fort Worth","Tarrant","TX","32.79590283071383","-97.3857760261849","block","Daniel Gutierrez","57","male","","","False","True","116"
 "9215","2023-05-13","shoot","","gun","New Center","Sevier","TN","","","","David Wright","63","male","","","False","False","1033;2989"
 "9216","2023-05-13","shoot","","gun","Senoia","Coweta","GA","33.3230652079761","-84.61367935273148","block","Michael Adams","76","male","","","False","False","1285"
