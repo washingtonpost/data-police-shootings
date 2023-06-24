@@ -8495,7 +8495,7 @@
 "9242","2023-05-19","shoot","foot","gun","Everett","Snohomish","WA","48.00541972316497","-122.19021689586863","block","","24","male","","","False","False","522;1573;1869"
 "9246","2023-05-20","attack","","unarmed","Fountain","El Paso","CO","","","","James Boyle","51","male","","","False","False","813"
 "9238","2023-05-21","shoot","foot","gun","Trinidad","Las Animas","CO","37.17644415485846","-104.51824325350803","address","","","male","","","False","False","435"
-"9232","2023-05-22","shoot","foot","gun","Racine","Racine","WI","42.72378023451746","-87.80374191214189","block","Timothy Burgess","38","male","B","public_record","False","False","2035;18414"
+"9232","2023-05-22","shoot","foot","gun","Racine","Racine","WI","42.72378023451746","-87.80374191214189","block","Timothy Burgess","38","male","B","public_record","False","True","2035;18414"
 "9247","2023-05-22","point","not","gun","Sebring","Highlands","FL","27.44997756809056","-81.31724412887549","address","Bradley Frank Begens","63","male","W","public_record","False","False","2695"
 "9248","2023-05-22","point","car","gun","Reading","Hamilton","OH","39.22391589026408","-84.43811026863312","block","Michael Craddock","32","male","W","public_record","False","False","4105"
 "9243","2023-05-23","threat","not","gun","Columbia","Marion","MS","","","","Lonnie Hendon","68","male","","","False","True","16659"
