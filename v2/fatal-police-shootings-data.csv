@@ -8523,3 +8523,6 @@
 "9272","2023-05-30","threat","foot","knife","Sparks","Washoe","NV","39.54187975047028","-119.73691878713498","address","Dylan Wilson","29","male","","","False","False","1163"
 "9270","2023-05-31","threat","not","gun","","Russell","AL","32.39091193606839","-85.07563490771673","intersection","Daniel William Mooneyham","47","male","","","False","False","23144"
 "9268","2023-06-01","threat","not","gun","Blue Island","Cook","IL","41.6507016524259","-87.67019200396958","block","","","male","","","False","False","5544"
+"9276","2023-06-23","","","undetermined","","Freestone","TX","","","","","","","","","False","False","28582;2415"
+"9278","2023-06-23","threat","foot","blunt_object","San Antonio","Bexar","TX","29.341016163287136","-98.6195093060847","address","Melissa Perez","46","female","H","public_record","True","True","44"
+"9277","2023-06-24","point","not","gun","Weirton","Hancock","WV","40.4064275134576","-80.58424878880473","address","Carl Gist","82","male","B","public_record","False","False","1253;5974"
