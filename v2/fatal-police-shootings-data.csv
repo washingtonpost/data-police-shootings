@@ -8561,3 +8561,4 @@
 "9278","2023-06-23","threat","foot","blunt_object","San Antonio","Bexar","TX","29.341016163287136","-98.6195093060847","address","Melissa Perez","46","female","H","public_record","True","True","44"
 "9277","2023-06-24","point","not","gun","Weirton","Hancock","WV","40.4064275134576","-80.58424878880473","address","Carl Gist","82","male","B","public_record","False","False","1253;5974"
 "9279","2023-06-24","point","foot","gun","Henderson","Clark","NV","36.06592494939515","-115.01136115992506","poi_large","Steven Brucker","53","male","W","public_record","False","False","629"
+"9312","2023-06-27","threat","car","gun;knife","Apache Junction","Pinal","AZ","33.393361337092216","-111.51794531930915","intersection","Daniel Barnes","53","male","W","public_record","False","False","348"
