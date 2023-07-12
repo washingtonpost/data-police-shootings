@@ -19,7 +19,7 @@ To provide information about fatal police shootings since Jan. 1, 2015, send us 
 
 - **[Version 2](v2/)**:
     - Version 2 includes changes to improve the data schema, increase transparency around research methodology, and add data on law enforcement agencies.
-    - Documentation and data formatted in the v2 data stucture can be found in [/v2](v2/).
+    - Documentation and data formatted in the v2 data structure can be found in [/v2](v2/).
     - Details on the changes between v1 and v2 can be found in [v2/README.md](v2/README.md).
 
 - **[Version 1]((v2/))**:
