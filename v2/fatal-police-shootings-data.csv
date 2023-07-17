@@ -8511,7 +8511,7 @@
 "9264","2023-05-25","shoot","","gun","Tallahassee","Leon","FL","30.44496341288027","-84.21622520970044","address","Asia Fitzgerald","25","female","","","False","True","311"
 "9266","2023-05-25","point","","gun","Boulder","Boulder","CO","40.00007316449373","-105.27115568556648","block","Christopher Swanger","36","male","","","False","False","1272"
 "9260","2023-05-26","threat","","gun","Manchester","Hillsborough","NH","42.99867513975789","-71.4355936530511","address","Alex Naone","26","male","","","True","True","2443"
-"9259","2023-05-27","move","not","unarmed","Burbank","Los Angeles","CA","34.17131426443793","-118.3029120490168","block","Ruben Ramos","47","male","H","public_record","False","False","1792"
+"9259","2023-05-27","move","not","knife","Burbank","Los Angeles","CA","34.17131426443793","-118.3029120490168","block","Ruben Ramos","47","male","H","public_record","False","True","1792"
 "9263","2023-05-27","point","not","gun","Lithonia","DeKalb","GA","33.71785592078236","-84.13314325594341","address","Jeremy Haugabook","36","male","B","public_record","False","False","329"
 "9256","2023-05-28","attack","other","unarmed","Kennett","Dunklin","MO","","","","James Matthew Hooten","46","male","W","public_record","False","False","14596"
 "9273","2023-05-28","threat","not","knife","Fox Lake","Lake","IL","42.408696980362876","-88.17732846059873","block","Israel Contreras-Madagan","47","male","","","False","False","11209"
