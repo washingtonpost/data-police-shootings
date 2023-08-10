@@ -8657,7 +8657,7 @@
 "9431","2023-07-29","move","not","undetermined","Elizabeth","Union","NJ","","","","Estiben Alegria-Hurtado","42","male","","","False","True","10066"
 "9404","2023-07-30","shoot","car","gun","McAllen","Hidalgo","TX","26.221238563047148","-98.24267191498056","block","Ronaldo Alvarado","25","male","","","False","False","17101"
 "9395","2023-07-31","move","car","vehicle","Minneapolis","Hennepin","MN","","","","Ricky Cobb II","","male","B","clip","False","True","3442"
-"9402","2023-07-31","threat","not","other","Brookhaven","DeKalb","GA","33.869566811487374","-84.33393646446288","address","","","male","","","False","False","2864"
+"9402","2023-07-31","threat","not","other","Brookhaven","DeKalb","GA","33.869566811487374","-84.33393646446288","address","Andrew Wesley Dix","47","male","B","public_record","False","False","2864"
 "9403","2023-07-31","","","undetermined","","Ohio","KY","","","","","","male","","","False","False","20090"
 "9406","2023-07-31","shoot","","gun","Palm Bay","Brevard","FL","","","","","","male","","","False","False","206"
 "9412","2023-07-31","","car","undetermined","","Branch","MI","41.94837626601358","-85.29265027116398","intersection","David Algarin Jr.","30","male","W","public_record","False","False","25017"
@@ -8685,3 +8685,4 @@
 "9411","2023-08-09","","not","undetermined","Provo","Utah","UT","40.239086565638715","-111.67917191009956","intersection","Craig Deleeuw Robertson","75","male","","","False","False","10637"
 "9413","2023-08-09","shoot","","gun","Columbus","Franklin","OH","39.882964110513555","-83.00205305165159","block","","","","","","False","False","90"
 "9434","2023-08-09","point","","gun","Osceola","Mississippi","AR","35.70567718725332","-89.962522763312","address","Keivion Jones","33","male","B","public_record","True","False","20869"
+"9437","2023-08-09","shoot","other","gun","Conyers","Rockdale","GA","33.76290613876611","-83.95558078565833","poi_large","Charles Rice","31","male","","","False","False","1511"
