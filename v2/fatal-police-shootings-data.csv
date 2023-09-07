@@ -8726,3 +8726,8 @@
 "9476","2023-08-25","","","undetermined","Charlotte","Mecklenburg","NC","35.339643783279094","-80.85310050351639","block","","","male","","","False","False","354"
 "9478","2023-08-27","threat","","knife","Jersey City","Hudson","NJ","40.712566915570534","-74.06971179238423","intersection","Andrew Jerome Washington","52","male","","","True","True","1321"
 "9477","2023-08-28","shoot","foot","gun","Lehigh Acres","Lee","FL","26.595990481186064","-81.72411","intersection","Thomas Michael Carney","28","male","","","False","False","1525"
+"9482","2023-09-02","point","not","gun","Chattanooga","Hamilton","TN","35.02057435330908","-85.27829334612062","block","David Mendez Lopez","17","male","","","False","False","654"
+"9481","2023-09-04","threat","","unknown","Reno","Washoe","NV","39.49953603723353","-119.7933295923405","block","","","","","","False","False","933"
+"9483","2023-09-04","point","other","gun","San Antonio","Bexar","TX","29.376612219993316","-98.44675884561639","intersection","Jacob String","27","male","W","public_record","False","False","44"
+"9479","2023-09-06","","car","undetermined","DeWitt","Onondaga","NY","43.07932151070071","-76.10163881349115","poi_large","","15","","","","False","False","3056"
+"9480","2023-09-06","","car","undetermined","DeWitt","Onondaga","NY","43.07932151070071","-76.10163881349115","poi_large","","17","","","","False","False","3056"
