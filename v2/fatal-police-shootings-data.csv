@@ -8664,7 +8664,7 @@
 "9438","2023-08-02","shoot","other","gun","Vandalia","Montgomery","OH","","","","Elaine Helman","51","female","W","public_record","False","True","942"
 "9439","2023-08-02","shoot","other","gun","Vandalia","Montgomery","OH","","","","Rodney Helman","54","male","","","False","True","942"
 "9443","2023-08-02","threat","","unknown","Neenah","Winnebago","WI","44.181463699667724","-88.46499598591205","address","","37","male","","","False","False","28839"
-"9444","2023-08-02","shoot","","gun","San Diego","San Diego","CA","32.803125523299904","-117.16367249121454","poi_large","Benjamin Pickens","33","male","","","False","False","4"
+"9444","2023-08-02","shoot","car","gun","San Diego","San Diego","CA","32.803125523299904","-117.16367249121454","poi_large","Benjamin Pickens","33","male","","","False","False","4"
 "9433","2023-08-03","threat","","gun","Hartford","Geneva","AL","","","","Andrew David Massey","35","male","","","False","False","11611"
 "9436","2023-08-03","shoot","not","gun","Niagara Falls","Niagara","NY","43.10772513901177","-79.05276668292666","address","","53","male","","","False","True","19401"
 "9440","2023-08-03","shoot","","gun","Louisville","Jefferson","KY","38.253627444210395","-85.7092900151308","block","James Monti","47","male","","","False","True","583"
