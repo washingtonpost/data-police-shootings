@@ -8669,7 +8669,7 @@
 "9436","2023-08-03","shoot","not","gun","Niagara Falls","Niagara","NY","43.10772513901177","-79.05276668292666","address","","53","male","","","False","True","19401"
 "9440","2023-08-03","shoot","","gun","Louisville","Jefferson","KY","38.253627444210395","-85.7092900151308","block","James Monti","47","male","","","False","True","583"
 "9441","2023-08-03","threat","not","knife","Boise","Ada","ID","43.60836942256086","-116.21413661992516","address","","","male","","","False","True","349"
-"9442","2023-08-03","threat","foot","gun","Indianapolis","Marion","IN","39.81812680000002","-86.1134012","intersection","Gary Dwayne Harrell","49","male","B","public_record","False","False","77"
+"9442","2023-08-03","threat","foot","gun","Indianapolis","Marion","IN","39.81812680000002","-86.1134012","intersection","Gary Dwayne Harrell","49","male","B","public_record","False","True","77"
 "9421","2023-08-04","threat","not","knife","Roosevelt Island","New York","NY","40.76144669758944","-73.95009124274824","address","","21","male","","","True","False","298"
 "9435","2023-08-04","threat","foot","gun","Kingwood","Harris","TX","30.055925563835153","-95.22245713484718","poi_large","","","","","","False","False",""
 "9420","2023-08-05","shoot","car","gun","Orlando","Orange","FL","28.476128232299445","-81.45667411143562","address","Daton Viel","28","male","B","public_record","False","False","482"
