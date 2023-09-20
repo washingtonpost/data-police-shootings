@@ -8723,6 +8723,8 @@
 "9472","2023-08-22","shoot","car","gun","","Hillsborough","FL","27.896443844066418","-82.35362320000003","address","","39","male","","","False","False","2062"
 "9473","2023-08-22","shoot","not","gun","Canton","Madison","MS","32.506799382041685","-9007175462532118.0","intersection","Ladarrius Johnson","24","male","B","public_record","False","False","2211"
 "9474","2023-08-23","threat","foot","gun","Aurora","Adams","CO","39.74020005861552","-104.86580359540451","intersection","","","male","","","False","True","21"
+"9498","2023-08-23","shoot","not","gun","Trabuco Canyon","Orange","CA","33.68305123039543","-117.62056013294499","address","John Snowling","59","male","","","False","False","474"
+"9499","2023-08-24","move","car","vehicle","Blendon Township","Franklin","OH","40.084689780066675","-82.89683943429668","address","Ta’Kiya Young","21","female","B","clip","False","True","5497"
 "9476","2023-08-25","","","undetermined","Charlotte","Mecklenburg","NC","35.339643783279094","-80.85310050351639","block","","","male","","","False","False","354"
 "9478","2023-08-27","threat","","knife","Jersey City","Hudson","NJ","40.712566915570534","-74.06971179238423","intersection","Andrew Jerome Washington","52","male","","","True","True","1321"
 "9477","2023-08-28","shoot","foot","gun","Lehigh Acres","Lee","FL","26.595990481186064","-81.72411","intersection","Thomas Michael Carney","28","male","","","False","False","1525"
@@ -8745,3 +8747,4 @@
 "9491","2023-09-17","attack","other","unarmed","Hoopa","Humboldt","CA","","","","","","","","","False","False","266"
 "9489","2023-09-19","threat","car","gun","Indianapolis","Marion","IN","39.656167961679444","-86.12780430176818","block","Eric Levon Taylor","37","male","","","False","False","13886"
 "9497","2023-09-19","shoot","","gun","","Pickens","SC","35.0184869728184","-82.57272400582126","intersection","Brian Dustin Shumway","36","male","W","public_record","False","False","2128"
+"9500","2023-09-20","","","undetermined","","Lincoln","OK","","","","","","male","","","False","False","101"
