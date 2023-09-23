@@ -8678,7 +8678,7 @@
 "9427","2023-08-05","move","not","unarmed","Denver","Denver","CO","39.7130467034572","-105.01391732680803","block","Brandon Cole","36","male","","","False","True","106"
 "9430","2023-08-05","move","","unarmed","Rowsburg","Ashland","OH","40.85937019296813","-82.1597458205976","block","Larry Dunham","63","male","","","True","False","4496"
 "9412","2023-08-06","","car","undetermined","","Branch","MI","41.94837626601358","-85.29265027116398","intersection","David Algarin Jr.","30","male","W","public_record","False","False","25017"
-"9419","2023-08-06","","car","undetermined","Mission","Johnson","KS","39.04399461684598","-94.65610971065603","block","Shannon Wayne Marshall","40","male","W","clip","False","False","200;10497;3109;17797"
+"9419","2023-08-06","","car","undetermined","Mission","Johnson","KS","39.04399461684598","-94.65610971065603","address","Shannon Wayne Marshall","40","male","W","clip","False","False","200;10497;3109;17797"
 "9423","2023-08-06","shoot","car","gun","Gates","Monroe","NY","43.15966761779021","-77.7324034404718","poi_large","Daniel R. Legler","36","male","W","public_record","False","True","1234"
 "9424","2023-08-06","threat","not","knife","Tucson","Pima","AZ","32.28106546508348","-110.9929474084958","block","","","male","","","False","False","964"
 "9426","2023-08-06","point","foot","gun","La Mesa","San Diego","CA","32.764954482897544","-117.02626699003989","block","","41","male","W","clip","False","False","1851"
