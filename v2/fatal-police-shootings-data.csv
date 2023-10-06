@@ -8712,7 +8712,7 @@
 "9464","2023-08-14","shoot","car","gun","Ravenna Township","Muskegon","MI","43.201772288909616","-85.93428651714794","intersection","Zachary Joseph Johnson","28","male","","","False","False","18551"
 "9456","2023-08-15","move","not","undetermined","San Diego","San Diego","CA","32.761651729419825","-117.06645545396871","block","","","male","","","False","False","262"
 "9462","2023-08-15","threat","not","knife","Morse","Ashland","WI","","","","","","male","","","False","False","1945"
-"9463","2023-08-15","shoot","not","gun","Jeffersonville","Clark","IN","38.27064993012852","-85.74862223439096","address","Richard Glass","65","male","W","public_record","False","False","14271"
+"9463","2023-08-15","shoot","not","gun","Jeffersonville","Clark","IN","38.27064993012852","-85.74862223439096","address","Richard Glass","65","male","W","public_record","False","True","14271"
 "9465","2023-08-15","point","","gun","Fontana","Los Angeles","CA","34.14518605259046","-117.44268368465644","poi_small","Alejandro Diaz","45","male","","","True","False","45"
 "9457","2023-08-16","","","undetermined","Henderson","Chester","TN","35.43656726265453","-88.65931766239176","intersection","","","","","","False","False","10636"
 "9459","2023-08-16","","","undetermined","Clarksville","Montgomery","TN","36.582173342464394","-87.30503821528973","intersection","Brandon Green","31","male","W","public_record","False","False","2107"
