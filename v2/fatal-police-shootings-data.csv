@@ -8720,7 +8720,7 @@
 "9461","2023-08-16","threat","foot","knife","Nampa","Canyon","ID","43.61431268830035","-116.5936703906115","address","","","male","","","True","False","2129"
 "9471","2023-08-16","threat","not","knife","Mendota","Fresno","CA","36.756787179838014","-120.37797411759442","intersection","Javiel Zavala","31","male","","","False","False","17338"
 "9475","2023-08-20","attack","not","unknown","Charlotte","Mecklenburg","NC","35.21096446686722","-80.86478103931698","address","Peter Corey","","male","","","False","False","354"
-"9472","2023-08-22","shoot","car","gun","","Hillsborough","FL","27.896443844066418","-82.35362320000003","address","","39","male","","","False","False","2062"
+"9472","2023-08-22","shoot","car","gun","Riverview","Hillsborough","FL","27.895577691555477","-82.3537282099093","address","Don Robert Astor","39","male","","","False","False","2062"
 "9473","2023-08-22","shoot","not","gun","Canton","Madison","MS","32.506799382041685","-9007175462532118.0","intersection","Ladarrius Johnson","24","male","B","public_record","False","False","2211"
 "9474","2023-08-23","threat","foot","gun","Aurora","Adams","CO","39.74020005861552","-104.86580359540451","intersection","","","male","","","False","True","21"
 "9498","2023-08-23","shoot","not","gun","Trabuco Canyon","Orange","CA","33.68305123039543","-117.62056013294499","address","John Snowling","59","male","","","False","False","474"
