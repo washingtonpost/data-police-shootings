@@ -8786,3 +8786,5 @@
 "9532","2023-10-17","point","foot","gun","San Antonio","Bexar","TX","29.417241978535454","-98.51352422263133","intersection","","","male","","","False","True","44"
 "9539","2023-10-19","shoot","foot","gun","Washington","Washington","DC","38.855218516311695","-76.96905815340868","block","","","male","","","False","True","882"
 "9537","2023-10-20","threat","","knife","Killeen","Bell","TX","31.110934749046613","-97.7365023966215","block","","38","male","","","False","False","1789"
+"9541","2023-10-22","threat","","knife","Homestead","Miami-Dade","FL","25.45923566826674","-80.4601768327725","address","Daniel Alan Kempf","24","male","W","public_record","True","False","653"
+"9542","2023-10-22","shoot","","gun","Vinton","Gallia","OH","","","","","","male","","","False","False","11487"
