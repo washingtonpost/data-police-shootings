@@ -8755,7 +8755,7 @@
 "9488","2023-09-17","attack","","blunt_object","Johnstown","Fulton","NY","","","","Nathan K. Wood","28","male","","","False","False","14371"
 "9491","2023-09-17","attack","other","unarmed","Hoopa","Humboldt","CA","","","","William Burrell Nelson","43","male","","","False","False","266"
 "9489","2023-09-19","threat","car","gun","Indianapolis","Marion","IN","39.656167961679444","-86.12780430176818","block","Eric Levon Taylor","37","male","","","False","True","13886"
-"9497","2023-09-19","shoot","","gun","","Pickens","SC","35.0184869728184","-82.57272400582126","intersection","Brian Dustin Shumway","36","male","W","public_record","False","False","2128"
+"9497","2023-09-19","shoot","car","gun","","Pickens","SC","35.0184869728184","-82.57272400582126","intersection","Brian Dustin Shumway","36","male","W","public_record","False","False","2128"
 "9500","2023-09-20","move","","vehicle","","Lincoln","OK","","","","Alejandro Faudoa","28","male","","","False","False","101"
 "9501","2023-09-20","shoot","foot","gun","Houston","Harris","TX","29.717430991863424","-95.37433830047975","block","Dimitri Humphrey","28","male","B","photo","False","False","160;102"
 "9511","2023-09-23","shoot","foot","gun","Keaau","Hawaii","HI","","","","Kaena Kaohu","30","male","","","False","True","28842"
