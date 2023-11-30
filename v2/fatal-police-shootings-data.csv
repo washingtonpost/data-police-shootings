@@ -9046,6 +9046,8 @@
 "9553","2023-11-02","move","foot","blunt_object;knife","Calabasas","Los Angeles","CA","34.15737057109472","-118.6394938119001","address","","","male","","","False","False","38"
 "9648","2023-11-03","shoot","foot","gun","Escondido","San Diego","CA","33.141925551309654","-117.04237599855091","block","Douglas Quinn","48","male","W","public_record","False","False","1687"
 "9581","2023-11-05","threat","foot","gun","Shreveport","Caddo","LA","","","","Fleen Myles III","33","male","B","public_record","False","False","772"
+"9844","2023-11-05","threat","car","knife","Citrus Heights","Sacramento","CA","","","","Zachary Wolfscott","36","male","","","False","False","266;1069"
+"9845","2023-11-05","attack","","knife","Northhampton","Northampton","PA","40.69110788981779","-75.49004202060927","block","Mark Chambers","40","male","W","public_record","True","False","19732"
 "9591","2023-11-06","shoot","","gun","Fort Walton Beach","Okaloosa","FL","","","","Jose Antonio Medina","58","male","W","public_record","False","False","807"
 "9646","2023-11-06","attack","not","knife;knife","Lubbock","Lubbock","TX","33.51195045203807","-101.87115036397073","block","Noah Magallan","21","male","W","public_record","False","False","2677"
 "9843","2023-11-06","shoot","foot","gun","Chicago","Cook","IL","41.7623278356177","-87.58975717633682","block","Tranza Campbell","32","male","B","photo","False","False","265"
