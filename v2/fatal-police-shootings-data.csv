@@ -9055,6 +9055,7 @@
 "9640","2023-11-09","flee","car","undetermined","Sandy","Salt Lake","UT","","","","","16","male","","","False","False","2103"
 "9643","2023-11-09","threat","car","blunt_object","","Wasatch","UT","","","","","","male","","","False","False","25092"
 "9641","2023-11-10","","","other","Monroe","Ouachita","LA","","","","Lance Levie","","male","W","public_record","False","False","1348"
+"9840","2023-11-10","threat","","gun","San Bernardino","San Bernardino","CA","34.128670082797804","-117.31384496459518","intersection","Darrell Fowler","","male","","","False","False","595"
 "9593","2023-11-11","shoot","car","gun","Bluffton","Beaufort","SC","32.24166575630117","-80.90527359605984","road","Anthony Barnhill","34","male","B","public_record","False","False","2539"
 "9635","2023-11-11","point","","gun","Flowery Branch","Hall","GA","34.1833841624235","-83.94916471069027","block","David James Umpmreyville","57","male","W","public_record","False","False","865"
 "9637","2023-11-11","","","undetermined","Fontana","San Bernardino","CA","34.12367942066736","-117.50176493964699","block","","","male","","","False","False","45"
@@ -9079,3 +9080,4 @@
 "9824","2023-11-22","undetermined","","undetermined","Murfreesboro","Rutherford","TN","35.85749629668364","-86.43002340307143","block","Steven James Murphy","44","male","W","public_record","False","False","18530"
 "9825","2023-11-22","shoot","foot","","Washington","Washington","DC","38.9043012129072","-77.02808170745598","intersection","Turell Delonte Campbell","30","male","B","public_record","False","False","26437"
 "9826","2023-11-22","shoot","foot","gun","Sharpsburg","Coweta","GA","","","","Dustin Allen Phillips","34","male","W","public_record","False","False","1285"
+"9839","2023-11-28","shoot","not","gun","Fulton","Fulton","GA","33.60651787865845","-84.53275400593127","block","Fred Claud Perkins","78","male","","","False","False","11423"
