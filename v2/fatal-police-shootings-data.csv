@@ -9294,4 +9294,8 @@
 "10073","2024-01-20","point","not","gun","Winston-Salem","Forsyth","NC","36.125446787371246","-80.21206229157077","address","Shane William Sims","33","male","","","False","False","2132"
 "10069","2024-01-21","move","not","gun","Gilbert","Maricopa","AZ","41.35140182272201","-97.29260160684827","intersection","Brett Shanahan","40","male","","","True","True","710"
 "10072","2024-01-21","shoot","not","gun","Augusta","Kennebec","ME","44.3269719359397","-69.77658406194938","address","Liban S. Mohamed","22","male","","","False","False","16400;3231"
+"10076","2024-01-22","undetermined","not","undetermined","Eureka","Humboldt","CA","40.794048990170346","-124.17500622579537","block","Daniel Martinez","43","male","","","False","False","1424"
+"10077","2024-01-22","attack","not","knife","Wildwood","Sumter","FL","28.82367690087259","-81.98464635125052","address","Jane Sours","81","female","","","False","False","2268"
 "10074","2024-01-23","shoot","not","gun","Appleton","Outagamie","WI","44.27299309232605","-88.41000368013063","address","","","","","","False","True","1745"
+"10078","2024-01-23","shoot","not","vehicle;gun","San Antonio","Bexar","TX","29.366339296321275","-98.4949407063952","block","","","male","","","False","False","44"
+"10075","2024-01-24","undetermined","","undetermined","Pittsburgh","Allegheny","PA","40.42279373450612","-79.98049912275374","address","Austyn Cousins","26","male","","","False","False","606"
