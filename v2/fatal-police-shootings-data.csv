@@ -9333,6 +9333,8 @@
 "10091","2024-01-28","shoot","car","vehicle;gun","Ooltewah","Hamilton","TN","35.0825574","-85.0822149","road","Tyler Lebron Roberts","31","male","B","photo","False","False","750"
 "10094","2024-01-28","undetermined","foot","gun","Fife Lake","Kalkaska","MI","44.569772","-85.33167","road","","35","male","","","False","False","479"
 "10098","2024-01-28","shoot","foot","gun","Palm Bay","Brevard","FL","28.0074027","-80.6430866","block","Brandon William Kapas","24","male","H","public_record","False","False","206"
+"10104","2024-01-29","threat","not","knife","Decatur","DeKalb","GA","33.80276139022808","-84.31049281473501","address","John Robert Smith","58","male","B","photo","True","False","28850"
+"10107","2024-01-29","point","foot","gun","Peoria","Maricopa","AZ","33.580839874436336","-112.2550224361174","intersection","","43","male","","","False","True","2301"
 "10103","2024-01-30","undetermined","","undetermined","New Carrollton","Prince George's","MD","38.952210862442826","-76.88404253320013","address","","","male","","","True","False","18845"
 "10105","2024-01-30","point","not","gun","Temple","Bell","TX","31.085267937401554","-97.32747957613951","block","Chad Hartley","23","male","W","photo","False","False","2212"
 "10106","2024-01-30","shoot","not","gun","Springfield","Robertson","TN","36.49365210266673","-86.88749341271334","intersection","Kevin Chapman","28","male","","","False","False","24585"
