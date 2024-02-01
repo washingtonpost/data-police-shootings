@@ -9081,7 +9081,7 @@
 "9838","2023-11-11","shoot","car","gun","Houston","Harris","TX","29.726328813499876","-95.4766459708614","intersection","Jafeth Torres-Diaz","19","male","W","public_record","False","True","102"
 "9632","2023-11-12","threat","","gun","Bismarck","Burleigh","ND","46.800109650570185","-100.7848534503581","poi_small","Nicholas Bruington","17","male","","","False","False","1145"
 "9857","2023-11-12","","car","undetermined","Albuquerque","Bernalillo","NM","35.156166629558236","-106.63780088686626","block","Joseph Ramos","","male","","","False","False","469"
-"9622","2023-11-13","flee","foot","undetermined","San Diego","San Diego","CA","32.747863999943455","-117.10811510356163","block","Imanol Aparicio","22","male","","","False","True","262"
+"9622","2023-11-13","point","foot","gun","San Diego","San Diego","CA","32.747863999943455","-117.10811510356163","block","Imanol Aparicio","22","male","","","False","True","262"
 "9626","2023-11-13","point","not","gun","Mobile","Mobile","AL","30.65750633868006","-88.13394829376371","intersection","Randall Henry Adjessom","16","male","B","photo","False","True","1307"
 "9630","2023-11-13","shoot","not","gun","Coloma","Berrien","MI","42.20061048197898","-86.35450808283481","block","","40","male","","","False","False","8091"
 "9837","2023-11-13","point","foot","gun","","White","AR","35.18705826743472","-91.87752777698363","intersection","Curtis Lindsey","47","male","W","photo","False","False","1979"
