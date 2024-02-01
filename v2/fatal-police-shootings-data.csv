@@ -1838,7 +1838,7 @@
 "2124","2016-11-13","attack","not","blunt_object","Bloomsburg","Columbia","PA","41.003698","-76.4549457","not_available","Jonathan M. Young","38","male","","","True","False","1565"
 "2047","2016-11-15","threat","not","knife","Temecula","Riverside","CA","33.52744","-117.1626344","not_available","Michael Cookson","48","male","","","False","False","267"
 "2048","2016-11-15","move","car","","York County","York","PA","39.9535962","-76.7232135","not_available","Rasheem Singletary","25","male","B","not_available","False","False","19"
-"2049","2016-11-15","point","not","gun","Webster","Harris","TX","29.543507","-95.1360614","not_available","Robert Daffern","37","male","W","not_available","False","False","1528"
+"2049","2016-11-15","point","not","gun","Webster","Harris","TX","29.543507","-95.1360614","not_available","Robert Tobe Daffern","37","male","W","not_available","False","False","1528"
 "2050","2016-11-16","threat","not","knife","Whittier","Los Angeles","CA","33.9754177","-118.0326615","not_available","Jose George Anthony Franco","37","male","H","not_available","False","False","1529"
 "2051","2016-11-16","threat","not","gun","Redding","Shasta","CA","40.5710259","-122.3530647","not_available","Edmund Leighty Sr.","56","male","W","not_available","False","False","1009"
 "2052","2016-11-18","threat","not","gun","Fort Walton Beach","Okaloosa","FL","30.42986","-86.642185","not_available","Joseph Leland Fletcher","35","male","W","not_available","True","False","807"
@@ -9340,3 +9340,4 @@
 "10106","2024-01-30","shoot","not","gun","Springfield","Robertson","TN","36.49365210266673","-86.88749341271334","intersection","Tevin Chapman","28","male","","","False","False","24585"
 "10108","2024-01-30","undetermined","not","blunt_object","Spokane","Spokane","WA","47.71780468597207","-117.41517884582296","block","","","male","","","False","False","2264"
 "10109","2024-01-30","threat","car","knife","Fryeburg","Oxford","ME","44.01609338820397","-70.98131243880376","address","Kenneth Ellis","52","male","","","False","False","11416"
+"10111","2024-01-31","point","not","gun","Spokane","Spokane","WA","47.64648214155803","-117.41707704594661","block","","","male","","","False","True","708"
