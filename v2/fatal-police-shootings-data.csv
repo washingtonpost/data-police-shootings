@@ -9139,7 +9139,7 @@
 "10065","2023-11-28","attack","foot","knife","Philadelphia","Philadelphia","PA","39.95162193493829","-75.16399772897174","intersection","Gregory J. Skane","48","male","W","public_record","False","False","23734"
 "9875","2023-11-29","shoot","car","gun","Cortez","Montezuma","CO","37.340228555695866","-108.59909273725978","block","Jason Campbell","44","male","W","public_record","False","False","8465"
 "9888","2023-11-29","shoot","","gun","Kannapolis","Cabarrus","NC","","","","Lamar Deshawn Young","33","male","B","public_record","False","False","6441;14475"
-"9889","2023-11-29","threat","car","gun","","Miami-Dade","FL","25.58718280982114","-80.48657925767232","intersection","Osvaldo Cueli","59","male","W","public_record","False","False","219"
+"9889","2023-11-29","threat","car","gun","Miami","Miami-Dade","FL","25.58718280982114","-80.48657925767232","intersection","Osvaldo Cueli","59","male","W","public_record","False","False","219"
 "10014","2023-11-29","shoot","not","gun","Lancaster","Lancaster","PA","40.02734842395277","-76.32130024484218","address","William Joseph O'Neill","40","male","","","False","True","500"
 "9861","2023-11-30","threat","not","knife","Indianapolis","Marion","IN","39.6946416343835","-86.18802863984813","block","Lamont Bland","60","male","B","public_record","False","True","77"
 "9909","2023-11-30","point","other","gun","Houston","Harris","TX","29.819130008972337","-95.52632077286474","address","Omar Rodarte","30","male","H","public_record","False","False","24532"
