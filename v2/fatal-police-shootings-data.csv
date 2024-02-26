@@ -9245,7 +9245,7 @@
 "9989","2023-12-27","undetermined","foot","gun","Portland","Multnomah","OR","45.51832252348128","-122.56230953619695","poi_large","Tyrone Lee Johnson II","33","male","B","clip","False","False","618"
 "9990","2023-12-27","shoot","not","gun;knife","Jacksonville","Duval","FL","30.24740038446248","-81.7180896338452","address","Paton John Pinette","26","male","W","public_record","True","False","17"
 "9991","2023-12-28","undetermined","","undetermined","Elizabethtown","Lancaster","PA","40.13939950020514","-76.58880579087132","block","Shane Kelec","38","male","W","photo","False","False","26254"
-"9992","2023-12-28","undetermined","foot","gun","Las Vegas","Clark","NV","36.158934720107816","-115.1654686649742","intersection","Iesel Torres-Santiago","33","male","H","public_record","False","False","375"
+"9992","2023-12-28","threat","foot","gun","Las Vegas","Clark","NV","36.158934720107816","-115.1654686649742","intersection","Iesel Torres-Santiago","33","male","H","public_record","False","False","375"
 "9994","2023-12-28","shoot","car","gun","Woodbridge","Middlesex","NJ","40.56329731428748","-74.32302399293263","poi_small","Kevin Harlfinger","40","male","W","photo","False","False","8610"
 "9993","2023-12-29","shoot","not","gun","New York","Queens","NY","40.70118673895693","-73.80788261564962","intersection","Bashe McDaniel","52","male","","","False","True","19212"
 "9995","2023-12-29","shoot","","gun","Fairhaven","Bristol","MA","41.633397356028325","-70.87626425373989","address","Paul N. Coderre Jr.","55","male","W","clip","False","False","10462"
