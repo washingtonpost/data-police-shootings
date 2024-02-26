@@ -9337,7 +9337,7 @@
 "10103","2024-01-30","undetermined","car","gun","Hyattsville","Prince George's","MD","38.952210862442826","-76.88404253320013","address","Artell Cunningham","28","male","B","photo","True","True","18845"
 "10105","2024-01-30","point","not","gun","Temple","Bell","TX","31.085267937401554","-97.32747957613951","block","Chad Hartley","23","male","W","photo","False","False","2212"
 "10106","2024-01-30","shoot","not","gun","Springfield","Robertson","TN","36.49365210266673","-86.88749341271334","intersection","Tevin Chatman","28","male","B","photo","False","False","24585"
-"10108","2024-01-30","undetermined","not","blunt_object","Spokane","Spokane","WA","47.71780468597207","-117.41517884582296","block","Richard Rogissart","55","male","","","False","False","2264"
+"10108","2024-01-30","threat","not","blunt_object","Spokane","Spokane","WA","47.71780468597207","-117.41517884582296","block","Richard Rogissart","55","male","","","False","False","2264"
 "10109","2024-01-30","threat","car","knife","Fryeburg","Oxford","ME","44.01609338820397","-70.98131243880376","address","Kenneth Ellis","52","male","W","photo","True","False","11416"
 "10111","2024-01-31","point","not","gun","Spokane","Spokane","WA","47.64648214155803","-117.41707704594661","block","Craig Anglisano","43","male","","","False","True","708"
 "10112","2024-02-01","undetermined","not","undetermined","Suitland","Prince George's","MD","38.84535908577771","-76.91927665091985","block","Melvin Jay","31","male","","","False","True","22172"
