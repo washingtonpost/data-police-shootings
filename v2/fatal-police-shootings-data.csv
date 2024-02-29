@@ -9392,7 +9392,7 @@
 "10163","2024-02-19","threat","other","gun","Phoenix","Maricopa","AZ","33.46597288641602","-112.18645145807511","intersection","Miguel Godines","37","male","H","photo","False","False","80"
 "10164","2024-02-20","attack","not","knife","Las Vegas","Clark","NV","36.14412642314887","-115.1186967236515","block","","","male","W","clip","False","False","375"
 "10166","2024-02-20","undetermined","not","undetermined","Brush Prairie","Clark","WA","45.712841092478506","-122.51625401328556","address","Jonathan Gale","53","male","","","False","True","1169"
-"10167","2024-02-20","undetermined","","undetermined","Los Lunas","Valencia","NM","34.8037239298802","-106.73989326121347","address","Lucas Barros","42","male","H","photo","False","False","2946"
+"10167","2024-02-20","shoot","","gun","Los Lunas","Valencia","NM","34.8037239298802","-106.73989326121347","address","Lucas Barros","42","male","H","photo","False","False","2946"
 "10169","2024-02-21","shoot","car","gun","Lake Cormorant","DeSoto","MS","","","","Jamarcus Brown","38","male","B","clip","False","False","1329"
 "10173","2024-02-22","undetermined","","undetermined","Independence","Jackson","MO","39.096791183788724","-94.39367926319143","block","","","male","","","False","False","637"
 "10175","2024-02-22","attack","not","knife","Columbus","Franklin","OH","39.97902363479354","-82.94470061828555","block","Colin Jennings","26","male","B","photo","True","True","90"
