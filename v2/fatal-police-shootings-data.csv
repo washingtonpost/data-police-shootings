@@ -9646,7 +9646,7 @@
 "10435","2024-05-08","point","car","gun","Lakewood","Jefferson","CO","39.724927090650745","-105.10023936769319","intersection","","","male","","","False","False","1236"
 "10436","2024-05-08","move","not","gun","Galveston","Galveston","TX","29.2395660786353","-94.87794911778872","address","Jesse David Hartman","39","male","W","public_record","False","True","2222"
 "10437","2024-05-08","shoot","","gun","North Ridgeville","Lorain","OH","41.40022594207067","-82.00520148811344","intersection","Jason Norris","41","male","W","photo","False","False","19702"
-"10438","2024-05-08","undetermined","","undetermined","Chandler","Maricopa","AZ","33.305777153942","-111.90595481799694","intersection","Ruben Felix Alejandro Lopez","45","male","H","photo","False","False","195"
+"10438","2024-05-08","move","","knife","Chandler","Maricopa","AZ","33.305777153942","-111.90595481799694","intersection","Ruben Felix Alejandro Lopez","45","male","H","photo","False","False","195"
 "10446","2024-05-08","attack","foot","knife","Ranger","Lincoln","WV","","","","Harman Davis","46","male","W","photo","False","False","360"
 "10441","2024-05-09","move","not","knife","Victorville","San Bernardino","CA","34.481964956173485","-117.33368715581972","intersection","Nicholas Robert Contreras","32","male","","","False","False","236"
 "10440","2024-05-10","attack","not","knife","Memphis","Shelby","TN","35.20844795974632","-89.96074549922116","block","Freeman Sherman Jr.","39","male","","","False","False","31"
