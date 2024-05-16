@@ -8974,7 +8974,7 @@
 "9779","2023-10-05","threat","car","knife","Auburndale","Polk","FL","28.054000021665125","-81.83456149659433","intersection","","","male","","","False","False","2850;805"
 "9520","2023-10-06","threat","","gun","Cut Bank","Glacier","MT","48.6373460063628","-112.34084949357435","block","Jeffrey Severn","54","male","W","public_record","False","False","8806"
 "9780","2023-10-06","threat","not","gun","Shiprock","San Juan","NM","","","","","","male","","","False","True","1653;1997"
-"9521","2023-10-07","shoot","car","gun","","Allen","KY","","","","Jeremy Rollenhagen","37","male","W","public_record","False","False","130"
+"9521","2023-10-07","shoot","car","gun","","Allen","KY","","","","Jeremy Rollenhagen","37","male","W","public_record","False","False","24033;130;2028"
 "9781","2023-10-07","threat","not","knife","Menasha","Winnebago","WI","44.223060131413156","-88.4253129775726","block","Kenneth Blevins","43","male","W","public_record","False","True","17327"
 "9782","2023-10-07","threat","not","gun","Corpus Christi","Nueces","TX","27.71142228666788","-97.42227575584472","block","Ricardo Jose Fuentes","17","male","H","photo","False","False","934"
 "9783","2023-10-07","threat","not","gun","Canoga Park","Los Angeles","CA","34.20109191438031","-118.59355513290205","address","Oscar Vasquez Lopez","44","male","H","clip","False","False","38"
