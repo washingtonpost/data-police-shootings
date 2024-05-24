@@ -9682,3 +9682,7 @@
 "10480","2024-05-16","move","not","blunt_object","Everett","Snohomish","WA","42.854608132157864","-90.18065040141256","intersection","Marvin Arellano","37","male","","","False","False","1311"
 "10476","2024-05-17","move","car","vehicle","Mableton","Cobb","GA","33.81961755773996","-84.58048823783912","intersection","Clifford Jacoby Beck","40","male","","","False","False","2851"
 "10484","2024-05-17","undetermined","","gun","East Moline","Rock Island","IL","41.48117365393374","-90.43884045815419","address","Eugene Mewes","80","male","","","False","False","9804"
+"10473","2024-05-18","shoot","not","gun","Fort Pierce","St. Lucie","FL","27.464837904677562","-80.34963623657274","block","Bernard M. Smith","28","male","B","public_record","False","False","930"
+"10474","2024-05-18","move","not","gun","Greensboro","Guilford","NC","36.109502189983125","-79.81737028439325","block","Gerald Pinckney","31","male","B","photo","True","False","1228"
+"10475","2024-05-18","shoot","not","gun","Gastonia","Gaston","NC","35.259210616792416","-81.19564271084012","block","","","female","","","False","False","317"
+"10479","2024-05-18","move","not","gun","Colorado Springs","El Paso","CO","38.78401344682223","-104.74949045363698","block","Michael Hurst","40","male","W","photo","True","False","893"
