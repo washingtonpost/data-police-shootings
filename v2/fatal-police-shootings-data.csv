@@ -9757,3 +9757,7 @@
 "10567","2024-06-06","shoot","not","gun","Baton Rouge","East Baton Rouge","LA","30.50089257349699","-91.14260695969543","block","Tyquarius Armstrong","21","male","","","False","True","818"
 "10548","2024-06-07","point","not","gun","Hiram","Oxford","ME","43.89538563474817","-70.81099465659976","address","Steven Paul Nelson","39","male","W","photo","False","False","514"
 "10566","2024-06-07","attack","car","vehicle;gun","St. Augustine","St. Johns","FL","29.829621348077612","-81.32225536249594","intersection","","","male","","","False","False","3480"
+"10550","2024-06-08","attack","car","knife","Roanoke","Roanoke City","VA","37.30582970787841","-79.97770021438461","block","Travis Tauren Martin","41","male","","","False","False","1944"
+"10553","2024-06-08","point","not","undetermined","Vancouver","Clark","WA","45.62150302890226","-122.67317824742916","intersection","","","male","","","False","True","1310"
+"10554","2024-06-08","attack","not","blunt_object","Corinth","Alcorn","MS","34.85979759516753","-88.61005572062369","address","","","male","W","clip","False","False","3165"
+"10559","2024-06-08","undetermined","not","undetermined","Prescott","Yavapai","AZ","34.57331222531038","-112.470376245846","block","","","male","","","False","False","1725"
