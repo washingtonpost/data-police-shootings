@@ -9793,3 +9793,7 @@
 "10577","2024-06-16","threat","not","knife","Denver","Denver","CO","39.7556215785994","-104.98739289016997","intersection","","","female","","","False","False","106"
 "10578","2024-06-16","shoot","not","gun","Pacolet","Spartanburg","SC","34.91206421925556","-81.75029950579815","intersection","Jason Chad Prosser","43","male","W","photo","False","False","163"
 "10609","2024-06-17","point","not","gun","Vancouver","Clark","WA","45.643865419600154","-122.60083123318469","block","Jonathan West Nelson","40","male","","","False","True","1310"
+"10586","2024-06-18","attack","not","knife","Wayne","Wayne","MI","42.28007396634204","-83.3828049094696","block","John Zook Jr.","40","male","","","True","True","27519"
+"10597","2024-06-18","point","car","gun","St. Louis","St. Louis City","MO","38.66113985423959","-90.23344029839932","intersection","Emeshyon Wilkins","17","male","B","photo","False","False","134"
+"10600","2024-06-18","point","car","vehicle","The Dalles","Wasco","OR","45.60409211175844","-121.19621154285285","address","Jimmy L. Ewing","68","male","","","False","False","27273;2431"
+"10604","2024-06-18","undetermined","not","gun","Wadsworth","Medina","OH","41.02204989104959","-81.71431846507028","address","Shannon Sloan","54","male","W","photo","True","False","2624"
