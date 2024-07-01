@@ -9806,6 +9806,7 @@
 "10626","2024-06-18","shoot","car","gun","Statesboro","Bulloch","GA","32.38654682494317","-81.83159184702738","address","Robert Allen Bostic","25","male","B","photo","False","False","1626"
 "10587","2024-06-19","shoot","not","gun","Pueblo","Pueblo","CO","38.309087758460834","-104.6268801327893","intersection","Ronald Ray Valdez","34","male","H","photo","False","False","151"
 "10590","2024-06-19","shoot","car","gun","Las Cruces","Dona Ana","NM","","","","Michael Christopher Goodheart","26","male","","","True","False","682"
+"10627","2024-06-19","shoot","not","gun","Anchorage","Anchorage","AK","61.2031759674413","-149.74442604394707","block","Lisa M. Fordyce-Blair","58","female","","","False","False","208"
 "10599","2024-06-20","threat","car","gun","Albuquerque","Bernalillo","NM","35.10655951323042","-106.70444074135315","intersection","","","male","","","False","False","508"
 "10603","2024-06-20","move","not","knife","Knoxville","Knox","TN","35.95549861966327","-84.0529654837895","block","Shilo M. Rice","49","female","","","False","False","2348"
 "10616","2024-06-20","point","not","gun","Las Vegas","Clark","NV","36.168465717087365","-115.13537716956664","intersection","Seth Samuel Wilson","49","male","W","photo","False","True","375"
@@ -9828,3 +9829,5 @@
 "10619","2024-06-26","shoot","not","gun","Melbourne","Brevard","FL","28.07882929345814","-80.62280025974223","address","William J. Banks Jr.","47","male","","","False","False","28;206;556"
 "10620","2024-06-26","move","not","knife","Greensboro","Guilford","NC","36.045070362658635","-79.8302161946031","block","Titus Kopp","28","male","","","False","False","1228"
 "10640","2024-06-26","attack","foot","knife","Wauchula","Hardee","FL","27.54369417088481","-81.78182815235701","intersection","Daniel A. Jenkins","30","male","","","False","True","12678"
+"10628","2024-06-27","undetermined","other","gun","Cincinnati","Hamilton","OH","39.10806926458903","-84.51813493407394","address","Juan Mack","48","male","","","False","False","577"
+"10629","2024-06-27","threat","not","knife","Lynchburg","Lynchburg City","VA","37.35988779607255","-79.17175334111592","address","Francisco J. Hernandez Jr.","32","male","","","False","False","1941"
