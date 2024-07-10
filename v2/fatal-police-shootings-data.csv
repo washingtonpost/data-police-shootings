@@ -9843,3 +9843,5 @@
 "10639","2024-06-29","point","foot","undetermined","Dayton","Montgomery","OH","39.76021604170011","-84.21194365440536","address","Brian Moody","16","male","B","photo","False","True","1124"
 "10636","2024-06-30","move","not","knife","Taylor Mill","Kenton","KY","39.03346307969113","-84.50261703205365","road","","","male","","","False","False","25354;3147"
 "10644","2024-06-30","shoot","other","gun","Waterloo","Black Hawk","IA","42.50840880176046","-92.33265235417691","block","Kelvin Lee Plain Jr.","35","male","","","False","False","3270"
+"10649","2024-07-01","point","not","gun","Sacramento","Sacramento","CA","38.694324901038705","-121.36925283444961","intersection","","","male","","","False","False","1069"
+"10682","2024-07-01","flee","car","vehicle","Cherokee","Swain","NC","35.4601865320933","-83.37121888966684","intersection","","","male","","","False","False","7392"
