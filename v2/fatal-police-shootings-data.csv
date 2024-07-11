@@ -9764,7 +9764,7 @@
 "10554","2024-06-08","attack","not","blunt_object","Corinth","Alcorn","MS","34.85979759516753","-88.61005572062369","address","","","male","W","clip","False","False","3165"
 "10559","2024-06-08","undetermined","not","undetermined","Prescott","Yavapai","AZ","34.57331222531038","-112.470376245846","block","","","male","","","False","False","1725"
 "10573","2024-06-08","move","not","knife;blunt_object","Las Vegas","Clark","NV","36.24054099975547","-115.06207667601858","block","Maurice Smith","43","male","B","photo","False","False","375"
-"10552","2024-06-09","shoot","foot","gun","Harrisburg","Dauphin","PA","40.262596084385805","-76.88607859819571","block","Kendrell Hall","22","male","B","photo","False","False","1398"
+"10552","2024-06-09","shoot","foot","gun","Harrisburg","Dauphin","PA","40.262596084385805","-76.88607859819571","block","Kendrell Hall","22","male","B","photo","False","False","21313;1398"
 "10556","2024-06-09","shoot","not","gun","Arlington","Tarrant","TX","32.63923977041994","-97.1346321726834","block","Shannon Boyd","42","male","B","public_record","False","False","698"
 "10558","2024-06-09","move","not","knife","Fort Myers","Lee","FL","26.623817950443772","-81.87024288699958","block","Willy Lumaine","33","male","","","False","False","2735"
 "10574","2024-06-09","undetermined","foot","undetermined","Española","Rio Arriba","NM","35.988289721476896","-106.0607449643921","address","Jeffrey Martinez","28","male","","","False","False","3138"
