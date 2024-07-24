@@ -9907,3 +9907,7 @@
 "10741","2024-07-19","point","not","gun","Waikiki","Honolulu","HI","21.27597857504452","-157.82172209582245","intersection","","","male","","","False","False","1346"
 "10742","2024-07-19","undetermined","not","gun","Pine Hills","Orange","FL","28.605649082011098","-81.47297966242748","intersection","Deshaun Albert Dunmyer","31","male","","","False","False","326"
 "10743","2024-07-19","threat","","knife;blunt_object","Jurupa Valley","Riverside","CA","33.99617210245158","-117.39455696149814","intersection","","","male","","","False","False","3299"
+"10733","2024-07-20","move","foot","knife","Houston","Harris","TX","29.73607298880057","-95.6133942936632","block","","27","male","","","False","False","102"
+"10734","2024-07-20","point","not","gun","Biloxi","Harrison","MS","30.400338453276266","-88.99257066291746","road","Jason Moore","42","male","","","False","False","1161"
+"10740","2024-07-20","move","","blunt_object;blunt_object","Virginia Beach","Virginia Beach City","VA","","","","Marques Hasbrouck","22","male","","","False","False","771"
+"10744","2024-07-20","undetermined","foot","gun","West Hollywood","Los Angeles","CA","34.09083527711459","-118.35265948873874","block","","","male","","","False","False","20"
