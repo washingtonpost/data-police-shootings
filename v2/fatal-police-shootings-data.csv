@@ -9841,7 +9841,7 @@
 "10646","2024-06-28","shoot","not","gun","Manchester","Hillsborough","NH","","","","Andrew E. Smith","56","male","","","False","True","2443"
 "10648","2024-06-28","move","not","undetermined","North Charleston","Charleston","SC","32.88943160187114","-79.98434712986594","intersection","Quentin Ravenel","34","male","B","photo","False","False","76"
 "10637","2024-06-29","point","not","gun","Downey","Los Angeles","CA","33.943232574547714","-118.1599988438416","block","Alberto Nicolas Arenas","29","male","H","public_record","True","False","1571"
-"10639","2024-06-29","point","foot","undetermined","Dayton","Montgomery","OH","39.76021604170011","-84.21194365440536","address","Brian Moody","16","male","B","photo","False","True","1124"
+"10639","2024-06-29","point","foot","gun","Dayton","Montgomery","OH","39.76021604170011","-84.21194365440536","address","Brian Moody","16","male","B","photo","False","True","1124"
 "10636","2024-06-30","move","not","knife","Taylor Mill","Kenton","KY","39.03346307969113","-84.50261703205365","road","David Dalhover","66","male","W","photo","True","True","25354;3147"
 "10644","2024-06-30","shoot","other","gun","Waterloo","Black Hawk","IA","42.50840880176046","-92.33265235417691","block","Kelvin Lee Plain Jr.","35","male","","","False","False","3270"
 "10645","2024-06-30","move","","unarmed","Crookston","Polk","MN","47.77497594891489","-96.60378456436305","address","Christopher Ryan Junkin","44","male","W","photo","True","False","8685"
