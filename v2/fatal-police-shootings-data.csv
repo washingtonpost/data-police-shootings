@@ -9924,3 +9924,7 @@
 "10755","2024-07-24","undetermined","","gun","Buckley","Pierce","WA","47.188567144285585","-122.10431142354585","block","","","male","","","False","False","1116"
 "10758","2024-07-24","threat","not","gun","Salina","Saline","KS","38.84971591963708","-97.6158764378978","address","Jesse D. Wray","25","male","W","public_record","False","False","200;2564"
 "10759","2024-07-24","attack","not","undetermined","Thornton","Adams","CO","39.86350456468475","-105.00049687452612","intersection","","","male","","","False","False","1184"
+"10757","2024-07-25","shoot","not","gun","Miami","Miami-Dade","FL","25.770973314566334","-80.20261981677385","intersection","Ramon De Jesus Blanco","64","male","","","False","False","957"
+"10760","2024-07-25","move","not","knife","Louisville","Jefferson","KY","38.09135463664464","-85.88508374232842","block","Yoel Napoles","","male","H","clip","True","False","16089"
+"10761","2024-07-25","shoot","not","gun","Devalls Bluff","Prairie","AR","","","","Darrell Lawayne Esau II","32","male","B","photo","False","False","2562"
+"10773","2024-07-25","attack","not","blunt_object","Crestone","Saguache","CO","","","","","40","male","","","False","False","23220"
