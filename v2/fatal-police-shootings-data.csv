@@ -9907,7 +9907,7 @@
 "10743","2024-07-19","threat","","knife;blunt_object","Jurupa Valley","Riverside","CA","33.99617210245158","-117.39455696149814","intersection","","","male","","","False","False","3299"
 "10733","2024-07-20","move","foot","knife","Houston","Harris","TX","29.73607298880057","-95.6133942936632","block","","27","male","","","False","False","102"
 "10734","2024-07-20","point","not","gun","Biloxi","Harrison","MS","30.400338453276266","-88.99257066291746","road","Jason Moore","42","male","","","False","False","1161"
-"10740","2024-07-20","move","","blunt_object;blunt_object","Virginia Beach","Virginia Beach City","VA","","","","Marques Hasbrouck","22","male","","","False","False","771"
+"10740","2024-07-20","attack","","blunt_object;blunt_object","Virginia Beach","Virginia Beach City","VA","","","","Marques Hasbrouck","22","male","","","False","False","771"
 "10744","2024-07-20","threat","foot","knife","West Hollywood","Los Angeles","CA","34.09083527711459","-118.35265948873874","block","Cody Dodd-Thompson","33","male","W","public_record","False","False","20"
 "10746","2024-07-21","undetermined","","unknown","Fish Creek","Mineral","MT","","","","Richard C. Smith","68","male","","","False","False","704"
 "10747","2024-07-21","attack","not","blunt_object","Peoria","Peoria","IL","40.691621739128145","-89.6215127818204","block","Donald Wilson","46","male","","","False","False","1889"
