@@ -10102,3 +10102,7 @@
 "10949","2024-09-16","point","foot","gun","North Hollywood","Los Angeles","CA","34.186675137907635","-118.39644577616862","intersection","Sean Griffin","37","male","B","public_record","False","False","38"
 "10957","2024-09-16","shoot","foot","gun","Russell Springs","Russell","KY","","","","Joshua George Arnold","41","male","W","photo","False","False","130;23146"
 "10956","2024-09-17","point","not","gun","Marrero","Jefferson","LA","29.862009292277815","-90.10852415858497","block","Steven D. Fifer Sr.","55","male","B","photo","False","False","88"
+"10954","2024-09-18","attack","car","knife","Bridgeport","Wise","TX","33.148083","-97.821205","intersection","Elvin Ray Fox","65","male","W","photo","True","False","166"
+"10962","2024-09-18","attack","other","knife","Woodbury","Orange","NY","","","","Ali Ali","28","male","A","clip","False","False","1234"
+"10953","2024-09-19","point","foot","gun","San Antonio","Bexar","TX","29.348625992147426","-98.51622872498977","block","Roberto Guadalupe Gonzalez","34","male","","","False","False","44"
+"10955","2024-09-19","shoot","not","gun","West Haven","New Haven","CT","41.27714164302974","-72.98878827038037","address","Jebrell Conley","36","male","B","photo","False","True","18924;725"
