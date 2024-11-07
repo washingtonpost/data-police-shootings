@@ -10228,4 +10228,7 @@
 "11082","2024-10-28","shoot","car","gun","Houston","","TX","","","","","","","","","False","False","102"
 "11085","2024-10-28","shoot","foot","gun","Findlay","Hancock","OH","41.05513539502996","-83.63216786427142","address","Kalvin Somsai Darapheth","17","male","A","photo","False","True","567"
 "11083","2024-10-29","point","not","gun","Phillips","Franklin","ME","44.838297624123065","-70.34577140832985","poi_small","Lawrence Scott","61","male","B","photo","False","False","11257"
+"11084","2024-10-30","move","car","vehicle","Triangle","Prince William","VA","38.549643380866165","-77.34353343364309","intersection","Andy Ernesto Espinoza Garay","26","male","H","photo","False","False","448"
+"11086","2024-10-30","shoot","car","vehicle;gun","Conyers","Rockdale","GA","33.68924686069977","-84.02242597096446","address","Jesse Roach","40","male","","","False","False","8349"
 "11093","2024-10-30","shoot","car","gun","Saraland","Mobile","AL","30.814225832710306","-88.08900239395429","intersection","Juan Jose Puente Jr.","35","male","","","False","False","1585;2683"
+"11087","2024-10-31","undetermined","car","undetermined","Marrero","Jefferson","LA","29.89301310003223","-90.09610313341479","intersection","Wendell Smith","42","male","","","False","False","21764"
