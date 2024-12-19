@@ -10346,3 +10346,8 @@
 "11211","2024-12-07","undetermined","","undetermined","Stanley","Gaston","NC","35.333627637791","-81.110089341089","block","","","male","","","False","False","58"
 "11209","2024-12-08","threat","not","gun","Las Vegas","Clark","NV","36.011179749319","-115.172486530487","address","Cesar Reyes II","26","male","","","False","False","375"
 "11224","2024-12-09","undetermined","","undetermined","Bellevue","King","WA","47.570883090166","-122.179912891684","block","","67","male","","","False","False","2511"
+"11221","2024-12-10","threat","not","knife","Oshkosh","Winnebago","WI","44.009415847118","-88.550026247687","intersection","","","","","","False","True","1821"
+"11222","2024-12-10","attack","not","knife","Arlington","Arlington","VA","38.896605610298","-77.071617998141","address","Cedric Butler","27","male","","","False","False","480"
+"11227","2024-12-10","undetermined","","undetermined","Buena Park","Orange","CA","33.873484","-118.010341","intersection","","","male","","","False","False","2559"
+"11230","2024-12-10","shoot","","gun;vehicle","Harrisburg","Dauphin","PA","40.277588589732","-76.87916100388","block","Santiago Gutierrez","29","male","H","photo","False","False","1398"
+"11231","2024-12-10","threat","","gun","East Los Angeles","Los Angeles","CA","34.011546394825","-118.131679907945","address","Zachary Lewis","24","male","W","public_record","False","False","20"
