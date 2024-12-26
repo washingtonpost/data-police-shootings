@@ -10379,3 +10379,8 @@
 "11234","2024-12-18","point","","gun","Lewisburg","Logan","KY","","","","","","male","","","False","False","3036"
 "11238","2024-12-18","shoot","not","gun","Phoenix","Maricopa","AZ","33.611457857981","-112.0219494793","intersection","","62","male","H","public_record","False","False","80"
 "11249","2024-12-18","shoot","foot","gun","Berwyn","Cook","IL","41.855083016358","-87.798728706271","block","John R. Lyons","24","male","","","False","False","5298"
+"11235","2024-12-19","threat","car","blunt_object;gun","Paragould","Greene","AR","","","","Kyle Davis","32","male","W","photo","False","False","12281;2562;3603"
+"11237","2024-12-19","undetermined","","knife","High Point","Guilford","NC","35.989134861001","-80.003322510558","address","Najeem Adrian Jordan","50","male","","","False","False","2185"
+"11239","2024-12-19","undetermined","","undetermined","Filer","Twin Falls","ID","","","","","","","","","False","False","3604"
+"11243","2024-12-19","point","foot","gun;knife","Indianapolis","Marion","IN","39.761872151629","-86.206542397336","block","","","male","","","False","False","77"
+"11246","2024-12-19","point","foot","gun","Gahanna","Franklin","OH","40.00330709158","-82.857018619098","address","","","male","","","False","True","11454"
