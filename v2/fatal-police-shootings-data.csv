@@ -10384,3 +10384,7 @@
 "11239","2024-12-19","undetermined","","undetermined","Filer","Twin Falls","ID","","","","","","","","","False","False","3604"
 "11243","2024-12-19","point","foot","gun;knife","Indianapolis","Marion","IN","39.761872151629","-86.206542397336","block","","","male","","","False","False","77"
 "11246","2024-12-19","point","foot","gun","Gahanna","Franklin","OH","40.00330709158","-82.857018619098","address","","","male","","","False","True","11454"
+"11250","2024-12-20","undetermined","","unknown","San Francisco","San Francisco","CA","37.78866122728","-122.405008192271","address","Peter Hodge","50","male","W","photo","False","False","196"
+"11254","2024-12-20","attack","","knife","Clyde","Haywood","NC","35.75913193439082","-82.97754464232898","poi_small","Michael Shope","42","male","W","photo","True","False","731"
+"11256","2024-12-20","move","","undetermined","White Plains","Charles","MD","38.621294236409","-77.035610977326","block","Jordan Keith Proctor","30","male","B","public_record","False","True","2792"
+"11258","2024-12-20","shoot","","gun","La Belle","Lewis","MO","40.117503214421","-91.911491749595","address","Chadwick Kelly","33","male","W","public_record","False","False","1066"
