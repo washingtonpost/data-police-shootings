@@ -1,8 +1,8 @@
-# Fatal Force Database
+# Fatal Force Database 2015-2024
 
 In 2015, The Post began tracking details about each police-involved killing in the United States — the race of the deceased, the circumstances of the shooting, whether the person was armed and whether the person was experiencing a mental-health crisis — by manually culling local news reports, collecting information from law enforcement websites and social media, and monitoring independent databases such as [Fatal Encounters](https://fatalencounters.org/) and the now-defunct Killed by Police project. In many cases, The Post conducts additional reporting.
 
-In 2022, The Post updated its database to standardize and publish the names of the police agencies involved in each shooting to better measure accountability at the department level.
+In 2022, The Post updated its database to standardize and publish the names of the police agencies involved in each shooting to better measure accountability at the department level. In 2024, the Post announced that it would only track killings that took place in the decade 2015–2024.
 
 The 2014 killing of Michael Brown in Ferguson, Mo. began a protest movement culminating in the Black Lives Matter movement and an increased focus on police accountability nationwide. In this data set, The Post tracks only shootings with circumstances closely paralleling those like the killing of Brown — incidents in which a police officer, in the line of duty, shoots and kills a civilian. The Post is not tracking deaths of people in police custody, fatal shootings by off-duty officers or non-shooting deaths in this data set.
 
@@ -10,7 +10,7 @@ The [FBI](https://www.fbi.gov/services/cjis/ucr/use-of-force) and the Centers fo
 
 The Post seeks to make records as comprehensive as possible; the database is updated regularly as fatal shootings are reported and as facts emerge about individual cases. At times, there may be a lag between the date of the shooting and its inclusion in the database because of delays in reporting and data verification.
 
-To provide information about fatal police shootings since Jan. 1, 2015, send us an email at policeshootingsfeedback@washpost.com.
+To provide information about fatal police shootings between Jan. 1, 2015 and Dec. 31 2024, send us an email at policeshootingsfeedback@washpost.com.
 
 [Explore the interactive database](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/)
 
